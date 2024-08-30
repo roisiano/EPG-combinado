@@ -3,15 +3,20 @@ from datetime import datetime
 
 # Directorios y archivos
 output_dir = '/tmp/epg'
-combined_file = f'{output_dir}/EPGcombinado.xml'
+combined_file = f'{output_dir}/EPGcompleto.xml'
 epg_actual_file = f'{output_dir}/epg.xml'
 
 # Asegurarse de que el directorio existe
 os.makedirs(output_dir, exist_ok=True)
 
+# Verificar la existencia del archivo EPG actual
+if not os.path.isfile(epg_actual_file):
+    raise FileNotFoundError(f"El archivo EPG actual {epg_actual_file} no existe.")
+
 # Filtrar por día
 def filter_epg_by_day(target_date, input_file, output_file):
     date_filter = datetime.strptime(target_date, '%d.%m.%Y').strftime('%Y%m%d')
+    print(f"Filtrando archivo: {input_file} para la fecha: {target_date}")
     with open(input_file, 'r') as infile, open(output_file, 'w') as outfile:
         inside_programme = False
         for line in infile:
@@ -32,6 +37,9 @@ def combine_epgs(output_dir, combined_file, epg_actual_file):
     files = sorted([f for f in os.listdir(output_dir) if f.endswith('.xml')])
 
     if not files:
+        print("No se encontraron archivos EPG previos.")
+        # Si no hay archivos previos, el archivo combinado es solo el actual
+        os.rename(epg_actual_file, combined_file)
         return
 
     # Primer archivo (el más antiguo)
@@ -67,4 +75,4 @@ def combine_epgs(output_dir, combined_file, epg_actual_file):
         with open(combined_file, 'a') as outfile:
             outfile.write('</tv>\n')
 
-combine_epgs(output_dir, combined_file, '/tmp/epg.xml')
+combine_epgs(output_dir, combined_file, epg_actual_file)
