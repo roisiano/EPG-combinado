@@ -1,80 +1,71 @@
 import os
 from datetime import datetime
+import xml.etree.ElementTree as ET
 
 # Directorios y archivos
 output_dir = '/tmp/epg'
 combined_file = f'{output_dir}/EPGcompleto.xml'
 epg_actual_file = f'{output_dir}/epg.xml'
 
-# Asegurarse de que el directorio existe
-os.makedirs(output_dir, exist_ok=True)
+def extract_programmes(file_path):
+    programmes = []
+    tree = ET.parse(file_path)
+    root = tree.getroot()
+    
+    for programme in root.findall('programme'):
+        programmes.append(ET.tostring(programme, encoding='unicode'))
+    
+    return programmes
 
-# Verificar la existencia del archivo EPG actual
-if not os.path.isfile(epg_actual_file):
-    raise FileNotFoundError(f"El archivo EPG actual {epg_actual_file} no existe.")
+def sort_and_deduplicate_programmes(programmes):
+    programme_dict = {}
 
-# Filtrar por día
-def filter_epg_by_day(target_date, input_file, output_file):
-    date_filter = datetime.strptime(target_date, '%d.%m.%Y').strftime('%Y%m%d')
-    print(f"Filtrando archivo: {input_file} para la fecha: {target_date}")
-    with open(input_file, 'r') as infile, open(output_file, 'w') as outfile:
-        inside_programme = False
-        for line in infile:
-            if '<programme start=' in line:
-                inside_programme = True
-            if inside_programme:
-                outfile.write(line)
-            if '</tv>' in line:
-                inside_programme = False
-
-# Filtrar por fecha actual
-today = datetime.now().strftime('%d.%m.%Y')
-today_file = f'{output_dir}/{today}.xml'
-filter_epg_by_day(today, epg_actual_file, today_file)
-
-# Combinar EPGs
-def combine_epgs(output_dir, combined_file, epg_actual_file):
-    # Listar y combinar archivos EPG
-    files = sorted([f for f in os.listdir(output_dir) if f.endswith('.xml')])
-
-    if not files:
-        print("No se encontraron archivos EPG previos.")
-        # Si no hay archivos previos, el archivo combinado es solo el actual
-        os.rename(epg_actual_file, combined_file)
-        return
-
-    # Primer archivo (el más antiguo)
-    first_file = os.path.join(output_dir, files[0])
-    with open(first_file, 'r') as infile, open(combined_file, 'w') as outfile:
-        # Copiar el contenido del primer archivo sin la última línea </tv>
-        lines = infile.readlines()
-        outfile.writelines(lines[:-1])
-
-    # Añadir archivos subsiguientes
-    for epg_file in files[1:]:
-        with open(os.path.join(output_dir, epg_file), 'r') as infile, open(combined_file, 'a') as outfile:
-            lines = infile.readlines()
-            inside_programme = False
-            for line in lines:
-                if '<programme start=' in line:
-                    inside_programme = True
-                if inside_programme:
-                    outfile.write(line)
-
-    # Añadir el archivo actual
-    if os.path.isfile(epg_actual_file):
-        with open(epg_actual_file, 'r') as infile, open(combined_file, 'a') as outfile:
-            lines = infile.readlines()
-            inside_programme = False
-            for line in lines:
-                if '<programme start=' in line:
-                    inside_programme = True
-                if inside_programme:
-                    outfile.write(line)
+    for programme in programmes:
+        tree = ET.fromstring(programme)
+        start_time = tree.get('start')
+        channel = tree.get('channel')
+        key = (channel, start_time)
         
-        # Añadir la etiqueta de cierre </tv>
-        with open(combined_file, 'a') as outfile:
-            outfile.write('</tv>\n')
+        start_time_dt = datetime.strptime(start_time, '%Y%m%d%H%M%S %z')
+        
+        if key not in programme_dict:
+            programme_dict[key] = (programme, start_time_dt)
+        else:
+            existing_programme, existing_time = programme_dict[key]
+            if start_time_dt > existing_time:
+                programme_dict[key] = (programme, start_time_dt)
+
+    unique_programmes = [prog[0] for prog in sorted(programme_dict.values(), key=lambda x: (x[1], x[0]))]
+    
+    return unique_programmes
+
+def combine_epgs(output_dir, combined_file, epg_actual_file):
+    files = sorted([f for f in os.listdir(output_dir) if f.endswith('.xml') and f != os.path.basename(epg_actual_file)],
+                   key=lambda x: os.path.getmtime(os.path.join(output_dir, x)),
+                   reverse=True)
+
+    all_programmes = []
+
+    # Añadir el archivo actual completo
+    with open(epg_actual_file, 'r') as infile:
+        all_programmes.append(infile.read())
+    
+    # Añadir programas de archivos previos, ordenando por fecha de archivo (más reciente primero)
+    programmes = []
+    for epg_file in files:
+        file_path = os.path.join(output_dir, epg_file)
+        programmes.extend(extract_programmes(file_path))
+    
+    programmes.extend(extract_programmes(epg_actual_file))
+    
+    # Ordenar y deduplicar todos los programas
+    programmes = sort_and_deduplicate_programmes(programmes)
+    
+    # Escribir el archivo combinado
+    with open(combined_file, 'w') as outfile:
+        outfile.write('<?xml version="1.0" encoding="UTF-8"?>\n')
+        outfile.write('<tv>\n')
+        outfile.write(''.join(programmes))
+        outfile.write('</tv>\n')
 
 combine_epgs(output_dir, combined_file, epg_actual_file)
-
