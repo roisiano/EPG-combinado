@@ -77,4 +77,3 @@ def combine_epgs(output_dir, combined_file, epg_actual_file):
             outfile.write('</tv>\n')
 
 combine_epgs(output_dir, combined_file, epg_actual_file)
-
