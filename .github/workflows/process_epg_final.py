@@ -1,77 +1,60 @@
 import os
-import glob
-import xml.etree.ElementTree as ET
 from datetime import datetime, timedelta
-
-def load_epg_from_file(filepath):
-    """Load EPG data from a file into a dictionary."""
-    if not os.path.exists(filepath):
-        return {}
-
-    tree = ET.parse(filepath)
-    root = tree.getroot()
-    epg_data = {}
-
-    for programme in root.findall('programme'):
-        start = programme.get('start')
-        channel = programme.get('channel')
-        if start and channel:
-            key = (channel, start)
-            epg_data[key] = ET.tostring(programme, encoding='unicode')
-
-    return epg_data
-
-def update_epg_completo(epg_completo_path, epg_data):
-    """Update EPGcompleto.xml with new data."""
-    # Initialize EPGcompleto.xml if it doesn't exist
-    if not os.path.exists(epg_completo_path):
-        with open(epg_completo_path, 'w') as file:
-            file.write('<tv>\n')
-
-    # Append new data to EPGcompleto.xml
-    with open(epg_completo_path, 'a') as file:
-        for key, programme_str in sorted(epg_data.items(), key=lambda x: (x[0][0], x[0][1])):
-            file.write(programme_str + '\n')
-        file.write('</tv>')
+import xml.etree.ElementTree as ET
 
 def remove_old_files(directory, days_old):
-    """Remove files older than the specified number of days."""
-    cutoff_date = datetime.now() - timedelta(days=days_old)
-    for filename in glob.glob(os.path.join(directory, '*.xml')):
-        file_date_str = os.path.basename(filename).replace('.xml', '')
-        try:
-            file_date = datetime.strptime(file_date_str, '%Y%m%d')
-            if file_date < cutoff_date:
-                os.remove(filename)
-                print(f"Removed old file: {filename}")
-        except ValueError:
-            continue
+    now = datetime.now()
+    cutoff_date = now - timedelta(days=days_old)
+    for filename in os.listdir(directory):
+        file_path = os.path.join(directory, filename)
+        if os.path.isfile(file_path):
+            file_date_str = filename.split('.')[0]
+            try:
+                file_date = datetime.strptime(file_date_str, '%Y%m%d')
+                if file_date < cutoff_date:
+                    os.remove(file_path)
+            except ValueError:
+                continue
 
-def process_final():
-    """Main function to process the final EPG file."""
-    epg_dir = '/tmp/epg/'
-    epg_completo_path = os.path.join(epg_dir, 'EPGcompleto.xml')
-    days_old = 15
+def get_programme_entries(filename):
+    entries = []
+    tree = ET.parse(filename)
+    root = tree.getroot()
+    for programme in root.findall('programme'):
+        entries.append(ET.tostring(programme, encoding='unicode'))
+    return entries
 
-    # Remove old files
-    remove_old_files(epg_dir, days_old)
+def write_combined_epg(filename, entries):
+    with open(filename, 'w') as file:
+        file.write('<tv>\n')
+        for entry in entries:
+            file.write(entry + '\n')
+        file.write('</tv>')
 
-    # Load EPG data from the initial EPGcompleto.xml
-    epg_data = load_epg_from_file(epg_completo_path)
+# Crear el directorio epg_files si no existe
+os.makedirs('epg_files', exist_ok=True)
 
-    # Process each previous day's EPG files
-    for filename in sorted(glob.glob(os.path.join(epg_dir, '*.xml')), reverse=True):
-        if filename == epg_completo_path:
-            continue
+# Inicializar la lista de entradas
+all_entries = []
 
-        new_epg_data = load_epg_from_file(filename)
-        for key, programme_str in new_epg_data.items():
-            if key not in epg_data:
-                epg_data[key] = programme_str
+# Procesar el archivo actual (EPGactual.xml)
+with open('epg_files/20240830.xml', 'r') as file:  # Ajusta la fecha según el día actual
+    root = ET.parse(file).getroot()
+    for programme in root.findall('programme'):
+        all_entries.append(ET.tostring(programme, encoding='unicode'))
 
-    # Update EPGcompleto.xml
-    update_epg_completo(epg_completo_path, epg_data)
+# Procesar archivos históricos
+for days in range(1, 6):  # Ajustar según el número de días a considerar
+    date = datetime.now() - timedelta(days=days)
+    file_date_str = date.strftime('%Y%m%d')
+    file_path = f'epg_files/{file_date_str}.xml'
+    if os.path.exists(file_path):
+        new_entries = get_programme_entries(file_path)
+        # Añadir solo las entradas que no se solapan
+        for entry in new_entries:
+            start_time = entry.split('start="')[1].split('"')[0]
+            if not any(start_time in e for e in all_entries):
+                all_entries.append(entry)
 
-if __name__ == "__main__":
-    process_final()
-
+# Escribir el archivo EPGcompleto.xml
+write_combined_epg('epg_files/EPGcompleto.xml', all_entries)
