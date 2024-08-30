@@ -2,48 +2,37 @@ name: EPG Workflow
 
 on:
   schedule:
-    - cron: '57 8 * * *'
-  workflow_dispatch:
+    - cron: '57 8 * * *'  # Ejecutar a las 08:57 UTC
 
 jobs:
-  process:
+  process_epg:
     runs-on: ubuntu-latest
-
     steps:
-      - name: Checkout repository
-        uses: actions/checkout@v3
+    - name: Checkout repository
+      uses: actions/checkout@v3
 
-      - name: Setup Python
-        uses: actions/setup-python@v4
-        with:
-          python-version: '3.x'
+    - name: Setup Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.12'
 
-      - name: Install dependencies
-        run: |
-          pip install requests
+    - name: Create working directory
+      run: mkdir -p /tmp/epg
 
-      - name: Download and process EPG files
-        run: |
-          mkdir -p /tmp/epg
-          curl -L https://github.com/davidmuma/EPG_dobleM/raw/master/guiatv_color.xml.gz -o /tmp/epg/epg.xml.gz
-          gunzip /tmp/epg/epg.xml.gz
-          
-          # Ejecutar el primer script de Python para procesar archivos EPG
-          python .github/workflows/process_epg_initial.py
+    - name: Download and process EPG file
+      run: |
+        curl -L https://github.com/davidmuma/EPG_dobleM/raw/master/guiatv_color.xml.gz -o /tmp/epg/epg.xml.gz
+        gunzip /tmp/epg/epg.xml.gz
+        python .github/workflows/process_epg_initial.py
+        python .github/workflows/process_epg_final.py
 
-          # Ejecutar el segundo script de Python para finalizar la creación de EPGcompleto.xml
-          python .github/workflows/process_epg_final.py
-
-      - name: Commit and push updated EPGcompleto.xml
-        env:
-          PAT_TOKEN: ${{ secrets.PAT_TOKEN }}
-        run: |
-          git config --global user.name "github-actions"
-          git config --global user.email "actions@github.com"
-          
-          # Reemplazar el archivo EPGcompleto.xml en el repositorio
-          cp /tmp/epg/EPGcompleto.xml ./EPGcompleto.xml
-          git add EPGcompleto.xml
-          git commit -m "Update EPGcompleto.xml"
-          git push https://x-access-token:${PAT_TOKEN}@github.com/roisiano/EPG-combinado.git
+    - name: Commit and push updated EPGcompleto.xml
+      run: |
+        git config --global user.name "github-actions"
+        git config --global user.email "actions@github.com"
+        git add /tmp/epg/EPGcompleto.xml
+        git commit -m "Update EPGcompleto.xml"
+        git push
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
