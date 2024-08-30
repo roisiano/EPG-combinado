@@ -1,46 +1,42 @@
-name: Process EPG and Update File
+name: Update EPG
 
 on:
   schedule:
-    - cron: '57 8 * * *'  # Ejecutar diariamente a las 8:57 AM UTC
-  workflow_dispatch:  # Permite ejecutar manualmente desde la interfaz de GitHub
+    - cron: '0 0 * * *'  # Ejecutar diariamente a medianoche
+  workflow_dispatch:  # Permite la ejecución manual del workflow
 
 jobs:
-  process_epg:
+  update-epg:
     runs-on: ubuntu-latest
-
     steps:
-      - name: Checkout the repository
+      - name: Checkout repository
         uses: actions/checkout@v3
 
       - name: Set up Python
-        uses: actions/setup-python@v4
+        uses: actions/setup-python@v3
         with:
-          python-version: '3.x'
+          python-version: 3.12
 
       - name: Install dependencies
         run: |
           pip install requests
 
-      - name: Create directory for EPG files
+      - name: Create temporary directory
         run: mkdir -p /tmp/epg
 
-      - name: Download EPG file
+      - name: Download and extract EPG file
         run: |
           curl -L https://github.com/davidmuma/EPG_dobleM/raw/master/guiatv_color.xml.gz -o /tmp/epg/epg.xml.gz
           gunzip /tmp/epg/epg.xml.gz
 
-      - name: Run the initial EPG processing script
+      - name: Run initial EPG processing script
         run: python .github/workflows/process_epg_initial.py
 
-      - name: Verify EPGcompleto.xml exists
-        run: ls -l /tmp/epg/EPGcompleto.xml
-
-      - name: Run the final EPG processing script
+      - name: Run final EPG processing script
         run: python .github/workflows/process_epg_final.py
 
-      - name: Verify EPGcompleto.xml exists after final processing
-        run: ls -l /tmp/epg/EPGcompleto.xml
+      - name: List files in /tmp/epg
+        run: ls -l /tmp/epg/
 
       - name: Commit and push updated EPGcompleto.xml
         env:
@@ -48,16 +44,10 @@ jobs:
         run: |
           git config --global user.name "github-actions"
           git config --global user.email "actions@github.com"
-          
-          # Verifica si el archivo existe antes de copiarlo
-          if [ -f /tmp/epg/EPGcompleto.xml ]; then
-            cp /tmp/epg/EPGcompleto.xml ./EPGcompleto.xml
-            git add EPGcompleto.xml
-            git commit -m "Update EPGcompleto.xml"
-            git push origin main
-          else
-            echo "EPGcompleto.xml not found in /tmp/epg/"
-            exit 1
-          fi
+          cp /tmp/epg/EPGcompleto.xml ./EPGcompleto.xml
+          git add EPGcompleto.xml
+          git commit -m "Update EPGcompleto.xml"
+          git push origin main
+
 
 
