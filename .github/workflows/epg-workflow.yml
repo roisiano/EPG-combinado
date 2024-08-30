@@ -131,3 +131,4 @@ EOF
             -H "Content-Type: application/octet-stream" \
             --data-binary @"$COMBINED_FILE" \
             "https://uploads.github.com/repos/$REPO_OWNER/$REPO_NAME/releases/$RELEASE_ID/assets?name=EPGcombinado.xml"
+
