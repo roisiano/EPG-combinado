@@ -1,67 +1,58 @@
 import os
-import re
-from datetime import datetime, timedelta
-
-EPG_FILES_DIR = '/tmp/epg'
-DAYS_TO_KEEP = 15
+import xml.etree.ElementTree as ET
+from datetime import datetime
 
 def parse_programmes_from_file(file_path):
-    with open(file_path, 'r') as file:
-        content = file.read()
-    programmes = re.findall(r'<programme start="[^"]*" stop="[^"]*" channel="[^"]*">.*?</programme>', content, re.DOTALL)
+    programmes = []
+    if os.path.exists(file_path):
+        tree = ET.parse(file_path)
+        root = tree.getroot()
+        for programme in root.findall('programme'):
+            programmes.append(programme)
+    else:
+        print(f"File not found: {file_path}")
     return programmes
 
-def delete_old_files():
-    now = datetime.now()
-    for file_name in os.listdir(EPG_FILES_DIR):
-        if file_name.endswith('.xml') and file_name != 'EPGactual.xml':
-            file_path = os.path.join(EPG_FILES_DIR, file_name)
-            file_mtime = datetime.fromtimestamp(os.path.getmtime(file_path))
-            if now - file_mtime > timedelta(days=DAYS_TO_KEEP):
-                os.remove(file_path)
-                print(f"Deleted old file: {file_path}")
-
 def process_epg_files():
-    delete_old_files()  # Eliminar archivos antiguos
-
-    epg_files = sorted(
-        [f for f in os.listdir(EPG_FILES_DIR) if f.endswith('.xml') and f != 'EPGactual.xml'],
+    # Order of files to process
+    files = sorted(
+        ['epg_files/EPGactual.xml', 'epg_files/29.08.2024.xml', 'epg_files/28.08.2024.xml', 'epg_files/27.08.2024.xml', 'epg_files/26.08.2024.xml', 'epg_files/25.08.2024.xml'],
         reverse=True
     )
-    epg_files.insert(0, 'EPGactual.xml')  # Insertar primero el archivo actual
 
-    print(f"Processing files: {epg_files}")
+    all_programmes = []
+    existing_programmes = []
 
-    programmes_dict = {}
+    # Read existing programmes from EPGcompleto.xml if it exists
+    if os.path.exists('/tmp/epg/EPGcompleto.xml'):
+        existing_tree = ET.parse('/tmp/epg/EPGcompleto.xml')
+        existing_root = existing_tree.getroot()
+        existing_programmes = existing_root.findall('programme')
 
-    for file_name in epg_files:
-        file_path = os.path.join(EPG_FILES_DIR, file_name)
+    for file_path in files:
         programmes = parse_programmes_from_file(file_path)
-        
         for programme in programmes:
-            start_time = re.search(r'start="([^"]*)"', programme).group(1)
-            channel = re.search(r'channel="([^"]*)"', programme).group(1)
-            key = f'{start_time}_{channel}'
-            if key not in programmes_dict:
-                programmes_dict[key] = programme
-            else:
-                existing_start_time = re.search(r'start="([^"]*)"', programmes_dict[key]).group(1)
-                existing_date = datetime.strptime(existing_start_time[:-6], '%Y%m%d%H%M%S')  # Comparar sin desfase horario
-                new_date = datetime.strptime(start_time[:-6], '%Y%m%d%H%M%S')  # Comparar sin desfase horario
-                if new_date > existing_date:
-                    programmes_dict[key] = programme
+            start_time = programme.get('start')
+            if start_time:
+                # Check if this programme overlaps with existing ones
+                if not any(p.get('start') == start_time for p in existing_programmes):
+                    all_programmes.append(programme)
+                    existing_programmes.append(programme)
 
-    output_file = os.path.join(EPG_FILES_DIR, 'EPGcompleto.xml')
-    with open(output_file, 'w') as file:
-        file.write('<?xml version="1.0" encoding="UTF-8"?>\n<tv>\n')
-        for programme in programmes_dict.values():
-            file.write(programme + '\n')
-        file.write('</tv>\n')
-    print(f"EPGcompleto.xml generated: {output_file}")
+    # Save the final combined programmes to EPGcompleto.xml
+    if all_programmes:
+        root = ET.Element('tv')
+        for programme in all_programmes:
+            root.append(programme)
+        tree = ET.ElementTree(root)
+        output_path = '/tmp/epg/EPGcompleto.xml'
+        tree.write(output_path, encoding='utf-8', xml_declaration=True)
+        print(f"EPGcompleto.xml saved to {output_path}")
 
 def main():
     process_epg_files()
 
 if __name__ == "__main__":
     main()
+
 
