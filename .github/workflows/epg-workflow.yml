@@ -18,6 +18,10 @@ jobs:
         with:
           python-version: '3.x'
 
+      - name: Install dependencies
+        run: |
+          pip install requests
+
       - name: Create directory for EPG files
         run: mkdir -p /tmp/epg
 
