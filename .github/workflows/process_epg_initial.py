@@ -1,24 +1,29 @@
 import os
-import xml.etree.ElementTree as ET
-from datetime import datetime
+import requests
+import gzip
+import shutil
 
-def download_and_process_epg():
-    # Define paths
-    epg_actual_path = '/tmp/epg/epg.xml'
-    epg_completo_path = '/tmp/epg/EPGcompleto.xml'
+def download_and_extract_epg(url, output_dir, output_file):
+    """Download and extract EPG file from URL."""
+    response = requests.get(url, stream=True)
+    gz_file_path = os.path.join(output_dir, 'epg.xml.gz')
+    
+    # Save the gzipped file
+    with open(gz_file_path, 'wb') as f:
+        f.write(response.content)
+    
+    # Decompress the gzipped file
+    with gzip.open(gz_file_path, 'rb') as f_in:
+        with open(output_file, 'wb') as f_out:
+            shutil.copyfileobj(f_in, f_out)
 
-    # Create EPGcompleto.xml with the content of EPGactual.xml
-    if not os.path.exists(epg_actual_path):
-        print(f"El archivo {epg_actual_path} no existe.")
-        return
+def main():
+    epg_url = 'https://github.com/davidmuma/EPG_dobleM/raw/master/guiatv_color.xml.gz'
+    output_dir = '/tmp/epg'
+    os.makedirs(output_dir, exist_ok=True)
+    output_file = os.path.join(output_dir, 'EPGactual.xml')
 
-    # Copy the entire content of EPGactual.xml to EPGcompleto.xml
-    with open(epg_actual_path, 'r') as src_file:
-        epg_actual_content = src_file.read()
-
-    # Write the content to EPGcompleto.xml
-    with open(epg_completo_path, 'w') as dest_file:
-        dest_file.write(epg_actual_content)
+    download_and_extract_epg(epg_url, output_dir, output_file)
 
 if __name__ == "__main__":
-    download_and_process_epg()
+    main()
