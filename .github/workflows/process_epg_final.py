@@ -9,7 +9,8 @@ def process_epg_files():
     )
     epg_files.insert(0, 'EPGactual.xml')  # Insert the current day file first
 
-    combined_programmes = []
+    print(f"Processing files: {epg_files}")
+
     programmes_dict = {}
 
     for file_name in epg_files:
@@ -31,15 +32,18 @@ def process_epg_files():
                 if new_date > existing_date:
                     programmes_dict[key] = programme
 
-    with open('/tmp/epg/EPGcompleto.xml', 'w') as file:
+    output_file = '/tmp/epg/EPGcompleto.xml'
+    with open(output_file, 'w') as file:
         file.write('<?xml version="1.0" encoding="UTF-8"?>\n<tv>\n')
         for programme in programmes_dict.values():
             file.write(programme + '\n')
         file.write('</tv>\n')
+    print(f"EPGcompleto.xml generated: {output_file}")
 
 def main():
     process_epg_files()
 
 if __name__ == "__main__":
     main()
+
 
