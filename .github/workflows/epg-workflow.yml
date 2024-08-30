@@ -31,8 +31,17 @@ jobs:
           # Descargar archivo XML
           curl -L -o /tmp/epg/epg.xml.gz https://github.com/davidmuma/EPG_dobleM/raw/master/guiatv_color.xml.gz
 
+          # Verificar el archivo descargado
+          ls -l /tmp/epg/epg.xml.gz
+
           # Descomprimir el archivo
           gunzip -f /tmp/epg/epg.xml.gz
+
+          # Verificar el archivo descomprimido
+          if [ ! -f /tmp/epg/epg.xml ]; then
+            echo "Error: El archivo descomprimido /tmp/epg/epg.xml no existe."
+            exit 1
+          fi
 
           # Copiar el script Python desde el repositorio al directorio de trabajo
           cp .github/workflows/process_epg.py /tmp/epg/process_epg.py
@@ -48,7 +57,13 @@ jobs:
           REPO_NAME="EPG-combinado"
           TAG_NAME="v$(date +'%Y%m%d%H%M%S')"
           RELEASE_NAME="EPG Release $(date +'%d-%m-%Y %H:%M:%S')"
-          COMBINED_FILE="/tmp/epg/EPGcombinado.xml"
+          COMBINED_FILE="/tmp/epg/EPGcompleto.xml"
+
+          # Verificar si el archivo combinado existe
+          if [ ! -f "$COMBINED_FILE" ]; then
+            echo "Error: El archivo combinado $COMBINED_FILE no existe."
+            exit 1
+          fi
 
           # Crear una nueva release
           RESPONSE=$(curl -s -X POST -H "Authorization: token $GITHUB_TOKEN" \
@@ -62,5 +77,5 @@ jobs:
           curl -s -X POST -H "Authorization: token $GITHUB_TOKEN" \
             -H "Content-Type: application/octet-stream" \
             --data-binary @"$COMBINED_FILE" \
-            "https://uploads.github.com/repos/$REPO_OWNER/$REPO_NAME/releases/$RELEASE_ID/assets?name=EPGcombinado.xml"
+            "https://uploads.github.com/repos/$REPO_OWNER/$REPO_NAME/releases/$RELEASE_ID/assets?name=EPGcompleto.xml"
 
