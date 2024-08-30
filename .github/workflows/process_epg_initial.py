@@ -2,34 +2,40 @@ import os
 import requests
 import gzip
 import shutil
-from datetime import datetime
+import datetime
 
-# Configuración
-url = "https://github.com/davidmuma/EPG_dobleM/raw/master/guiatv_color.xml.gz"
-output_file_path = '/tmp/epg/epg.xml.gz'
-today_date = datetime.now().strftime('%Y%m%d')
+def download_and_extract_epg():
+    url = "https://github.com/davidmuma/EPG_dobleM/raw/master/guiatv_color.xml.gz"
+    response = requests.get(url)
+    with open('/tmp/epg/epg.xml.gz', 'wb') as f:
+        f.write(response.content)
+    with gzip.open('/tmp/epg/epg.xml.gz', 'rb') as f_in:
+        with open('/tmp/epg/epg.xml', 'wb') as f_out:
+            shutil.copyfileobj(f_in, f_out)
 
-# Crear el directorio de trabajo
-os.makedirs('/tmp/epg', exist_ok=True)
+def generate_daily_files():
+    with open('/tmp/epg/epg.xml', 'r') as file:
+        content = file.read()
 
-# Descargar el archivo comprimido
-response = requests.get(url)
-with open(output_file_path, 'wb') as f:
-    f.write(response.content)
+    current_date = datetime.datetime.now().strftime("%d.%m.%Y")
+    output_file = f'/tmp/epg/EPGactual.xml'
+    with open(output_file, 'w') as file:
+        file.write(content)
 
-# Descomprimir el archivo
-with gzip.open(output_file_path, 'rb') as f_in:
-    with open('/tmp/epg/epg.xml', 'wb') as f_out:
-        shutil.copyfileobj(f_in, f_out)
+    days_to_keep = 5
+    for i in range(days_to_keep, 0, -1):
+        date_str = (datetime.datetime.now() - datetime.timedelta(days=i)).strftime("%d.%m.%Y")
+        daily_file_path = f'/tmp/epg/{date_str}.xml'
+        if os.path.exists(daily_file_path):
+            continue
+        with open(daily_file_path, 'w') as file:
+            file.write(content)
 
-# Leer el archivo XML descomprimido
-with open('/tmp/epg/epg.xml', 'r') as file:
-    epg_content = file.read()
+def main():
+    download_and_extract_epg()
+    generate_daily_files()
 
-# Crear la carpeta epg_files si no existe
-os.makedirs('epg_files', exist_ok=True)
+if __name__ == "__main__":
+    main()
 
-# Guardar el archivo actual EPGactual.xml
-with open(f'epg_files/{today_date}.xml', 'w') as file:
-    file.write(epg_content)
 
