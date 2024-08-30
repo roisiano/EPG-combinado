@@ -38,6 +38,7 @@ jobs:
           gunzip -f /tmp/epg/epg.xml.gz
 
           # Verificar el archivo descomprimido
+          ls -l /tmp/epg/epg.xml
           if [ ! -f /tmp/epg/epg.xml ]; then
             echo "Error: El archivo descomprimido /tmp/epg/epg.xml no existe."
             exit 1
