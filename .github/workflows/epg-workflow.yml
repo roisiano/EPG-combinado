@@ -1,14 +1,16 @@
-name: EPG Workflow 
+name: Process EPG and Update File
 
 on:
   schedule:
-    - cron: '57 8 * * *'  # Ejecutar a las 08:57 UTC
+    - cron: '57 8 * * *'  # Ejecutar diariamente a las 8:57 AM UTC
+  workflow_dispatch:  # Permite ejecutar manualmente desde la interfaz de GitHub
 
 jobs:
   process_epg:
     runs-on: ubuntu-latest
+
     steps:
-      - name: Checkout repository
+      - name: Checkout the repository
         uses: actions/checkout@v3
 
       - name: Set up Python
@@ -16,20 +18,32 @@ jobs:
         with:
           python-version: '3.x'
 
-      - name: Create and unzip EPG file
+      - name: Create directory for EPG files
+        run: mkdir -p /tmp/epg
+
+      - name: Download EPG file
         run: |
-          mkdir -p /tmp/epg
           curl -L https://github.com/davidmuma/EPG_dobleM/raw/master/guiatv_color.xml.gz -o /tmp/epg/epg.xml.gz
           gunzip /tmp/epg/epg.xml.gz
+
+      - name: Run the initial EPG processing script
+        run: python .github/workflows/process_epg_initial.py
+
+      - name: Run the final EPG processing script
+        run: python .github/workflows/process_epg_final.py
+
+      - name: Commit and push updated EPGcompleto.xml
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          git config --global user.name "github-actions"
+          git config --global user.email "actions@github.com"
           
-          # Ejecutar el primer script de Python
-          python .github/workflows/process_epg_initial.py
+          # Reemplazar el archivo EPGcompleto.xml en el repositorio
+          cp /tmp/epg/EPGcompleto.xml ./EPGcompleto.xml
+          
+          # Añadir y hacer commit del archivo actualizado
+          git add EPGcompleto.xml
+          git commit -m "Update EPGcompleto.xml"
+          git push origin main
 
-          # Ejecutar el segundo script de Python
-          python .github/workflows/process_epg_final.py
-
-      - name: Upload EPGcompleto.xml
-        uses: actions/upload-artifact@v3
-        with:
-          name: EPGcompleto
-          path: epg_files/EPGcompleto.xml
