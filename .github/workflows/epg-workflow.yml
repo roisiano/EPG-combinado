@@ -35,7 +35,7 @@ jobs:
           gunzip -f /tmp/epg/epg.xml.gz
 
           # Filtrar y guardar los archivos EPG por día
-          python - <<EOF
+          python3 -c "
 import os
 from datetime import datetime
 
@@ -106,7 +106,7 @@ def combine_epgs(output_dir, combined_file, epg_actual_file):
             outfile.write('</tv>\n')
 
 combine_epgs(output_dir, combined_file, '/tmp/epg.xml')
-EOF
+          "
 
       - name: Create release and upload artifact
         env:
@@ -131,4 +131,3 @@ EOF
             -H "Content-Type: application/octet-stream" \
             --data-binary @"$COMBINED_FILE" \
             "https://uploads.github.com/repos/$REPO_OWNER/$REPO_NAME/releases/$RELEASE_ID/assets?name=EPGcombinado.xml"
-
