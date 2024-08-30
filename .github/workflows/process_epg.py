@@ -29,7 +29,8 @@ def filter_epg_by_day(target_date, input_file, output_file):
 
 # Filtrar por fecha actual
 today = datetime.now().strftime('%d.%m.%Y')
-filter_epg_by_day(today, '/tmp/epg.xml', f'{output_dir}/{today}.xml')
+today_file = f'{output_dir}/{today}.xml'
+filter_epg_by_day(today, epg_actual_file, today_file)
 
 # Combinar EPGs
 def combine_epgs(output_dir, combined_file, epg_actual_file):
@@ -75,5 +76,5 @@ def combine_epgs(output_dir, combined_file, epg_actual_file):
         with open(combined_file, 'a') as outfile:
             outfile.write('</tv>\n')
 
-combine_epgs(output_dir, combined_file, '/tmp/epg.xml')
+combine_epgs(output_dir, combined_file, epg_actual_file)
 
