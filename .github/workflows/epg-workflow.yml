@@ -40,48 +40,33 @@ jobs:
           # Ejecutar el script de procesamiento de EPG
           python3 /tmp/epg/process_epg.py
 
+      - name: Prepare JSON for GitHub API
+        run: |
+          # Crear archivo JSON para la API de GitHub
+          FILE_PATH="/tmp/epg/EPGcompleto.xml"
+          REPO="roisiano/EPG-combinado"
+          FILE_NAME="EPGcompleto.xml"
+          BRANCH="main"
+
+          if curl -s -H "Authorization: token ${{ secrets.TKN1 }}" "https://api.github.com/repos/$REPO/contents/$FILE_NAME?ref=$BRANCH" | jq -e '.sha' > /dev/null 2>&1; then
+            SHA=$(curl -s -H "Authorization: token ${{ secrets.TKN1 }}" "https://api.github.com/repos/$REPO/contents/$FILE_NAME?ref=$BRANCH" | jq -r '.sha')
+
+            echo "{\"message\": \"Actualizar archivo $FILE_NAME\", \"content\": \"$(base64 -w 0 $FILE_PATH)\", \"sha\": \"$SHA\", \"branch\": \"$BRANCH\"}" > /tmp/commit_data.json
+          else
+            echo "{\"message\": \"Crear archivo $FILE_NAME\", \"content\": \"$(base64 -w 0 $FILE_PATH)\", \"branch\": \"$BRANCH\"}" > /tmp/commit_data.json
+          fi
+
       - name: Upload EPGcompleto.xml to GitHub
         env:
-          GITHUB_TOKEN: ${{ secrets.TKN1 }}  # Usa el secreto para autenticar con la API
+          GITHUB_TOKEN: ${{ secrets.TKN1 }}
         run: |
           FILE_PATH="/tmp/epg/EPGcompleto.xml"
           REPO="roisiano/EPG-combinado"
           FILE_NAME="EPGcompleto.xml"
           BRANCH="main"
 
-          # Comprobar si el archivo ya existe en la rama principal
-          curl -s -H "Authorization: token $GITHUB_TOKEN" \
-            "https://api.github.com/repos/$REPO/contents/$FILE_NAME?ref=$BRANCH" \
-            | jq -e '.sha' > /dev/null 2>&1
-
-          if [ $? -eq 0 ]; then
-            # El archivo existe, hacer un commit para actualizarlo
-            SHA=$(curl -s -H "Authorization: token $GITHUB_TOKEN" \
-              "https://api.github.com/repos/$REPO/contents/$FILE_NAME?ref=$BRANCH" \
-              | jq -r '.sha')
-
-            # Subir el archivo con el mismo nombre
-            curl -s -X PUT -H "Authorization: token $GITHUB_TOKEN" \
-              -H "Content-Type: application/vnd.github.v3+json" \
-              -d @- \
-              "https://api.github.com/repos/$REPO/contents/$FILE_NAME" <<EOF
-{
-  "message": "Actualizar archivo $FILE_NAME",
-  "content": "$(base64 -w 0 $FILE_PATH)",
-  "sha": "$SHA",
-  "branch": "$BRANCH"
-}
-EOF
-          else
-            # El archivo no existe, crear uno nuevo
-            curl -s -X PUT -H "Authorization: token $GITHUB_TOKEN" \
-              -H "Content-Type: application/vnd.github.v3+json" \
-              -d @- \
-              "https://api.github.com/repos/$REPO/contents/$FILE_NAME" <<EOF
-{
-  "message": "Crear archivo $FILE_NAME",
-  "content": "$(base64 -w 0 $FILE_PATH)",
-  "branch": "$BRANCH"
-}
-EOF
-          fi
+          # Enviar archivo a GitHub usando la API
+          curl -s -X PUT -H "Authorization: token $GITHUB_TOKEN" \
+            -H "Content-Type: application/vnd.github.v3+json" \
+            --data-binary @"./tmp/commit_data.json" \
+            "https://api.github.com/repos/$REPO/contents/$FILE_NAME"
