@@ -38,6 +38,9 @@ jobs:
       - name: Run final EPG processing script
         run: python .github/workflows/process_epg_final.py
 
+      - name: Verify generated files
+        run: ls -l /tmp/epg/
+
       - name: Move processed files to epg_files directory
         run: |
           mkdir -p epg_files
@@ -49,7 +52,12 @@ jobs:
 
       - name: Copy EPGcompleto.xml to root directory
         run: |
-          cp /tmp/epg/EPGcompleto.xml ./EPGcompleto.xml
+          if [ -f /tmp/epg/EPGcompleto.xml ]; then
+            cp /tmp/epg/EPGcompleto.xml ./EPGcompleto.xml
+          else
+            echo "Error: EPGcompleto.xml not found in /tmp/epg/"
+            exit 1
+          fi
 
       - name: List files in /tmp/epg and epg_files
         run: |
@@ -68,3 +76,4 @@ jobs:
           git add EPGcompleto.xml
           git commit -m "Update EPGcompleto.xml and archive daily files"
           git push origin main
+
