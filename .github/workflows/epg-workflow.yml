@@ -40,28 +40,15 @@ jobs:
           # Ejecutar el script de procesamiento de EPG
           python3 /tmp/epg/process_epg.py
 
-      - name: Prepare JSON for GitHub API
-        run: |
-          FILE_PATH="/tmp/epg/EPGcompleto.xml"
-          REPO="roisiano/EPG-combinado"
-          FILE_NAME="EPGcompleto.xml"
-          BRANCH="main"
-
-          # Verificar si el archivo ya existe
-          if curl -s -H "Authorization: token ${{ secrets.TKN1 }}" "https://api.github.com/repos/$REPO/contents/$FILE_NAME?ref=$BRANCH" | jq -e '.sha' > /dev/null 2>&1; then
-            SHA=$(curl -s -H "Authorization: token ${{ secrets.TKN1 }}" "https://api.github.com/repos/$REPO/contents/$FILE_NAME?ref=$BRANCH" | jq -r '.sha')
-            echo "{\"message\": \"Actualizar archivo $FILE_NAME\", \"content\": \"$(base64 -w 0 $FILE_PATH)\", \"sha\": \"$SHA\", \"branch\": \"$BRANCH\"}" > /tmp/commit_data.json
-          else
-            echo "{\"message\": \"Crear archivo $FILE_NAME\", \"content\": \"$(base64 -w 0 $FILE_PATH)\", \"branch\": \"$BRANCH\"}" > /tmp/commit_data.json
-          fi
-
-      - name: Upload EPGcompleto.xml to GitHub
+      - name: Commit and push updated EPGcompleto.xml
         env:
-          GITHUB_TOKEN: ${{ secrets.TKN1 }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
-          curl -X PUT -H "Authorization: token $GITHUB_TOKEN" \
-            -H "Accept: application/vnd.github.v3+json" \
-            -H "Content-Type: application/json" \
-            --data @/tmp/commit_data.json \
-            "https://api.github.com/repos/roisiano/EPG-combinado/contents/EPGcompleto.xml"
+          git config --global user.name "github-actions"
+          git config --global user.email "actions@github.com"
 
+          # Reemplazar el archivo EPGcompleto.xml en el repositorio
+          cp /tmp/epg/EPGcompleto.xml ./EPGcompleto.xml
+          git add EPGcompleto.xml
+          git commit -m "Update EPGcompleto.xml"
+          git push origin main
