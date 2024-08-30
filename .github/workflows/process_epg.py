@@ -75,4 +75,5 @@ def combine_epgs(output_dir, combined_file, epg_actual_file):
         with open(combined_file, 'a') as outfile:
             outfile.write('</tv>\n')
 
-combine_epgs(output_dir, combined_file, epg_actual_file)
+combine_epgs(output_dir, combined_file, '/tmp/epg.xml')
+
