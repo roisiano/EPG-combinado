@@ -29,6 +29,9 @@ jobs:
           curl -L https://github.com/davidmuma/EPG_dobleM/raw/master/guiatv_color.xml.gz -o /tmp/epg/epg.xml.gz
           gunzip /tmp/epg/epg.xml.gz
 
+      - name: Verify files in /tmp/epg
+        run: ls -l /tmp/epg/
+
       - name: Run initial EPG processing script
         run: python .github/workflows/process_epg_initial.py
 
@@ -39,6 +42,10 @@ jobs:
         run: |
           mkdir -p epg_files
           mv /tmp/epg/*.xml epg_files/
+
+      - name: Remove old EPG files
+        run: |
+          find epg_files -type f -mtime +15 -delete
 
       - name: Copy EPGcompleto.xml to root directory
         run: |
@@ -61,4 +68,3 @@ jobs:
           git add EPGcompleto.xml
           git commit -m "Update EPGcompleto.xml and archive daily files"
           git push origin main
-
