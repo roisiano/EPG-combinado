@@ -1,4 +1,4 @@
-name: EPG Workflow probando
+name: EPG Workflow 
 
 on:
   schedule:
