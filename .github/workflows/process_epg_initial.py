@@ -12,6 +12,7 @@ def download_and_extract_epg():
     with gzip.open('/tmp/epg/epg.xml.gz', 'rb') as f_in:
         with open('/tmp/epg/epg.xml', 'wb') as f_out:
             shutil.copyfileobj(f_in, f_out)
+    print("EPG file downloaded and extracted.")
 
 def generate_daily_files():
     with open('/tmp/epg/epg.xml', 'r') as file:
@@ -21,6 +22,7 @@ def generate_daily_files():
     output_file = f'/tmp/epg/EPGactual.xml'
     with open(output_file, 'w') as file:
         file.write(content)
+    print(f"Generated file: {output_file}")
 
     days_to_keep = 5
     for i in range(days_to_keep, 0, -1):
@@ -30,6 +32,7 @@ def generate_daily_files():
             continue
         with open(daily_file_path, 'w') as file:
             file.write(content)
+        print(f"Generated file: {daily_file_path}")
 
 def main():
     download_and_extract_epg()
@@ -37,5 +40,6 @@ def main():
 
 if __name__ == "__main__":
     main()
+
 
 
