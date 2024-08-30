@@ -40,33 +40,49 @@ jobs:
           # Ejecutar el script de procesamiento de EPG
           python3 /tmp/epg/process_epg.py
 
-      - name: Create release and upload artifact
+      - name: Upload EPGcompleto.xml to GitHub
         env:
           GITHUB_TOKEN: ${{ secrets.TKN1 }}  # Usa el secreto para autenticar con la API
         run: |
-          REPO_OWNER="roisiano"
-          REPO_NAME="EPG-combinado"
-          TAG_NAME="v$(date +'%Y%m%d%H%M%S')"
-          RELEASE_NAME="EPG Release $(date +'%d-%m-%Y %H:%M:%S')"
-          COMBINED_FILE="/tmp/epg/EPGcompleto.xml"
+          FILE_PATH="/tmp/epg/EPGcompleto.xml"
+          REPO="roisiano/EPG-combinado"
+          FILE_NAME="EPGcompleto.xml"
+          BRANCH="main"
 
-          # Verificar si el archivo combinado existe
-          if [ ! -f "$COMBINED_FILE" ]; then
-            echo "Error: El archivo combinado $COMBINED_FILE no existe."
-            exit 1
+          # Comprobar si el archivo ya existe en la rama principal
+          curl -s -H "Authorization: token $GITHUB_TOKEN" \
+            "https://api.github.com/repos/$REPO/contents/$FILE_NAME?ref=$BRANCH" \
+            | jq -e '.sha' > /dev/null 2>&1
+
+          if [ $? -eq 0 ]; then
+            # El archivo existe, hacer un commit para actualizarlo
+            SHA=$(curl -s -H "Authorization: token $GITHUB_TOKEN" \
+              "https://api.github.com/repos/$REPO/contents/$FILE_NAME?ref=$BRANCH" \
+              | jq -r '.sha')
+
+            # Subir el archivo con el mismo nombre
+            curl -s -X PUT -H "Authorization: token $GITHUB_TOKEN" \
+              -H "Content-Type: application/vnd.github.v3+json" \
+              -d @- \
+              "https://api.github.com/repos/$REPO/contents/$FILE_NAME" <<EOF
+{
+  "message": "Actualizar archivo $FILE_NAME",
+  "content": "$(base64 -w 0 $FILE_PATH)",
+  "sha": "$SHA",
+  "branch": "$BRANCH"
+}
+EOF
+          else
+            # El archivo no existe, crear uno nuevo
+            curl -s -X PUT -H "Authorization: token $GITHUB_TOKEN" \
+              -H "Content-Type: application/vnd.github.v3+json" \
+              -d @- \
+              "https://api.github.com/repos/$REPO/contents/$FILE_NAME" <<EOF
+{
+  "message": "Crear archivo $FILE_NAME",
+  "content": "$(base64 -w 0 $FILE_PATH)",
+  "branch": "$BRANCH"
+}
+EOF
           fi
-
-          # Crear una nueva release
-          RESPONSE=$(curl -s -X POST -H "Authorization: token $GITHUB_TOKEN" \
-            -d "{\"tag_name\":\"$TAG_NAME\",\"name\":\"$RELEASE_NAME\"}" \
-            "https://api.github.com/repos/$REPO_OWNER/$REPO_NAME/releases")
-
-          # Extraer el ID de la release creada
-          RELEASE_ID=$(echo "$RESPONSE" | jq -r '.id')
-
-          # Subir el archivo como un asset de la release
-          curl -s -X POST -H "Authorization: token $GITHUB_TOKEN" \
-            -H "Content-Type: application/octet-stream" \
-            --data-binary @"$COMBINED_FILE" \
-            "https://uploads.github.com/repos/$REPO_OWNER/$REPO_NAME/releases/$RELEASE_ID/assets?name=EPGcompleto.xml"
 
