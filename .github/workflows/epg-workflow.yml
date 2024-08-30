@@ -31,20 +31,8 @@ jobs:
           # Descargar archivo XML
           curl -L -o /tmp/epg/epg.xml.gz https://github.com/davidmuma/EPG_dobleM/raw/master/guiatv_color.xml.gz
 
-          # Verificar el archivo descargado
-          echo "Archivo descargado:"
-          ls -l /tmp/epg/epg.xml.gz
-
           # Descomprimir el archivo
           gunzip -f /tmp/epg/epg.xml.gz
-
-          # Verificar el archivo descomprimido
-          echo "Archivo descomprimido:"
-          ls -l /tmp/epg/epg.xml
-
-          # Verificar el contenido del archivo descomprimido
-          echo "Contenido del archivo descomprimido:"
-          head -n 10 /tmp/epg/epg.xml
 
           # Copiar el script Python desde el repositorio al directorio de trabajo
           cp .github/workflows/process_epg.py /tmp/epg/process_epg.py
@@ -81,3 +69,4 @@ jobs:
             -H "Content-Type: application/octet-stream" \
             --data-binary @"$COMBINED_FILE" \
             "https://uploads.github.com/repos/$REPO_OWNER/$REPO_NAME/releases/$RELEASE_ID/assets?name=EPGcompleto.xml"
+
