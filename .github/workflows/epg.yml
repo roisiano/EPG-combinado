@@ -29,6 +29,10 @@ jobs:
         git config user.name "GitHub Actions"
         git config user.email "actions@github.com"
 
+    - name: Eliminar líneas 404: Not Found de EPGunido.xml
+      run: |
+        sed -i '/^404: Not Found/d' EPGunido.xml
+
     - name: Comprimir EPGunido.xml
       run: gzip -c EPGunido.xml > EPGunido.xml.gz
 
@@ -43,4 +47,5 @@ jobs:
         git push
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
 
