@@ -15,13 +15,13 @@ jobs:
 
     - name: Dar permisos de ejecución a los scripts
       run: |
-        chmod +x epgprevio.sh
-        chmod +x epgunido.sh
+        chmod +x .github/workflows/epgprevio.sh
+        chmod +x .github/workflows/epgunido.sh
     - name: Ejecutar epgprevio.sh
-      run: ./epgprevio.sh
+      run: .github/workflows/epgprevio.sh
 
     - name: Ejecutar epgunido.sh
-      run: ./epgunido.sh
+      run: .github/workflows/epgunido.sh
 
     - name: Configurar identidad de Git
       run: |
