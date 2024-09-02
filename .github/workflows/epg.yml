@@ -24,6 +24,11 @@ jobs:
     - name: Ejecutar epgunido.sh
       run: ./epgunido.sh
 
+    - name: Configurar identidad de Git
+      run: |
+        git config user.name "GitHub Actions"
+        git config user.email "actions@github.com"
+
     - name: Subir archivos generados al repositorio
       run: |
         git add .
@@ -31,4 +36,3 @@ jobs:
         git push
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
