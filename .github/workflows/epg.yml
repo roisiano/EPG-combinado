@@ -27,9 +27,7 @@ jobs:
       run: |
         git config user.name "GitHub Actions"
         git config user.email "actions@github.com"
-    - name: Eliminar líneas incorrectas de EPGunido.xml
-      run: |
-        sed -i '/<\/channel>/,/<programme start=/d' EPGunido.xml
+        
     - name: Comprimir EPGunido.xml
       run: gzip -c EPGunido.xml > EPGunido.xml.gz
 
