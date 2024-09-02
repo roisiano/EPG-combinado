@@ -31,7 +31,7 @@ jobs:
 
     - name: Eliminar líneas incorrectas de EPGunido.xml
       run: |
-        sed -i '/^404: Not Found/d' EPGunido.xml
+        sed -i '1h;1!H;${;g;s/\(.*\)\(<\/channel>\)/\1\2/;s/<programme start=.*//;p;}' EPGunido.xml
 
     - name: Comprimir EPGunido.xml
       run: gzip -c EPGunido.xml > EPGunido.xml.gz
