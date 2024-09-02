@@ -29,10 +29,18 @@ jobs:
         git config user.name "GitHub Actions"
         git config user.email "actions@github.com"
 
+    - name: Comprimir EPGunido.xml
+      run: gzip -c EPGunido.xml > EPGunido.xml.gz
+
+    - name: Eliminar archivos innecesarios
+      run: |
+        rm EPGactual.xml Futuro.xml guiatv_color.xml.gz EPGunido.xml
+
     - name: Subir archivos generados al repositorio
       run: |
         git add .
-        git commit -m "Actualizar EPGunido.xml y archivos relacionados"
+        git commit -m "Actualizar EPGunido.xml.gz y archivos relacionados"
         git push
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
