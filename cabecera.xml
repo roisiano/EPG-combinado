@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tv generator-info-name="dobleM 02/09/2024 12:50" generator-info-url="t.me/EPG_dobleM">
+<tv generator-info-name="dobleM 02/09/2024 20:50" generator-info-url="t.me/EPG_dobleM">
   <channel id="La 1 HD">
     <display-name lang="es">La 1</display-name>
     <display-name lang="es">La 1.</display-name>
@@ -2475,17 +2475,6 @@
     <display-name lang="es">DAZN LaLiga Femenina 10 1080</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20LaLiga%20Femenina%2010.png" />
   </channel>
-  <channel id="Ilorci">
-    <display-name lang="es">Ilorci</display-name>
-    <display-name lang="es">Ilorci.</display-name>
-    <display-name lang="es">Ilorci SD</display-name>
-    <display-name lang="es">Ilorci HD</display-name>
-    <display-name lang="es">Ilorci FHD</display-name>
-    <display-name lang="es">Ilorci UHD</display-name>
-    <display-name lang="es">Ilorci 720</display-name>
-    <display-name lang="es">Ilorci 1080</display-name>
-    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Ilorci.png" />
-  </channel>
   <channel id="Lebrija TV">
     <display-name lang="es">Lebrija TV</display-name>
     <display-name lang="es">Lebrija TV.</display-name>
@@ -3464,6 +3453,17 @@
     <display-name lang="es">Nesting TV 720</display-name>
     <display-name lang="es">Nesting TV 1080</display-name>
     <icon src="https://media.tvup.cloud/canales/color_lg_6388e7e31cb5910021615cfd.png" />
+  </channel>
+  <channel id="Vivaldi">
+    <display-name lang="es">Vivaldi</display-name>
+    <display-name lang="es">Vivaldi.</display-name>
+    <display-name lang="es">Vivaldi SD</display-name>
+    <display-name lang="es">Vivaldi HD</display-name>
+    <display-name lang="es">Vivaldi FHD</display-name>
+    <display-name lang="es">Vivaldi UHD</display-name>
+    <display-name lang="es">Vivaldi 720</display-name>
+    <display-name lang="es">Vivaldi 1080</display-name>
+    <icon src="https://media.tvup.cloud/canales/color_lg_65e6f9ab30ae559c7e8957a4.png" />
   </channel>
   <channel id="Canal Quickie">
     <display-name lang="es">Canal Quickie</display-name>
