@@ -2,7 +2,7 @@ name: EPG Combinado
 
 on:
   schedule:
-    - cron: '10 0 * * *' # Ejecutar a las 00:10 AM (hora española)
+    - cron: '2 0 * * *' # Ejecutar a las 00:02 AM (hora española)
   workflow_dispatch: # Permite ejecución manual
 
 jobs:
