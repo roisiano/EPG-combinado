@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tv generator-info-name="dobleM 03/09/2024 20:50" generator-info-url="t.me/EPG_dobleM">
+<tv generator-info-name="dobleM 04/09/2024 20:50" generator-info-url="t.me/EPG_dobleM">
   <channel id="La 1 HD">
     <display-name lang="es">La 1</display-name>
     <display-name lang="es">La 1.</display-name>
@@ -2552,17 +2552,6 @@
     <display-name lang="es">Lebrija TV 1080</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Lebrija%20TV.png" />
   </channel>
-  <channel id="Montilla TV">
-    <display-name lang="es">Montilla TV</display-name>
-    <display-name lang="es">Montilla TV.</display-name>
-    <display-name lang="es">Montilla TV SD</display-name>
-    <display-name lang="es">Montilla TV HD</display-name>
-    <display-name lang="es">Montilla TV FHD</display-name>
-    <display-name lang="es">Montilla TV UHD</display-name>
-    <display-name lang="es">Montilla TV 720</display-name>
-    <display-name lang="es">Montilla TV 1080</display-name>
-    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Montilla%20TV.png" />
-  </channel>
   <channel id="UcubiTV">
     <display-name lang="es">UcubiTV</display-name>
     <display-name lang="es">UcubiTV.</display-name>
@@ -2815,6 +2804,17 @@
     <display-name lang="es">tlnovelas 720</display-name>
     <display-name lang="es">tlnovelas 1080</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/tlnovelas.png" />
+  </channel>
+  <channel id="PTV Malaga">
+    <display-name lang="es">PTV Malaga</display-name>
+    <display-name lang="es">PTV Malaga.</display-name>
+    <display-name lang="es">PTV Malaga SD</display-name>
+    <display-name lang="es">PTV Malaga HD</display-name>
+    <display-name lang="es">PTV Malaga FHD</display-name>
+    <display-name lang="es">PTV Malaga UHD</display-name>
+    <display-name lang="es">PTV Malaga 720</display-name>
+    <display-name lang="es">PTV Malaga 1080</display-name>
+    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/PTV%20Malaga.png" />
   </channel>
   <channel id="PTV Cordoba">
     <display-name lang="es">PTV Cordoba</display-name>
