@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tv generator-info-name="dobleM 09/09/2024 20:50" generator-info-url="t.me/EPG_dobleM">
+<tv generator-info-name="dobleM 10/09/2024 20:50" generator-info-url="t.me/EPG_dobleM">
   <channel id="La 1 HD">
     <display-name lang="es">La 1</display-name>
     <display-name lang="es">La 1.</display-name>
@@ -1925,50 +1925,6 @@
     <display-name lang="es">LaLiga TV BAR 3 1080</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/LaLiga%20TV%20BAR%203.png" />
   </channel>
-  <channel id="DAZN F1 BAR">
-    <display-name lang="es">DAZN F1 BAR</display-name>
-    <display-name lang="es">DAZN F1 BAR.</display-name>
-    <display-name lang="es">DAZN F1 BAR SD</display-name>
-    <display-name lang="es">DAZN F1 BAR HD</display-name>
-    <display-name lang="es">DAZN F1 BAR FHD</display-name>
-    <display-name lang="es">DAZN F1 BAR.U.HD</display-name>
-    <display-name lang="es">DAZN F1 BAR 720</display-name>
-    <display-name lang="es">DAZN F1 BAR 1080</display-name>
-    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20F1%20BAR.png" />
-  </channel>
-  <channel id="DAZN 1 BAR">
-    <display-name lang="es">DAZN 1 BAR</display-name>
-    <display-name lang="es">DAZN 1 BAR.</display-name>
-    <display-name lang="es">DAZN 1 BAR SD</display-name>
-    <display-name lang="es">DAZN 1 BAR HD</display-name>
-    <display-name lang="es">DAZN 1 BAR FHD</display-name>
-    <display-name lang="es">DAZN 1 BAR.U.HD</display-name>
-    <display-name lang="es">DAZN 1 BAR 720</display-name>
-    <display-name lang="es">DAZN 1 BAR 1080</display-name>
-    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%201%20BAR.png" />
-  </channel>
-  <channel id="DAZN 2 BAR">
-    <display-name lang="es">DAZN 2 BAR</display-name>
-    <display-name lang="es">DAZN 2 BAR.</display-name>
-    <display-name lang="es">DAZN 2 BAR SD</display-name>
-    <display-name lang="es">DAZN 2 BAR HD</display-name>
-    <display-name lang="es">DAZN 2 BAR FHD</display-name>
-    <display-name lang="es">DAZN 2 BAR.U.HD</display-name>
-    <display-name lang="es">DAZN 2 BAR 720</display-name>
-    <display-name lang="es">DAZN 2 BAR 1080</display-name>
-    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%202%20BAR.png" />
-  </channel>
-  <channel id="LaLiga TV BAR 4">
-    <display-name lang="es">LaLiga TV BAR 4</display-name>
-    <display-name lang="es">LaLiga TV BAR 4.</display-name>
-    <display-name lang="es">LaLiga TV BAR 4 SD</display-name>
-    <display-name lang="es">LaLiga TV BAR 4 HD</display-name>
-    <display-name lang="es">LaLiga TV BAR 4 FHD</display-name>
-    <display-name lang="es">LaLiga TV BAR 4 UHD</display-name>
-    <display-name lang="es">LaLiga TV BAR 4 720</display-name>
-    <display-name lang="es">LaLiga TV BAR 4 1080</display-name>
-    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/LaLiga%20TV%20BAR%204.png" />
-  </channel>
   <channel id="GolStadium">
     <display-name lang="es">GolStadium</display-name>
     <display-name lang="es">GolStadium.</display-name>
@@ -1979,6 +1935,17 @@
     <display-name lang="es">GolStadium 720</display-name>
     <display-name lang="es">GolStadium 1080</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/GolStadium.png" />
+  </channel>
+  <channel id="DAZN F1 BAR">
+    <display-name lang="es">DAZN F1 BAR</display-name>
+    <display-name lang="es">DAZN F1 BAR.</display-name>
+    <display-name lang="es">DAZN F1 BAR SD</display-name>
+    <display-name lang="es">DAZN F1 BAR HD</display-name>
+    <display-name lang="es">DAZN F1 BAR FHD</display-name>
+    <display-name lang="es">DAZN F1 BAR.U.HD</display-name>
+    <display-name lang="es">DAZN F1 BAR 720</display-name>
+    <display-name lang="es">DAZN F1 BAR 1080</display-name>
+    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20F1%20BAR.png" />
   </channel>
   <channel id="FEF TV 1 Grupo 1">
     <display-name lang="es">FEF TV 1 Grupo 1</display-name>
@@ -2706,6 +2673,17 @@
     <display-name lang="es">Global Tendencias 1080</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Global%20Tendencias.png" />
   </channel>
+  <channel id="Fight Time">
+    <display-name lang="es">Fight Time</display-name>
+    <display-name lang="es">Fight Time.</display-name>
+    <display-name lang="es">Fight Time SD</display-name>
+    <display-name lang="es">Fight Time HD</display-name>
+    <display-name lang="es">Fight Time FHD</display-name>
+    <display-name lang="es">Fight Time UHD</display-name>
+    <display-name lang="es">Fight Time 720</display-name>
+    <display-name lang="es">Fight Time 1080</display-name>
+    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Fight%20Time.png" />
+  </channel>
   <channel id="DBike">
     <display-name lang="es">DBike</display-name>
     <display-name lang="es">DBike.</display-name>
@@ -2771,17 +2749,6 @@
     <display-name lang="es">Antena Motor 720</display-name>
     <display-name lang="es">Antena Motor 1080</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Antena%20Motor.png" />
-  </channel>
-  <channel id="Telecuervo">
-    <display-name lang="es">Telecuervo</display-name>
-    <display-name lang="es">Telecuervo.</display-name>
-    <display-name lang="es">Telecuervo SD</display-name>
-    <display-name lang="es">Telecuervo HD</display-name>
-    <display-name lang="es">Telecuervo FHD</display-name>
-    <display-name lang="es">Telecuervo UHD</display-name>
-    <display-name lang="es">Telecuervo 720</display-name>
-    <display-name lang="es">Telecuervo 1080</display-name>
-    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Telecuervo.png" />
   </channel>
   <channel id="Atalaya">
     <display-name lang="es">Atalaya</display-name>
@@ -2849,27 +2816,16 @@
     <display-name lang="es">PTV Malaga 1080</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/PTV%20Malaga.png" />
   </channel>
-  <channel id="PTV Granada">
-    <display-name lang="es">PTV Granada</display-name>
-    <display-name lang="es">PTV Granada.</display-name>
-    <display-name lang="es">PTV Granada SD</display-name>
-    <display-name lang="es">PTV Granada HD</display-name>
-    <display-name lang="es">PTV Granada FHD</display-name>
-    <display-name lang="es">PTV Granada UHD</display-name>
-    <display-name lang="es">PTV Granada 720</display-name>
-    <display-name lang="es">PTV Granada 1080</display-name>
-    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/PTV%20Granada.png" />
-  </channel>
-  <channel id="PTV Sevilla">
-    <display-name lang="es">PTV Sevilla</display-name>
-    <display-name lang="es">PTV Sevilla.</display-name>
-    <display-name lang="es">PTV Sevilla SD</display-name>
-    <display-name lang="es">PTV Sevilla HD</display-name>
-    <display-name lang="es">PTV Sevilla FHD</display-name>
-    <display-name lang="es">PTV Sevilla UHD</display-name>
-    <display-name lang="es">PTV Sevilla 720</display-name>
-    <display-name lang="es">PTV Sevilla 1080</display-name>
-    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/PTV%20Sevilla.png" />
+  <channel id="PTV Cordoba">
+    <display-name lang="es">PTV Cordoba</display-name>
+    <display-name lang="es">PTV Cordoba.</display-name>
+    <display-name lang="es">PTV Cordoba SD</display-name>
+    <display-name lang="es">PTV Cordoba HD</display-name>
+    <display-name lang="es">PTV Cordoba FHD</display-name>
+    <display-name lang="es">PTV Cordoba UHD</display-name>
+    <display-name lang="es">PTV Cordoba 720</display-name>
+    <display-name lang="es">PTV Cordoba 1080</display-name>
+    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/PTV%20Cordoba.png" />
   </channel>
   <channel id="PTV Linares">
     <display-name lang="es">PTV Linares</display-name>
@@ -3387,6 +3343,50 @@
     <display-name lang="es">X-MO 720</display-name>
     <display-name lang="es">X-MO 1080</display-name>
     <icon src="https://media.tvup.cloud/canales/color_lg_65532f3d873e1c5d50ed3a86.png" />
+  </channel>
+  <channel id="Satén Titanes">
+    <display-name lang="es">Satén Titanes</display-name>
+    <display-name lang="es">Satén Titanes.</display-name>
+    <display-name lang="es">Satén Titanes SD</display-name>
+    <display-name lang="es">Satén Titanes HD</display-name>
+    <display-name lang="es">Satén Titanes FHD</display-name>
+    <display-name lang="es">Satén Titanes UHD</display-name>
+    <display-name lang="es">Satén Titanes 720</display-name>
+    <display-name lang="es">Satén Titanes 1080</display-name>
+    <icon src="https://media.tvup.cloud/canales/color_lg_6572ec3b0e7011f3744385ca.png" />
+  </channel>
+  <channel id="Satén Luxury">
+    <display-name lang="es">Satén Luxury</display-name>
+    <display-name lang="es">Satén Luxury.</display-name>
+    <display-name lang="es">Satén Luxury SD</display-name>
+    <display-name lang="es">Satén Luxury HD</display-name>
+    <display-name lang="es">Satén Luxury FHD</display-name>
+    <display-name lang="es">Satén Luxury UHD</display-name>
+    <display-name lang="es">Satén Luxury 720</display-name>
+    <display-name lang="es">Satén Luxury 1080</display-name>
+    <icon src="https://media.tvup.cloud/canales/color_lg_6572ecbfa139960d20306c6e.png" />
+  </channel>
+  <channel id="Satén Classy">
+    <display-name lang="es">Satén Classy</display-name>
+    <display-name lang="es">Satén Classy.</display-name>
+    <display-name lang="es">Satén Classy SD</display-name>
+    <display-name lang="es">Satén Classy HD</display-name>
+    <display-name lang="es">Satén Classy FHD</display-name>
+    <display-name lang="es">Satén Classy UHD</display-name>
+    <display-name lang="es">Satén Classy 720</display-name>
+    <display-name lang="es">Satén Classy 1080</display-name>
+    <icon src="https://media.tvup.cloud/canales/color_lg_6574305becdeacbbc5953216.png" />
+  </channel>
+  <channel id="Satén 100% Español">
+    <display-name lang="es">Satén 100% Español</display-name>
+    <display-name lang="es">Satén 100% Español.</display-name>
+    <display-name lang="es">Satén 100% Español SD</display-name>
+    <display-name lang="es">Satén 100% Español HD</display-name>
+    <display-name lang="es">Satén 100% Español FHD</display-name>
+    <display-name lang="es">Satén 100% Español UHD</display-name>
+    <display-name lang="es">Satén 100% Español 720</display-name>
+    <display-name lang="es">Satén 100% Español 1080</display-name>
+    <icon src="https://media.tvup.cloud/canales/color_lg_6574311461d408f879e2945b.png" />
   </channel>
   <channel id="Heritage+">
     <display-name lang="es">Heritage+</display-name>
