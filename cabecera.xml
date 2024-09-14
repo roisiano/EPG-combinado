@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tv generator-info-name="dobleM 12/09/2024 20:50" generator-info-url="t.me/EPG_dobleM">
+<tv generator-info-name="dobleM 13/09/2024 20:50" generator-info-url="t.me/EPG_dobleM">
   <channel id="La 1 HD">
     <display-name lang="es">La 1</display-name>
     <display-name lang="es">La 1.</display-name>
@@ -1485,6 +1485,17 @@
     <display-name lang="es">Canal Fútbol Replay 1080</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Canal%20F%C3%BAtbol%20Replay.png" />
   </channel>
+  <channel id="M+ LaLiga TV 3 HD">
+    <display-name lang="es">M+ LaLiga TV 3</display-name>
+    <display-name lang="es">M+ LaLiga TV 3.</display-name>
+    <display-name lang="es">M+ LaLiga TV 3 SD</display-name>
+    <display-name lang="es">M+ LaLiga TV 3 HD</display-name>
+    <display-name lang="es">M+ LaLiga TV 3 FHD</display-name>
+    <display-name lang="es">M+ LaLiga TV 3 UHD</display-name>
+    <display-name lang="es">M+ LaLiga TV 3 720</display-name>
+    <display-name lang="es">M+ LaLiga TV 3 1080</display-name>
+    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20LaLiga%20TV%203%20HD.png" />
+  </channel>
   <channel id="M+ Vamos HD">
     <display-name lang="es">M+ Vamos</display-name>
     <display-name lang="es">M+ Vamos.</display-name>
@@ -1738,17 +1749,6 @@
     <display-name lang="es">Teledeporte 1080</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Teledeporte.png" />
   </channel>
-  <channel id="M+ LaLiga TV 3 HD">
-    <display-name lang="es">M+ LaLiga TV 3</display-name>
-    <display-name lang="es">M+ LaLiga TV 3.</display-name>
-    <display-name lang="es">M+ LaLiga TV 3 SD</display-name>
-    <display-name lang="es">M+ LaLiga TV 3 HD</display-name>
-    <display-name lang="es">M+ LaLiga TV 3 FHD</display-name>
-    <display-name lang="es">M+ LaLiga TV 3 UHD</display-name>
-    <display-name lang="es">M+ LaLiga TV 3 720</display-name>
-    <display-name lang="es">M+ LaLiga TV 3 1080</display-name>
-    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20LaLiga%20TV%203%20HD.png" />
-  </channel>
   <channel id="Movistar Plus+ 2 HD">
     <display-name lang="es">Movistar Plus+ 2</display-name>
     <display-name lang="es">Movistar Plus+ 2.</display-name>
@@ -1781,6 +1781,105 @@
     <display-name lang="es">M+ Liga de Campeones 4 720</display-name>
     <display-name lang="es">M+ Liga de Campeones 4 1080</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%204.png" />
+  </channel>
+  <channel id="M+ Liga de Campeones 5">
+    <display-name lang="es">M+ Liga de Campeones 5</display-name>
+    <display-name lang="es">M+ Liga de Campeones 5.</display-name>
+    <display-name lang="es">M+ Liga de Campeones 5 SD</display-name>
+    <display-name lang="es">M+ Liga de Campeones 5 HD</display-name>
+    <display-name lang="es">M+ Liga de Campeones 5 FHD</display-name>
+    <display-name lang="es">M+ Liga de Campeones 5 UHD</display-name>
+    <display-name lang="es">M+ Liga de Campeones 5 720</display-name>
+    <display-name lang="es">M+ Liga de Campeones 5 1080</display-name>
+    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%205.png" />
+  </channel>
+  <channel id="M+ Liga de Campeones 6">
+    <display-name lang="es">M+ Liga de Campeones 6</display-name>
+    <display-name lang="es">M+ Liga de Campeones 6.</display-name>
+    <display-name lang="es">M+ Liga de Campeones 6 SD</display-name>
+    <display-name lang="es">M+ Liga de Campeones 6 HD</display-name>
+    <display-name lang="es">M+ Liga de Campeones 6 FHD</display-name>
+    <display-name lang="es">M+ Liga de Campeones 6 UHD</display-name>
+    <display-name lang="es">M+ Liga de Campeones 6 720</display-name>
+    <display-name lang="es">M+ Liga de Campeones 6 1080</display-name>
+    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%206.png" />
+  </channel>
+  <channel id="M+ Liga de Campeones 7">
+    <display-name lang="es">M+ Liga de Campeones 7</display-name>
+    <display-name lang="es">M+ Liga de Campeones 7.</display-name>
+    <display-name lang="es">M+ Liga de Campeones 7 SD</display-name>
+    <display-name lang="es">M+ Liga de Campeones 7 HD</display-name>
+    <display-name lang="es">M+ Liga de Campeones 7 FHD</display-name>
+    <display-name lang="es">M+ Liga de Campeones 7 UHD</display-name>
+    <display-name lang="es">M+ Liga de Campeones 7 720</display-name>
+    <display-name lang="es">M+ Liga de Campeones 7 1080</display-name>
+    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%207.png" />
+  </channel>
+  <channel id="M+ Liga de Campeones 8">
+    <display-name lang="es">M+ Liga de Campeones 8</display-name>
+    <display-name lang="es">M+ Liga de Campeones 8.</display-name>
+    <display-name lang="es">M+ Liga de Campeones 8 SD</display-name>
+    <display-name lang="es">M+ Liga de Campeones 8 HD</display-name>
+    <display-name lang="es">M+ Liga de Campeones 8 FHD</display-name>
+    <display-name lang="es">M+ Liga de Campeones 8 UHD</display-name>
+    <display-name lang="es">M+ Liga de Campeones 8 720</display-name>
+    <display-name lang="es">M+ Liga de Campeones 8 1080</display-name>
+    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%208.png" />
+  </channel>
+  <channel id="M+ Liga de Campeones 9">
+    <display-name lang="es">M+ Liga de Campeones 9</display-name>
+    <display-name lang="es">M+ Liga de Campeones 9.</display-name>
+    <display-name lang="es">M+ Liga de Campeones 9 SD</display-name>
+    <display-name lang="es">M+ Liga de Campeones 9 HD</display-name>
+    <display-name lang="es">M+ Liga de Campeones 9 FHD</display-name>
+    <display-name lang="es">M+ Liga de Campeones 9 UHD</display-name>
+    <display-name lang="es">M+ Liga de Campeones 9 720</display-name>
+    <display-name lang="es">M+ Liga de Campeones 9 1080</display-name>
+    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%209.png" />
+  </channel>
+  <channel id="M+ Liga de Campeones 10">
+    <display-name lang="es">M+ Liga de Campeones 10</display-name>
+    <display-name lang="es">M+ Liga de Campeones 10.</display-name>
+    <display-name lang="es">M+ Liga de Campeones 10 SD</display-name>
+    <display-name lang="es">M+ Liga de Campeones 10 HD</display-name>
+    <display-name lang="es">M+ Liga de Campeones 10 FHD</display-name>
+    <display-name lang="es">M+ Liga de Campeones 10 UHD</display-name>
+    <display-name lang="es">M+ Liga de Campeones 10 720</display-name>
+    <display-name lang="es">M+ Liga de Campeones 10 1080</display-name>
+    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%2010.png" />
+  </channel>
+  <channel id="M+ Liga de Campeones 11">
+    <display-name lang="es">M+ Liga de Campeones 11</display-name>
+    <display-name lang="es">M+ Liga de Campeones 11.</display-name>
+    <display-name lang="es">M+ Liga de Campeones 11 SD</display-name>
+    <display-name lang="es">M+ Liga de Campeones 11 HD</display-name>
+    <display-name lang="es">M+ Liga de Campeones 11 FHD</display-name>
+    <display-name lang="es">M+ Liga de Campeones 11 UHD</display-name>
+    <display-name lang="es">M+ Liga de Campeones 11 720</display-name>
+    <display-name lang="es">M+ Liga de Campeones 11 1080</display-name>
+    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%2011.png" />
+  </channel>
+  <channel id="M+ Liga de Campeones 12">
+    <display-name lang="es">M+ Liga de Campeones 12</display-name>
+    <display-name lang="es">M+ Liga de Campeones 12.</display-name>
+    <display-name lang="es">M+ Liga de Campeones 12 SD</display-name>
+    <display-name lang="es">M+ Liga de Campeones 12 HD</display-name>
+    <display-name lang="es">M+ Liga de Campeones 12 FHD</display-name>
+    <display-name lang="es">M+ Liga de Campeones 12 UHD</display-name>
+    <display-name lang="es">M+ Liga de Campeones 12 720</display-name>
+    <display-name lang="es">M+ Liga de Campeones 12 1080</display-name>
+    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%2012.png" />
+  </channel>
+  <channel id="M+ Liga de Campeones 13">
+    <display-name lang="es">M+ Liga de Campeones 13</display-name>
+    <display-name lang="es">M+ Liga de Campeones 13.</display-name>
+    <display-name lang="es">M+ Liga de Campeones 13 SD</display-name>
+    <display-name lang="es">M+ Liga de Campeones 13 HD</display-name>
+    <display-name lang="es">M+ Liga de Campeones 13 FHD</display-name>
+    <display-name lang="es">M+ Liga de Campeones 13 UHD</display-name>
+    <display-name lang="es">M+ Liga de Campeones 13 720</display-name>
+    <display-name lang="es">M+ Liga de Campeones 13 1080</display-name>
+    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%2013.png" />
   </channel>
   <channel id="M+ Deportes 4">
     <display-name lang="es">M+ Deportes 4</display-name>
@@ -1925,60 +2024,60 @@
     <display-name lang="es">LaLiga TV BAR 3 1080</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/LaLiga%20TV%20BAR%203.png" />
   </channel>
-  <channel id="M+ Liga de Campeones BAR 2">
-    <display-name lang="es">M+ Liga de Campeones BAR 2</display-name>
-    <display-name lang="es">M+ Liga de Campeones BAR 2.</display-name>
-    <display-name lang="es">M+ Liga de Campeones BAR 2 SD</display-name>
-    <display-name lang="es">M+ Liga de Campeones BAR 2 HD</display-name>
-    <display-name lang="es">M+ Liga de Campeones BAR 2 FHD</display-name>
-    <display-name lang="es">M+ Liga de Campeones BAR 2 UHD</display-name>
-    <display-name lang="es">M+ Liga de Campeones BAR 2 720</display-name>
-    <display-name lang="es">M+ Liga de Campeones BAR 2 1080</display-name>
-    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%20BAR%202.png" />
+  <channel id="Liga de Campeones BAR 2">
+    <display-name lang="es">Liga de Campeones BAR 2</display-name>
+    <display-name lang="es">Liga de Campeones BAR 2.</display-name>
+    <display-name lang="es">Liga de Campeones BAR 2 SD</display-name>
+    <display-name lang="es">Liga de Campeones BAR 2 HD</display-name>
+    <display-name lang="es">Liga de Campeones BAR 2 FHD</display-name>
+    <display-name lang="es">Liga de Campeones BAR 2 UHD</display-name>
+    <display-name lang="es">Liga de Campeones BAR 2 720</display-name>
+    <display-name lang="es">Liga de Campeones BAR 2 1080</display-name>
+    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Liga%20de%20Campeones%20BAR%202.png" />
   </channel>
-  <channel id="M+ Liga de Campeones BAR 3">
-    <display-name lang="es">M+ Liga de Campeones BAR 3</display-name>
-    <display-name lang="es">M+ Liga de Campeones BAR 3.</display-name>
-    <display-name lang="es">M+ Liga de Campeones BAR 3 SD</display-name>
-    <display-name lang="es">M+ Liga de Campeones BAR 3 HD</display-name>
-    <display-name lang="es">M+ Liga de Campeones BAR 3 FHD</display-name>
-    <display-name lang="es">M+ Liga de Campeones BAR 3 UHD</display-name>
-    <display-name lang="es">M+ Liga de Campeones BAR 3 720</display-name>
-    <display-name lang="es">M+ Liga de Campeones BAR 3 1080</display-name>
-    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%20BAR%203.png" />
+  <channel id="Liga de Campeones BAR 3">
+    <display-name lang="es">Liga de Campeones BAR 3</display-name>
+    <display-name lang="es">Liga de Campeones BAR 3.</display-name>
+    <display-name lang="es">Liga de Campeones BAR 3 SD</display-name>
+    <display-name lang="es">Liga de Campeones BAR 3 HD</display-name>
+    <display-name lang="es">Liga de Campeones BAR 3 FHD</display-name>
+    <display-name lang="es">Liga de Campeones BAR 3 UHD</display-name>
+    <display-name lang="es">Liga de Campeones BAR 3 720</display-name>
+    <display-name lang="es">Liga de Campeones BAR 3 1080</display-name>
+    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Liga%20de%20Campeones%20BAR%203.png" />
   </channel>
-  <channel id="M+ Liga de Campeones BAR 4">
-    <display-name lang="es">M+ Liga de Campeones BAR 4</display-name>
-    <display-name lang="es">M+ Liga de Campeones BAR 4.</display-name>
-    <display-name lang="es">M+ Liga de Campeones BAR 4 SD</display-name>
-    <display-name lang="es">M+ Liga de Campeones BAR 4 HD</display-name>
-    <display-name lang="es">M+ Liga de Campeones BAR 4 FHD</display-name>
-    <display-name lang="es">M+ Liga de Campeones BAR 4 UHD</display-name>
-    <display-name lang="es">M+ Liga de Campeones BAR 4 720</display-name>
-    <display-name lang="es">M+ Liga de Campeones BAR 4 1080</display-name>
-    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%20BAR%204.png" />
+  <channel id="Liga de Campeones BAR 4">
+    <display-name lang="es">Liga de Campeones BAR 4</display-name>
+    <display-name lang="es">Liga de Campeones BAR 4.</display-name>
+    <display-name lang="es">Liga de Campeones BAR 4 SD</display-name>
+    <display-name lang="es">Liga de Campeones BAR 4 HD</display-name>
+    <display-name lang="es">Liga de Campeones BAR 4 FHD</display-name>
+    <display-name lang="es">Liga de Campeones BAR 4 UHD</display-name>
+    <display-name lang="es">Liga de Campeones BAR 4 720</display-name>
+    <display-name lang="es">Liga de Campeones BAR 4 1080</display-name>
+    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Liga%20de%20Campeones%20BAR%204.png" />
   </channel>
-  <channel id="M+ Liga de Campeones BAR 5">
-    <display-name lang="es">M+ Liga de Campeones BAR 5</display-name>
-    <display-name lang="es">M+ Liga de Campeones BAR 5.</display-name>
-    <display-name lang="es">M+ Liga de Campeones BAR 5 SD</display-name>
-    <display-name lang="es">M+ Liga de Campeones BAR 5 HD</display-name>
-    <display-name lang="es">M+ Liga de Campeones BAR 5 FHD</display-name>
-    <display-name lang="es">M+ Liga de Campeones BAR 5 UHD</display-name>
-    <display-name lang="es">M+ Liga de Campeones BAR 5 720</display-name>
-    <display-name lang="es">M+ Liga de Campeones BAR 5 1080</display-name>
-    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%20BAR%205.png" />
+  <channel id="Liga de Campeones BAR 5">
+    <display-name lang="es">Liga de Campeones BAR 5</display-name>
+    <display-name lang="es">Liga de Campeones BAR 5.</display-name>
+    <display-name lang="es">Liga de Campeones BAR 5 SD</display-name>
+    <display-name lang="es">Liga de Campeones BAR 5 HD</display-name>
+    <display-name lang="es">Liga de Campeones BAR 5 FHD</display-name>
+    <display-name lang="es">Liga de Campeones BAR 5 UHD</display-name>
+    <display-name lang="es">Liga de Campeones BAR 5 720</display-name>
+    <display-name lang="es">Liga de Campeones BAR 5 1080</display-name>
+    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Liga%20de%20Campeones%20BAR%205.png" />
   </channel>
-  <channel id="M+ Liga de Campeones BAR 6">
-    <display-name lang="es">M+ Liga de Campeones BAR 6</display-name>
-    <display-name lang="es">M+ Liga de Campeones BAR 6.</display-name>
-    <display-name lang="es">M+ Liga de Campeones BAR 6 SD</display-name>
-    <display-name lang="es">M+ Liga de Campeones BAR 6 HD</display-name>
-    <display-name lang="es">M+ Liga de Campeones BAR 6 FHD</display-name>
-    <display-name lang="es">M+ Liga de Campeones BAR 6 UHD</display-name>
-    <display-name lang="es">M+ Liga de Campeones BAR 6 720</display-name>
-    <display-name lang="es">M+ Liga de Campeones BAR 6 1080</display-name>
-    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%20BAR%206.png" />
+  <channel id="Liga de Campeones BAR 6">
+    <display-name lang="es">Liga de Campeones BAR 6</display-name>
+    <display-name lang="es">Liga de Campeones BAR 6.</display-name>
+    <display-name lang="es">Liga de Campeones BAR 6 SD</display-name>
+    <display-name lang="es">Liga de Campeones BAR 6 HD</display-name>
+    <display-name lang="es">Liga de Campeones BAR 6 FHD</display-name>
+    <display-name lang="es">Liga de Campeones BAR 6 UHD</display-name>
+    <display-name lang="es">Liga de Campeones BAR 6 720</display-name>
+    <display-name lang="es">Liga de Campeones BAR 6 1080</display-name>
+    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Liga%20de%20Campeones%20BAR%206.png" />
   </channel>
   <channel id="GolStadium">
     <display-name lang="es">GolStadium</display-name>
@@ -2001,6 +2100,17 @@
     <display-name lang="es">DAZN F1 BAR 720</display-name>
     <display-name lang="es">DAZN F1 BAR 1080</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20F1%20BAR.png" />
+  </channel>
+  <channel id="DAZN 1 BAR">
+    <display-name lang="es">DAZN 1 BAR</display-name>
+    <display-name lang="es">DAZN 1 BAR.</display-name>
+    <display-name lang="es">DAZN 1 BAR SD</display-name>
+    <display-name lang="es">DAZN 1 BAR HD</display-name>
+    <display-name lang="es">DAZN 1 BAR FHD</display-name>
+    <display-name lang="es">DAZN 1 BAR.U.HD</display-name>
+    <display-name lang="es">DAZN 1 BAR 720</display-name>
+    <display-name lang="es">DAZN 1 BAR 1080</display-name>
+    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%201%20BAR.png" />
   </channel>
   <channel id="FEF TV 1 Grupo 1">
     <display-name lang="es">FEF TV 1 Grupo 1</display-name>
@@ -2651,17 +2761,6 @@
     <display-name lang="es">La Rambla TV 1080</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/La%20Rambla%20TV.png" />
   </channel>
-  <channel id="ZIMAGEN TV">
-    <display-name lang="es">ZIMAGEN TV</display-name>
-    <display-name lang="es">ZIMAGEN TV.</display-name>
-    <display-name lang="es">ZIMAGEN TV SD</display-name>
-    <display-name lang="es">ZIMAGEN TV HD</display-name>
-    <display-name lang="es">ZIMAGEN TV FHD</display-name>
-    <display-name lang="es">ZIMAGEN TV UHD</display-name>
-    <display-name lang="es">ZIMAGEN TV 720</display-name>
-    <display-name lang="es">ZIMAGEN TV 1080</display-name>
-    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/ZIMAGEN%20TV.png" />
-  </channel>
   <channel id="Telepitu">
     <display-name lang="es">Telepitu</display-name>
     <display-name lang="es">Telepitu.</display-name>
@@ -2750,17 +2849,6 @@
     <display-name lang="es">Fight Time 1080</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Fight%20Time.png" />
   </channel>
-  <channel id="DBike">
-    <display-name lang="es">DBike</display-name>
-    <display-name lang="es">DBike.</display-name>
-    <display-name lang="es">DBike SD</display-name>
-    <display-name lang="es">DBike HD</display-name>
-    <display-name lang="es">DBike FHD</display-name>
-    <display-name lang="es">DBike UHD</display-name>
-    <display-name lang="es">DBike 720</display-name>
-    <display-name lang="es">DBike 1080</display-name>
-    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DBike.png" />
-  </channel>
   <channel id="CyL7">
     <display-name lang="es">CyL7</display-name>
     <display-name lang="es">CyL7.</display-name>
@@ -2848,6 +2936,17 @@
     <display-name lang="es">Atalaya 720</display-name>
     <display-name lang="es">Atalaya 1080</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Atalaya.png" />
+  </channel>
+  <channel id="Huelva TV">
+    <display-name lang="es">Huelva TV</display-name>
+    <display-name lang="es">Huelva TV.</display-name>
+    <display-name lang="es">Huelva TV SD</display-name>
+    <display-name lang="es">Huelva TV HD</display-name>
+    <display-name lang="es">Huelva TV FHD</display-name>
+    <display-name lang="es">Huelva TV UHD</display-name>
+    <display-name lang="es">Huelva TV 720</display-name>
+    <display-name lang="es">Huelva TV 1080</display-name>
+    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Huelva%20TV.png" />
   </channel>
   <channel id="Dhípica">
     <display-name lang="es">Dhípica</display-name>
