@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tv generator-info-name="dobleM 13/09/2024 20:50" generator-info-url="t.me/EPG_dobleM">
+<tv generator-info-name="dobleM 14/09/2024 20:50" generator-info-url="t.me/EPG_dobleM">
   <channel id="La 1 HD">
     <display-name lang="es">La 1</display-name>
     <display-name lang="es">La 1.</display-name>
@@ -2112,6 +2112,17 @@
     <display-name lang="es">DAZN 1 BAR 1080</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%201%20BAR.png" />
   </channel>
+  <channel id="DAZN 2 BAR">
+    <display-name lang="es">DAZN 2 BAR</display-name>
+    <display-name lang="es">DAZN 2 BAR.</display-name>
+    <display-name lang="es">DAZN 2 BAR SD</display-name>
+    <display-name lang="es">DAZN 2 BAR HD</display-name>
+    <display-name lang="es">DAZN 2 BAR FHD</display-name>
+    <display-name lang="es">DAZN 2 BAR.U.HD</display-name>
+    <display-name lang="es">DAZN 2 BAR 720</display-name>
+    <display-name lang="es">DAZN 2 BAR 1080</display-name>
+    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%202%20BAR.png" />
+  </channel>
   <channel id="FEF TV 1 Grupo 1">
     <display-name lang="es">FEF TV 1 Grupo 1</display-name>
     <display-name lang="es">FEF TV 1 Grupo 1.</display-name>
@@ -2684,17 +2695,6 @@
     <display-name lang="es">VE 1080</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/VE.png" />
   </channel>
-  <channel id="Jamilena">
-    <display-name lang="es">Jamilena</display-name>
-    <display-name lang="es">Jamilena.</display-name>
-    <display-name lang="es">Jamilena SD</display-name>
-    <display-name lang="es">Jamilena HD</display-name>
-    <display-name lang="es">Jamilena FHD</display-name>
-    <display-name lang="es">Jamilena UHD</display-name>
-    <display-name lang="es">Jamilena 720</display-name>
-    <display-name lang="es">Jamilena 1080</display-name>
-    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Jamilena.png" />
-  </channel>
   <channel id="Lebrija TV">
     <display-name lang="es">Lebrija TV</display-name>
     <display-name lang="es">Lebrija TV.</display-name>
@@ -2760,6 +2760,17 @@
     <display-name lang="es">La Rambla TV 720</display-name>
     <display-name lang="es">La Rambla TV 1080</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/La%20Rambla%20TV.png" />
+  </channel>
+  <channel id="ZIMAGEN TV">
+    <display-name lang="es">ZIMAGEN TV</display-name>
+    <display-name lang="es">ZIMAGEN TV.</display-name>
+    <display-name lang="es">ZIMAGEN TV SD</display-name>
+    <display-name lang="es">ZIMAGEN TV HD</display-name>
+    <display-name lang="es">ZIMAGEN TV FHD</display-name>
+    <display-name lang="es">ZIMAGEN TV UHD</display-name>
+    <display-name lang="es">ZIMAGEN TV 720</display-name>
+    <display-name lang="es">ZIMAGEN TV 1080</display-name>
+    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/ZIMAGEN%20TV.png" />
   </channel>
   <channel id="Telepitu">
     <display-name lang="es">Telepitu</display-name>
@@ -2849,6 +2860,17 @@
     <display-name lang="es">Fight Time 1080</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Fight%20Time.png" />
   </channel>
+  <channel id="DBike">
+    <display-name lang="es">DBike</display-name>
+    <display-name lang="es">DBike.</display-name>
+    <display-name lang="es">DBike SD</display-name>
+    <display-name lang="es">DBike HD</display-name>
+    <display-name lang="es">DBike FHD</display-name>
+    <display-name lang="es">DBike UHD</display-name>
+    <display-name lang="es">DBike 720</display-name>
+    <display-name lang="es">DBike 1080</display-name>
+    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DBike.png" />
+  </channel>
   <channel id="CyL7">
     <display-name lang="es">CyL7</display-name>
     <display-name lang="es">CyL7.</display-name>
@@ -2870,17 +2892,6 @@
     <display-name lang="es">CyL8 720</display-name>
     <display-name lang="es">CyL8 1080</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/CyL8.png" />
-  </channel>
-  <channel id="Náutica TV">
-    <display-name lang="es">Náutica TV</display-name>
-    <display-name lang="es">Náutica TV.</display-name>
-    <display-name lang="es">Náutica TV SD</display-name>
-    <display-name lang="es">Náutica TV HD</display-name>
-    <display-name lang="es">Náutica TV FHD</display-name>
-    <display-name lang="es">Náutica TV UHD</display-name>
-    <display-name lang="es">Náutica TV 720</display-name>
-    <display-name lang="es">Náutica TV 1080</display-name>
-    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/N%C3%A1utica%20TV.png" />
   </channel>
   <channel id="Madinfor TV">
     <display-name lang="es">Madinfor TV</display-name>
@@ -2947,17 +2958,6 @@
     <display-name lang="es">Huelva TV 720</display-name>
     <display-name lang="es">Huelva TV 1080</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Huelva%20TV.png" />
-  </channel>
-  <channel id="Dhípica">
-    <display-name lang="es">Dhípica</display-name>
-    <display-name lang="es">Dhípica.</display-name>
-    <display-name lang="es">Dhípica SD</display-name>
-    <display-name lang="es">Dhípica HD</display-name>
-    <display-name lang="es">Dhípica FHD</display-name>
-    <display-name lang="es">Dhípica UHD</display-name>
-    <display-name lang="es">Dhípica 720</display-name>
-    <display-name lang="es">Dhípica 1080</display-name>
-    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Dh%C3%ADpica.png" />
   </channel>
   <channel id="REKTV">
     <display-name lang="es">REKTV</display-name>
