@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tv generator-info-name="dobleM 20/09/2024 20:50" generator-info-url="t.me/EPG_dobleM">
+<tv generator-info-name="dobleM 21/09/2024 20:50" generator-info-url="t.me/EPG_dobleM">
   <channel id="La 1 HD">
     <display-name lang="es">La 1</display-name>
     <display-name lang="es">La 1.</display-name>
@@ -2145,556 +2145,6 @@
     <display-name lang="es">DAZN 2 BAR 1080</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%202%20BAR.png" />
   </channel>
-  <channel id="FEF TV 1 Grupo 1">
-    <display-name lang="es">FEF TV 1 Grupo 1</display-name>
-    <display-name lang="es">FEF TV 1 Grupo 1.</display-name>
-    <display-name lang="es">FEF TV 1 Grupo 1 SD</display-name>
-    <display-name lang="es">FEF TV 1 Grupo 1 HD</display-name>
-    <display-name lang="es">FEF TV 1 Grupo 1 FHD</display-name>
-    <display-name lang="es">FEF TV 1 Grupo 1 UHD</display-name>
-    <display-name lang="es">FEF TV 1 Grupo 1 720</display-name>
-    <display-name lang="es">FEF TV 1 Grupo 1 1080</display-name>
-    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/FEF%20TV%201%20Grupo%201.png" />
-  </channel>
-  <channel id="FEF TV 2 Grupo 1">
-    <display-name lang="es">FEF TV 2 Grupo 1</display-name>
-    <display-name lang="es">FEF TV 2 Grupo 1.</display-name>
-    <display-name lang="es">FEF TV 2 Grupo 1 SD</display-name>
-    <display-name lang="es">FEF TV 2 Grupo 1 HD</display-name>
-    <display-name lang="es">FEF TV 2 Grupo 1 FHD</display-name>
-    <display-name lang="es">FEF TV 2 Grupo 1 UHD</display-name>
-    <display-name lang="es">FEF TV 2 Grupo 1 720</display-name>
-    <display-name lang="es">FEF TV 2 Grupo 1 1080</display-name>
-    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/FEF%20TV%202%20Grupo%201.png" />
-  </channel>
-  <channel id="FEF TV 3 Grupo 1">
-    <display-name lang="es">FEF TV 3 Grupo 1</display-name>
-    <display-name lang="es">FEF TV 3 Grupo 1.</display-name>
-    <display-name lang="es">FEF TV 3 Grupo 1 SD</display-name>
-    <display-name lang="es">FEF TV 3 Grupo 1 HD</display-name>
-    <display-name lang="es">FEF TV 3 Grupo 1 FHD</display-name>
-    <display-name lang="es">FEF TV 3 Grupo 1 UHD</display-name>
-    <display-name lang="es">FEF TV 3 Grupo 1 720</display-name>
-    <display-name lang="es">FEF TV 3 Grupo 1 1080</display-name>
-    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/FEF%20TV%203%20Grupo%201.png" />
-  </channel>
-  <channel id="FEF TV 4 Grupo 1">
-    <display-name lang="es">FEF TV 4 Grupo 1</display-name>
-    <display-name lang="es">FEF TV 4 Grupo 1.</display-name>
-    <display-name lang="es">FEF TV 4 Grupo 1 SD</display-name>
-    <display-name lang="es">FEF TV 4 Grupo 1 HD</display-name>
-    <display-name lang="es">FEF TV 4 Grupo 1 FHD</display-name>
-    <display-name lang="es">FEF TV 4 Grupo 1 UHD</display-name>
-    <display-name lang="es">FEF TV 4 Grupo 1 720</display-name>
-    <display-name lang="es">FEF TV 4 Grupo 1 1080</display-name>
-    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/FEF%20TV%204%20Grupo%201.png" />
-  </channel>
-  <channel id="FEF TV 5 Grupo 1">
-    <display-name lang="es">FEF TV 5 Grupo 1</display-name>
-    <display-name lang="es">FEF TV 5 Grupo 1.</display-name>
-    <display-name lang="es">FEF TV 5 Grupo 1 SD</display-name>
-    <display-name lang="es">FEF TV 5 Grupo 1 HD</display-name>
-    <display-name lang="es">FEF TV 5 Grupo 1 FHD</display-name>
-    <display-name lang="es">FEF TV 5 Grupo 1 UHD</display-name>
-    <display-name lang="es">FEF TV 5 Grupo 1 720</display-name>
-    <display-name lang="es">FEF TV 5 Grupo 1 1080</display-name>
-    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/FEF%20TV%205%20Grupo%201.png" />
-  </channel>
-  <channel id="FEF TV 6 Grupo 1">
-    <display-name lang="es">FEF TV 6 Grupo 1</display-name>
-    <display-name lang="es">FEF TV 6 Grupo 1.</display-name>
-    <display-name lang="es">FEF TV 6 Grupo 1 SD</display-name>
-    <display-name lang="es">FEF TV 6 Grupo 1 HD</display-name>
-    <display-name lang="es">FEF TV 6 Grupo 1 FHD</display-name>
-    <display-name lang="es">FEF TV 6 Grupo 1 UHD</display-name>
-    <display-name lang="es">FEF TV 6 Grupo 1 720</display-name>
-    <display-name lang="es">FEF TV 6 Grupo 1 1080</display-name>
-    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/FEF%20TV%206%20Grupo%201.png" />
-  </channel>
-  <channel id="FEF TV 7 Grupo 1">
-    <display-name lang="es">FEF TV 7 Grupo 1</display-name>
-    <display-name lang="es">FEF TV 7 Grupo 1.</display-name>
-    <display-name lang="es">FEF TV 7 Grupo 1 SD</display-name>
-    <display-name lang="es">FEF TV 7 Grupo 1 HD</display-name>
-    <display-name lang="es">FEF TV 7 Grupo 1 FHD</display-name>
-    <display-name lang="es">FEF TV 7 Grupo 1 UHD</display-name>
-    <display-name lang="es">FEF TV 7 Grupo 1 720</display-name>
-    <display-name lang="es">FEF TV 7 Grupo 1 1080</display-name>
-    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/FEF%20TV%207%20Grupo%201.png" />
-  </channel>
-  <channel id="FEF TV 8 Grupo 1">
-    <display-name lang="es">FEF TV 8 Grupo 1</display-name>
-    <display-name lang="es">FEF TV 8 Grupo 1.</display-name>
-    <display-name lang="es">FEF TV 8 Grupo 1 SD</display-name>
-    <display-name lang="es">FEF TV 8 Grupo 1 HD</display-name>
-    <display-name lang="es">FEF TV 8 Grupo 1 FHD</display-name>
-    <display-name lang="es">FEF TV 8 Grupo 1 UHD</display-name>
-    <display-name lang="es">FEF TV 8 Grupo 1 720</display-name>
-    <display-name lang="es">FEF TV 8 Grupo 1 1080</display-name>
-    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/FEF%20TV%208%20Grupo%201.png" />
-  </channel>
-  <channel id="FEF TV 9 Grupo 1">
-    <display-name lang="es">FEF TV 9 Grupo 1</display-name>
-    <display-name lang="es">FEF TV 9 Grupo 1.</display-name>
-    <display-name lang="es">FEF TV 9 Grupo 1 SD</display-name>
-    <display-name lang="es">FEF TV 9 Grupo 1 HD</display-name>
-    <display-name lang="es">FEF TV 9 Grupo 1 FHD</display-name>
-    <display-name lang="es">FEF TV 9 Grupo 1 UHD</display-name>
-    <display-name lang="es">FEF TV 9 Grupo 1 720</display-name>
-    <display-name lang="es">FEF TV 9 Grupo 1 1080</display-name>
-    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/FEF%20TV%209%20Grupo%201.png" />
-  </channel>
-  <channel id="FEF TV 10 Grupo 1">
-    <display-name lang="es">FEF TV 10 Grupo 1</display-name>
-    <display-name lang="es">FEF TV 10 Grupo 1.</display-name>
-    <display-name lang="es">FEF TV 10 Grupo 1 SD</display-name>
-    <display-name lang="es">FEF TV 10 Grupo 1 HD</display-name>
-    <display-name lang="es">FEF TV 10 Grupo 1 FHD</display-name>
-    <display-name lang="es">FEF TV 10 Grupo 1 UHD</display-name>
-    <display-name lang="es">FEF TV 10 Grupo 1 720</display-name>
-    <display-name lang="es">FEF TV 10 Grupo 1 1080</display-name>
-    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/FEF%20TV%2010%20Grupo%201.png" />
-  </channel>
-  <channel id="FEF TV 1 Grupo 2">
-    <display-name lang="es">FEF TV 1 Grupo 2</display-name>
-    <display-name lang="es">FEF TV 1 Grupo 2.</display-name>
-    <display-name lang="es">FEF TV 1 Grupo 2 SD</display-name>
-    <display-name lang="es">FEF TV 1 Grupo 2 HD</display-name>
-    <display-name lang="es">FEF TV 1 Grupo 2 FHD</display-name>
-    <display-name lang="es">FEF TV 1 Grupo 2 UHD</display-name>
-    <display-name lang="es">FEF TV 1 Grupo 2 720</display-name>
-    <display-name lang="es">FEF TV 1 Grupo 2 1080</display-name>
-    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/FEF%20TV%201%20Grupo%202.png" />
-  </channel>
-  <channel id="FEF TV 2 Grupo 2">
-    <display-name lang="es">FEF TV 2 Grupo 2</display-name>
-    <display-name lang="es">FEF TV 2 Grupo 2.</display-name>
-    <display-name lang="es">FEF TV 2 Grupo 2 SD</display-name>
-    <display-name lang="es">FEF TV 2 Grupo 2 HD</display-name>
-    <display-name lang="es">FEF TV 2 Grupo 2 FHD</display-name>
-    <display-name lang="es">FEF TV 2 Grupo 2 UHD</display-name>
-    <display-name lang="es">FEF TV 2 Grupo 2 720</display-name>
-    <display-name lang="es">FEF TV 2 Grupo 2 1080</display-name>
-    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/FEF%20TV%202%20Grupo%202.png" />
-  </channel>
-  <channel id="FEF TV 3 Grupo 2">
-    <display-name lang="es">FEF TV 3 Grupo 2</display-name>
-    <display-name lang="es">FEF TV 3 Grupo 2.</display-name>
-    <display-name lang="es">FEF TV 3 Grupo 2 SD</display-name>
-    <display-name lang="es">FEF TV 3 Grupo 2 HD</display-name>
-    <display-name lang="es">FEF TV 3 Grupo 2 FHD</display-name>
-    <display-name lang="es">FEF TV 3 Grupo 2 UHD</display-name>
-    <display-name lang="es">FEF TV 3 Grupo 2 720</display-name>
-    <display-name lang="es">FEF TV 3 Grupo 2 1080</display-name>
-    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/FEF%20TV%203%20Grupo%202.png" />
-  </channel>
-  <channel id="FEF TV 4 Grupo 2">
-    <display-name lang="es">FEF TV 4 Grupo 2</display-name>
-    <display-name lang="es">FEF TV 4 Grupo 2.</display-name>
-    <display-name lang="es">FEF TV 4 Grupo 2 SD</display-name>
-    <display-name lang="es">FEF TV 4 Grupo 2 HD</display-name>
-    <display-name lang="es">FEF TV 4 Grupo 2 FHD</display-name>
-    <display-name lang="es">FEF TV 4 Grupo 2 UHD</display-name>
-    <display-name lang="es">FEF TV 4 Grupo 2 720</display-name>
-    <display-name lang="es">FEF TV 4 Grupo 2 1080</display-name>
-    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/FEF%20TV%204%20Grupo%202.png" />
-  </channel>
-  <channel id="FEF TV 5 Grupo 2">
-    <display-name lang="es">FEF TV 5 Grupo 2</display-name>
-    <display-name lang="es">FEF TV 5 Grupo 2.</display-name>
-    <display-name lang="es">FEF TV 5 Grupo 2 SD</display-name>
-    <display-name lang="es">FEF TV 5 Grupo 2 HD</display-name>
-    <display-name lang="es">FEF TV 5 Grupo 2 FHD</display-name>
-    <display-name lang="es">FEF TV 5 Grupo 2 UHD</display-name>
-    <display-name lang="es">FEF TV 5 Grupo 2 720</display-name>
-    <display-name lang="es">FEF TV 5 Grupo 2 1080</display-name>
-    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/FEF%20TV%205%20Grupo%202.png" />
-  </channel>
-  <channel id="FEF TV 6 Grupo 2">
-    <display-name lang="es">FEF TV 6 Grupo 2</display-name>
-    <display-name lang="es">FEF TV 6 Grupo 2.</display-name>
-    <display-name lang="es">FEF TV 6 Grupo 2 SD</display-name>
-    <display-name lang="es">FEF TV 6 Grupo 2 HD</display-name>
-    <display-name lang="es">FEF TV 6 Grupo 2 FHD</display-name>
-    <display-name lang="es">FEF TV 6 Grupo 2 UHD</display-name>
-    <display-name lang="es">FEF TV 6 Grupo 2 720</display-name>
-    <display-name lang="es">FEF TV 6 Grupo 2 1080</display-name>
-    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/FEF%20TV%206%20Grupo%202.png" />
-  </channel>
-  <channel id="FEF TV 7 Grupo 2">
-    <display-name lang="es">FEF TV 7 Grupo 2</display-name>
-    <display-name lang="es">FEF TV 7 Grupo 2.</display-name>
-    <display-name lang="es">FEF TV 7 Grupo 2 SD</display-name>
-    <display-name lang="es">FEF TV 7 Grupo 2 HD</display-name>
-    <display-name lang="es">FEF TV 7 Grupo 2 FHD</display-name>
-    <display-name lang="es">FEF TV 7 Grupo 2 UHD</display-name>
-    <display-name lang="es">FEF TV 7 Grupo 2 720</display-name>
-    <display-name lang="es">FEF TV 7 Grupo 2 1080</display-name>
-    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/FEF%20TV%207%20Grupo%202.png" />
-  </channel>
-  <channel id="FEF TV 8 Grupo 2">
-    <display-name lang="es">FEF TV 8 Grupo 2</display-name>
-    <display-name lang="es">FEF TV 8 Grupo 2.</display-name>
-    <display-name lang="es">FEF TV 8 Grupo 2 SD</display-name>
-    <display-name lang="es">FEF TV 8 Grupo 2 HD</display-name>
-    <display-name lang="es">FEF TV 8 Grupo 2 FHD</display-name>
-    <display-name lang="es">FEF TV 8 Grupo 2 UHD</display-name>
-    <display-name lang="es">FEF TV 8 Grupo 2 720</display-name>
-    <display-name lang="es">FEF TV 8 Grupo 2 1080</display-name>
-    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/FEF%20TV%208%20Grupo%202.png" />
-  </channel>
-  <channel id="FEF TV 9 Grupo 2">
-    <display-name lang="es">FEF TV 9 Grupo 2</display-name>
-    <display-name lang="es">FEF TV 9 Grupo 2.</display-name>
-    <display-name lang="es">FEF TV 9 Grupo 2 SD</display-name>
-    <display-name lang="es">FEF TV 9 Grupo 2 HD</display-name>
-    <display-name lang="es">FEF TV 9 Grupo 2 FHD</display-name>
-    <display-name lang="es">FEF TV 9 Grupo 2 UHD</display-name>
-    <display-name lang="es">FEF TV 9 Grupo 2 720</display-name>
-    <display-name lang="es">FEF TV 9 Grupo 2 1080</display-name>
-    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/FEF%20TV%209%20Grupo%202.png" />
-  </channel>
-  <channel id="FEF TV 10 Grupo 2">
-    <display-name lang="es">FEF TV 10 Grupo 2</display-name>
-    <display-name lang="es">FEF TV 10 Grupo 2.</display-name>
-    <display-name lang="es">FEF TV 10 Grupo 2 SD</display-name>
-    <display-name lang="es">FEF TV 10 Grupo 2 HD</display-name>
-    <display-name lang="es">FEF TV 10 Grupo 2 FHD</display-name>
-    <display-name lang="es">FEF TV 10 Grupo 2 UHD</display-name>
-    <display-name lang="es">FEF TV 10 Grupo 2 720</display-name>
-    <display-name lang="es">FEF TV 10 Grupo 2 1080</display-name>
-    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/FEF%20TV%2010%20Grupo%202.png" />
-  </channel>
-  <channel id="Futsal TV 1 Masculino">
-    <display-name lang="es">Futsal TV 1 Masculino</display-name>
-    <display-name lang="es">Futsal TV 1 Masculino.</display-name>
-    <display-name lang="es">Futsal TV 1 Masculino SD</display-name>
-    <display-name lang="es">Futsal TV 1 Masculino HD</display-name>
-    <display-name lang="es">Futsal TV 1 Masculino FHD</display-name>
-    <display-name lang="es">Futsal TV 1 Masculino UHD</display-name>
-    <display-name lang="es">Futsal TV 1 Masculino 720</display-name>
-    <display-name lang="es">Futsal TV 1 Masculino 1080</display-name>
-    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Futsal%20TV%201%20Masculino.png" />
-  </channel>
-  <channel id="Futsal TV 2 Masculino">
-    <display-name lang="es">Futsal TV 2 Masculino</display-name>
-    <display-name lang="es">Futsal TV 2 Masculino.</display-name>
-    <display-name lang="es">Futsal TV 2 Masculino SD</display-name>
-    <display-name lang="es">Futsal TV 2 Masculino HD</display-name>
-    <display-name lang="es">Futsal TV 2 Masculino FHD</display-name>
-    <display-name lang="es">Futsal TV 2 Masculino UHD</display-name>
-    <display-name lang="es">Futsal TV 2 Masculino 720</display-name>
-    <display-name lang="es">Futsal TV 2 Masculino 1080</display-name>
-    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Futsal%20TV%202%20Masculino.png" />
-  </channel>
-  <channel id="Futsal TV 3 Masculino">
-    <display-name lang="es">Futsal TV 3 Masculino</display-name>
-    <display-name lang="es">Futsal TV 3 Masculino.</display-name>
-    <display-name lang="es">Futsal TV 3 Masculino SD</display-name>
-    <display-name lang="es">Futsal TV 3 Masculino HD</display-name>
-    <display-name lang="es">Futsal TV 3 Masculino FHD</display-name>
-    <display-name lang="es">Futsal TV 3 Masculino UHD</display-name>
-    <display-name lang="es">Futsal TV 3 Masculino 720</display-name>
-    <display-name lang="es">Futsal TV 3 Masculino 1080</display-name>
-    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Futsal%20TV%203%20Masculino.png" />
-  </channel>
-  <channel id="Futsal TV 4 Masculino">
-    <display-name lang="es">Futsal TV 4 Masculino</display-name>
-    <display-name lang="es">Futsal TV 4 Masculino.</display-name>
-    <display-name lang="es">Futsal TV 4 Masculino SD</display-name>
-    <display-name lang="es">Futsal TV 4 Masculino HD</display-name>
-    <display-name lang="es">Futsal TV 4 Masculino FHD</display-name>
-    <display-name lang="es">Futsal TV 4 Masculino UHD</display-name>
-    <display-name lang="es">Futsal TV 4 Masculino 720</display-name>
-    <display-name lang="es">Futsal TV 4 Masculino 1080</display-name>
-    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Futsal%20TV%204%20Masculino.png" />
-  </channel>
-  <channel id="Futsal TV 5 Masculino">
-    <display-name lang="es">Futsal TV 5 Masculino</display-name>
-    <display-name lang="es">Futsal TV 5 Masculino.</display-name>
-    <display-name lang="es">Futsal TV 5 Masculino SD</display-name>
-    <display-name lang="es">Futsal TV 5 Masculino HD</display-name>
-    <display-name lang="es">Futsal TV 5 Masculino FHD</display-name>
-    <display-name lang="es">Futsal TV 5 Masculino UHD</display-name>
-    <display-name lang="es">Futsal TV 5 Masculino 720</display-name>
-    <display-name lang="es">Futsal TV 5 Masculino 1080</display-name>
-    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Futsal%20TV%205%20Masculino.png" />
-  </channel>
-  <channel id="Futsal TV 6 Masculino">
-    <display-name lang="es">Futsal TV 6 Masculino</display-name>
-    <display-name lang="es">Futsal TV 6 Masculino.</display-name>
-    <display-name lang="es">Futsal TV 6 Masculino SD</display-name>
-    <display-name lang="es">Futsal TV 6 Masculino HD</display-name>
-    <display-name lang="es">Futsal TV 6 Masculino FHD</display-name>
-    <display-name lang="es">Futsal TV 6 Masculino UHD</display-name>
-    <display-name lang="es">Futsal TV 6 Masculino 720</display-name>
-    <display-name lang="es">Futsal TV 6 Masculino 1080</display-name>
-    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Futsal%20TV%206%20Masculino.png" />
-  </channel>
-  <channel id="Futsal TV 7 Masculino">
-    <display-name lang="es">Futsal TV 7 Masculino</display-name>
-    <display-name lang="es">Futsal TV 7 Masculino.</display-name>
-    <display-name lang="es">Futsal TV 7 Masculino SD</display-name>
-    <display-name lang="es">Futsal TV 7 Masculino HD</display-name>
-    <display-name lang="es">Futsal TV 7 Masculino FHD</display-name>
-    <display-name lang="es">Futsal TV 7 Masculino UHD</display-name>
-    <display-name lang="es">Futsal TV 7 Masculino 720</display-name>
-    <display-name lang="es">Futsal TV 7 Masculino 1080</display-name>
-    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Futsal%20TV%207%20Masculino.png" />
-  </channel>
-  <channel id="Futsal TV 8 Masculino">
-    <display-name lang="es">Futsal TV 8 Masculino</display-name>
-    <display-name lang="es">Futsal TV 8 Masculino.</display-name>
-    <display-name lang="es">Futsal TV 8 Masculino SD</display-name>
-    <display-name lang="es">Futsal TV 8 Masculino HD</display-name>
-    <display-name lang="es">Futsal TV 8 Masculino FHD</display-name>
-    <display-name lang="es">Futsal TV 8 Masculino UHD</display-name>
-    <display-name lang="es">Futsal TV 8 Masculino 720</display-name>
-    <display-name lang="es">Futsal TV 8 Masculino 1080</display-name>
-    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Futsal%20TV%208%20Masculino.png" />
-  </channel>
-  <channel id="Futsal TV 9 Masculino">
-    <display-name lang="es">Futsal TV 9 Masculino</display-name>
-    <display-name lang="es">Futsal TV 9 Masculino.</display-name>
-    <display-name lang="es">Futsal TV 9 Masculino SD</display-name>
-    <display-name lang="es">Futsal TV 9 Masculino HD</display-name>
-    <display-name lang="es">Futsal TV 9 Masculino FHD</display-name>
-    <display-name lang="es">Futsal TV 9 Masculino UHD</display-name>
-    <display-name lang="es">Futsal TV 9 Masculino 720</display-name>
-    <display-name lang="es">Futsal TV 9 Masculino 1080</display-name>
-    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Futsal%20TV%209%20Masculino.png" />
-  </channel>
-  <channel id="Futsal TV 10 Masculino">
-    <display-name lang="es">Futsal TV 10 Masculino</display-name>
-    <display-name lang="es">Futsal TV 10 Masculino.</display-name>
-    <display-name lang="es">Futsal TV 10 Masculino SD</display-name>
-    <display-name lang="es">Futsal TV 10 Masculino HD</display-name>
-    <display-name lang="es">Futsal TV 10 Masculino FHD</display-name>
-    <display-name lang="es">Futsal TV 10 Masculino UHD</display-name>
-    <display-name lang="es">Futsal TV 10 Masculino 720</display-name>
-    <display-name lang="es">Futsal TV 10 Masculino 1080</display-name>
-    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Futsal%20TV%2010%20Masculino.png" />
-  </channel>
-  <channel id="Futsal TV 1 Femenino">
-    <display-name lang="es">Futsal TV 1 Femenino</display-name>
-    <display-name lang="es">Futsal TV 1 Femenino.</display-name>
-    <display-name lang="es">Futsal TV 1 Femenino SD</display-name>
-    <display-name lang="es">Futsal TV 1 Femenino HD</display-name>
-    <display-name lang="es">Futsal TV 1 Femenino FHD</display-name>
-    <display-name lang="es">Futsal TV 1 Femenino UHD</display-name>
-    <display-name lang="es">Futsal TV 1 Femenino 720</display-name>
-    <display-name lang="es">Futsal TV 1 Femenino 1080</display-name>
-    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Futsal%20TV%201%20Femenino.png" />
-  </channel>
-  <channel id="Futsal TV 2 Femenino">
-    <display-name lang="es">Futsal TV 2 Femenino</display-name>
-    <display-name lang="es">Futsal TV 2 Femenino.</display-name>
-    <display-name lang="es">Futsal TV 2 Femenino SD</display-name>
-    <display-name lang="es">Futsal TV 2 Femenino HD</display-name>
-    <display-name lang="es">Futsal TV 2 Femenino FHD</display-name>
-    <display-name lang="es">Futsal TV 2 Femenino UHD</display-name>
-    <display-name lang="es">Futsal TV 2 Femenino 720</display-name>
-    <display-name lang="es">Futsal TV 2 Femenino 1080</display-name>
-    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Futsal%20TV%202%20Femenino.png" />
-  </channel>
-  <channel id="Futsal TV 3 Femenino">
-    <display-name lang="es">Futsal TV 3 Femenino</display-name>
-    <display-name lang="es">Futsal TV 3 Femenino.</display-name>
-    <display-name lang="es">Futsal TV 3 Femenino SD</display-name>
-    <display-name lang="es">Futsal TV 3 Femenino HD</display-name>
-    <display-name lang="es">Futsal TV 3 Femenino FHD</display-name>
-    <display-name lang="es">Futsal TV 3 Femenino UHD</display-name>
-    <display-name lang="es">Futsal TV 3 Femenino 720</display-name>
-    <display-name lang="es">Futsal TV 3 Femenino 1080</display-name>
-    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Futsal%20TV%203%20Femenino.png" />
-  </channel>
-  <channel id="Futsal TV 4 Femenino">
-    <display-name lang="es">Futsal TV 4 Femenino</display-name>
-    <display-name lang="es">Futsal TV 4 Femenino.</display-name>
-    <display-name lang="es">Futsal TV 4 Femenino SD</display-name>
-    <display-name lang="es">Futsal TV 4 Femenino HD</display-name>
-    <display-name lang="es">Futsal TV 4 Femenino FHD</display-name>
-    <display-name lang="es">Futsal TV 4 Femenino UHD</display-name>
-    <display-name lang="es">Futsal TV 4 Femenino 720</display-name>
-    <display-name lang="es">Futsal TV 4 Femenino 1080</display-name>
-    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Futsal%20TV%204%20Femenino.png" />
-  </channel>
-  <channel id="Futsal TV 5 Femenino">
-    <display-name lang="es">Futsal TV 5 Femenino</display-name>
-    <display-name lang="es">Futsal TV 5 Femenino.</display-name>
-    <display-name lang="es">Futsal TV 5 Femenino SD</display-name>
-    <display-name lang="es">Futsal TV 5 Femenino HD</display-name>
-    <display-name lang="es">Futsal TV 5 Femenino FHD</display-name>
-    <display-name lang="es">Futsal TV 5 Femenino UHD</display-name>
-    <display-name lang="es">Futsal TV 5 Femenino 720</display-name>
-    <display-name lang="es">Futsal TV 5 Femenino 1080</display-name>
-    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Futsal%20TV%205%20Femenino.png" />
-  </channel>
-  <channel id="Futsal TV 6 Femenino">
-    <display-name lang="es">Futsal TV 6 Femenino</display-name>
-    <display-name lang="es">Futsal TV 6 Femenino.</display-name>
-    <display-name lang="es">Futsal TV 6 Femenino SD</display-name>
-    <display-name lang="es">Futsal TV 6 Femenino HD</display-name>
-    <display-name lang="es">Futsal TV 6 Femenino FHD</display-name>
-    <display-name lang="es">Futsal TV 6 Femenino UHD</display-name>
-    <display-name lang="es">Futsal TV 6 Femenino 720</display-name>
-    <display-name lang="es">Futsal TV 6 Femenino 1080</display-name>
-    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Futsal%20TV%206%20Femenino.png" />
-  </channel>
-  <channel id="Futsal TV 7 Femenino">
-    <display-name lang="es">Futsal TV 7 Femenino</display-name>
-    <display-name lang="es">Futsal TV 7 Femenino.</display-name>
-    <display-name lang="es">Futsal TV 7 Femenino SD</display-name>
-    <display-name lang="es">Futsal TV 7 Femenino HD</display-name>
-    <display-name lang="es">Futsal TV 7 Femenino FHD</display-name>
-    <display-name lang="es">Futsal TV 7 Femenino UHD</display-name>
-    <display-name lang="es">Futsal TV 7 Femenino 720</display-name>
-    <display-name lang="es">Futsal TV 7 Femenino 1080</display-name>
-    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Futsal%20TV%207%20Femenino.png" />
-  </channel>
-  <channel id="Futsal TV 8 Femenino">
-    <display-name lang="es">Futsal TV 8 Femenino</display-name>
-    <display-name lang="es">Futsal TV 8 Femenino.</display-name>
-    <display-name lang="es">Futsal TV 8 Femenino SD</display-name>
-    <display-name lang="es">Futsal TV 8 Femenino HD</display-name>
-    <display-name lang="es">Futsal TV 8 Femenino FHD</display-name>
-    <display-name lang="es">Futsal TV 8 Femenino UHD</display-name>
-    <display-name lang="es">Futsal TV 8 Femenino 720</display-name>
-    <display-name lang="es">Futsal TV 8 Femenino 1080</display-name>
-    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Futsal%20TV%208%20Femenino.png" />
-  </channel>
-  <channel id="Futsal TV 9 Femenino">
-    <display-name lang="es">Futsal TV 9 Femenino</display-name>
-    <display-name lang="es">Futsal TV 9 Femenino.</display-name>
-    <display-name lang="es">Futsal TV 9 Femenino SD</display-name>
-    <display-name lang="es">Futsal TV 9 Femenino HD</display-name>
-    <display-name lang="es">Futsal TV 9 Femenino FHD</display-name>
-    <display-name lang="es">Futsal TV 9 Femenino UHD</display-name>
-    <display-name lang="es">Futsal TV 9 Femenino 720</display-name>
-    <display-name lang="es">Futsal TV 9 Femenino 1080</display-name>
-    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Futsal%20TV%209%20Femenino.png" />
-  </channel>
-  <channel id="Futsal TV 10 Femenino">
-    <display-name lang="es">Futsal TV 10 Femenino</display-name>
-    <display-name lang="es">Futsal TV 10 Femenino.</display-name>
-    <display-name lang="es">Futsal TV 10 Femenino SD</display-name>
-    <display-name lang="es">Futsal TV 10 Femenino HD</display-name>
-    <display-name lang="es">Futsal TV 10 Femenino FHD</display-name>
-    <display-name lang="es">Futsal TV 10 Femenino UHD</display-name>
-    <display-name lang="es">Futsal TV 10 Femenino 720</display-name>
-    <display-name lang="es">Futsal TV 10 Femenino 1080</display-name>
-    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Futsal%20TV%2010%20Femenino.png" />
-  </channel>
-  <channel id="DAZN LaLiga Femenina 1">
-    <display-name lang="es">DAZN LaLiga Femenina 1</display-name>
-    <display-name lang="es">DAZN LaLiga Femenina 1.</display-name>
-    <display-name lang="es">DAZN LaLiga Femenina 1 SD</display-name>
-    <display-name lang="es">DAZN LaLiga Femenina 1 HD</display-name>
-    <display-name lang="es">DAZN LaLiga Femenina 1 FHD</display-name>
-    <display-name lang="es">DAZN LaLiga Femenina 1 UHD</display-name>
-    <display-name lang="es">DAZN LaLiga Femenina 1 720</display-name>
-    <display-name lang="es">DAZN LaLiga Femenina 1 1080</display-name>
-    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20LaLiga%20Femenina%201.png" />
-  </channel>
-  <channel id="DAZN LaLiga Femenina 2">
-    <display-name lang="es">DAZN LaLiga Femenina 2</display-name>
-    <display-name lang="es">DAZN LaLiga Femenina 2.</display-name>
-    <display-name lang="es">DAZN LaLiga Femenina 2 SD</display-name>
-    <display-name lang="es">DAZN LaLiga Femenina 2 HD</display-name>
-    <display-name lang="es">DAZN LaLiga Femenina 2 FHD</display-name>
-    <display-name lang="es">DAZN LaLiga Femenina 2 UHD</display-name>
-    <display-name lang="es">DAZN LaLiga Femenina 2 720</display-name>
-    <display-name lang="es">DAZN LaLiga Femenina 2 1080</display-name>
-    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20LaLiga%20Femenina%202.png" />
-  </channel>
-  <channel id="DAZN LaLiga Femenina 3">
-    <display-name lang="es">DAZN LaLiga Femenina 3</display-name>
-    <display-name lang="es">DAZN LaLiga Femenina 3.</display-name>
-    <display-name lang="es">DAZN LaLiga Femenina 3 SD</display-name>
-    <display-name lang="es">DAZN LaLiga Femenina 3 HD</display-name>
-    <display-name lang="es">DAZN LaLiga Femenina 3 FHD</display-name>
-    <display-name lang="es">DAZN LaLiga Femenina 3 UHD</display-name>
-    <display-name lang="es">DAZN LaLiga Femenina 3 720</display-name>
-    <display-name lang="es">DAZN LaLiga Femenina 3 1080</display-name>
-    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20LaLiga%20Femenina%203.png" />
-  </channel>
-  <channel id="DAZN LaLiga Femenina 4">
-    <display-name lang="es">DAZN LaLiga Femenina 4</display-name>
-    <display-name lang="es">DAZN LaLiga Femenina 4.</display-name>
-    <display-name lang="es">DAZN LaLiga Femenina 4 SD</display-name>
-    <display-name lang="es">DAZN LaLiga Femenina 4 HD</display-name>
-    <display-name lang="es">DAZN LaLiga Femenina 4 FHD</display-name>
-    <display-name lang="es">DAZN LaLiga Femenina 4 UHD</display-name>
-    <display-name lang="es">DAZN LaLiga Femenina 4 720</display-name>
-    <display-name lang="es">DAZN LaLiga Femenina 4 1080</display-name>
-    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20LaLiga%20Femenina%204.png" />
-  </channel>
-  <channel id="DAZN LaLiga Femenina 5">
-    <display-name lang="es">DAZN LaLiga Femenina 5</display-name>
-    <display-name lang="es">DAZN LaLiga Femenina 5.</display-name>
-    <display-name lang="es">DAZN LaLiga Femenina 5 SD</display-name>
-    <display-name lang="es">DAZN LaLiga Femenina 5 HD</display-name>
-    <display-name lang="es">DAZN LaLiga Femenina 5 FHD</display-name>
-    <display-name lang="es">DAZN LaLiga Femenina 5 UHD</display-name>
-    <display-name lang="es">DAZN LaLiga Femenina 5 720</display-name>
-    <display-name lang="es">DAZN LaLiga Femenina 5 1080</display-name>
-    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20LaLiga%20Femenina%205.png" />
-  </channel>
-  <channel id="DAZN LaLiga Femenina 6">
-    <display-name lang="es">DAZN LaLiga Femenina 6</display-name>
-    <display-name lang="es">DAZN LaLiga Femenina 6.</display-name>
-    <display-name lang="es">DAZN LaLiga Femenina 6 SD</display-name>
-    <display-name lang="es">DAZN LaLiga Femenina 6 HD</display-name>
-    <display-name lang="es">DAZN LaLiga Femenina 6 FHD</display-name>
-    <display-name lang="es">DAZN LaLiga Femenina 6 UHD</display-name>
-    <display-name lang="es">DAZN LaLiga Femenina 6 720</display-name>
-    <display-name lang="es">DAZN LaLiga Femenina 6 1080</display-name>
-    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20LaLiga%20Femenina%206.png" />
-  </channel>
-  <channel id="DAZN LaLiga Femenina 7">
-    <display-name lang="es">DAZN LaLiga Femenina 7</display-name>
-    <display-name lang="es">DAZN LaLiga Femenina 7.</display-name>
-    <display-name lang="es">DAZN LaLiga Femenina 7 SD</display-name>
-    <display-name lang="es">DAZN LaLiga Femenina 7 HD</display-name>
-    <display-name lang="es">DAZN LaLiga Femenina 7 FHD</display-name>
-    <display-name lang="es">DAZN LaLiga Femenina 7 UHD</display-name>
-    <display-name lang="es">DAZN LaLiga Femenina 7 720</display-name>
-    <display-name lang="es">DAZN LaLiga Femenina 7 1080</display-name>
-    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20LaLiga%20Femenina%207.png" />
-  </channel>
-  <channel id="DAZN LaLiga Femenina 8">
-    <display-name lang="es">DAZN LaLiga Femenina 8</display-name>
-    <display-name lang="es">DAZN LaLiga Femenina 8.</display-name>
-    <display-name lang="es">DAZN LaLiga Femenina 8 SD</display-name>
-    <display-name lang="es">DAZN LaLiga Femenina 8 HD</display-name>
-    <display-name lang="es">DAZN LaLiga Femenina 8 FHD</display-name>
-    <display-name lang="es">DAZN LaLiga Femenina 8 UHD</display-name>
-    <display-name lang="es">DAZN LaLiga Femenina 8 720</display-name>
-    <display-name lang="es">DAZN LaLiga Femenina 8 1080</display-name>
-    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20LaLiga%20Femenina%208.png" />
-  </channel>
-  <channel id="DAZN LaLiga Femenina 9">
-    <display-name lang="es">DAZN LaLiga Femenina 9</display-name>
-    <display-name lang="es">DAZN LaLiga Femenina 9.</display-name>
-    <display-name lang="es">DAZN LaLiga Femenina 9 SD</display-name>
-    <display-name lang="es">DAZN LaLiga Femenina 9 HD</display-name>
-    <display-name lang="es">DAZN LaLiga Femenina 9 FHD</display-name>
-    <display-name lang="es">DAZN LaLiga Femenina 9 UHD</display-name>
-    <display-name lang="es">DAZN LaLiga Femenina 9 720</display-name>
-    <display-name lang="es">DAZN LaLiga Femenina 9 1080</display-name>
-    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20LaLiga%20Femenina%209.png" />
-  </channel>
-  <channel id="DAZN LaLiga Femenina 10">
-    <display-name lang="es">DAZN LaLiga Femenina 10</display-name>
-    <display-name lang="es">DAZN LaLiga Femenina 10.</display-name>
-    <display-name lang="es">DAZN LaLiga Femenina 10 SD</display-name>
-    <display-name lang="es">DAZN LaLiga Femenina 10 HD</display-name>
-    <display-name lang="es">DAZN LaLiga Femenina 10 FHD</display-name>
-    <display-name lang="es">DAZN LaLiga Femenina 10 UHD</display-name>
-    <display-name lang="es">DAZN LaLiga Femenina 10 720</display-name>
-    <display-name lang="es">DAZN LaLiga Femenina 10 1080</display-name>
-    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20LaLiga%20Femenina%2010.png" />
-  </channel>
   <channel id="Ilorci">
     <display-name lang="es">Ilorci</display-name>
     <display-name lang="es">Ilorci.</display-name>
@@ -3102,6 +2552,182 @@
     <display-name lang="es">DejateTV 1080</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DejateTV.png" />
   </channel>
+  <channel id="FEF TV 1 Grupo 1">
+    <display-name lang="es">FEF TV 1 Grupo 1</display-name>
+    <display-name lang="es">FEF TV 1 Grupo 1.</display-name>
+    <display-name lang="es">FEF TV 1 Grupo 1 SD</display-name>
+    <display-name lang="es">FEF TV 1 Grupo 1 HD</display-name>
+    <display-name lang="es">FEF TV 1 Grupo 1 FHD</display-name>
+    <display-name lang="es">FEF TV 1 Grupo 1 UHD</display-name>
+    <display-name lang="es">FEF TV 1 Grupo 1 720</display-name>
+    <display-name lang="es">FEF TV 1 Grupo 1 1080</display-name>
+    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/FEF%20TV%201%20Grupo%201.png" />
+  </channel>
+  <channel id="FEF TV 2 Grupo 1">
+    <display-name lang="es">FEF TV 2 Grupo 1</display-name>
+    <display-name lang="es">FEF TV 2 Grupo 1.</display-name>
+    <display-name lang="es">FEF TV 2 Grupo 1 SD</display-name>
+    <display-name lang="es">FEF TV 2 Grupo 1 HD</display-name>
+    <display-name lang="es">FEF TV 2 Grupo 1 FHD</display-name>
+    <display-name lang="es">FEF TV 2 Grupo 1 UHD</display-name>
+    <display-name lang="es">FEF TV 2 Grupo 1 720</display-name>
+    <display-name lang="es">FEF TV 2 Grupo 1 1080</display-name>
+    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/FEF%20TV%202%20Grupo%201.png" />
+  </channel>
+  <channel id="FEF TV 3 Grupo 1">
+    <display-name lang="es">FEF TV 3 Grupo 1</display-name>
+    <display-name lang="es">FEF TV 3 Grupo 1.</display-name>
+    <display-name lang="es">FEF TV 3 Grupo 1 SD</display-name>
+    <display-name lang="es">FEF TV 3 Grupo 1 HD</display-name>
+    <display-name lang="es">FEF TV 3 Grupo 1 FHD</display-name>
+    <display-name lang="es">FEF TV 3 Grupo 1 UHD</display-name>
+    <display-name lang="es">FEF TV 3 Grupo 1 720</display-name>
+    <display-name lang="es">FEF TV 3 Grupo 1 1080</display-name>
+    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/FEF%20TV%203%20Grupo%201.png" />
+  </channel>
+  <channel id="FEF TV 4 Grupo 1">
+    <display-name lang="es">FEF TV 4 Grupo 1</display-name>
+    <display-name lang="es">FEF TV 4 Grupo 1.</display-name>
+    <display-name lang="es">FEF TV 4 Grupo 1 SD</display-name>
+    <display-name lang="es">FEF TV 4 Grupo 1 HD</display-name>
+    <display-name lang="es">FEF TV 4 Grupo 1 FHD</display-name>
+    <display-name lang="es">FEF TV 4 Grupo 1 UHD</display-name>
+    <display-name lang="es">FEF TV 4 Grupo 1 720</display-name>
+    <display-name lang="es">FEF TV 4 Grupo 1 1080</display-name>
+    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/FEF%20TV%204%20Grupo%201.png" />
+  </channel>
+  <channel id="FEF TV 5 Grupo 1">
+    <display-name lang="es">FEF TV 5 Grupo 1</display-name>
+    <display-name lang="es">FEF TV 5 Grupo 1.</display-name>
+    <display-name lang="es">FEF TV 5 Grupo 1 SD</display-name>
+    <display-name lang="es">FEF TV 5 Grupo 1 HD</display-name>
+    <display-name lang="es">FEF TV 5 Grupo 1 FHD</display-name>
+    <display-name lang="es">FEF TV 5 Grupo 1 UHD</display-name>
+    <display-name lang="es">FEF TV 5 Grupo 1 720</display-name>
+    <display-name lang="es">FEF TV 5 Grupo 1 1080</display-name>
+    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/FEF%20TV%205%20Grupo%201.png" />
+  </channel>
+  <channel id="FEF TV 6 Grupo 1">
+    <display-name lang="es">FEF TV 6 Grupo 1</display-name>
+    <display-name lang="es">FEF TV 6 Grupo 1.</display-name>
+    <display-name lang="es">FEF TV 6 Grupo 1 SD</display-name>
+    <display-name lang="es">FEF TV 6 Grupo 1 HD</display-name>
+    <display-name lang="es">FEF TV 6 Grupo 1 FHD</display-name>
+    <display-name lang="es">FEF TV 6 Grupo 1 UHD</display-name>
+    <display-name lang="es">FEF TV 6 Grupo 1 720</display-name>
+    <display-name lang="es">FEF TV 6 Grupo 1 1080</display-name>
+    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/FEF%20TV%206%20Grupo%201.png" />
+  </channel>
+  <channel id="FEF TV 1 Grupo 2">
+    <display-name lang="es">FEF TV 1 Grupo 2</display-name>
+    <display-name lang="es">FEF TV 1 Grupo 2.</display-name>
+    <display-name lang="es">FEF TV 1 Grupo 2 SD</display-name>
+    <display-name lang="es">FEF TV 1 Grupo 2 HD</display-name>
+    <display-name lang="es">FEF TV 1 Grupo 2 FHD</display-name>
+    <display-name lang="es">FEF TV 1 Grupo 2 UHD</display-name>
+    <display-name lang="es">FEF TV 1 Grupo 2 720</display-name>
+    <display-name lang="es">FEF TV 1 Grupo 2 1080</display-name>
+    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/FEF%20TV%201%20Grupo%202.png" />
+  </channel>
+  <channel id="FEF TV 2 Grupo 2">
+    <display-name lang="es">FEF TV 2 Grupo 2</display-name>
+    <display-name lang="es">FEF TV 2 Grupo 2.</display-name>
+    <display-name lang="es">FEF TV 2 Grupo 2 SD</display-name>
+    <display-name lang="es">FEF TV 2 Grupo 2 HD</display-name>
+    <display-name lang="es">FEF TV 2 Grupo 2 FHD</display-name>
+    <display-name lang="es">FEF TV 2 Grupo 2 UHD</display-name>
+    <display-name lang="es">FEF TV 2 Grupo 2 720</display-name>
+    <display-name lang="es">FEF TV 2 Grupo 2 1080</display-name>
+    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/FEF%20TV%202%20Grupo%202.png" />
+  </channel>
+  <channel id="FEF TV 3 Grupo 2">
+    <display-name lang="es">FEF TV 3 Grupo 2</display-name>
+    <display-name lang="es">FEF TV 3 Grupo 2.</display-name>
+    <display-name lang="es">FEF TV 3 Grupo 2 SD</display-name>
+    <display-name lang="es">FEF TV 3 Grupo 2 HD</display-name>
+    <display-name lang="es">FEF TV 3 Grupo 2 FHD</display-name>
+    <display-name lang="es">FEF TV 3 Grupo 2 UHD</display-name>
+    <display-name lang="es">FEF TV 3 Grupo 2 720</display-name>
+    <display-name lang="es">FEF TV 3 Grupo 2 1080</display-name>
+    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/FEF%20TV%203%20Grupo%202.png" />
+  </channel>
+  <channel id="FEF TV 4 Grupo 2">
+    <display-name lang="es">FEF TV 4 Grupo 2</display-name>
+    <display-name lang="es">FEF TV 4 Grupo 2.</display-name>
+    <display-name lang="es">FEF TV 4 Grupo 2 SD</display-name>
+    <display-name lang="es">FEF TV 4 Grupo 2 HD</display-name>
+    <display-name lang="es">FEF TV 4 Grupo 2 FHD</display-name>
+    <display-name lang="es">FEF TV 4 Grupo 2 UHD</display-name>
+    <display-name lang="es">FEF TV 4 Grupo 2 720</display-name>
+    <display-name lang="es">FEF TV 4 Grupo 2 1080</display-name>
+    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/FEF%20TV%204%20Grupo%202.png" />
+  </channel>
+  <channel id="FEF TV 5 Grupo 2">
+    <display-name lang="es">FEF TV 5 Grupo 2</display-name>
+    <display-name lang="es">FEF TV 5 Grupo 2.</display-name>
+    <display-name lang="es">FEF TV 5 Grupo 2 SD</display-name>
+    <display-name lang="es">FEF TV 5 Grupo 2 HD</display-name>
+    <display-name lang="es">FEF TV 5 Grupo 2 FHD</display-name>
+    <display-name lang="es">FEF TV 5 Grupo 2 UHD</display-name>
+    <display-name lang="es">FEF TV 5 Grupo 2 720</display-name>
+    <display-name lang="es">FEF TV 5 Grupo 2 1080</display-name>
+    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/FEF%20TV%205%20Grupo%202.png" />
+  </channel>
+  <channel id="FEF TV 6 Grupo 2">
+    <display-name lang="es">FEF TV 6 Grupo 2</display-name>
+    <display-name lang="es">FEF TV 6 Grupo 2.</display-name>
+    <display-name lang="es">FEF TV 6 Grupo 2 SD</display-name>
+    <display-name lang="es">FEF TV 6 Grupo 2 HD</display-name>
+    <display-name lang="es">FEF TV 6 Grupo 2 FHD</display-name>
+    <display-name lang="es">FEF TV 6 Grupo 2 UHD</display-name>
+    <display-name lang="es">FEF TV 6 Grupo 2 720</display-name>
+    <display-name lang="es">FEF TV 6 Grupo 2 1080</display-name>
+    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/FEF%20TV%206%20Grupo%202.png" />
+  </channel>
+  <channel id="DAZN LaLiga Femenina 1">
+    <display-name lang="es">DAZN LaLiga Femenina 1</display-name>
+    <display-name lang="es">DAZN LaLiga Femenina 1.</display-name>
+    <display-name lang="es">DAZN LaLiga Femenina 1 SD</display-name>
+    <display-name lang="es">DAZN LaLiga Femenina 1 HD</display-name>
+    <display-name lang="es">DAZN LaLiga Femenina 1 FHD</display-name>
+    <display-name lang="es">DAZN LaLiga Femenina 1 UHD</display-name>
+    <display-name lang="es">DAZN LaLiga Femenina 1 720</display-name>
+    <display-name lang="es">DAZN LaLiga Femenina 1 1080</display-name>
+    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20LaLiga%20Femenina%201.png" />
+  </channel>
+  <channel id="DAZN LaLiga Femenina 2">
+    <display-name lang="es">DAZN LaLiga Femenina 2</display-name>
+    <display-name lang="es">DAZN LaLiga Femenina 2.</display-name>
+    <display-name lang="es">DAZN LaLiga Femenina 2 SD</display-name>
+    <display-name lang="es">DAZN LaLiga Femenina 2 HD</display-name>
+    <display-name lang="es">DAZN LaLiga Femenina 2 FHD</display-name>
+    <display-name lang="es">DAZN LaLiga Femenina 2 UHD</display-name>
+    <display-name lang="es">DAZN LaLiga Femenina 2 720</display-name>
+    <display-name lang="es">DAZN LaLiga Femenina 2 1080</display-name>
+    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20LaLiga%20Femenina%202.png" />
+  </channel>
+  <channel id="DAZN LaLiga Femenina 3">
+    <display-name lang="es">DAZN LaLiga Femenina 3</display-name>
+    <display-name lang="es">DAZN LaLiga Femenina 3.</display-name>
+    <display-name lang="es">DAZN LaLiga Femenina 3 SD</display-name>
+    <display-name lang="es">DAZN LaLiga Femenina 3 HD</display-name>
+    <display-name lang="es">DAZN LaLiga Femenina 3 FHD</display-name>
+    <display-name lang="es">DAZN LaLiga Femenina 3 UHD</display-name>
+    <display-name lang="es">DAZN LaLiga Femenina 3 720</display-name>
+    <display-name lang="es">DAZN LaLiga Femenina 3 1080</display-name>
+    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20LaLiga%20Femenina%203.png" />
+  </channel>
+  <channel id="DAZN LaLiga Femenina 4">
+    <display-name lang="es">DAZN LaLiga Femenina 4</display-name>
+    <display-name lang="es">DAZN LaLiga Femenina 4.</display-name>
+    <display-name lang="es">DAZN LaLiga Femenina 4 SD</display-name>
+    <display-name lang="es">DAZN LaLiga Femenina 4 HD</display-name>
+    <display-name lang="es">DAZN LaLiga Femenina 4 FHD</display-name>
+    <display-name lang="es">DAZN LaLiga Femenina 4 UHD</display-name>
+    <display-name lang="es">DAZN LaLiga Femenina 4 720</display-name>
+    <display-name lang="es">DAZN LaLiga Femenina 4 1080</display-name>
+    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20LaLiga%20Femenina%204.png" />
+  </channel>
   <channel id="Runtime Clásicos">
     <display-name lang="es">Runtime Clásicos</display-name>
     <display-name lang="es">Runtime Clásicos.</display-name>
@@ -3355,28 +2981,6 @@
     <display-name lang="es">waterBear 1080</display-name>
     <icon src="https://media.tvup.cloud/canales/color_lg_64341ccb960126001db0c935.png" />
   </channel>
-  <channel id="TRACE Brasil">
-    <display-name lang="es">TRACE Brasil</display-name>
-    <display-name lang="es">TRACE Brasil.</display-name>
-    <display-name lang="es">TRACE Brasil SD</display-name>
-    <display-name lang="es">TRACE Brasil HD</display-name>
-    <display-name lang="es">TRACE Brasil FHD</display-name>
-    <display-name lang="es">TRACE Brasil UHD</display-name>
-    <display-name lang="es">TRACE Brasil 720</display-name>
-    <display-name lang="es">TRACE Brasil 1080</display-name>
-    <icon src="https://media.tvup.cloud/canales/color_lg_6458ccb08535b3af28328edf.png" />
-  </channel>
-  <channel id="A Bola TV">
-    <display-name lang="es">A Bola TV</display-name>
-    <display-name lang="es">A Bola TV.</display-name>
-    <display-name lang="es">A Bola TV SD</display-name>
-    <display-name lang="es">A Bola TV HD</display-name>
-    <display-name lang="es">A Bola TV FHD</display-name>
-    <display-name lang="es">A Bola TV UHD</display-name>
-    <display-name lang="es">A Bola TV 720</display-name>
-    <display-name lang="es">A Bola TV 1080</display-name>
-    <icon src="https://media.tvup.cloud/canales/color_lg_646f2cf5d640a59796862050.png" />
-  </channel>
   <channel id="Oficios Perdidos">
     <display-name lang="es">Oficios Perdidos</display-name>
     <display-name lang="es">Oficios Perdidos.</display-name>
@@ -3398,17 +3002,6 @@
     <display-name lang="es">Willy Fog &amp; Friends 720</display-name>
     <display-name lang="es">Willy Fog &amp; Friends 1080</display-name>
     <icon src="https://media.tvup.cloud/canales/color_lg_6479dd1666328d12f0eb0843.png" />
-  </channel>
-  <channel id="La Liga Inside">
-    <display-name lang="es">La Liga Inside</display-name>
-    <display-name lang="es">La Liga Inside.</display-name>
-    <display-name lang="es">La Liga Inside SD</display-name>
-    <display-name lang="es">La Liga Inside HD</display-name>
-    <display-name lang="es">La Liga Inside FHD</display-name>
-    <display-name lang="es">La Liga Inside UHD</display-name>
-    <display-name lang="es">La Liga Inside 720</display-name>
-    <display-name lang="es">La Liga Inside 1080</display-name>
-    <icon src="https://media.tvup.cloud/canales/color_lg_654b7c53df47884c5b032b4e.png" />
   </channel>
   <channel id="La Media inglesa">
     <display-name lang="es">La Media inglesa</display-name>
@@ -3509,6 +3102,17 @@
     <display-name lang="es">Azteca Internacional 1080</display-name>
     <icon src="https://media.tvup.cloud/canales/color_lg_6523ab28416c1045648ebdcc.png" />
   </channel>
+  <channel id="Record News">
+    <display-name lang="es">Record News</display-name>
+    <display-name lang="es">Record News.</display-name>
+    <display-name lang="es">Record News SD</display-name>
+    <display-name lang="es">Record News HD</display-name>
+    <display-name lang="es">Record News FHD</display-name>
+    <display-name lang="es">Record News UHD</display-name>
+    <display-name lang="es">Record News 720</display-name>
+    <display-name lang="es">Record News 1080</display-name>
+    <icon src="https://media.tvup.cloud/canales/color_lg_6523b7b6fd971de6c5568129.png" />
+  </channel>
   <channel id="Pitufo TV">
     <display-name lang="es">Pitufo TV</display-name>
     <display-name lang="es">Pitufo TV.</display-name>
@@ -3519,17 +3123,6 @@
     <display-name lang="es">Pitufo TV 720</display-name>
     <display-name lang="es">Pitufo TV 1080</display-name>
     <icon src="https://media.tvup.cloud/canales/color_lg_6523ac255350806fd25f836e.png" />
-  </channel>
-  <channel id="Wedo Big Stories">
-    <display-name lang="es">Wedo Big Stories</display-name>
-    <display-name lang="es">Wedo Big Stories.</display-name>
-    <display-name lang="es">Wedo Big Stories SD</display-name>
-    <display-name lang="es">Wedo Big Stories HD</display-name>
-    <display-name lang="es">Wedo Big Stories FHD</display-name>
-    <display-name lang="es">Wedo Big Stories UHD</display-name>
-    <display-name lang="es">Wedo Big Stories 720</display-name>
-    <display-name lang="es">Wedo Big Stories 1080</display-name>
-    <icon src="https://media.tvup.cloud/canales/color_lg_6526c2098c7faec4bfbad910.png" />
   </channel>
   <channel id="Action Hollywood Movies">
     <display-name lang="es">Action Hollywood Movies</display-name>
@@ -3740,17 +3333,6 @@
     <display-name lang="es">Mundo Series 1080</display-name>
     <icon src="https://media.tvup.cloud/canales/color_lg_659d3df441ebff82eb57ddc8.png" />
   </channel>
-  <channel id="Nesting TV">
-    <display-name lang="es">Nesting TV</display-name>
-    <display-name lang="es">Nesting TV.</display-name>
-    <display-name lang="es">Nesting TV SD</display-name>
-    <display-name lang="es">Nesting TV HD</display-name>
-    <display-name lang="es">Nesting TV FHD</display-name>
-    <display-name lang="es">Nesting TV UHD</display-name>
-    <display-name lang="es">Nesting TV 720</display-name>
-    <display-name lang="es">Nesting TV 1080</display-name>
-    <icon src="https://media.tvup.cloud/canales/color_lg_6388e7e31cb5910021615cfd.png" />
-  </channel>
   <channel id="Vivaldi">
     <display-name lang="es">Vivaldi</display-name>
     <display-name lang="es">Vivaldi.</display-name>
@@ -3761,6 +3343,28 @@
     <display-name lang="es">Vivaldi 720</display-name>
     <display-name lang="es">Vivaldi 1080</display-name>
     <icon src="https://media.tvup.cloud/canales/color_lg_65e6f9ab30ae559c7e8957a4.png" />
+  </channel>
+  <channel id="ZenLIFE">
+    <display-name lang="es">ZenLIFE</display-name>
+    <display-name lang="es">ZenLIFE.</display-name>
+    <display-name lang="es">ZenLIFE SD</display-name>
+    <display-name lang="es">ZenLIFE HD</display-name>
+    <display-name lang="es">ZenLIFE FHD</display-name>
+    <display-name lang="es">ZenLIFE UHD</display-name>
+    <display-name lang="es">ZenLIFE 720</display-name>
+    <display-name lang="es">ZenLIFE 1080</display-name>
+    <icon src="https://media.tvup.cloud/canales/color_lg_661414e8317db681aee6b0a1.png" />
+  </channel>
+  <channel id="Homeful">
+    <display-name lang="es">Homeful</display-name>
+    <display-name lang="es">Homeful.</display-name>
+    <display-name lang="es">Homeful SD</display-name>
+    <display-name lang="es">Homeful HD</display-name>
+    <display-name lang="es">Homeful FHD</display-name>
+    <display-name lang="es">Homeful UHD</display-name>
+    <display-name lang="es">Homeful 720</display-name>
+    <display-name lang="es">Homeful 1080</display-name>
+    <icon src="https://media.tvup.cloud/canales/color_lg_662f7be0f4f90185e83aefca.png" />
   </channel>
   <channel id="Canal Quickie">
     <display-name lang="es">Canal Quickie</display-name>
@@ -3773,6 +3377,50 @@
     <display-name lang="es">Canal Quickie 1080</display-name>
     <icon src="https://media.tvup.cloud/canales/color_lg_66333d72862f8df6b7e02bbd.png" />
   </channel>
+  <channel id="FailArmy">
+    <display-name lang="es">FailArmy</display-name>
+    <display-name lang="es">FailArmy.</display-name>
+    <display-name lang="es">FailArmy SD</display-name>
+    <display-name lang="es">FailArmy HD</display-name>
+    <display-name lang="es">FailArmy FHD</display-name>
+    <display-name lang="es">FailArmy UHD</display-name>
+    <display-name lang="es">FailArmy 720</display-name>
+    <display-name lang="es">FailArmy 1080</display-name>
+    <icon src="https://media.tvup.cloud/canales/color_lg_663deb3ceb5f8abe6bf6e6be.png" />
+  </channel>
+  <channel id="People Are Awesome">
+    <display-name lang="es">People Are Awesome</display-name>
+    <display-name lang="es">People Are Awesome.</display-name>
+    <display-name lang="es">People Are Awesome SD</display-name>
+    <display-name lang="es">People Are Awesome HD</display-name>
+    <display-name lang="es">People Are Awesome FHD</display-name>
+    <display-name lang="es">People Are Awesome UHD</display-name>
+    <display-name lang="es">People Are Awesome 720</display-name>
+    <display-name lang="es">People Are Awesome 1080</display-name>
+    <icon src="https://media.tvup.cloud/canales/color_lg_663dec584c190de03c947e0d.png" />
+  </channel>
+  <channel id="The Pet Collective">
+    <display-name lang="es">The Pet Collective</display-name>
+    <display-name lang="es">The Pet Collective.</display-name>
+    <display-name lang="es">The Pet Collective SD</display-name>
+    <display-name lang="es">The Pet Collective HD</display-name>
+    <display-name lang="es">The Pet Collective FHD</display-name>
+    <display-name lang="es">The Pet Collective UHD</display-name>
+    <display-name lang="es">The Pet Collective 720</display-name>
+    <display-name lang="es">The Pet Collective 1080</display-name>
+    <icon src="https://media.tvup.cloud/canales/color_lg_663ded11775791c05340c80d.png" />
+  </channel>
+  <channel id="WeatherSpy">
+    <display-name lang="es">WeatherSpy</display-name>
+    <display-name lang="es">WeatherSpy.</display-name>
+    <display-name lang="es">WeatherSpy SD</display-name>
+    <display-name lang="es">WeatherSpy HD</display-name>
+    <display-name lang="es">WeatherSpy FHD</display-name>
+    <display-name lang="es">WeatherSpy UHD</display-name>
+    <display-name lang="es">WeatherSpy 720</display-name>
+    <display-name lang="es">WeatherSpy 1080</display-name>
+    <icon src="https://media.tvup.cloud/canales/color_lg_663dedb1775791c05340d9db.png" />
+  </channel>
   <channel id="Planeta de Cine">
     <display-name lang="es">Planeta de Cine</display-name>
     <display-name lang="es">Planeta de Cine.</display-name>
@@ -3783,6 +3431,17 @@
     <display-name lang="es">Planeta de Cine 720</display-name>
     <display-name lang="es">Planeta de Cine 1080</display-name>
     <icon src="https://media.tvup.cloud/canales/color_lg_665edba1975da069e69b59c3.png" />
+  </channel>
+  <channel id="Historia y Vida">
+    <display-name lang="es">Historia y Vida</display-name>
+    <display-name lang="es">Historia y Vida.</display-name>
+    <display-name lang="es">Historia y Vida SD</display-name>
+    <display-name lang="es">Historia y Vida HD</display-name>
+    <display-name lang="es">Historia y Vida FHD</display-name>
+    <display-name lang="es">Historia y Vida UHD</display-name>
+    <display-name lang="es">Historia y Vida 720</display-name>
+    <display-name lang="es">Historia y Vida 1080</display-name>
+    <icon src="https://media.tvup.cloud/canales/color_lg_668507f37af6025d72e24193.png" />
   </channel>
   <channel id="Sky News International">
     <display-name lang="es">Sky News International</display-name>
