@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tv generator-info-name="dobleM 24/09/2024 20:50" generator-info-url="t.me/EPG_dobleM">
+<tv generator-info-name="dobleM 25/09/2024 20:50" generator-info-url="t.me/EPG_dobleM">
   <channel id="La 1 HD">
     <display-name lang="es">La 1</display-name>
     <display-name lang="es">La 1.</display-name>
@@ -869,16 +869,16 @@
     <display-name lang="es">Navarra TV 1080</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Navarra%20TV.png" />
   </channel>
-  <channel id="TPA">
-    <display-name lang="es">TPA</display-name>
-    <display-name lang="es">TPA.</display-name>
-    <display-name lang="es">TPA SD</display-name>
-    <display-name lang="es">TPA HD</display-name>
-    <display-name lang="es">TPA FHD</display-name>
-    <display-name lang="es">TPA UHD</display-name>
-    <display-name lang="es">TPA 720</display-name>
-    <display-name lang="es">TPA 1080</display-name>
-    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/TPA.png" />
+  <channel id="TPA Asturias">
+    <display-name lang="es">TPA Asturias</display-name>
+    <display-name lang="es">TPA Asturias.</display-name>
+    <display-name lang="es">TPA Asturias SD</display-name>
+    <display-name lang="es">TPA Asturias HD</display-name>
+    <display-name lang="es">TPA Asturias FHD</display-name>
+    <display-name lang="es">TPA Asturias UHD</display-name>
+    <display-name lang="es">TPA Asturias 720</display-name>
+    <display-name lang="es">TPA Asturias 1080</display-name>
+    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/TPA%20Asturias.png" />
   </channel>
   <channel id="CMM TV">
     <display-name lang="es">CMM TV</display-name>
@@ -1408,17 +1408,6 @@
     <display-name lang="es">EWTN 1080</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/EWTN.png" />
   </channel>
-  <channel id="TV3 Cataluña">
-    <display-name lang="es">TV3 Cataluña</display-name>
-    <display-name lang="es">TV3 Cataluña.</display-name>
-    <display-name lang="es">TV3 Cataluña SD</display-name>
-    <display-name lang="es">TV3 Cataluña HD</display-name>
-    <display-name lang="es">TV3 Cataluña FHD</display-name>
-    <display-name lang="es">TV3 Cataluña UHD</display-name>
-    <display-name lang="es">TV3 Cataluña 720</display-name>
-    <display-name lang="es">TV3 Cataluña 1080</display-name>
-    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/TV3%20Catalu%C3%B1a.png" />
-  </channel>
   <channel id="EITB Basque">
     <display-name lang="es">EITB Basque</display-name>
     <display-name lang="es">EITB Basque.</display-name>
@@ -1441,16 +1430,16 @@
     <display-name lang="es">Telemadrid Internacional 1080</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Telemadrid%20Internacional.png" />
   </channel>
-  <channel id="Canal 33">
-    <display-name lang="es">Canal 33</display-name>
-    <display-name lang="es">Canal 33.</display-name>
-    <display-name lang="es">Canal 33 SD</display-name>
-    <display-name lang="es">Canal 33 HD</display-name>
-    <display-name lang="es">Canal 33 FHD</display-name>
-    <display-name lang="es">Canal 33 UHD</display-name>
-    <display-name lang="es">Canal 33 720</display-name>
-    <display-name lang="es">Canal 33 1080</display-name>
-    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Canal%2033.png" />
+  <channel id="SX3">
+    <display-name lang="es">SX3</display-name>
+    <display-name lang="es">SX3.</display-name>
+    <display-name lang="es">SX3 SD</display-name>
+    <display-name lang="es">SX3 HD</display-name>
+    <display-name lang="es">SX3 FHD</display-name>
+    <display-name lang="es">SX3 UHD</display-name>
+    <display-name lang="es">SX3 720</display-name>
+    <display-name lang="es">SX3 1080</display-name>
+    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/SX3.png" />
   </channel>
   <channel id="Esport 3">
     <display-name lang="es">Esport 3</display-name>
@@ -1463,16 +1452,16 @@
     <display-name lang="es">Esport 3 1080</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Esport%203.png" />
   </channel>
-  <channel id="3 24">
-    <display-name lang="es">3 24</display-name>
-    <display-name lang="es">3 24.</display-name>
-    <display-name lang="es">3 24 SD</display-name>
-    <display-name lang="es">3 24 HD</display-name>
-    <display-name lang="es">3 24 FHD</display-name>
-    <display-name lang="es">3 24 UHD</display-name>
-    <display-name lang="es">3 24 720</display-name>
-    <display-name lang="es">3 24 1080</display-name>
-    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/3%2024.png" />
+  <channel id="324">
+    <display-name lang="es">324</display-name>
+    <display-name lang="es">324.</display-name>
+    <display-name lang="es">324 SD</display-name>
+    <display-name lang="es">324 HD</display-name>
+    <display-name lang="es">324 FHD</display-name>
+    <display-name lang="es">324 UHD</display-name>
+    <display-name lang="es">324 720</display-name>
+    <display-name lang="es">324 1080</display-name>
+    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/324.png" />
   </channel>
   <channel id="Betevé">
     <display-name lang="es">Betevé</display-name>
@@ -2167,6 +2156,17 @@
     <display-name lang="es">Jamilena 1080</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Jamilena.png" />
   </channel>
+  <channel id="Lebrija TV">
+    <display-name lang="es">Lebrija TV</display-name>
+    <display-name lang="es">Lebrija TV.</display-name>
+    <display-name lang="es">Lebrija TV SD</display-name>
+    <display-name lang="es">Lebrija TV HD</display-name>
+    <display-name lang="es">Lebrija TV FHD</display-name>
+    <display-name lang="es">Lebrija TV UHD</display-name>
+    <display-name lang="es">Lebrija TV 720</display-name>
+    <display-name lang="es">Lebrija TV 1080</display-name>
+    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Lebrija%20TV.png" />
+  </channel>
   <channel id="Montilla TV">
     <display-name lang="es">Montilla TV</display-name>
     <display-name lang="es">Montilla TV.</display-name>
@@ -2364,6 +2364,17 @@
     <display-name lang="es">Antena Motor 720</display-name>
     <display-name lang="es">Antena Motor 1080</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Antena%20Motor.png" />
+  </channel>
+  <channel id="Telecuervo">
+    <display-name lang="es">Telecuervo</display-name>
+    <display-name lang="es">Telecuervo.</display-name>
+    <display-name lang="es">Telecuervo SD</display-name>
+    <display-name lang="es">Telecuervo HD</display-name>
+    <display-name lang="es">Telecuervo FHD</display-name>
+    <display-name lang="es">Telecuervo UHD</display-name>
+    <display-name lang="es">Telecuervo 720</display-name>
+    <display-name lang="es">Telecuervo 1080</display-name>
+    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Telecuervo.png" />
   </channel>
   <channel id="Doce TV Mairena">
     <display-name lang="es">Doce TV Mairena</display-name>
@@ -3432,16 +3443,16 @@
     <display-name lang="es">Sky News International 1080</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Sky News International.png" />
   </channel>
-  <channel id="NHK WORLD">
-    <display-name lang="es">NHK WORLD</display-name>
-    <display-name lang="es">NHK WORLD.</display-name>
-    <display-name lang="es">NHK WORLD SD</display-name>
-    <display-name lang="es">NHK WORLD HD</display-name>
-    <display-name lang="es">NHK WORLD FHD</display-name>
-    <display-name lang="es">NHK WORLD UHD</display-name>
-    <display-name lang="es">NHK WORLD 720</display-name>
-    <display-name lang="es">NHK WORLD 1080</display-name>
-    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/NHK WORLD.png" />
+  <channel id="NHK World">
+    <display-name lang="es">NHK World</display-name>
+    <display-name lang="es">NHK World.</display-name>
+    <display-name lang="es">NHK World SD</display-name>
+    <display-name lang="es">NHK World HD</display-name>
+    <display-name lang="es">NHK World FHD</display-name>
+    <display-name lang="es">NHK World UHD</display-name>
+    <display-name lang="es">NHK World 720</display-name>
+    <display-name lang="es">NHK World 1080</display-name>
+    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/NHK World.png" />
   </channel>
   <channel id="Arirang TV HD">
     <display-name lang="es">Arirang TV</display-name>
@@ -3520,71 +3531,71 @@
     <display-name lang="es">Horse TV 1080</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Horse%20TV.png" />
   </channel>
-  <channel id="TV3 CAT">
-    <display-name lang="es">TV3 CAT</display-name>
-    <display-name lang="es">TV3 CAT.</display-name>
-    <display-name lang="es">TV3 CAT SD</display-name>
-    <display-name lang="es">TV3 CAT HD</display-name>
-    <display-name lang="es">TV3 CAT FHD</display-name>
-    <display-name lang="es">TV3 CAT UHD</display-name>
-    <display-name lang="es">TV3 CAT 720</display-name>
-    <display-name lang="es">TV3 CAT 1080</display-name>
-    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/TV3%20CAT.png" />
+  <channel id="TV3 Catalunya">
+    <display-name lang="es">TV3 Catalunya</display-name>
+    <display-name lang="es">TV3 Catalunya.</display-name>
+    <display-name lang="es">TV3 Catalunya SD</display-name>
+    <display-name lang="es">TV3 Catalunya HD</display-name>
+    <display-name lang="es">TV3 Catalunya FHD</display-name>
+    <display-name lang="es">TV3 Catalunya UHD</display-name>
+    <display-name lang="es">TV3 Catalunya 720</display-name>
+    <display-name lang="es">TV3 Catalunya 1080</display-name>
+    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/TV3%20Catalunya.png" />
   </channel>
-  <channel id="324 CAT">
-    <display-name lang="es">324 CAT</display-name>
-    <display-name lang="es">324 CAT.</display-name>
-    <display-name lang="es">324 CAT SD</display-name>
-    <display-name lang="es">324 CAT HD</display-name>
-    <display-name lang="es">324 CAT FHD</display-name>
-    <display-name lang="es">324 CAT UHD</display-name>
-    <display-name lang="es">324 CAT 720</display-name>
-    <display-name lang="es">324 CAT 1080</display-name>
-    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/324%20CAT.png" />
+  <channel id="324 Catalunya">
+    <display-name lang="es">324 Catalunya</display-name>
+    <display-name lang="es">324 Catalunya.</display-name>
+    <display-name lang="es">324 Catalunya SD</display-name>
+    <display-name lang="es">324 Catalunya HD</display-name>
+    <display-name lang="es">324 Catalunya FHD</display-name>
+    <display-name lang="es">324 Catalunya UHD</display-name>
+    <display-name lang="es">324 Catalunya 720</display-name>
+    <display-name lang="es">324 Catalunya 1080</display-name>
+    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/324%20Catalunya.png" />
   </channel>
-  <channel id="SX3 CAT">
-    <display-name lang="es">SX3 CAT</display-name>
-    <display-name lang="es">SX3 CAT.</display-name>
-    <display-name lang="es">SX3 CAT SD</display-name>
-    <display-name lang="es">SX3 CAT HD</display-name>
-    <display-name lang="es">SX3 CAT FHD</display-name>
-    <display-name lang="es">SX3 CAT UHD</display-name>
-    <display-name lang="es">SX3 CAT 720</display-name>
-    <display-name lang="es">SX3 CAT 1080</display-name>
-    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/SX3%20CAT.png" />
+  <channel id="SX3 Catalunya">
+    <display-name lang="es">SX3 Catalunya</display-name>
+    <display-name lang="es">SX3 Catalunya.</display-name>
+    <display-name lang="es">SX3 Catalunya SD</display-name>
+    <display-name lang="es">SX3 Catalunya HD</display-name>
+    <display-name lang="es">SX3 Catalunya FHD</display-name>
+    <display-name lang="es">SX3 Catalunya UHD</display-name>
+    <display-name lang="es">SX3 Catalunya 720</display-name>
+    <display-name lang="es">SX3 Catalunya 1080</display-name>
+    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/SX3%20Catalunya.png" />
   </channel>
-  <channel id="Canal33 CAT">
-    <display-name lang="es">Canal33 CAT</display-name>
-    <display-name lang="es">Canal33 CAT.</display-name>
-    <display-name lang="es">Canal33 CAT SD</display-name>
-    <display-name lang="es">Canal33 CAT HD</display-name>
-    <display-name lang="es">Canal33 CAT FHD</display-name>
-    <display-name lang="es">Canal33 CAT UHD</display-name>
-    <display-name lang="es">Canal33 CAT 720</display-name>
-    <display-name lang="es">Canal33 CAT 1080</display-name>
-    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Canal33%20CAT.png" />
+  <channel id="Canal33 Catalunya">
+    <display-name lang="es">Canal33 Catalunya</display-name>
+    <display-name lang="es">Canal33 Catalunya.</display-name>
+    <display-name lang="es">Canal33 Catalunya SD</display-name>
+    <display-name lang="es">Canal33 Catalunya HD</display-name>
+    <display-name lang="es">Canal33 Catalunya FHD</display-name>
+    <display-name lang="es">Canal33 Catalunya UHD</display-name>
+    <display-name lang="es">Canal33 Catalunya 720</display-name>
+    <display-name lang="es">Canal33 Catalunya 1080</display-name>
+    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Canal33%20Catalunya.png" />
   </channel>
-  <channel id="Esport3 CAT">
-    <display-name lang="es">Esport3 CAT</display-name>
-    <display-name lang="es">Esport3 CAT.</display-name>
-    <display-name lang="es">Esport3 CAT SD</display-name>
-    <display-name lang="es">Esport3 CAT HD</display-name>
-    <display-name lang="es">Esport3 CAT FHD</display-name>
-    <display-name lang="es">Esport3 CAT UHD</display-name>
-    <display-name lang="es">Esport3 CAT 720</display-name>
-    <display-name lang="es">Esport3 CAT 1080</display-name>
-    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Esport3%20CAT.png" />
+  <channel id="Esport3 Catalunya">
+    <display-name lang="es">Esport3 Catalunya</display-name>
+    <display-name lang="es">Esport3 Catalunya.</display-name>
+    <display-name lang="es">Esport3 Catalunya SD</display-name>
+    <display-name lang="es">Esport3 Catalunya HD</display-name>
+    <display-name lang="es">Esport3 Catalunya FHD</display-name>
+    <display-name lang="es">Esport3 Catalunya UHD</display-name>
+    <display-name lang="es">Esport3 Catalunya 720</display-name>
+    <display-name lang="es">Esport3 Catalunya 1080</display-name>
+    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Esport3%20Catalunya.png" />
   </channel>
-  <channel id="TV3CAT CAT">
-    <display-name lang="es">TV3CAT CAT</display-name>
-    <display-name lang="es">TV3CAT CAT.</display-name>
-    <display-name lang="es">TV3CAT CAT SD</display-name>
-    <display-name lang="es">TV3CAT CAT HD</display-name>
-    <display-name lang="es">TV3CAT CAT FHD</display-name>
-    <display-name lang="es">TV3CAT CAT UHD</display-name>
-    <display-name lang="es">TV3CAT CAT 720</display-name>
-    <display-name lang="es">TV3CAT CAT 1080</display-name>
-    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/TV3CAT%20CAT.png" />
+  <channel id="TV3CAT Catalunya">
+    <display-name lang="es">TV3CAT Catalunya</display-name>
+    <display-name lang="es">TV3CAT Catalunya.</display-name>
+    <display-name lang="es">TV3CAT Catalunya SD</display-name>
+    <display-name lang="es">TV3CAT Catalunya HD</display-name>
+    <display-name lang="es">TV3CAT Catalunya FHD</display-name>
+    <display-name lang="es">TV3CAT Catalunya UHD</display-name>
+    <display-name lang="es">TV3CAT Catalunya 720</display-name>
+    <display-name lang="es">TV3CAT Catalunya 1080</display-name>
+    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/TV3CAT%20Catalunya.png" />
   </channel>
   <channel id="Bon Dia TV">
     <display-name lang="es">Bon Dia TV</display-name>
@@ -3662,6 +3673,17 @@
     <display-name lang="es">Escapa TV 720</display-name>
     <display-name lang="es">Escapa TV 1080</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Escapa%20TV.png" />
+  </channel>
+  <channel id="Nuestra Tele Internacional">
+    <display-name lang="es">Nuestra Tele Internacional</display-name>
+    <display-name lang="es">Nuestra Tele Internacional.</display-name>
+    <display-name lang="es">Nuestra Tele Internacional SD</display-name>
+    <display-name lang="es">Nuestra Tele Internacional HD</display-name>
+    <display-name lang="es">Nuestra Tele Internacional FHD</display-name>
+    <display-name lang="es">Nuestra Tele Internacional UHD</display-name>
+    <display-name lang="es">Nuestra Tele Internacional 720</display-name>
+    <display-name lang="es">Nuestra Tele Internacional 1080</display-name>
+    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Nuestra%20Tele%20Internacional.png" />
   </channel>
   <channel id="Club MTV">
     <display-name lang="es">Club MTV</display-name>
@@ -3914,7 +3936,7 @@
     <display-name lang="es">Concert Channel UHD</display-name>
     <display-name lang="es">Concert Channel 720</display-name>
     <display-name lang="es">Concert Channel 1080</display-name>
-    <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/concert_channel-mediano.png" />
+    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Concert%20Channel.png" />
   </channel>
   <channel id="Star TVE HD">
     <display-name lang="es">Star TVE</display-name>
@@ -3925,7 +3947,7 @@
     <display-name lang="es">Star TVE UHD</display-name>
     <display-name lang="es">Star TVE 720</display-name>
     <display-name lang="es">Star TVE 1080</display-name>
-    <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/star_tve_hd-mediano.png" />
+    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Star%20TVE.png" />
   </channel>
   <channel id="Discovery Turbo">
     <display-name lang="es">Discovery Turbo</display-name>
@@ -3936,7 +3958,7 @@
     <display-name lang="es">Discovery Turbo UHD</display-name>
     <display-name lang="es">Discovery Turbo 720</display-name>
     <display-name lang="es">Discovery Turbo 1080</display-name>
-    <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/discovery_turbo-mediano.png" />
+    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Discovery%20Turbo.png" />
   </channel>
   <channel id="FOX SPORTS">
     <display-name lang="es">FOX SPORTS</display-name>
@@ -3947,7 +3969,7 @@
     <display-name lang="es">FOX SPORTS UHD</display-name>
     <display-name lang="es">FOX SPORTS 720</display-name>
     <display-name lang="es">FOX SPORTS 1080</display-name>
-    <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/fox_sports-mediano.png" />
+    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/FOX%20SPORTS.png" />
   </channel>
   <channel id="FOX SPORTS 2">
     <display-name lang="es">FOX SPORTS 2</display-name>
@@ -3958,7 +3980,7 @@
     <display-name lang="es">FOX SPORTS 2 UHD</display-name>
     <display-name lang="es">FOX SPORTS 2 720</display-name>
     <display-name lang="es">FOX SPORTS 2 1080</display-name>
-    <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/fox_sports_2-mediano.png" />
+    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/FOX%20SPORTS%202.png" />
   </channel>
   <channel id="FOX SPORTS 3">
     <display-name lang="es">FOX SPORTS 3</display-name>
@@ -3969,7 +3991,7 @@
     <display-name lang="es">FOX SPORTS 3 UHD</display-name>
     <display-name lang="es">FOX SPORTS 3 720</display-name>
     <display-name lang="es">FOX SPORTS 3 1080</display-name>
-    <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/fox_sports_3-mediano.png" />
+    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/FOX%20SPORTS%203.png" />
   </channel>
   <channel id="FOX SPORTS PREMIUM">
     <display-name lang="es">FOX SPORTS PREMIUM</display-name>
@@ -3991,7 +4013,7 @@
     <display-name lang="es">ESPN UHD</display-name>
     <display-name lang="es">ESPN 720</display-name>
     <display-name lang="es">ESPN 1080</display-name>
-    <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/espn_norte-mediano.png" />
+    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/ESPN.png" />
   </channel>
   <channel id="ESPN 2">
     <display-name lang="es">ESPN 2</display-name>
@@ -4002,7 +4024,7 @@
     <display-name lang="es">ESPN 2 UHD</display-name>
     <display-name lang="es">ESPN 2 720</display-name>
     <display-name lang="es">ESPN 2 1080</display-name>
-    <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/espn_2_norte-mediano.png" />
+    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/ESPN%202.png" />
   </channel>
   <channel id="ESPN 3">
     <display-name lang="es">ESPN 3</display-name>
@@ -4013,7 +4035,7 @@
     <display-name lang="es">ESPN 3 UHD</display-name>
     <display-name lang="es">ESPN 3 720</display-name>
     <display-name lang="es">ESPN 3 1080</display-name>
-    <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/espn_3_norte-mediano.png" />
+    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/ESPN%203.png" />
   </channel>
   <channel id="ESPN Deportes">
     <display-name lang="es">ESPN Deportes</display-name>
@@ -4024,7 +4046,7 @@
     <display-name lang="es">ESPN Deportes UHD</display-name>
     <display-name lang="es">ESPN Deportes 720</display-name>
     <display-name lang="es">ESPN Deportes 1080</display-name>
-    <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/espn_deportes-mediano.png" />
+    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/ESPN%20Deportes.png" />
   </channel>
   <channel id="ESPN Internacional">
     <display-name lang="es">ESPN Internacional</display-name>
@@ -4035,7 +4057,7 @@
     <display-name lang="es">ESPN Internacional UHD</display-name>
     <display-name lang="es">ESPN Internacional 720</display-name>
     <display-name lang="es">ESPN Internacional 1080</display-name>
-    <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/espn_norte-mediano.png" />
+    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/ESPN%20Internacional.png" />
   </channel>
   <channel id="TyC Sports">
     <display-name lang="es">TyC Sports</display-name>
@@ -4046,7 +4068,7 @@
     <display-name lang="es">TyC Sports UHD</display-name>
     <display-name lang="es">TyC Sports 720</display-name>
     <display-name lang="es">TyC Sports 1080</display-name>
-    <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/tyc_sports-mediano.png" />
+    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/TyC%20Sports.png" />
   </channel>
   <channel id="Vivid TV">
     <display-name lang="es">Vivid TV</display-name>
@@ -4114,71 +4136,38 @@
     <display-name lang="es">beIN SPORTS XTRA ñ 1080</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/beIN%20SPORTS%20XTRA%20%C3%B1.png" />
   </channel>
-  <channel id="Festival 4K">
-    <display-name lang="es">Festival 4K</display-name>
-    <display-name lang="es">Festival 4K.</display-name>
-    <display-name lang="es">Festival 4K SD</display-name>
-    <display-name lang="es">Festival 4K HD</display-name>
-    <display-name lang="es">Festival 4K FHD</display-name>
-    <display-name lang="es">Festival 4K UHD</display-name>
-    <display-name lang="es">Festival 4K 720</display-name>
-    <display-name lang="es">Festival 4K 1080</display-name>
-    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Festival%204K.png" />
+  <channel id="ETB4">
+    <display-name lang="es">ETB4</display-name>
+    <display-name lang="es">ETB4.</display-name>
+    <display-name lang="es">ETB4 SD</display-name>
+    <display-name lang="es">ETB4 HD</display-name>
+    <display-name lang="es">ETB4 FHD</display-name>
+    <display-name lang="es">ETB4 UHD</display-name>
+    <display-name lang="es">ETB4 720</display-name>
+    <display-name lang="es">ETB4 1080</display-name>
+    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/ETB4.png" />
   </channel>
-  <channel id="TV Ceuta">
-    <display-name lang="es">TV Ceuta</display-name>
-    <display-name lang="es">TV Ceuta.</display-name>
-    <display-name lang="es">TV Ceuta SD</display-name>
-    <display-name lang="es">TV Ceuta HD</display-name>
-    <display-name lang="es">TV Ceuta FHD</display-name>
-    <display-name lang="es">TV Ceuta UHD</display-name>
-    <display-name lang="es">TV Ceuta 720</display-name>
-    <display-name lang="es">TV Ceuta 1080</display-name>
-    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/TV%20Ceuta.png" />
+  <channel id="TPA7 Asturias">
+    <display-name lang="es">TPA7 Asturias</display-name>
+    <display-name lang="es">TPA7 Asturias.</display-name>
+    <display-name lang="es">TPA7 Asturias SD</display-name>
+    <display-name lang="es">TPA7 Asturias HD</display-name>
+    <display-name lang="es">TPA7 Asturias FHD</display-name>
+    <display-name lang="es">TPA7 Asturias UHD</display-name>
+    <display-name lang="es">TPA7 Asturias 720</display-name>
+    <display-name lang="es">TPA7 Asturias 1080</display-name>
+    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/TPA7%20Asturias.png" />
   </channel>
-  <channel id="ETB 4">
-    <display-name lang="es">ETB 4</display-name>
-    <display-name lang="es">ETB 4.</display-name>
-    <display-name lang="es">ETB 4 SD</display-name>
-    <display-name lang="es">ETB 4 HD</display-name>
-    <display-name lang="es">ETB 4 FHD</display-name>
-    <display-name lang="es">ETB 4 UHD</display-name>
-    <display-name lang="es">ETB 4 720</display-name>
-    <display-name lang="es">ETB 4 1080</display-name>
-    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/ETB%204.png" />
-  </channel>
-  <channel id="Canal Sur 2">
-    <display-name lang="es">Canal Sur 2</display-name>
-    <display-name lang="es">Canal Sur 2.</display-name>
-    <display-name lang="es">Canal Sur 2 SD</display-name>
-    <display-name lang="es">Canal Sur 2 HD</display-name>
-    <display-name lang="es">Canal Sur 2 FHD</display-name>
-    <display-name lang="es">Canal Sur 2 UHD</display-name>
-    <display-name lang="es">Canal Sur 2 720</display-name>
-    <display-name lang="es">Canal Sur 2 1080</display-name>
-    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Canal%20Sur%202.png" />
-  </channel>
-  <channel id="A7">
-    <display-name lang="es">A7</display-name>
-    <display-name lang="es">A7.</display-name>
-    <display-name lang="es">A7 SD</display-name>
-    <display-name lang="es">A7 HD</display-name>
-    <display-name lang="es">A7 FHD</display-name>
-    <display-name lang="es">A7 UHD</display-name>
-    <display-name lang="es">A7 720</display-name>
-    <display-name lang="es">A7 1080</display-name>
-    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/A7.png" />
-  </channel>
-  <channel id="A8">
-    <display-name lang="es">A8</display-name>
-    <display-name lang="es">A8.</display-name>
-    <display-name lang="es">A8 SD</display-name>
-    <display-name lang="es">A8 HD</display-name>
-    <display-name lang="es">A8 FHD</display-name>
-    <display-name lang="es">A8 UHD</display-name>
-    <display-name lang="es">A8 720</display-name>
-    <display-name lang="es">A8 1080</display-name>
-    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/A8.png" />
+  <channel id="TPA8 Asturias">
+    <display-name lang="es">TPA8 Asturias</display-name>
+    <display-name lang="es">TPA8 Asturias.</display-name>
+    <display-name lang="es">TPA8 Asturias SD</display-name>
+    <display-name lang="es">TPA8 Asturias HD</display-name>
+    <display-name lang="es">TPA8 Asturias FHD</display-name>
+    <display-name lang="es">TPA8 Asturias UHD</display-name>
+    <display-name lang="es">TPA8 Asturias 720</display-name>
+    <display-name lang="es">TPA8 Asturias 1080</display-name>
+    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/TPA8%20Asturias.png" />
   </channel>
   <channel id="Navarra TV2">
     <display-name lang="es">Navarra TV2</display-name>
@@ -4202,16 +4191,16 @@
     <display-name lang="es">La 8 Valladolid 1080</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/La%208%20Valladolid.png" />
   </channel>
-  <channel id="Canal 4 Tenerife">
-    <display-name lang="es">Canal 4 Tenerife</display-name>
-    <display-name lang="es">Canal 4 Tenerife.</display-name>
-    <display-name lang="es">Canal 4 Tenerife SD</display-name>
-    <display-name lang="es">Canal 4 Tenerife HD</display-name>
-    <display-name lang="es">Canal 4 Tenerife FHD</display-name>
-    <display-name lang="es">Canal 4 Tenerife UHD</display-name>
-    <display-name lang="es">Canal 4 Tenerife 720</display-name>
-    <display-name lang="es">Canal 4 Tenerife 1080</display-name>
-    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Canal%204%20Tenerife.png" />
+  <channel id="8madrid TV">
+    <display-name lang="es">8madrid TV</display-name>
+    <display-name lang="es">8madrid TV.</display-name>
+    <display-name lang="es">8madrid TV SD</display-name>
+    <display-name lang="es">8madrid TV HD</display-name>
+    <display-name lang="es">8madrid TV FHD</display-name>
+    <display-name lang="es">8madrid TV UHD</display-name>
+    <display-name lang="es">8madrid TV 720</display-name>
+    <display-name lang="es">8madrid TV 1080</display-name>
+    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/8madrid%20TV.png" />
   </channel>
   <channel id="Barcelona TV">
     <display-name lang="es">Barcelona TV</display-name>
@@ -4224,27 +4213,16 @@
     <display-name lang="es">Barcelona TV 1080</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Barcelona%20TV.png" />
   </channel>
-  <channel id="8 Madrid">
-    <display-name lang="es">8 Madrid</display-name>
-    <display-name lang="es">8 Madrid.</display-name>
-    <display-name lang="es">8 Madrid SD</display-name>
-    <display-name lang="es">8 Madrid HD</display-name>
-    <display-name lang="es">8 Madrid FHD</display-name>
-    <display-name lang="es">8 Madrid UHD</display-name>
-    <display-name lang="es">8 Madrid 720</display-name>
-    <display-name lang="es">8 Madrid 1080</display-name>
-    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/8%20Madrid.png" />
-  </channel>
-  <channel id="TVR">
-    <display-name lang="es">TVR</display-name>
-    <display-name lang="es">TVR.</display-name>
-    <display-name lang="es">TVR SD</display-name>
-    <display-name lang="es">TVR HD</display-name>
-    <display-name lang="es">TVR FHD</display-name>
-    <display-name lang="es">TVR.U.HD</display-name>
-    <display-name lang="es">TVR 720</display-name>
-    <display-name lang="es">TVR 1080</display-name>
-    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/TVR.png" />
+  <channel id="TVR Rioja">
+    <display-name lang="es">TVR Rioja</display-name>
+    <display-name lang="es">TVR Rioja.</display-name>
+    <display-name lang="es">TVR Rioja SD</display-name>
+    <display-name lang="es">TVR Rioja HD</display-name>
+    <display-name lang="es">TVR Rioja FHD</display-name>
+    <display-name lang="es">TVR Rioja UHD</display-name>
+    <display-name lang="es">TVR Rioja 720</display-name>
+    <display-name lang="es">TVR Rioja 1080</display-name>
+    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/TVR%20Rioja.png" />
   </channel>
   <channel id="TeleVigo">
     <display-name lang="es">TeleVigo</display-name>
@@ -4256,6 +4234,17 @@
     <display-name lang="es">TeleVigo 720</display-name>
     <display-name lang="es">TeleVigo 1080</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/TeleVigo.png" />
+  </channel>
+  <channel id="Canal Sur 2">
+    <display-name lang="es">Canal Sur 2</display-name>
+    <display-name lang="es">Canal Sur 2.</display-name>
+    <display-name lang="es">Canal Sur 2 SD</display-name>
+    <display-name lang="es">Canal Sur 2 HD</display-name>
+    <display-name lang="es">Canal Sur 2 FHD</display-name>
+    <display-name lang="es">Canal Sur 2 UHD</display-name>
+    <display-name lang="es">Canal Sur 2 720</display-name>
+    <display-name lang="es">Canal Sur 2 1080</display-name>
+    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Canal%20Sur%202.png" />
   </channel>
   <channel id="7TV Andalucía">
     <display-name lang="es">7TV Andalucía</display-name>
@@ -4289,6 +4278,39 @@
     <display-name lang="es">Levante TV 720</display-name>
     <display-name lang="es">Levante TV 1080</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Levante%20TV.png" />
+  </channel>
+  <channel id="Canal 4 Tenerife">
+    <display-name lang="es">Canal 4 Tenerife</display-name>
+    <display-name lang="es">Canal 4 Tenerife.</display-name>
+    <display-name lang="es">Canal 4 Tenerife SD</display-name>
+    <display-name lang="es">Canal 4 Tenerife HD</display-name>
+    <display-name lang="es">Canal 4 Tenerife FHD</display-name>
+    <display-name lang="es">Canal 4 Tenerife UHD</display-name>
+    <display-name lang="es">Canal 4 Tenerife 720</display-name>
+    <display-name lang="es">Canal 4 Tenerife 1080</display-name>
+    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Canal%204%20Tenerife.png" />
+  </channel>
+  <channel id="TV Ceuta">
+    <display-name lang="es">TV Ceuta</display-name>
+    <display-name lang="es">TV Ceuta.</display-name>
+    <display-name lang="es">TV Ceuta SD</display-name>
+    <display-name lang="es">TV Ceuta HD</display-name>
+    <display-name lang="es">TV Ceuta FHD</display-name>
+    <display-name lang="es">TV Ceuta UHD</display-name>
+    <display-name lang="es">TV Ceuta 720</display-name>
+    <display-name lang="es">TV Ceuta 1080</display-name>
+    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/TV%20Ceuta.png" />
+  </channel>
+  <channel id="Festival 4K">
+    <display-name lang="es">Festival 4K</display-name>
+    <display-name lang="es">Festival 4K.</display-name>
+    <display-name lang="es">Festival 4K SD</display-name>
+    <display-name lang="es">Festival 4K HD</display-name>
+    <display-name lang="es">Festival 4K FHD</display-name>
+    <display-name lang="es">Festival 4K UHD</display-name>
+    <display-name lang="es">Festival 4K 720</display-name>
+    <display-name lang="es">Festival 4K 1080</display-name>
+    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Festival%204K.png" />
   </channel>
   <channel id="HIT TV">
     <display-name lang="es">HIT TV</display-name>
