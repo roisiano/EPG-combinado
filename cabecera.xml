@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tv generator-info-name="dobleM 25/09/2024 20:50" generator-info-url="t.me/EPG_dobleM">
+<tv generator-info-name="dobleM 26/09/2024 20:50" generator-info-url="t.me/EPG_dobleM">
   <channel id="La 1 HD">
     <display-name lang="es">La 1</display-name>
     <display-name lang="es">La 1.</display-name>
@@ -2112,6 +2112,17 @@
     <display-name lang="es">DAZN F1 BAR 1080</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20F1%20BAR.png" />
   </channel>
+  <channel id="DAZN 1 BAR">
+    <display-name lang="es">DAZN 1 BAR</display-name>
+    <display-name lang="es">DAZN 1 BAR.</display-name>
+    <display-name lang="es">DAZN 1 BAR SD</display-name>
+    <display-name lang="es">DAZN 1 BAR HD</display-name>
+    <display-name lang="es">DAZN 1 BAR FHD</display-name>
+    <display-name lang="es">DAZN 1 BAR.U.HD</display-name>
+    <display-name lang="es">DAZN 1 BAR 720</display-name>
+    <display-name lang="es">DAZN 1 BAR 1080</display-name>
+    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%201%20BAR.png" />
+  </channel>
   <channel id="DAZN 2 BAR">
     <display-name lang="es">DAZN 2 BAR</display-name>
     <display-name lang="es">DAZN 2 BAR.</display-name>
@@ -2497,16 +2508,16 @@
     <display-name lang="es">PTV Linares 1080</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/PTV%20Linares.png" />
   </channel>
-  <channel id="DePelicula">
-    <display-name lang="es">DePelicula</display-name>
-    <display-name lang="es">DePelicula.</display-name>
-    <display-name lang="es">DePelicula SD</display-name>
-    <display-name lang="es">DePelicula HD</display-name>
-    <display-name lang="es">DePelicula FHD</display-name>
-    <display-name lang="es">DePelicula UHD</display-name>
-    <display-name lang="es">DePelicula 720</display-name>
-    <display-name lang="es">DePelicula 1080</display-name>
-    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DePelicula.png" />
+  <channel id="DePelícula">
+    <display-name lang="es">DePelícula</display-name>
+    <display-name lang="es">DePelícula.</display-name>
+    <display-name lang="es">DePelícula SD</display-name>
+    <display-name lang="es">DePelícula HD</display-name>
+    <display-name lang="es">DePelícula FHD</display-name>
+    <display-name lang="es">DePelícula UHD</display-name>
+    <display-name lang="es">DePelícula 720</display-name>
+    <display-name lang="es">DePelícula 1080</display-name>
+    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DePel%C3%ADcula.png" />
   </channel>
   <channel id="DejateTV">
     <display-name lang="es">DejateTV</display-name>
@@ -3200,17 +3211,6 @@
     <display-name lang="es">Heritage+ 720</display-name>
     <display-name lang="es">Heritage+ 1080</display-name>
     <icon src="https://media.tvup.cloud/canales/color_lg_659d3d524bac394af54b4a0e.png" />
-  </channel>
-  <channel id="4K Travel TV">
-    <display-name lang="es">4K Travel TV</display-name>
-    <display-name lang="es">4K Travel TV.</display-name>
-    <display-name lang="es">4K Travel TV SD</display-name>
-    <display-name lang="es">4K Travel TV HD</display-name>
-    <display-name lang="es">4K Travel TV FHD</display-name>
-    <display-name lang="es">4K Travel TV UHD</display-name>
-    <display-name lang="es">4K Travel TV 720</display-name>
-    <display-name lang="es">4K Travel TV 1080</display-name>
-    <icon src="https://media.tvup.cloud/canales/color_lg_659d3b62f4e3ab06e97db5be.png" />
   </channel>
   <channel id="Xtrem Sports">
     <display-name lang="es">Xtrem Sports</display-name>
