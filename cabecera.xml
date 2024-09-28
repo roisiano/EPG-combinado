@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tv generator-info-name="dobleM 26/09/2024 20:50" generator-info-url="t.me/EPG_dobleM">
+<tv generator-info-name="dobleM 27/09/2024 20:50" generator-info-url="t.me/EPG_dobleM">
   <channel id="La 1 HD">
     <display-name lang="es">La 1</display-name>
     <display-name lang="es">La 1.</display-name>
@@ -2211,6 +2211,17 @@
     <display-name lang="es">Vicomartele 1080</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Vicomartele.png" />
   </channel>
+  <channel id="UcubiTV">
+    <display-name lang="es">UcubiTV</display-name>
+    <display-name lang="es">UcubiTV.</display-name>
+    <display-name lang="es">UcubiTV SD</display-name>
+    <display-name lang="es">UcubiTV HD</display-name>
+    <display-name lang="es">UcubiTV FHD</display-name>
+    <display-name lang="es">UcubiTV UHD</display-name>
+    <display-name lang="es">UcubiTV 720</display-name>
+    <display-name lang="es">UcubiTV 1080</display-name>
+    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/UcubiTV.png" />
+  </channel>
   <channel id="La Rambla TV">
     <display-name lang="es">La Rambla TV</display-name>
     <display-name lang="es">La Rambla TV.</display-name>
@@ -3212,6 +3223,17 @@
     <display-name lang="es">Heritage+ 1080</display-name>
     <icon src="https://media.tvup.cloud/canales/color_lg_659d3d524bac394af54b4a0e.png" />
   </channel>
+  <channel id="4K Travel TV">
+    <display-name lang="es">4K Travel TV</display-name>
+    <display-name lang="es">4K Travel TV.</display-name>
+    <display-name lang="es">4K Travel TV SD</display-name>
+    <display-name lang="es">4K Travel TV HD</display-name>
+    <display-name lang="es">4K Travel TV FHD</display-name>
+    <display-name lang="es">4K Travel TV UHD</display-name>
+    <display-name lang="es">4K Travel TV 720</display-name>
+    <display-name lang="es">4K Travel TV 1080</display-name>
+    <icon src="https://media.tvup.cloud/canales/color_lg_659d3b62f4e3ab06e97db5be.png" />
+  </channel>
   <channel id="Xtrem Sports">
     <display-name lang="es">Xtrem Sports</display-name>
     <display-name lang="es">Xtrem Sports.</display-name>
@@ -3421,15 +3443,15 @@
     <display-name lang="es">Historia y Vida 1080</display-name>
     <icon src="https://media.tvup.cloud/canales/color_lg_668507f37af6025d72e24193.png" />
   </channel>
-  <channel id="Onetoro TV">
-    <display-name lang="es">Onetoro TV</display-name>
-    <display-name lang="es">Onetoro TV.</display-name>
-    <display-name lang="es">Onetoro TV SD</display-name>
-    <display-name lang="es">Onetoro TV HD</display-name>
-    <display-name lang="es">Onetoro TV FHD</display-name>
-    <display-name lang="es">Onetoro TV UHD</display-name>
-    <display-name lang="es">Onetoro TV 720</display-name>
-    <display-name lang="es">Onetoro TV 1080</display-name>
+  <channel id="Onetoro">
+    <display-name lang="es">Onetoro</display-name>
+    <display-name lang="es">Onetoro.</display-name>
+    <display-name lang="es">Onetoro SD</display-name>
+    <display-name lang="es">Onetoro HD</display-name>
+    <display-name lang="es">Onetoro FHD</display-name>
+    <display-name lang="es">Onetoro UHD</display-name>
+    <display-name lang="es">Onetoro 720</display-name>
+    <display-name lang="es">Onetoro 1080</display-name>
     <icon src="https://onetoro.tv/assets/images/mundotoro-streaming-logo1.png" />
   </channel>
   <channel id="Sky News International">
@@ -3564,16 +3586,16 @@
     <display-name lang="es">SX3 Catalunya 1080</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/SX3%20Catalunya.png" />
   </channel>
-  <channel id="Canal33 Catalunya">
-    <display-name lang="es">Canal33 Catalunya</display-name>
-    <display-name lang="es">Canal33 Catalunya.</display-name>
-    <display-name lang="es">Canal33 Catalunya SD</display-name>
-    <display-name lang="es">Canal33 Catalunya HD</display-name>
-    <display-name lang="es">Canal33 Catalunya FHD</display-name>
-    <display-name lang="es">Canal33 Catalunya UHD</display-name>
-    <display-name lang="es">Canal33 Catalunya 720</display-name>
-    <display-name lang="es">Canal33 Catalunya 1080</display-name>
-    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Canal33%20Catalunya.png" />
+  <channel id="El 33 Catalunya">
+    <display-name lang="es">El 33 Catalunya</display-name>
+    <display-name lang="es">El 33 Catalunya.</display-name>
+    <display-name lang="es">El 33 Catalunya SD</display-name>
+    <display-name lang="es">El 33 Catalunya HD</display-name>
+    <display-name lang="es">El 33 Catalunya FHD</display-name>
+    <display-name lang="es">El 33 Catalunya UHD</display-name>
+    <display-name lang="es">El 33 Catalunya 720</display-name>
+    <display-name lang="es">El 33 Catalunya 1080</display-name>
+    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/El%2033%20Catalunya.png" />
   </channel>
   <channel id="Esport3 Catalunya">
     <display-name lang="es">Esport3 Catalunya</display-name>
@@ -3762,17 +3784,6 @@
     <display-name lang="es">Kidz 1080</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Kidz.png" />
   </channel>
-  <channel id="Aquí no hay quién viva">
-    <display-name lang="es">Aquí no hay quién viva</display-name>
-    <display-name lang="es">Aquí no hay quién viva.</display-name>
-    <display-name lang="es">Aquí no hay quién viva SD</display-name>
-    <display-name lang="es">Aquí no hay quién viva HD</display-name>
-    <display-name lang="es">Aquí no hay quién viva FHD</display-name>
-    <display-name lang="es">Aquí no hay quién viva UHD</display-name>
-    <display-name lang="es">Aquí no hay quién viva 720</display-name>
-    <display-name lang="es">Aquí no hay quién viva 1080</display-name>
-    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Aqu%C3%AD%20no%20hay%20qui%C3%A9n%20viva.png" />
-  </channel>
   <channel id="El Hormiguero">
     <display-name lang="es">El Hormiguero</display-name>
     <display-name lang="es">El Hormiguero.</display-name>
@@ -3784,16 +3795,16 @@
     <display-name lang="es">El Hormiguero 1080</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/El%20Hormiguero.png" />
   </channel>
-  <channel id="FoQ">
-    <display-name lang="es">FoQ</display-name>
-    <display-name lang="es">FoQ.</display-name>
-    <display-name lang="es">FoQ SD</display-name>
-    <display-name lang="es">FoQ HD</display-name>
-    <display-name lang="es">FoQ FHD</display-name>
-    <display-name lang="es">FoQ UHD</display-name>
-    <display-name lang="es">FoQ 720</display-name>
-    <display-name lang="es">FoQ 1080</display-name>
-    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/FoQ.png" />
+  <channel id="El club de la comedia">
+    <display-name lang="es">El club de la comedia</display-name>
+    <display-name lang="es">El club de la comedia.</display-name>
+    <display-name lang="es">El club de la comedia SD</display-name>
+    <display-name lang="es">El club de la comedia HD</display-name>
+    <display-name lang="es">El club de la comedia FHD</display-name>
+    <display-name lang="es">El club de la comedia UHD</display-name>
+    <display-name lang="es">El club de la comedia 720</display-name>
+    <display-name lang="es">El club de la comedia 1080</display-name>
+    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/El%20club%20de%20la%20comedia.png" />
   </channel>
   <channel id="Equipo de investigación">
     <display-name lang="es">Equipo de investigación</display-name>
@@ -3806,16 +3817,27 @@
     <display-name lang="es">Equipo de investigación 1080</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Equipo%20de%20investigaci%C3%B3n.png" />
   </channel>
-  <channel id="El club de la comedia">
-    <display-name lang="es">El club de la comedia</display-name>
-    <display-name lang="es">El club de la comedia.</display-name>
-    <display-name lang="es">El club de la comedia SD</display-name>
-    <display-name lang="es">El club de la comedia HD</display-name>
-    <display-name lang="es">El club de la comedia FHD</display-name>
-    <display-name lang="es">El club de la comedia UHD</display-name>
-    <display-name lang="es">El club de la comedia 720</display-name>
-    <display-name lang="es">El club de la comedia 1080</display-name>
-    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/El%20club%20de%20la%20comedia.png" />
+  <channel id="Aquí no hay quién viva">
+    <display-name lang="es">Aquí no hay quién viva</display-name>
+    <display-name lang="es">Aquí no hay quién viva.</display-name>
+    <display-name lang="es">Aquí no hay quién viva SD</display-name>
+    <display-name lang="es">Aquí no hay quién viva HD</display-name>
+    <display-name lang="es">Aquí no hay quién viva FHD</display-name>
+    <display-name lang="es">Aquí no hay quién viva UHD</display-name>
+    <display-name lang="es">Aquí no hay quién viva 720</display-name>
+    <display-name lang="es">Aquí no hay quién viva 1080</display-name>
+    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Aqu%C3%AD%20no%20hay%20qui%C3%A9n%20viva.png" />
+  </channel>
+  <channel id="FoQ">
+    <display-name lang="es">FoQ</display-name>
+    <display-name lang="es">FoQ.</display-name>
+    <display-name lang="es">FoQ SD</display-name>
+    <display-name lang="es">FoQ HD</display-name>
+    <display-name lang="es">FoQ FHD</display-name>
+    <display-name lang="es">FoQ UHD</display-name>
+    <display-name lang="es">FoQ 720</display-name>
+    <display-name lang="es">FoQ 1080</display-name>
+    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/FoQ.png" />
   </channel>
   <channel id="Clásicos atresplayer">
     <display-name lang="es">Clásicos atresplayer</display-name>
@@ -3872,38 +3894,60 @@
     <display-name lang="es">ATRESplayer PREMIUM 1080</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/ATRESplayer%20PREMIUM.png" />
   </channel>
-  <channel id="acontra+">
-    <display-name lang="es">acontra+</display-name>
-    <display-name lang="es">acontra+.</display-name>
-    <display-name lang="es">acontra+ SD</display-name>
-    <display-name lang="es">acontra+ HD</display-name>
-    <display-name lang="es">acontra+ FHD</display-name>
-    <display-name lang="es">acontra+ UHD</display-name>
-    <display-name lang="es">acontra+ 720</display-name>
-    <display-name lang="es">acontra+ 1080</display-name>
-    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/acontra%2B.png" />
+  <channel id="GH 24h Plus">
+    <display-name lang="es">GH 24h Plus</display-name>
+    <display-name lang="es">GH 24h Plus.</display-name>
+    <display-name lang="es">GH 24h Plus SD</display-name>
+    <display-name lang="es">GH 24h Plus HD</display-name>
+    <display-name lang="es">GH 24h Plus FHD</display-name>
+    <display-name lang="es">GH 24h Plus UHD</display-name>
+    <display-name lang="es">GH 24h Plus 720</display-name>
+    <display-name lang="es">GH 24h Plus 1080</display-name>
+    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/GH%2024h%20Plus.png" />
   </channel>
-  <channel id="GH VIP 24h Plus">
-    <display-name lang="es">GH VIP 24h Plus</display-name>
-    <display-name lang="es">GH VIP 24h Plus.</display-name>
-    <display-name lang="es">GH VIP 24h Plus SD</display-name>
-    <display-name lang="es">GH VIP 24h Plus HD</display-name>
-    <display-name lang="es">GH VIP 24h Plus FHD</display-name>
-    <display-name lang="es">GH VIP 24h Plus UHD</display-name>
-    <display-name lang="es">GH VIP 24h Plus 720</display-name>
-    <display-name lang="es">GH VIP 24h Plus 1080</display-name>
-    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/GH%20VIP%2024h%20Plus.png" />
+  <channel id="GH 24h">
+    <display-name lang="es">GH 24h</display-name>
+    <display-name lang="es">GH 24h.</display-name>
+    <display-name lang="es">GH 24h SD</display-name>
+    <display-name lang="es">GH 24h HD</display-name>
+    <display-name lang="es">GH 24h FHD</display-name>
+    <display-name lang="es">GH 24h UHD</display-name>
+    <display-name lang="es">GH 24h 720</display-name>
+    <display-name lang="es">GH 24h 1080</display-name>
+    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/GH%2024h.png" />
   </channel>
-  <channel id="GH VIP 24h">
-    <display-name lang="es">GH VIP 24h</display-name>
-    <display-name lang="es">GH VIP 24h.</display-name>
-    <display-name lang="es">GH VIP 24h SD</display-name>
-    <display-name lang="es">GH VIP 24h HD</display-name>
-    <display-name lang="es">GH VIP 24h FHD</display-name>
-    <display-name lang="es">GH VIP 24h UHD</display-name>
-    <display-name lang="es">GH VIP 24h 720</display-name>
-    <display-name lang="es">GH VIP 24h 1080</display-name>
-    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/GH%20VIP%2024h.png" />
+  <channel id="mitele en la calle">
+    <display-name lang="es">mitele en la calle</display-name>
+    <display-name lang="es">mitele en la calle.</display-name>
+    <display-name lang="es">mitele en la calle SD</display-name>
+    <display-name lang="es">mitele en la calle HD</display-name>
+    <display-name lang="es">mitele en la calle FHD</display-name>
+    <display-name lang="es">mitele en la calle UHD</display-name>
+    <display-name lang="es">mitele en la calle 720</display-name>
+    <display-name lang="es">mitele en la calle 1080</display-name>
+    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/mitele%20en%20la%20calle.png" />
+  </channel>
+  <channel id="mitele viajes">
+    <display-name lang="es">mitele viajes</display-name>
+    <display-name lang="es">mitele viajes.</display-name>
+    <display-name lang="es">mitele viajes SD</display-name>
+    <display-name lang="es">mitele viajes HD</display-name>
+    <display-name lang="es">mitele viajes FHD</display-name>
+    <display-name lang="es">mitele viajes UHD</display-name>
+    <display-name lang="es">mitele viajes 720</display-name>
+    <display-name lang="es">mitele viajes 1080</display-name>
+    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/mitele%20viajes.png" />
+  </channel>
+  <channel id="mitele plus lqsa">
+    <display-name lang="es">mitele plus lqsa</display-name>
+    <display-name lang="es">mitele plus lqsa.</display-name>
+    <display-name lang="es">mitele plus lqsa SD</display-name>
+    <display-name lang="es">mitele plus lqsa HD</display-name>
+    <display-name lang="es">mitele plus lqsa FHD</display-name>
+    <display-name lang="es">mitele plus lqsa UHD</display-name>
+    <display-name lang="es">mitele plus lqsa 720</display-name>
+    <display-name lang="es">mitele plus lqsa 1080</display-name>
+    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/mitele%20plus%20lqsa.png" />
   </channel>
   <channel id="mitele comedia">
     <display-name lang="es">mitele comedia</display-name>
@@ -3916,16 +3960,38 @@
     <display-name lang="es">mitele comedia 1080</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/mitele%20comedia.png" />
   </channel>
-  <channel id="mitele viajes">
-    <display-name lang="es">mitele viajes</display-name>
-    <display-name lang="es">mitele viajes.</display-name>
-    <display-name lang="es">mitele viajes SD</display-name>
-    <display-name lang="es">mitele viajes HD</display-name>
-    <display-name lang="es">mitele viajes FHD</display-name>
-    <display-name lang="es">mitele viajes UHD</display-name>
-    <display-name lang="es">mitele viajes 720</display-name>
-    <display-name lang="es">mitele viajes 1080</display-name>
-    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/mitele%20viajes.png" />
+  <channel id="mitele top series">
+    <display-name lang="es">mitele top series</display-name>
+    <display-name lang="es">mitele top series.</display-name>
+    <display-name lang="es">mitele top series SD</display-name>
+    <display-name lang="es">mitele top series HD</display-name>
+    <display-name lang="es">mitele top series FHD</display-name>
+    <display-name lang="es">mitele top series UHD</display-name>
+    <display-name lang="es">mitele top series 720</display-name>
+    <display-name lang="es">mitele top series 1080</display-name>
+    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/mitele%20top%20series.png" />
+  </channel>
+  <channel id="acontra+">
+    <display-name lang="es">acontra+</display-name>
+    <display-name lang="es">acontra+.</display-name>
+    <display-name lang="es">acontra+ SD</display-name>
+    <display-name lang="es">acontra+ HD</display-name>
+    <display-name lang="es">acontra+ FHD</display-name>
+    <display-name lang="es">acontra+ UHD</display-name>
+    <display-name lang="es">acontra+ 720</display-name>
+    <display-name lang="es">acontra+ 1080</display-name>
+    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/acontra%2B.png" />
+  </channel>
+  <channel id="A1 Padel">
+    <display-name lang="es">A1 Padel</display-name>
+    <display-name lang="es">A1 Padel.</display-name>
+    <display-name lang="es">A1 Padel SD</display-name>
+    <display-name lang="es">A1 Padel HD</display-name>
+    <display-name lang="es">A1 Padel FHD</display-name>
+    <display-name lang="es">A1 Padel UHD</display-name>
+    <display-name lang="es">A1 Padel 720</display-name>
+    <display-name lang="es">A1 Padel 1080</display-name>
+    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/A1%20Padel.png" />
   </channel>
   <channel id="Concert Channel">
     <display-name lang="es">Concert Channel</display-name>
@@ -4499,16 +4565,16 @@
     <display-name lang="es">INTI 1080</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/INTI.png" />
   </channel>
-  <channel id="Vive Kanal D Drama">
-    <display-name lang="es">Vive Kanal D Drama</display-name>
-    <display-name lang="es">Vive Kanal D Drama.</display-name>
-    <display-name lang="es">Vive Kanal D Drama SD</display-name>
-    <display-name lang="es">Vive Kanal D Drama HD</display-name>
-    <display-name lang="es">Vive Kanal D Drama FHD</display-name>
-    <display-name lang="es">Vive Kanal D Drama UHD</display-name>
-    <display-name lang="es">Vive Kanal D Drama 720</display-name>
-    <display-name lang="es">Vive Kanal D Drama 1080</display-name>
-    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Vive%20Kanal%20D%20Drama.png" />
+  <channel id="Kanal D Drama">
+    <display-name lang="es">Kanal D Drama</display-name>
+    <display-name lang="es">Kanal D Drama.</display-name>
+    <display-name lang="es">Kanal D Drama SD</display-name>
+    <display-name lang="es">Kanal D Drama HD</display-name>
+    <display-name lang="es">Kanal D Drama FHD</display-name>
+    <display-name lang="es">Kanal D Drama UHD</display-name>
+    <display-name lang="es">Kanal D Drama 720</display-name>
+    <display-name lang="es">Kanal D Drama 1080</display-name>
+    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Kanal%20D%20Drama.png" />
   </channel>
   <channel id="Vivir con gatos">
     <display-name lang="es">Vivir con gatos</display-name>
