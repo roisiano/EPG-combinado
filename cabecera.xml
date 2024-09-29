@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tv generator-info-name="dobleM 27/09/2024 20:50" generator-info-url="t.me/EPG_dobleM">
+<tv generator-info-name="dobleM 28/09/2024 20:50" generator-info-url="t.me/EPG_dobleM">
   <channel id="La 1 HD">
     <display-name lang="es">La 1</display-name>
     <display-name lang="es">La 1.</display-name>
@@ -2145,28 +2145,6 @@
     <display-name lang="es">Ilorci 1080</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Ilorci.png" />
   </channel>
-  <channel id="VE">
-    <display-name lang="es">VE</display-name>
-    <display-name lang="es">VE.</display-name>
-    <display-name lang="es">VE SD</display-name>
-    <display-name lang="es">VE HD</display-name>
-    <display-name lang="es">VE FHD</display-name>
-    <display-name lang="es">VE UHD</display-name>
-    <display-name lang="es">VE 720</display-name>
-    <display-name lang="es">VE 1080</display-name>
-    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/VE.png" />
-  </channel>
-  <channel id="Jamilena">
-    <display-name lang="es">Jamilena</display-name>
-    <display-name lang="es">Jamilena.</display-name>
-    <display-name lang="es">Jamilena SD</display-name>
-    <display-name lang="es">Jamilena HD</display-name>
-    <display-name lang="es">Jamilena FHD</display-name>
-    <display-name lang="es">Jamilena UHD</display-name>
-    <display-name lang="es">Jamilena 720</display-name>
-    <display-name lang="es">Jamilena 1080</display-name>
-    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Jamilena.png" />
-  </channel>
   <channel id="Lebrija TV">
     <display-name lang="es">Lebrija TV</display-name>
     <display-name lang="es">Lebrija TV.</display-name>
@@ -2210,17 +2188,6 @@
     <display-name lang="es">Vicomartele 720</display-name>
     <display-name lang="es">Vicomartele 1080</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Vicomartele.png" />
-  </channel>
-  <channel id="UcubiTV">
-    <display-name lang="es">UcubiTV</display-name>
-    <display-name lang="es">UcubiTV.</display-name>
-    <display-name lang="es">UcubiTV SD</display-name>
-    <display-name lang="es">UcubiTV HD</display-name>
-    <display-name lang="es">UcubiTV FHD</display-name>
-    <display-name lang="es">UcubiTV UHD</display-name>
-    <display-name lang="es">UcubiTV 720</display-name>
-    <display-name lang="es">UcubiTV 1080</display-name>
-    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/UcubiTV.png" />
   </channel>
   <channel id="La Rambla TV">
     <display-name lang="es">La Rambla TV</display-name>
@@ -3112,6 +3079,17 @@
     <display-name lang="es">Pitufo TV 720</display-name>
     <display-name lang="es">Pitufo TV 1080</display-name>
     <icon src="https://media.tvup.cloud/canales/color_lg_6523ac255350806fd25f836e.png" />
+  </channel>
+  <channel id="Wedo Big Stories">
+    <display-name lang="es">Wedo Big Stories</display-name>
+    <display-name lang="es">Wedo Big Stories.</display-name>
+    <display-name lang="es">Wedo Big Stories SD</display-name>
+    <display-name lang="es">Wedo Big Stories HD</display-name>
+    <display-name lang="es">Wedo Big Stories FHD</display-name>
+    <display-name lang="es">Wedo Big Stories UHD</display-name>
+    <display-name lang="es">Wedo Big Stories 720</display-name>
+    <display-name lang="es">Wedo Big Stories 1080</display-name>
+    <icon src="https://media.tvup.cloud/canales/color_lg_6526c2098c7faec4bfbad910.png" />
   </channel>
   <channel id="Action Hollywood Movies">
     <display-name lang="es">Action Hollywood Movies</display-name>
