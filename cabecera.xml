@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tv generator-info-name="dobleM 28/09/2024 20:50" generator-info-url="t.me/EPG_dobleM">
+<tv generator-info-name="dobleM 29/09/2024 20:50" generator-info-url="t.me/EPG_dobleM">
   <channel id="La 1 HD">
     <display-name lang="es">La 1</display-name>
     <display-name lang="es">La 1.</display-name>
@@ -2189,6 +2189,17 @@
     <display-name lang="es">Vicomartele 1080</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Vicomartele.png" />
   </channel>
+  <channel id="UcubiTV">
+    <display-name lang="es">UcubiTV</display-name>
+    <display-name lang="es">UcubiTV.</display-name>
+    <display-name lang="es">UcubiTV SD</display-name>
+    <display-name lang="es">UcubiTV HD</display-name>
+    <display-name lang="es">UcubiTV FHD</display-name>
+    <display-name lang="es">UcubiTV UHD</display-name>
+    <display-name lang="es">UcubiTV 720</display-name>
+    <display-name lang="es">UcubiTV 1080</display-name>
+    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/UcubiTV.png" />
+  </channel>
   <channel id="La Rambla TV">
     <display-name lang="es">La Rambla TV</display-name>
     <display-name lang="es">La Rambla TV.</display-name>
@@ -2364,17 +2375,6 @@
     <display-name lang="es">Telecuervo 720</display-name>
     <display-name lang="es">Telecuervo 1080</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Telecuervo.png" />
-  </channel>
-  <channel id="Doce TV Mairena">
-    <display-name lang="es">Doce TV Mairena</display-name>
-    <display-name lang="es">Doce TV Mairena.</display-name>
-    <display-name lang="es">Doce TV Mairena SD</display-name>
-    <display-name lang="es">Doce TV Mairena HD</display-name>
-    <display-name lang="es">Doce TV Mairena FHD</display-name>
-    <display-name lang="es">Doce TV Mairena UHD</display-name>
-    <display-name lang="es">Doce TV Mairena 720</display-name>
-    <display-name lang="es">Doce TV Mairena 1080</display-name>
-    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Doce%20TV%20Mairena.png" />
   </channel>
   <channel id="Atalaya">
     <display-name lang="es">Atalaya</display-name>
@@ -3080,17 +3080,6 @@
     <display-name lang="es">Pitufo TV 1080</display-name>
     <icon src="https://media.tvup.cloud/canales/color_lg_6523ac255350806fd25f836e.png" />
   </channel>
-  <channel id="Wedo Big Stories">
-    <display-name lang="es">Wedo Big Stories</display-name>
-    <display-name lang="es">Wedo Big Stories.</display-name>
-    <display-name lang="es">Wedo Big Stories SD</display-name>
-    <display-name lang="es">Wedo Big Stories HD</display-name>
-    <display-name lang="es">Wedo Big Stories FHD</display-name>
-    <display-name lang="es">Wedo Big Stories UHD</display-name>
-    <display-name lang="es">Wedo Big Stories 720</display-name>
-    <display-name lang="es">Wedo Big Stories 1080</display-name>
-    <icon src="https://media.tvup.cloud/canales/color_lg_6526c2098c7faec4bfbad910.png" />
-  </channel>
   <channel id="Action Hollywood Movies">
     <display-name lang="es">Action Hollywood Movies</display-name>
     <display-name lang="es">Action Hollywood Movies.</display-name>
@@ -3200,17 +3189,6 @@
     <display-name lang="es">Heritage+ 720</display-name>
     <display-name lang="es">Heritage+ 1080</display-name>
     <icon src="https://media.tvup.cloud/canales/color_lg_659d3d524bac394af54b4a0e.png" />
-  </channel>
-  <channel id="4K Travel TV">
-    <display-name lang="es">4K Travel TV</display-name>
-    <display-name lang="es">4K Travel TV.</display-name>
-    <display-name lang="es">4K Travel TV SD</display-name>
-    <display-name lang="es">4K Travel TV HD</display-name>
-    <display-name lang="es">4K Travel TV FHD</display-name>
-    <display-name lang="es">4K Travel TV UHD</display-name>
-    <display-name lang="es">4K Travel TV 720</display-name>
-    <display-name lang="es">4K Travel TV 1080</display-name>
-    <icon src="https://media.tvup.cloud/canales/color_lg_659d3b62f4e3ab06e97db5be.png" />
   </channel>
   <channel id="Xtrem Sports">
     <display-name lang="es">Xtrem Sports</display-name>
