@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tv generator-info-name="dobleM 06/10/2024 20:50" generator-info-url="t.me/EPG_dobleM">
+<tv generator-info-name="dobleM 07/10/2024 20:50" generator-info-url="t.me/EPG_dobleM">
   <channel id="La 1 HD">
     <display-name lang="es">La 1</display-name>
     <display-name lang="es">La 1.</display-name>
@@ -2068,28 +2068,6 @@
     <display-name lang="es">DAZN F1 BAR 1080</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20F1%20BAR.png" />
   </channel>
-  <channel id="DAZN 1 BAR">
-    <display-name lang="es">DAZN 1 BAR</display-name>
-    <display-name lang="es">DAZN 1 BAR.</display-name>
-    <display-name lang="es">DAZN 1 BAR SD</display-name>
-    <display-name lang="es">DAZN 1 BAR HD</display-name>
-    <display-name lang="es">DAZN 1 BAR FHD</display-name>
-    <display-name lang="es">DAZN 1 BAR.U.HD</display-name>
-    <display-name lang="es">DAZN 1 BAR 720</display-name>
-    <display-name lang="es">DAZN 1 BAR 1080</display-name>
-    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%201%20BAR.png" />
-  </channel>
-  <channel id="DAZN 2 BAR">
-    <display-name lang="es">DAZN 2 BAR</display-name>
-    <display-name lang="es">DAZN 2 BAR.</display-name>
-    <display-name lang="es">DAZN 2 BAR SD</display-name>
-    <display-name lang="es">DAZN 2 BAR HD</display-name>
-    <display-name lang="es">DAZN 2 BAR FHD</display-name>
-    <display-name lang="es">DAZN 2 BAR.U.HD</display-name>
-    <display-name lang="es">DAZN 2 BAR 720</display-name>
-    <display-name lang="es">DAZN 2 BAR 1080</display-name>
-    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%202%20BAR.png" />
-  </channel>
   <channel id="Ilorci">
     <display-name lang="es">Ilorci</display-name>
     <display-name lang="es">Ilorci.</display-name>
@@ -2111,6 +2089,17 @@
     <display-name lang="es">VE 720</display-name>
     <display-name lang="es">VE 1080</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/VE.png" />
+  </channel>
+  <channel id="Jamilena">
+    <display-name lang="es">Jamilena</display-name>
+    <display-name lang="es">Jamilena.</display-name>
+    <display-name lang="es">Jamilena SD</display-name>
+    <display-name lang="es">Jamilena HD</display-name>
+    <display-name lang="es">Jamilena FHD</display-name>
+    <display-name lang="es">Jamilena UHD</display-name>
+    <display-name lang="es">Jamilena 720</display-name>
+    <display-name lang="es">Jamilena 1080</display-name>
+    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Jamilena.png" />
   </channel>
   <channel id="Lebrija TV">
     <display-name lang="es">Lebrija TV</display-name>
@@ -2144,6 +2133,17 @@
     <display-name lang="es">Vivir Torredelcampo TV 720</display-name>
     <display-name lang="es">Vivir Torredelcampo TV 1080</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Vivir%20Torredelcampo%20TV.png" />
+  </channel>
+  <channel id="Vicomartele">
+    <display-name lang="es">Vicomartele</display-name>
+    <display-name lang="es">Vicomartele.</display-name>
+    <display-name lang="es">Vicomartele SD</display-name>
+    <display-name lang="es">Vicomartele HD</display-name>
+    <display-name lang="es">Vicomartele FHD</display-name>
+    <display-name lang="es">Vicomartele UHD</display-name>
+    <display-name lang="es">Vicomartele 720</display-name>
+    <display-name lang="es">Vicomartele 1080</display-name>
+    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Vicomartele.png" />
   </channel>
   <channel id="La Rambla TV">
     <display-name lang="es">La Rambla TV</display-name>
@@ -2321,17 +2321,6 @@
     <display-name lang="es">Telecuervo 1080</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Telecuervo.png" />
   </channel>
-  <channel id="Doce TV Mairena">
-    <display-name lang="es">Doce TV Mairena</display-name>
-    <display-name lang="es">Doce TV Mairena.</display-name>
-    <display-name lang="es">Doce TV Mairena SD</display-name>
-    <display-name lang="es">Doce TV Mairena HD</display-name>
-    <display-name lang="es">Doce TV Mairena FHD</display-name>
-    <display-name lang="es">Doce TV Mairena UHD</display-name>
-    <display-name lang="es">Doce TV Mairena 720</display-name>
-    <display-name lang="es">Doce TV Mairena 1080</display-name>
-    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Doce%20TV%20Mairena.png" />
-  </channel>
   <channel id="Atalaya">
     <display-name lang="es">Atalaya</display-name>
     <display-name lang="es">Atalaya.</display-name>
@@ -2386,17 +2375,6 @@
     <display-name lang="es">tlnovelas 720</display-name>
     <display-name lang="es">tlnovelas 1080</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/tlnovelas.png" />
-  </channel>
-  <channel id="PTV Malaga">
-    <display-name lang="es">PTV Malaga</display-name>
-    <display-name lang="es">PTV Malaga.</display-name>
-    <display-name lang="es">PTV Malaga SD</display-name>
-    <display-name lang="es">PTV Malaga HD</display-name>
-    <display-name lang="es">PTV Malaga FHD</display-name>
-    <display-name lang="es">PTV Malaga UHD</display-name>
-    <display-name lang="es">PTV Malaga 720</display-name>
-    <display-name lang="es">PTV Malaga 1080</display-name>
-    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/PTV%20Malaga.png" />
   </channel>
   <channel id="PTV Cordoba">
     <display-name lang="es">PTV Cordoba</display-name>
@@ -2958,6 +2936,17 @@
     <display-name lang="es">Willy Fog &amp; Friends 720</display-name>
     <display-name lang="es">Willy Fog &amp; Friends 1080</display-name>
     <icon src="https://media.tvup.cloud/canales/color_lg_6479dd1666328d12f0eb0843.png" />
+  </channel>
+  <channel id="La Liga Inside">
+    <display-name lang="es">La Liga Inside</display-name>
+    <display-name lang="es">La Liga Inside.</display-name>
+    <display-name lang="es">La Liga Inside SD</display-name>
+    <display-name lang="es">La Liga Inside HD</display-name>
+    <display-name lang="es">La Liga Inside FHD</display-name>
+    <display-name lang="es">La Liga Inside UHD</display-name>
+    <display-name lang="es">La Liga Inside 720</display-name>
+    <display-name lang="es">La Liga Inside 1080</display-name>
+    <icon src="https://media.tvup.cloud/canales/color_lg_654b7c53df47884c5b032b4e.png" />
   </channel>
   <channel id="La Media inglesa">
     <display-name lang="es">La Media inglesa</display-name>
