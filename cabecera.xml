@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tv generator-info-name="dobleM 08/10/2024 20:50" generator-info-url="t.me/EPG_dobleM">
+<tv generator-info-name="dobleM 09/10/2024 20:50" generator-info-url="t.me/EPG_dobleM">
   <channel id="La 1 HD">
     <display-name lang="es">La 1</display-name>
     <display-name lang="es">La 1.</display-name>
@@ -2156,6 +2156,17 @@
     <display-name lang="es">Vicomartele 1080</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Vicomartele.png" />
   </channel>
+  <channel id="UcubiTV">
+    <display-name lang="es">UcubiTV</display-name>
+    <display-name lang="es">UcubiTV.</display-name>
+    <display-name lang="es">UcubiTV SD</display-name>
+    <display-name lang="es">UcubiTV HD</display-name>
+    <display-name lang="es">UcubiTV FHD</display-name>
+    <display-name lang="es">UcubiTV UHD</display-name>
+    <display-name lang="es">UcubiTV 720</display-name>
+    <display-name lang="es">UcubiTV 1080</display-name>
+    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/UcubiTV.png" />
+  </channel>
   <channel id="La Rambla TV">
     <display-name lang="es">La Rambla TV</display-name>
     <display-name lang="es">La Rambla TV.</display-name>
@@ -2606,6 +2617,17 @@
     <display-name lang="es">Futsal TV 4 Masculino 720</display-name>
     <display-name lang="es">Futsal TV 4 Masculino 1080</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Futsal%20TV%204%20Masculino.png" />
+  </channel>
+  <channel id="Futsal TV 5 Masculino">
+    <display-name lang="es">Futsal TV 5 Masculino</display-name>
+    <display-name lang="es">Futsal TV 5 Masculino.</display-name>
+    <display-name lang="es">Futsal TV 5 Masculino SD</display-name>
+    <display-name lang="es">Futsal TV 5 Masculino HD</display-name>
+    <display-name lang="es">Futsal TV 5 Masculino FHD</display-name>
+    <display-name lang="es">Futsal TV 5 Masculino UHD</display-name>
+    <display-name lang="es">Futsal TV 5 Masculino 720</display-name>
+    <display-name lang="es">Futsal TV 5 Masculino 1080</display-name>
+    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Futsal%20TV%205%20Masculino.png" />
   </channel>
   <channel id="DAZN LaLiga Femenina 1">
     <display-name lang="es">DAZN LaLiga Femenina 1</display-name>
@@ -3178,17 +3200,6 @@
     <display-name lang="es">Heritage+ 720</display-name>
     <display-name lang="es">Heritage+ 1080</display-name>
     <icon src="https://media.tvup.cloud/canales/color_lg_659d3d524bac394af54b4a0e.png" />
-  </channel>
-  <channel id="4K Travel TV">
-    <display-name lang="es">4K Travel TV</display-name>
-    <display-name lang="es">4K Travel TV.</display-name>
-    <display-name lang="es">4K Travel TV SD</display-name>
-    <display-name lang="es">4K Travel TV HD</display-name>
-    <display-name lang="es">4K Travel TV FHD</display-name>
-    <display-name lang="es">4K Travel TV UHD</display-name>
-    <display-name lang="es">4K Travel TV 720</display-name>
-    <display-name lang="es">4K Travel TV 1080</display-name>
-    <icon src="https://media.tvup.cloud/canales/color_lg_659d3b62f4e3ab06e97db5be.png" />
   </channel>
   <channel id="Xtrem Sports">
     <display-name lang="es">Xtrem Sports</display-name>
