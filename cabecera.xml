@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tv generator-info-name="dobleM 09/10/2024 20:50" generator-info-url="t.me/EPG_dobleM">
+<tv generator-info-name="dobleM 10/10/2024 20:50" generator-info-url="t.me/EPG_dobleM">
   <channel id="La 1 HD">
     <display-name lang="es">La 1</display-name>
     <display-name lang="es">La 1.</display-name>
@@ -2046,6 +2046,105 @@
     <display-name lang="es">Liga de Campeones BAR 3 1080</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Liga%20de%20Campeones%20BAR%203.png" />
   </channel>
+  <channel id="Liga de Campeones BAR 4">
+    <display-name lang="es">Liga de Campeones BAR 4</display-name>
+    <display-name lang="es">Liga de Campeones BAR 4.</display-name>
+    <display-name lang="es">Liga de Campeones BAR 4 SD</display-name>
+    <display-name lang="es">Liga de Campeones BAR 4 HD</display-name>
+    <display-name lang="es">Liga de Campeones BAR 4 FHD</display-name>
+    <display-name lang="es">Liga de Campeones BAR 4 UHD</display-name>
+    <display-name lang="es">Liga de Campeones BAR 4 720</display-name>
+    <display-name lang="es">Liga de Campeones BAR 4 1080</display-name>
+    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Liga%20de%20Campeones%20BAR%204.png" />
+  </channel>
+  <channel id="Liga de Campeones BAR 5">
+    <display-name lang="es">Liga de Campeones BAR 5</display-name>
+    <display-name lang="es">Liga de Campeones BAR 5.</display-name>
+    <display-name lang="es">Liga de Campeones BAR 5 SD</display-name>
+    <display-name lang="es">Liga de Campeones BAR 5 HD</display-name>
+    <display-name lang="es">Liga de Campeones BAR 5 FHD</display-name>
+    <display-name lang="es">Liga de Campeones BAR 5 UHD</display-name>
+    <display-name lang="es">Liga de Campeones BAR 5 720</display-name>
+    <display-name lang="es">Liga de Campeones BAR 5 1080</display-name>
+    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Liga%20de%20Campeones%20BAR%205.png" />
+  </channel>
+  <channel id="Liga de Campeones BAR 6">
+    <display-name lang="es">Liga de Campeones BAR 6</display-name>
+    <display-name lang="es">Liga de Campeones BAR 6.</display-name>
+    <display-name lang="es">Liga de Campeones BAR 6 SD</display-name>
+    <display-name lang="es">Liga de Campeones BAR 6 HD</display-name>
+    <display-name lang="es">Liga de Campeones BAR 6 FHD</display-name>
+    <display-name lang="es">Liga de Campeones BAR 6 UHD</display-name>
+    <display-name lang="es">Liga de Campeones BAR 6 720</display-name>
+    <display-name lang="es">Liga de Campeones BAR 6 1080</display-name>
+    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Liga%20de%20Campeones%20BAR%206.png" />
+  </channel>
+  <channel id="Liga de Campeones BAR 7">
+    <display-name lang="es">Liga de Campeones BAR 7</display-name>
+    <display-name lang="es">Liga de Campeones BAR 7.</display-name>
+    <display-name lang="es">Liga de Campeones BAR 7 SD</display-name>
+    <display-name lang="es">Liga de Campeones BAR 7 HD</display-name>
+    <display-name lang="es">Liga de Campeones BAR 7 FHD</display-name>
+    <display-name lang="es">Liga de Campeones BAR 7 UHD</display-name>
+    <display-name lang="es">Liga de Campeones BAR 7 720</display-name>
+    <display-name lang="es">Liga de Campeones BAR 7 1080</display-name>
+    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Liga%20de%20Campeones%20BAR%207.png" />
+  </channel>
+  <channel id="Liga de Campeones BAR 8">
+    <display-name lang="es">Liga de Campeones BAR 8</display-name>
+    <display-name lang="es">Liga de Campeones BAR 8.</display-name>
+    <display-name lang="es">Liga de Campeones BAR 8 SD</display-name>
+    <display-name lang="es">Liga de Campeones BAR 8 HD</display-name>
+    <display-name lang="es">Liga de Campeones BAR 8 FHD</display-name>
+    <display-name lang="es">Liga de Campeones BAR 8 UHD</display-name>
+    <display-name lang="es">Liga de Campeones BAR 8 720</display-name>
+    <display-name lang="es">Liga de Campeones BAR 8 1080</display-name>
+    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Liga%20de%20Campeones%20BAR%208.png" />
+  </channel>
+  <channel id="Liga de Campeones BAR 9">
+    <display-name lang="es">Liga de Campeones BAR 9</display-name>
+    <display-name lang="es">Liga de Campeones BAR 9.</display-name>
+    <display-name lang="es">Liga de Campeones BAR 9 SD</display-name>
+    <display-name lang="es">Liga de Campeones BAR 9 HD</display-name>
+    <display-name lang="es">Liga de Campeones BAR 9 FHD</display-name>
+    <display-name lang="es">Liga de Campeones BAR 9 UHD</display-name>
+    <display-name lang="es">Liga de Campeones BAR 9 720</display-name>
+    <display-name lang="es">Liga de Campeones BAR 9 1080</display-name>
+    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Liga%20de%20Campeones%20BAR%209.png" />
+  </channel>
+  <channel id="Liga de Campeones BAR 10">
+    <display-name lang="es">Liga de Campeones BAR 10</display-name>
+    <display-name lang="es">Liga de Campeones BAR 10.</display-name>
+    <display-name lang="es">Liga de Campeones BAR 10 SD</display-name>
+    <display-name lang="es">Liga de Campeones BAR 10 HD</display-name>
+    <display-name lang="es">Liga de Campeones BAR 10 FHD</display-name>
+    <display-name lang="es">Liga de Campeones BAR 10 UHD</display-name>
+    <display-name lang="es">Liga de Campeones BAR 10 720</display-name>
+    <display-name lang="es">Liga de Campeones BAR 10 1080</display-name>
+    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Liga%20de%20Campeones%20BAR%2010.png" />
+  </channel>
+  <channel id="Liga de Campeones BAR 11">
+    <display-name lang="es">Liga de Campeones BAR 11</display-name>
+    <display-name lang="es">Liga de Campeones BAR 11.</display-name>
+    <display-name lang="es">Liga de Campeones BAR 11 SD</display-name>
+    <display-name lang="es">Liga de Campeones BAR 11 HD</display-name>
+    <display-name lang="es">Liga de Campeones BAR 11 FHD</display-name>
+    <display-name lang="es">Liga de Campeones BAR 11 UHD</display-name>
+    <display-name lang="es">Liga de Campeones BAR 11 720</display-name>
+    <display-name lang="es">Liga de Campeones BAR 11 1080</display-name>
+    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Liga%20de%20Campeones%20BAR%2011.png" />
+  </channel>
+  <channel id="Liga de Campeones BAR 12">
+    <display-name lang="es">Liga de Campeones BAR 12</display-name>
+    <display-name lang="es">Liga de Campeones BAR 12.</display-name>
+    <display-name lang="es">Liga de Campeones BAR 12 SD</display-name>
+    <display-name lang="es">Liga de Campeones BAR 12 HD</display-name>
+    <display-name lang="es">Liga de Campeones BAR 12 FHD</display-name>
+    <display-name lang="es">Liga de Campeones BAR 12 UHD</display-name>
+    <display-name lang="es">Liga de Campeones BAR 12 720</display-name>
+    <display-name lang="es">Liga de Campeones BAR 12 1080</display-name>
+    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Liga%20de%20Campeones%20BAR%2012.png" />
+  </channel>
   <channel id="GolStadium BAR">
     <display-name lang="es">GolStadium BAR</display-name>
     <display-name lang="es">GolStadium BAR.</display-name>
@@ -2397,6 +2496,17 @@
     <display-name lang="es">tlnovelas 720</display-name>
     <display-name lang="es">tlnovelas 1080</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/tlnovelas.png" />
+  </channel>
+  <channel id="PTV Malaga">
+    <display-name lang="es">PTV Malaga</display-name>
+    <display-name lang="es">PTV Malaga.</display-name>
+    <display-name lang="es">PTV Malaga SD</display-name>
+    <display-name lang="es">PTV Malaga HD</display-name>
+    <display-name lang="es">PTV Malaga FHD</display-name>
+    <display-name lang="es">PTV Malaga UHD</display-name>
+    <display-name lang="es">PTV Malaga 720</display-name>
+    <display-name lang="es">PTV Malaga 1080</display-name>
+    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/PTV%20Malaga.png" />
   </channel>
   <channel id="PTV Cordoba">
     <display-name lang="es">PTV Cordoba</display-name>
@@ -3200,6 +3310,17 @@
     <display-name lang="es">Heritage+ 720</display-name>
     <display-name lang="es">Heritage+ 1080</display-name>
     <icon src="https://media.tvup.cloud/canales/color_lg_659d3d524bac394af54b4a0e.png" />
+  </channel>
+  <channel id="4K Travel TV">
+    <display-name lang="es">4K Travel TV</display-name>
+    <display-name lang="es">4K Travel TV.</display-name>
+    <display-name lang="es">4K Travel TV SD</display-name>
+    <display-name lang="es">4K Travel TV HD</display-name>
+    <display-name lang="es">4K Travel TV FHD</display-name>
+    <display-name lang="es">4K Travel TV UHD</display-name>
+    <display-name lang="es">4K Travel TV 720</display-name>
+    <display-name lang="es">4K Travel TV 1080</display-name>
+    <icon src="https://media.tvup.cloud/canales/color_lg_659d3b62f4e3ab06e97db5be.png" />
   </channel>
   <channel id="Xtrem Sports">
     <display-name lang="es">Xtrem Sports</display-name>
