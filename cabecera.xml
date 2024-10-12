@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tv generator-info-name="dobleM 10/10/2024 20:50" generator-info-url="t.me/EPG_dobleM">
+<tv generator-info-name="dobleM 11/10/2024 20:50" generator-info-url="t.me/EPG_dobleM">
   <channel id="La 1 HD">
     <display-name lang="es">La 1</display-name>
     <display-name lang="es">La 1.</display-name>
@@ -4959,7 +4959,6 @@
     <display-name lang="es">MyPadel TV UHD</display-name>
     <display-name lang="es">MyPadel TV 720</display-name>
     <display-name lang="es">MyPadel TV 1080</display-name>
-    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/MyPadel%20TV.png" />
   </channel>
   <channel id="PAC-12 Insider">
     <display-name lang="es">PAC-12 Insider</display-name>
@@ -4970,7 +4969,6 @@
     <display-name lang="es">PAC-12 Insider UHD</display-name>
     <display-name lang="es">PAC-12 Insider 720</display-name>
     <display-name lang="es">PAC-12 Insider 1080</display-name>
-    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/PAC-12%20Insider.png" />
   </channel>
   <channel id="USGA TV">
     <display-name lang="es">USGA TV</display-name>
@@ -4981,7 +4979,6 @@
     <display-name lang="es">USGA TV UHD</display-name>
     <display-name lang="es">USGA TV 720</display-name>
     <display-name lang="es">USGA TV 1080</display-name>
-    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/USGA%20TV.png" />
   </channel>
   <channel id="EDGEsport">
     <display-name lang="es">EDGEsport</display-name>
@@ -4992,7 +4989,6 @@
     <display-name lang="es">EDGEsport UHD</display-name>
     <display-name lang="es">EDGEsport 720</display-name>
     <display-name lang="es">EDGEsport 1080</display-name>
-    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/EDGEsport.png" />
   </channel>
   <channel id="Motorsport TV">
     <display-name lang="es">Motorsport TV</display-name>
@@ -5003,7 +4999,6 @@
     <display-name lang="es">Motorsport TV UHD</display-name>
     <display-name lang="es">Motorsport TV 720</display-name>
     <display-name lang="es">Motorsport TV 1080</display-name>
-    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Motorsport%20TV.png" />
   </channel>
   <channel id="Nautical Channel">
     <display-name lang="es">Nautical Channel</display-name>
@@ -5014,7 +5009,6 @@
     <display-name lang="es">Nautical Channel UHD</display-name>
     <display-name lang="es">Nautical Channel 720</display-name>
     <display-name lang="es">Nautical Channel 1080</display-name>
-    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Nautical%20Channel.png" />
   </channel>
   <channel id="Ski TV">
     <display-name lang="es">Ski TV</display-name>
@@ -5025,7 +5019,6 @@
     <display-name lang="es">Ski TV UHD</display-name>
     <display-name lang="es">Ski TV 720</display-name>
     <display-name lang="es">Ski TV 1080</display-name>
-    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Ski%20TV.png" />
   </channel>
   <channel id="World of Freesports">
     <display-name lang="es">World of Freesports</display-name>
@@ -5036,7 +5029,6 @@
     <display-name lang="es">World of Freesports UHD</display-name>
     <display-name lang="es">World of Freesports 720</display-name>
     <display-name lang="es">World of Freesports 1080</display-name>
-    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/World%20of%20Freesports.png" />
   </channel>
   <channel id="Powder">
     <display-name lang="es">Powder</display-name>
@@ -5047,7 +5039,6 @@
     <display-name lang="es">Powder UHD</display-name>
     <display-name lang="es">Powder 720</display-name>
     <display-name lang="es">Powder 1080</display-name>
-    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Powder.png" />
   </channel>
   <channel id="Tennis Channel">
     <display-name lang="es">Tennis Channel</display-name>
@@ -5058,7 +5049,6 @@
     <display-name lang="es">Tennis Channel UHD</display-name>
     <display-name lang="es">Tennis Channel 720</display-name>
     <display-name lang="es">Tennis Channel 1080</display-name>
-    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Tennis%20Channel.png" />
   </channel>
   <channel id="PT | MCM TOP HD">
     <display-name lang="es">PT | MCM TOP</display-name>
