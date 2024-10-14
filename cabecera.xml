@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tv generator-info-name="dobleM 12/10/2024 22:38" generator-info-url="t.me/EPG_dobleM">
+<tv generator-info-name="dobleM 13/10/2024 20:50" generator-info-url="t.me/EPG_dobleM">
   <channel id="La 1 HD">
     <display-name lang="es">La 1</display-name>
     <display-name lang="es">La 1.</display-name>
@@ -515,6 +515,7 @@
     <display-name lang="es">Enfamilia UHD</display-name>
     <display-name lang="es">Enfamilia 720</display-name>
     <display-name lang="es">Enfamilia 1080</display-name>
+    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Enfamilia.png" />
   </channel>
   <channel id="Baby TV">
     <display-name lang="es">Baby TV</display-name>
@@ -1471,6 +1472,7 @@
     <display-name lang="es">Betevé UHD</display-name>
     <display-name lang="es">Betevé 720</display-name>
     <display-name lang="es">Betevé 1080</display-name>
+    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Betev%C3%A9.png" />
   </channel>
   <channel id="Canal Fútbol Replay">
     <display-name lang="es">Canal Fútbol Replay</display-name>
@@ -1481,6 +1483,7 @@
     <display-name lang="es">Canal Fútbol Replay UHD</display-name>
     <display-name lang="es">Canal Fútbol Replay 720</display-name>
     <display-name lang="es">Canal Fútbol Replay 1080</display-name>
+    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Canal%20F%C3%BAtbol%20Replay.png" />
   </channel>
   <channel id="M+ LaLiga TV 3 HD">
     <display-name lang="es">M+ LaLiga TV 3</display-name>
@@ -2152,17 +2155,6 @@
     <display-name lang="es">GolStadium BAR 720</display-name>
     <display-name lang="es">GolStadium BAR 1080</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/GolStadium%20BAR.png" />
-  </channel>
-  <channel id="DAZN F1 BAR">
-    <display-name lang="es">DAZN F1 BAR</display-name>
-    <display-name lang="es">DAZN F1 BAR.</display-name>
-    <display-name lang="es">DAZN F1 BAR SD</display-name>
-    <display-name lang="es">DAZN F1 BAR HD</display-name>
-    <display-name lang="es">DAZN F1 BAR FHD</display-name>
-    <display-name lang="es">DAZN F1 BAR.U.HD</display-name>
-    <display-name lang="es">DAZN F1 BAR 720</display-name>
-    <display-name lang="es">DAZN F1 BAR 1080</display-name>
-    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20F1%20BAR.png" />
   </channel>
   <channel id="DAZN 1 BAR">
     <display-name lang="es">DAZN 1 BAR</display-name>
@@ -3319,6 +3311,17 @@
     <display-name lang="es">Heritage+ 1080</display-name>
     <icon src="https://media.tvup.cloud/canales/color_lg_659d3d524bac394af54b4a0e.png" />
   </channel>
+  <channel id="4K Travel TV">
+    <display-name lang="es">4K Travel TV</display-name>
+    <display-name lang="es">4K Travel TV.</display-name>
+    <display-name lang="es">4K Travel TV SD</display-name>
+    <display-name lang="es">4K Travel TV HD</display-name>
+    <display-name lang="es">4K Travel TV FHD</display-name>
+    <display-name lang="es">4K Travel TV UHD</display-name>
+    <display-name lang="es">4K Travel TV 720</display-name>
+    <display-name lang="es">4K Travel TV 1080</display-name>
+    <icon src="https://media.tvup.cloud/canales/color_lg_659d3b62f4e3ab06e97db5be.png" />
+  </channel>
   <channel id="Xtrem Sports">
     <display-name lang="es">Xtrem Sports</display-name>
     <display-name lang="es">Xtrem Sports.</display-name>
@@ -3340,6 +3343,17 @@
     <display-name lang="es">Armonía TeVe Sana 720</display-name>
     <display-name lang="es">Armonía TeVe Sana 1080</display-name>
     <icon src="https://media.tvup.cloud/canales/color_lg_659e89f96ec850e29b4fc493.png" />
+  </channel>
+  <channel id="ZUT TV">
+    <display-name lang="es">ZUT TV</display-name>
+    <display-name lang="es">ZUT TV.</display-name>
+    <display-name lang="es">ZUT TV SD</display-name>
+    <display-name lang="es">ZUT TV HD</display-name>
+    <display-name lang="es">ZUT TV FHD</display-name>
+    <display-name lang="es">ZUT TV UHD</display-name>
+    <display-name lang="es">ZUT TV 720</display-name>
+    <display-name lang="es">ZUT TV 1080</display-name>
+    <icon src="https://media.tvup.cloud/canales/color_lg_659e8d1d33a4d3a2376bd1cc.png" />
   </channel>
   <channel id="Flamenco Auditorio">
     <display-name lang="es">Flamenco Auditorio</display-name>
