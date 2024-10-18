@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tv generator-info-name="dobleM 17/10/2024 00:14" generator-info-url="t.me/EPG_dobleM">
+<tv generator-info-name="dobleM 17/10/2024 20:50" generator-info-url="t.me/EPG_dobleM">
   <channel id="La 1 HD">
     <display-name lang="es">La 1</display-name>
     <display-name lang="es">La 1.TV</display-name>
@@ -141,7 +141,7 @@
     <display-name lang="es">M+ Elecciones EE.UU UHD</display-name>
     <display-name lang="es">M+ Elecciones EE.UU 720</display-name>
     <display-name lang="es">M+ Elecciones EE.UU 1080</display-name>
-    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Elecciones%20EE.UU...png" />
+    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Elecciones%20EE.UU..png" />
   </channel>
   <channel id="La Resistencia 24H">
     <display-name lang="es">La Resistencia 24H</display-name>
@@ -2420,6 +2420,17 @@
     <display-name lang="es">Antena Motor 1080</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Antena%20Motor.png" />
   </channel>
+  <channel id="Doce TV Mairena">
+    <display-name lang="es">Doce TV Mairena</display-name>
+    <display-name lang="es">Doce TV Mairena.TV</display-name>
+    <display-name lang="es">Doce TV Mairena SD</display-name>
+    <display-name lang="es">Doce TV Mairena HD</display-name>
+    <display-name lang="es">Doce TV Mairena FHD</display-name>
+    <display-name lang="es">Doce TV Mairena UHD</display-name>
+    <display-name lang="es">Doce TV Mairena 720</display-name>
+    <display-name lang="es">Doce TV Mairena 1080</display-name>
+    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Doce%20TV%20Mairena.png" />
+  </channel>
   <channel id="Atalaya">
     <display-name lang="es">Atalaya</display-name>
     <display-name lang="es">Atalaya.TV</display-name>
@@ -2551,6 +2562,17 @@
     <display-name lang="es">DejateTV 720</display-name>
     <display-name lang="es">DejateTV 1080</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DejateTV.png" />
+  </channel>
+  <channel id="VEO TV">
+    <display-name lang="es">VEO TV</display-name>
+    <display-name lang="es">VEO TV.TV</display-name>
+    <display-name lang="es">VEO TV SD</display-name>
+    <display-name lang="es">VEO TV HD</display-name>
+    <display-name lang="es">VEO TV FHD</display-name>
+    <display-name lang="es">VEO TV UHD</display-name>
+    <display-name lang="es">VEO TV 720</display-name>
+    <display-name lang="es">VEO TV 1080</display-name>
+    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/VEO%20TV.png" />
   </channel>
   <channel id="FEF TV 1 Grupo 1">
     <display-name lang="es">FEF TV 1 Grupo 1</display-name>
@@ -4235,6 +4257,17 @@
     <display-name lang="es">beIN SPORTS XTRA ñ 1080</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/beIN%20SPORTS%20XTRA%20%C3%B1.png" />
   </channel>
+  <channel id="Halloween by DARK">
+    <display-name lang="es">Halloween by DARK</display-name>
+    <display-name lang="es">Halloween by DARK.TV</display-name>
+    <display-name lang="es">Halloween by DARK SD</display-name>
+    <display-name lang="es">Halloween by DARK HD</display-name>
+    <display-name lang="es">Halloween by DARK FHD</display-name>
+    <display-name lang="es">Halloween by DARK UHD</display-name>
+    <display-name lang="es">Halloween by DARK 720</display-name>
+    <display-name lang="es">Halloween by DARK 1080</display-name>
+    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Halloween%20by%20DARK.png" />
+  </channel>
   <channel id="ETB4">
     <display-name lang="es">ETB4</display-name>
     <display-name lang="es">ETB4.TV</display-name>
@@ -4587,28 +4620,6 @@
     <display-name lang="es">OUTtv 1080</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/OUTtv.png" />
   </channel>
-  <channel id="INTI">
-    <display-name lang="es">INTI</display-name>
-    <display-name lang="es">INTI.TV</display-name>
-    <display-name lang="es">INTI SD</display-name>
-    <display-name lang="es">INTI HD</display-name>
-    <display-name lang="es">INTI FHD</display-name>
-    <display-name lang="es">INTI UHD</display-name>
-    <display-name lang="es">INTI 720</display-name>
-    <display-name lang="es">INTI 1080</display-name>
-    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/INTI.png" />
-  </channel>
-  <channel id="Kanal D Drama">
-    <display-name lang="es">Kanal D Drama</display-name>
-    <display-name lang="es">Kanal D Drama.TV</display-name>
-    <display-name lang="es">Kanal D Drama SD</display-name>
-    <display-name lang="es">Kanal D Drama HD</display-name>
-    <display-name lang="es">Kanal D Drama FHD</display-name>
-    <display-name lang="es">Kanal D Drama UHD</display-name>
-    <display-name lang="es">Kanal D Drama 720</display-name>
-    <display-name lang="es">Kanal D Drama 1080</display-name>
-    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Kanal%20D%20Drama.png" />
-  </channel>
   <channel id="Vivir con gatos">
     <display-name lang="es">Vivir con gatos</display-name>
     <display-name lang="es">Vivir con gatos.TV</display-name>
@@ -4917,16 +4928,6 @@
     <display-name lang="es">Gulli 1080</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Gulli.png" />
   </channel>
-  <channel id="MyPadel TV">
-    <display-name lang="es">MyPadel TV</display-name>
-    <display-name lang="es">MyPadel TV.TV</display-name>
-    <display-name lang="es">MyPadel TV SD</display-name>
-    <display-name lang="es">MyPadel TV HD</display-name>
-    <display-name lang="es">MyPadel TV FHD</display-name>
-    <display-name lang="es">MyPadel TV UHD</display-name>
-    <display-name lang="es">MyPadel TV 720</display-name>
-    <display-name lang="es">MyPadel TV 1080</display-name>
-  </channel>
   <channel id="PAC-12 Insider">
     <display-name lang="es">PAC-12 Insider</display-name>
     <display-name lang="es">PAC-12 Insider.TV</display-name>
@@ -4936,6 +4937,7 @@
     <display-name lang="es">PAC-12 Insider UHD</display-name>
     <display-name lang="es">PAC-12 Insider 720</display-name>
     <display-name lang="es">PAC-12 Insider 1080</display-name>
+    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/PAC-12%20Insider.png" />
   </channel>
   <channel id="USGA TV">
     <display-name lang="es">USGA TV</display-name>
@@ -4946,6 +4948,7 @@
     <display-name lang="es">USGA TV UHD</display-name>
     <display-name lang="es">USGA TV 720</display-name>
     <display-name lang="es">USGA TV 1080</display-name>
+    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/USGA%20TV.png" />
   </channel>
   <channel id="EDGEsport">
     <display-name lang="es">EDGEsport</display-name>
@@ -4956,6 +4959,7 @@
     <display-name lang="es">EDGEsport UHD</display-name>
     <display-name lang="es">EDGEsport 720</display-name>
     <display-name lang="es">EDGEsport 1080</display-name>
+    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/EDGEsport.png" />
   </channel>
   <channel id="Motorsport TV">
     <display-name lang="es">Motorsport TV</display-name>
@@ -4966,6 +4970,7 @@
     <display-name lang="es">Motorsport TV UHD</display-name>
     <display-name lang="es">Motorsport TV 720</display-name>
     <display-name lang="es">Motorsport TV 1080</display-name>
+    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Motorsport%20TV.png" />
   </channel>
   <channel id="Nautical Channel">
     <display-name lang="es">Nautical Channel</display-name>
@@ -4976,6 +4981,7 @@
     <display-name lang="es">Nautical Channel UHD</display-name>
     <display-name lang="es">Nautical Channel 720</display-name>
     <display-name lang="es">Nautical Channel 1080</display-name>
+    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Nautical%20Channel.png" />
   </channel>
   <channel id="Ski TV">
     <display-name lang="es">Ski TV</display-name>
@@ -4986,6 +4992,7 @@
     <display-name lang="es">Ski TV UHD</display-name>
     <display-name lang="es">Ski TV 720</display-name>
     <display-name lang="es">Ski TV 1080</display-name>
+    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Ski%20TV.png" />
   </channel>
   <channel id="World of Freesports">
     <display-name lang="es">World of Freesports</display-name>
@@ -4996,6 +5003,7 @@
     <display-name lang="es">World of Freesports UHD</display-name>
     <display-name lang="es">World of Freesports 720</display-name>
     <display-name lang="es">World of Freesports 1080</display-name>
+    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/World%20of%20Freesports.png" />
   </channel>
   <channel id="Powder">
     <display-name lang="es">Powder</display-name>
@@ -5006,6 +5014,7 @@
     <display-name lang="es">Powder UHD</display-name>
     <display-name lang="es">Powder 720</display-name>
     <display-name lang="es">Powder 1080</display-name>
+    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Powder.png" />
   </channel>
   <channel id="Tennis Channel">
     <display-name lang="es">Tennis Channel</display-name>
@@ -5016,6 +5025,17 @@
     <display-name lang="es">Tennis Channel UHD</display-name>
     <display-name lang="es">Tennis Channel 720</display-name>
     <display-name lang="es">Tennis Channel 1080</display-name>
+    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Tennis%20Channel.png" />
+  </channel>
+  <channel id="MyPadel TV">
+    <display-name lang="es">MyPadel TV</display-name>
+    <display-name lang="es">MyPadel TV.TV</display-name>
+    <display-name lang="es">MyPadel TV SD</display-name>
+    <display-name lang="es">MyPadel TV HD</display-name>
+    <display-name lang="es">MyPadel TV FHD</display-name>
+    <display-name lang="es">MyPadel TV UHD</display-name>
+    <display-name lang="es">MyPadel TV 720</display-name>
+    <display-name lang="es">MyPadel TV 1080</display-name>
   </channel>
   <channel id="PT | MCM TOP HD">
     <display-name lang="es">PT | MCM TOP</display-name>
