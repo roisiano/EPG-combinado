@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tv generator-info-name="dobleM 17/10/2024 20:50" generator-info-url="t.me/EPG_dobleM">
+<tv generator-info-name="dobleM 18/10/2024 20:50" generator-info-url="t.me/EPG_dobleM">
   <channel id="La 1 HD">
     <display-name lang="es">La 1</display-name>
     <display-name lang="es">La 1.TV</display-name>
@@ -2013,6 +2013,17 @@
     <display-name lang="es">LaLiga TV BAR 3 1080</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/LaLiga%20TV%20BAR%203.png" />
   </channel>
+  <channel id="LaLiga TV BAR 4">
+    <display-name lang="es">LaLiga TV BAR 4</display-name>
+    <display-name lang="es">LaLiga TV BAR 4.TV</display-name>
+    <display-name lang="es">LaLiga TV BAR 4 SD</display-name>
+    <display-name lang="es">LaLiga TV BAR 4 HD</display-name>
+    <display-name lang="es">LaLiga TV BAR 4 FHD</display-name>
+    <display-name lang="es">LaLiga TV BAR 4 UHD</display-name>
+    <display-name lang="es">LaLiga TV BAR 4 720</display-name>
+    <display-name lang="es">LaLiga TV BAR 4 1080</display-name>
+    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/LaLiga%20TV%20BAR%204.png" />
+  </channel>
   <channel id="Liga de Campeones BAR 2">
     <display-name lang="es">Liga de Campeones BAR 2</display-name>
     <display-name lang="es">Liga de Campeones BAR 2.TV</display-name>
@@ -2739,6 +2750,17 @@
     <display-name lang="es">Futsal TV 3 Masculino 1080</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Futsal%20TV%203%20Masculino.png" />
   </channel>
+  <channel id="Futsal TV 4 Masculino">
+    <display-name lang="es">Futsal TV 4 Masculino</display-name>
+    <display-name lang="es">Futsal TV 4 Masculino.TV</display-name>
+    <display-name lang="es">Futsal TV 4 Masculino SD</display-name>
+    <display-name lang="es">Futsal TV 4 Masculino HD</display-name>
+    <display-name lang="es">Futsal TV 4 Masculino FHD</display-name>
+    <display-name lang="es">Futsal TV 4 Masculino UHD</display-name>
+    <display-name lang="es">Futsal TV 4 Masculino 720</display-name>
+    <display-name lang="es">Futsal TV 4 Masculino 1080</display-name>
+    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Futsal%20TV%204%20Masculino.png" />
+  </channel>
   <channel id="DAZN LaLiga Femenina 1">
     <display-name lang="es">DAZN LaLiga Femenina 1</display-name>
     <display-name lang="es">DAZN LaLiga Femenina 1.TV</display-name>
@@ -3332,6 +3354,17 @@
     <display-name lang="es">Armonía TeVe Sana 720</display-name>
     <display-name lang="es">Armonía TeVe Sana 1080</display-name>
     <icon src="https://media.tvup.cloud/canales/color_lg_659e89f96ec850e29b4fc493.png" />
+  </channel>
+  <channel id="ZUT TV">
+    <display-name lang="es">ZUT TV</display-name>
+    <display-name lang="es">ZUT TV.TV</display-name>
+    <display-name lang="es">ZUT TV SD</display-name>
+    <display-name lang="es">ZUT TV HD</display-name>
+    <display-name lang="es">ZUT TV FHD</display-name>
+    <display-name lang="es">ZUT TV UHD</display-name>
+    <display-name lang="es">ZUT TV 720</display-name>
+    <display-name lang="es">ZUT TV 1080</display-name>
+    <icon src="https://media.tvup.cloud/canales/color_lg_659e8d1d33a4d3a2376bd1cc.png" />
   </channel>
   <channel id="Flamenco Auditorio">
     <display-name lang="es">Flamenco Auditorio</display-name>
