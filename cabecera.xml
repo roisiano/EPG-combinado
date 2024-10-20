@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tv generator-info-name="dobleM 18/10/2024 20:50" generator-info-url="t.me/EPG_dobleM">
+<tv generator-info-name="dobleM 19/10/2024 20:50" generator-info-url="t.me/EPG_dobleM">
   <channel id="La 1 HD">
     <display-name lang="es">La 1</display-name>
     <display-name lang="es">La 1.TV</display-name>
@@ -2189,17 +2189,6 @@
     <display-name lang="es">DAZN 2 BAR 1080</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%202%20BAR.png" />
   </channel>
-  <channel id="Ilorci">
-    <display-name lang="es">Ilorci</display-name>
-    <display-name lang="es">Ilorci.TV</display-name>
-    <display-name lang="es">Ilorci SD</display-name>
-    <display-name lang="es">Ilorci HD</display-name>
-    <display-name lang="es">Ilorci FHD</display-name>
-    <display-name lang="es">Ilorci UHD</display-name>
-    <display-name lang="es">Ilorci 720</display-name>
-    <display-name lang="es">Ilorci 1080</display-name>
-    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Ilorci.png" />
-  </channel>
   <channel id="VE">
     <display-name lang="es">VE</display-name>
     <display-name lang="es">VE.TV</display-name>
@@ -2210,17 +2199,6 @@
     <display-name lang="es">VE 720</display-name>
     <display-name lang="es">VE 1080</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/VE.png" />
-  </channel>
-  <channel id="Jamilena">
-    <display-name lang="es">Jamilena</display-name>
-    <display-name lang="es">Jamilena.TV</display-name>
-    <display-name lang="es">Jamilena SD</display-name>
-    <display-name lang="es">Jamilena HD</display-name>
-    <display-name lang="es">Jamilena FHD</display-name>
-    <display-name lang="es">Jamilena UHD</display-name>
-    <display-name lang="es">Jamilena 720</display-name>
-    <display-name lang="es">Jamilena 1080</display-name>
-    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Jamilena.png" />
   </channel>
   <channel id="Lebrija TV">
     <display-name lang="es">Lebrija TV</display-name>
@@ -2530,17 +2508,6 @@
     <display-name lang="es">PTV Granada 1080</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/PTV%20Granada.png" />
   </channel>
-  <channel id="PTV Sevilla">
-    <display-name lang="es">PTV Sevilla</display-name>
-    <display-name lang="es">PTV Sevilla.TV</display-name>
-    <display-name lang="es">PTV Sevilla SD</display-name>
-    <display-name lang="es">PTV Sevilla HD</display-name>
-    <display-name lang="es">PTV Sevilla FHD</display-name>
-    <display-name lang="es">PTV Sevilla UHD</display-name>
-    <display-name lang="es">PTV Sevilla 720</display-name>
-    <display-name lang="es">PTV Sevilla 1080</display-name>
-    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/PTV%20Sevilla.png" />
-  </channel>
   <channel id="PTV Linares">
     <display-name lang="es">PTV Linares</display-name>
     <display-name lang="es">PTV Linares.TV</display-name>
@@ -2639,6 +2606,17 @@
     <display-name lang="es">FEF TV 5 Grupo 1 720</display-name>
     <display-name lang="es">FEF TV 5 Grupo 1 1080</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/FEF%20TV%205%20Grupo%201.png" />
+  </channel>
+  <channel id="FEF TV 6 Grupo 1">
+    <display-name lang="es">FEF TV 6 Grupo 1</display-name>
+    <display-name lang="es">FEF TV 6 Grupo 1.TV</display-name>
+    <display-name lang="es">FEF TV 6 Grupo 1 SD</display-name>
+    <display-name lang="es">FEF TV 6 Grupo 1 HD</display-name>
+    <display-name lang="es">FEF TV 6 Grupo 1 FHD</display-name>
+    <display-name lang="es">FEF TV 6 Grupo 1 UHD</display-name>
+    <display-name lang="es">FEF TV 6 Grupo 1 720</display-name>
+    <display-name lang="es">FEF TV 6 Grupo 1 1080</display-name>
+    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/FEF%20TV%206%20Grupo%201.png" />
   </channel>
   <channel id="FEF TV 1 Grupo 2">
     <display-name lang="es">FEF TV 1 Grupo 2</display-name>
