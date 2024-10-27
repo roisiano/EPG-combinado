@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tv generator-info-name="dobleM 25/10/2024 20:50" generator-info-url="t.me/EPG_dobleM">
+<tv generator-info-name="dobleM 26/10/2024 20:50" generator-info-url="t.me/EPG_dobleM">
   <channel id="La 1 HD">
     <display-name lang="es">La 1</display-name>
     <display-name lang="es">La 1.TV</display-name>
@@ -2068,17 +2068,6 @@
     <display-name lang="es">Ilorci 1080</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Ilorci.png" />
   </channel>
-  <channel id="VE">
-    <display-name lang="es">VE</display-name>
-    <display-name lang="es">VE.TV</display-name>
-    <display-name lang="es">VE SD</display-name>
-    <display-name lang="es">VE HD</display-name>
-    <display-name lang="es">VE FHD</display-name>
-    <display-name lang="es">VE UHD</display-name>
-    <display-name lang="es">VE 720</display-name>
-    <display-name lang="es">VE 1080</display-name>
-    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/VE.png" />
-  </channel>
   <channel id="Jamilena">
     <display-name lang="es">Jamilena</display-name>
     <display-name lang="es">Jamilena.TV</display-name>
@@ -3552,6 +3541,156 @@
     <display-name lang="es">Horse TV 720</display-name>
     <display-name lang="es">Horse TV 1080</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Horse%20TV.png" />
+  </channel>
+  <channel id="La 1 Cataluña">
+    <display-name lang="es">La 1 Cataluña</display-name>
+    <display-name lang="es">La 1 Cataluña.TV</display-name>
+    <display-name lang="es">La 1 Cataluña SD</display-name>
+    <display-name lang="es">La 1 Cataluña HD</display-name>
+    <display-name lang="es">La 1 Cataluña FHD</display-name>
+    <display-name lang="es">La 1 Cataluña UHD</display-name>
+    <display-name lang="es">La 1 Cataluña 720</display-name>
+    <display-name lang="es">La 1 Cataluña 1080</display-name>
+  </channel>
+  <channel id="La 2 Cataluña">
+    <display-name lang="es">La 2 Cataluña</display-name>
+    <display-name lang="es">La 2 Cataluña.TV</display-name>
+    <display-name lang="es">La 2 Cataluña SD</display-name>
+    <display-name lang="es">La 2 Cataluña HD</display-name>
+    <display-name lang="es">La 2 Cataluña FHD</display-name>
+    <display-name lang="es">La 2 Cataluña UHD</display-name>
+    <display-name lang="es">La 2 Cataluña 720</display-name>
+    <display-name lang="es">La 2 Cataluña 1080</display-name>
+  </channel>
+  <channel id="24 horas Cataluña">
+    <display-name lang="es">24 horas Cataluña</display-name>
+    <display-name lang="es">24 horas Cataluña.TV</display-name>
+    <display-name lang="es">24 horas Cataluña SD</display-name>
+    <display-name lang="es">24 horas Cataluña HD</display-name>
+    <display-name lang="es">24 horas Cataluña FHD</display-name>
+    <display-name lang="es">24 horas Cataluña UHD</display-name>
+    <display-name lang="es">24 horas Cataluña 720</display-name>
+    <display-name lang="es">24 horas Cataluña 1080</display-name>
+  </channel>
+  <channel id="La 1 Canarias">
+    <display-name lang="es">La 1 Canarias</display-name>
+    <display-name lang="es">La 1 Canarias.TV</display-name>
+    <display-name lang="es">La 1 Canarias SD</display-name>
+    <display-name lang="es">La 1 Canarias HD</display-name>
+    <display-name lang="es">La 1 Canarias FHD</display-name>
+    <display-name lang="es">La 1 Canarias UHD</display-name>
+    <display-name lang="es">La 1 Canarias 720</display-name>
+    <display-name lang="es">La 1 Canarias 1080</display-name>
+  </channel>
+  <channel id="La 2 Canarias">
+    <display-name lang="es">La 2 Canarias</display-name>
+    <display-name lang="es">La 2 Canarias.TV</display-name>
+    <display-name lang="es">La 2 Canarias SD</display-name>
+    <display-name lang="es">La 2 Canarias HD</display-name>
+    <display-name lang="es">La 2 Canarias FHD</display-name>
+    <display-name lang="es">La 2 Canarias UHD</display-name>
+    <display-name lang="es">La 2 Canarias 720</display-name>
+    <display-name lang="es">La 2 Canarias 1080</display-name>
+  </channel>
+  <channel id="24 horas Canarias">
+    <display-name lang="es">24 horas Canarias</display-name>
+    <display-name lang="es">24 horas Canarias.TV</display-name>
+    <display-name lang="es">24 horas Canarias SD</display-name>
+    <display-name lang="es">24 horas Canarias HD</display-name>
+    <display-name lang="es">24 horas Canarias FHD</display-name>
+    <display-name lang="es">24 horas Canarias UHD</display-name>
+    <display-name lang="es">24 horas Canarias 720</display-name>
+    <display-name lang="es">24 horas Canarias 1080</display-name>
+  </channel>
+  <channel id="Somos Cine">
+    <display-name lang="es">Somos Cine</display-name>
+    <display-name lang="es">Somos Cine.TV</display-name>
+    <display-name lang="es">Somos Cine SD</display-name>
+    <display-name lang="es">Somos Cine HD</display-name>
+    <display-name lang="es">Somos Cine FHD</display-name>
+    <display-name lang="es">Somos Cine UHD</display-name>
+    <display-name lang="es">Somos Cine 720</display-name>
+    <display-name lang="es">Somos Cine 1080</display-name>
+  </channel>
+  <channel id="De Series">
+    <display-name lang="es">De Series</display-name>
+    <display-name lang="es">De Series.TV</display-name>
+    <display-name lang="es">De Series SD</display-name>
+    <display-name lang="es">De Series HD</display-name>
+    <display-name lang="es">De Series FHD</display-name>
+    <display-name lang="es">De Series UHD</display-name>
+    <display-name lang="es">De Series 720</display-name>
+    <display-name lang="es">De Series 1080</display-name>
+  </channel>
+  <channel id="Cuéntame">
+    <display-name lang="es">Cuéntame</display-name>
+    <display-name lang="es">Cuéntame.TV</display-name>
+    <display-name lang="es">Cuéntame SD</display-name>
+    <display-name lang="es">Cuéntame HD</display-name>
+    <display-name lang="es">Cuéntame FHD</display-name>
+    <display-name lang="es">Cuéntame UHD</display-name>
+    <display-name lang="es">Cuéntame 720</display-name>
+    <display-name lang="es">Cuéntame 1080</display-name>
+  </channel>
+  <channel id="Los Conciertos de Radio 3">
+    <display-name lang="es">Los Conciertos de Radio 3</display-name>
+    <display-name lang="es">Los Conciertos de Radio 3.TV</display-name>
+    <display-name lang="es">Los Conciertos de Radio 3 SD</display-name>
+    <display-name lang="es">Los Conciertos de Radio 3 HD</display-name>
+    <display-name lang="es">Los Conciertos de Radio 3 FHD</display-name>
+    <display-name lang="es">Los Conciertos de Radio 3 UHD</display-name>
+    <display-name lang="es">Los Conciertos de Radio 3 720</display-name>
+    <display-name lang="es">Los Conciertos de Radio 3 1080</display-name>
+  </channel>
+  <channel id="De Viajes">
+    <display-name lang="es">De Viajes</display-name>
+    <display-name lang="es">De Viajes.TV</display-name>
+    <display-name lang="es">De Viajes SD</display-name>
+    <display-name lang="es">De Viajes HD</display-name>
+    <display-name lang="es">De Viajes FHD</display-name>
+    <display-name lang="es">De Viajes UHD</display-name>
+    <display-name lang="es">De Viajes 720</display-name>
+    <display-name lang="es">De Viajes 1080</display-name>
+  </channel>
+  <channel id="La Promesa">
+    <display-name lang="es">La Promesa</display-name>
+    <display-name lang="es">La Promesa.TV</display-name>
+    <display-name lang="es">La Promesa SD</display-name>
+    <display-name lang="es">La Promesa HD</display-name>
+    <display-name lang="es">La Promesa FHD</display-name>
+    <display-name lang="es">La Promesa UHD</display-name>
+    <display-name lang="es">La Promesa 720</display-name>
+    <display-name lang="es">La Promesa 1080</display-name>
+  </channel>
+  <channel id="4 Estrellas">
+    <display-name lang="es">4 Estrellas</display-name>
+    <display-name lang="es">4 Estrellas.TV</display-name>
+    <display-name lang="es">4 Estrellas SD</display-name>
+    <display-name lang="es">4 Estrellas HD</display-name>
+    <display-name lang="es">4 Estrellas FHD</display-name>
+    <display-name lang="es">4 Estrellas UHD</display-name>
+    <display-name lang="es">4 Estrellas 720</display-name>
+    <display-name lang="es">4 Estrellas 1080</display-name>
+  </channel>
+  <channel id="Crimen">
+    <display-name lang="es">Crimen</display-name>
+    <display-name lang="es">Crimen.TV</display-name>
+    <display-name lang="es">Crimen SD</display-name>
+    <display-name lang="es">Crimen HD</display-name>
+    <display-name lang="es">Crimen FHD</display-name>
+    <display-name lang="es">Crimen UHD</display-name>
+    <display-name lang="es">Crimen 720</display-name>
+    <display-name lang="es">Crimen 1080</display-name>
+  </channel>
+  <channel id="Época">
+    <display-name lang="es">Época</display-name>
+    <display-name lang="es">Época.TV</display-name>
+    <display-name lang="es">Época SD</display-name>
+    <display-name lang="es">Época HD</display-name>
+    <display-name lang="es">Época FHD</display-name>
+    <display-name lang="es">Época UHD</display-name>
+    <display-name lang="es">Época 720</display-name>
+    <display-name lang="es">Época 1080</display-name>
   </channel>
   <channel id="TV3 Catalunya">
     <display-name lang="es">TV3 Catalunya</display-name>
