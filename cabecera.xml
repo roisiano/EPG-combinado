@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tv generator-info-name="dobleM 26/10/2024 20:50" generator-info-url="t.me/EPG_dobleM">
+<tv generator-info-name="dobleM 27/10/2024 20:50" generator-info-url="t.me/EPG_dobleM">
   <channel id="La 1 HD">
     <display-name lang="es">La 1</display-name>
     <display-name lang="es">La 1.TV</display-name>
@@ -1474,16 +1474,16 @@
     <display-name lang="es">Canal Fútbol Replay 1080</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Canal%20F%C3%BAtbol%20Replay.png" />
   </channel>
-  <channel id="M+ LaLiga TV 3 HD">
-    <display-name lang="es">M+ LaLiga TV 3</display-name>
-    <display-name lang="es">M+ LaLiga TV 3.TV</display-name>
-    <display-name lang="es">M+ LaLiga TV 3 SD</display-name>
-    <display-name lang="es">M+ LaLiga TV 3 HD</display-name>
-    <display-name lang="es">M+ LaLiga TV 3 FHD</display-name>
-    <display-name lang="es">M+ LaLiga TV 3 UHD</display-name>
-    <display-name lang="es">M+ LaLiga TV 3 720</display-name>
-    <display-name lang="es">M+ LaLiga TV 3 1080</display-name>
-    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20LaLiga%20TV%203.png" />
+  <channel id="M+ Copa del Rey">
+    <display-name lang="es">M+ Copa del Rey</display-name>
+    <display-name lang="es">M+ Copa del Rey.TV</display-name>
+    <display-name lang="es">M+ Copa del Rey SD</display-name>
+    <display-name lang="es">M+ Copa del Rey HD</display-name>
+    <display-name lang="es">M+ Copa del Rey FHD</display-name>
+    <display-name lang="es">M+ Copa del Rey UHD</display-name>
+    <display-name lang="es">M+ Copa del Rey 720</display-name>
+    <display-name lang="es">M+ Copa del Rey 1080</display-name>
+    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Copa%20del%20Rey.png" />
   </channel>
   <channel id="M+ Vamos HD">
     <display-name lang="es">M+ Vamos</display-name>
@@ -1737,6 +1737,50 @@
     <display-name lang="es">Teledeporte 720</display-name>
     <display-name lang="es">Teledeporte 1080</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Teledeporte.png" />
+  </channel>
+  <channel id="M+ LaLiga TV 3 HD">
+    <display-name lang="es">M+ LaLiga TV 3</display-name>
+    <display-name lang="es">M+ LaLiga TV 3.TV</display-name>
+    <display-name lang="es">M+ LaLiga TV 3 SD</display-name>
+    <display-name lang="es">M+ LaLiga TV 3 HD</display-name>
+    <display-name lang="es">M+ LaLiga TV 3 FHD</display-name>
+    <display-name lang="es">M+ LaLiga TV 3 UHD</display-name>
+    <display-name lang="es">M+ LaLiga TV 3 720</display-name>
+    <display-name lang="es">M+ LaLiga TV 3 1080</display-name>
+    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20LaLiga%20TV%203.png" />
+  </channel>
+  <channel id="M+ LaLiga TV 4">
+    <display-name lang="es">M+ LaLiga TV 4</display-name>
+    <display-name lang="es">M+ LaLiga TV 4.TV</display-name>
+    <display-name lang="es">M+ LaLiga TV 4 SD</display-name>
+    <display-name lang="es">M+ LaLiga TV 4 HD</display-name>
+    <display-name lang="es">M+ LaLiga TV 4 FHD</display-name>
+    <display-name lang="es">M+ LaLiga TV 4 UHD</display-name>
+    <display-name lang="es">M+ LaLiga TV 4 720</display-name>
+    <display-name lang="es">M+ LaLiga TV 4 1080</display-name>
+    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20LaLiga%20TV%204.png" />
+  </channel>
+  <channel id="M+ LaLiga TV 5">
+    <display-name lang="es">M+ LaLiga TV 5</display-name>
+    <display-name lang="es">M+ LaLiga TV 5.TV</display-name>
+    <display-name lang="es">M+ LaLiga TV 5 SD</display-name>
+    <display-name lang="es">M+ LaLiga TV 5 HD</display-name>
+    <display-name lang="es">M+ LaLiga TV 5 FHD</display-name>
+    <display-name lang="es">M+ LaLiga TV 5 UHD</display-name>
+    <display-name lang="es">M+ LaLiga TV 5 720</display-name>
+    <display-name lang="es">M+ LaLiga TV 5 1080</display-name>
+    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20LaLiga%20TV%205.png" />
+  </channel>
+  <channel id="M+ LaLiga TV 6">
+    <display-name lang="es">M+ LaLiga TV 6</display-name>
+    <display-name lang="es">M+ LaLiga TV 6.TV</display-name>
+    <display-name lang="es">M+ LaLiga TV 6 SD</display-name>
+    <display-name lang="es">M+ LaLiga TV 6 HD</display-name>
+    <display-name lang="es">M+ LaLiga TV 6 FHD</display-name>
+    <display-name lang="es">M+ LaLiga TV 6 UHD</display-name>
+    <display-name lang="es">M+ LaLiga TV 6 720</display-name>
+    <display-name lang="es">M+ LaLiga TV 6 1080</display-name>
+    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20LaLiga%20TV%206.png" />
   </channel>
   <channel id="Movistar Plus+ 2 HD">
     <display-name lang="es">Movistar Plus+ 2</display-name>
@@ -3551,6 +3595,7 @@
     <display-name lang="es">La 1 Cataluña UHD</display-name>
     <display-name lang="es">La 1 Cataluña 720</display-name>
     <display-name lang="es">La 1 Cataluña 1080</display-name>
+    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/La%201%20Catalu%C3%B1a.png" />
   </channel>
   <channel id="La 2 Cataluña">
     <display-name lang="es">La 2 Cataluña</display-name>
@@ -3561,6 +3606,7 @@
     <display-name lang="es">La 2 Cataluña UHD</display-name>
     <display-name lang="es">La 2 Cataluña 720</display-name>
     <display-name lang="es">La 2 Cataluña 1080</display-name>
+    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/La%202%20Catalu%C3%B1a.png" />
   </channel>
   <channel id="24 horas Cataluña">
     <display-name lang="es">24 horas Cataluña</display-name>
@@ -3571,6 +3617,7 @@
     <display-name lang="es">24 horas Cataluña UHD</display-name>
     <display-name lang="es">24 horas Cataluña 720</display-name>
     <display-name lang="es">24 horas Cataluña 1080</display-name>
+    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/24%20horas%20Catalu%C3%B1a.png" />
   </channel>
   <channel id="La 1 Canarias">
     <display-name lang="es">La 1 Canarias</display-name>
@@ -3581,6 +3628,7 @@
     <display-name lang="es">La 1 Canarias UHD</display-name>
     <display-name lang="es">La 1 Canarias 720</display-name>
     <display-name lang="es">La 1 Canarias 1080</display-name>
+    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/La%201%20Canarias.png" />
   </channel>
   <channel id="La 2 Canarias">
     <display-name lang="es">La 2 Canarias</display-name>
@@ -3591,6 +3639,7 @@
     <display-name lang="es">La 2 Canarias UHD</display-name>
     <display-name lang="es">La 2 Canarias 720</display-name>
     <display-name lang="es">La 2 Canarias 1080</display-name>
+    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/La%202%20Canarias.png" />
   </channel>
   <channel id="24 horas Canarias">
     <display-name lang="es">24 horas Canarias</display-name>
@@ -3601,6 +3650,7 @@
     <display-name lang="es">24 horas Canarias UHD</display-name>
     <display-name lang="es">24 horas Canarias 720</display-name>
     <display-name lang="es">24 horas Canarias 1080</display-name>
+    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/24%20horas%20Canarias.png" />
   </channel>
   <channel id="Somos Cine">
     <display-name lang="es">Somos Cine</display-name>
@@ -3611,6 +3661,7 @@
     <display-name lang="es">Somos Cine UHD</display-name>
     <display-name lang="es">Somos Cine 720</display-name>
     <display-name lang="es">Somos Cine 1080</display-name>
+    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Somos%20Cine.png" />
   </channel>
   <channel id="De Series">
     <display-name lang="es">De Series</display-name>
@@ -3621,6 +3672,7 @@
     <display-name lang="es">De Series UHD</display-name>
     <display-name lang="es">De Series 720</display-name>
     <display-name lang="es">De Series 1080</display-name>
+    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/De%20Series.png" />
   </channel>
   <channel id="Cuéntame">
     <display-name lang="es">Cuéntame</display-name>
@@ -3631,6 +3683,7 @@
     <display-name lang="es">Cuéntame UHD</display-name>
     <display-name lang="es">Cuéntame 720</display-name>
     <display-name lang="es">Cuéntame 1080</display-name>
+    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Cu%C3%A9ntame.png" />
   </channel>
   <channel id="Los Conciertos de Radio 3">
     <display-name lang="es">Los Conciertos de Radio 3</display-name>
@@ -3641,6 +3694,7 @@
     <display-name lang="es">Los Conciertos de Radio 3 UHD</display-name>
     <display-name lang="es">Los Conciertos de Radio 3 720</display-name>
     <display-name lang="es">Los Conciertos de Radio 3 1080</display-name>
+    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Los%20Conciertos%20de%20Radio%203.png" />
   </channel>
   <channel id="De Viajes">
     <display-name lang="es">De Viajes</display-name>
@@ -3651,6 +3705,7 @@
     <display-name lang="es">De Viajes UHD</display-name>
     <display-name lang="es">De Viajes 720</display-name>
     <display-name lang="es">De Viajes 1080</display-name>
+    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/De%20Viajes.png" />
   </channel>
   <channel id="La Promesa">
     <display-name lang="es">La Promesa</display-name>
@@ -3661,6 +3716,7 @@
     <display-name lang="es">La Promesa UHD</display-name>
     <display-name lang="es">La Promesa 720</display-name>
     <display-name lang="es">La Promesa 1080</display-name>
+    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/La%20Promesa.png" />
   </channel>
   <channel id="4 Estrellas">
     <display-name lang="es">4 Estrellas</display-name>
@@ -3671,6 +3727,7 @@
     <display-name lang="es">4 Estrellas UHD</display-name>
     <display-name lang="es">4 Estrellas 720</display-name>
     <display-name lang="es">4 Estrellas 1080</display-name>
+    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/4%20Estrellas.png" />
   </channel>
   <channel id="Crimen">
     <display-name lang="es">Crimen</display-name>
@@ -3681,6 +3738,7 @@
     <display-name lang="es">Crimen UHD</display-name>
     <display-name lang="es">Crimen 720</display-name>
     <display-name lang="es">Crimen 1080</display-name>
+    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Crimen.png" />
   </channel>
   <channel id="Época">
     <display-name lang="es">Época</display-name>
@@ -3691,6 +3749,7 @@
     <display-name lang="es">Época UHD</display-name>
     <display-name lang="es">Época 720</display-name>
     <display-name lang="es">Época 1080</display-name>
+    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/%C3%89poca.png" />
   </channel>
   <channel id="TV3 Catalunya">
     <display-name lang="es">TV3 Catalunya</display-name>
@@ -4109,6 +4168,94 @@
     <display-name lang="es">A1 Padel 720</display-name>
     <display-name lang="es">A1 Padel 1080</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/A1%20Padel.png" />
+  </channel>
+  <channel id="MyTime Movie Network (Rakuten TV)">
+    <display-name lang="es">MyTime Movie Network (Rakuten TV)</display-name>
+    <display-name lang="es">MyTime Movie Network (Rakuten TV).TV</display-name>
+    <display-name lang="es">MyTime Movie Network (Rakuten TV) SD</display-name>
+    <display-name lang="es">MyTime Movie Network (Rakuten TV) HD</display-name>
+    <display-name lang="es">MyTime Movie Network (Rakuten TV) FHD</display-name>
+    <display-name lang="es">MyTime Movie Network (Rakuten TV) UHD</display-name>
+    <display-name lang="es">MyTime Movie Network (Rakuten TV) 720</display-name>
+    <display-name lang="es">MyTime Movie Network (Rakuten TV) 1080</display-name>
+    <icon src="https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork/e9ebb3e1-2419-4299-91f5-20256e320589.jpeg|https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork/e9ebb3e1-2419-4299-91f5-20256e320589.jpeg|https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork/e9ebb3e1-2419-4299-91f5-20256e320589.jpeg|https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork/e9ebb3e1-2419-4299-91f5-20256e320589.jpeg|https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork/e9ebb3e1-2419-4299-91f5-20256e320589.jpeg|https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork/e9ebb3e1-2419-4299-91f5-20256e320589.jpeg|https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork/e9ebb3e1-2419-4299-91f5-20256e320589.jpeg" />
+  </channel>
+  <channel id="Thrillers (Rakuten TV)">
+    <display-name lang="es">Thrillers (Rakuten TV)</display-name>
+    <display-name lang="es">Thrillers (Rakuten TV).TV</display-name>
+    <display-name lang="es">Thrillers (Rakuten TV) SD</display-name>
+    <display-name lang="es">Thrillers (Rakuten TV) HD</display-name>
+    <display-name lang="es">Thrillers (Rakuten TV) FHD</display-name>
+    <display-name lang="es">Thrillers (Rakuten TV) UHD</display-name>
+    <display-name lang="es">Thrillers (Rakuten TV) 720</display-name>
+    <display-name lang="es">Thrillers (Rakuten TV) 1080</display-name>
+    <icon src="https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork/68310dff-1e86-47ef-afeb-6ad8a94ec2a5.jpeg|https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork/68310dff-1e86-47ef-afeb-6ad8a94ec2a5.jpeg|https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork/68310dff-1e86-47ef-afeb-6ad8a94ec2a5.jpeg|https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork/68310dff-1e86-47ef-afeb-6ad8a94ec2a5.jpeg|https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork/68310dff-1e86-47ef-afeb-6ad8a94ec2a5.jpeg|https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork/68310dff-1e86-47ef-afeb-6ad8a94ec2a5.jpeg|https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork/68310dff-1e86-47ef-afeb-6ad8a94ec2a5.jpeg" />
+  </channel>
+  <channel id="Cine Español (Rakuten TV)">
+    <display-name lang="es">Cine Español (Rakuten TV)</display-name>
+    <display-name lang="es">Cine Español (Rakuten TV).TV</display-name>
+    <display-name lang="es">Cine Español (Rakuten TV) SD</display-name>
+    <display-name lang="es">Cine Español (Rakuten TV) HD</display-name>
+    <display-name lang="es">Cine Español (Rakuten TV) FHD</display-name>
+    <display-name lang="es">Cine Español (Rakuten TV) UHD</display-name>
+    <display-name lang="es">Cine Español (Rakuten TV) 720</display-name>
+    <display-name lang="es">Cine Español (Rakuten TV) 1080</display-name>
+    <icon src="https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/294f65bc-fa27-494d-9cb5-423260b7e875.jpeg|https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/294f65bc-fa27-494d-9cb5-423260b7e875.jpeg|https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/294f65bc-fa27-494d-9cb5-423260b7e875.jpeg|https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/294f65bc-fa27-494d-9cb5-423260b7e875.jpeg|https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/294f65bc-fa27-494d-9cb5-423260b7e875.jpeg|https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/294f65bc-fa27-494d-9cb5-423260b7e875.jpeg|https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/294f65bc-fa27-494d-9cb5-423260b7e875.jpeg" />
+  </channel>
+  <channel id="Películas Románticas (Rakuten TV)">
+    <display-name lang="es">Películas Románticas (Rakuten TV)</display-name>
+    <display-name lang="es">Películas Románticas (Rakuten TV).TV</display-name>
+    <display-name lang="es">Películas Románticas (Rakuten TV) SD</display-name>
+    <display-name lang="es">Películas Románticas (Rakuten TV) HD</display-name>
+    <display-name lang="es">Películas Románticas (Rakuten TV) FHD</display-name>
+    <display-name lang="es">Películas Románticas (Rakuten TV) UHD</display-name>
+    <display-name lang="es">Películas Románticas (Rakuten TV) 720</display-name>
+    <display-name lang="es">Películas Románticas (Rakuten TV) 1080</display-name>
+    <icon src="https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/ec9d1d83-74cc-443d-b2ec-b51b970fe831.jpeg|https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/ec9d1d83-74cc-443d-b2ec-b51b970fe831.jpeg|https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/ec9d1d83-74cc-443d-b2ec-b51b970fe831.jpeg|https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/ec9d1d83-74cc-443d-b2ec-b51b970fe831.jpeg|https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/ec9d1d83-74cc-443d-b2ec-b51b970fe831.jpeg|https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/ec9d1d83-74cc-443d-b2ec-b51b970fe831.jpeg|https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/ec9d1d83-74cc-443d-b2ec-b51b970fe831.jpeg" />
+  </channel>
+  <channel id="Dramas (Rakuten TV)">
+    <display-name lang="es">Dramas (Rakuten TV)</display-name>
+    <display-name lang="es">Dramas (Rakuten TV).TV</display-name>
+    <display-name lang="es">Dramas (Rakuten TV) SD</display-name>
+    <display-name lang="es">Dramas (Rakuten TV) HD</display-name>
+    <display-name lang="es">Dramas (Rakuten TV) FHD</display-name>
+    <display-name lang="es">Dramas (Rakuten TV) UHD</display-name>
+    <display-name lang="es">Dramas (Rakuten TV) 720</display-name>
+    <display-name lang="es">Dramas (Rakuten TV) 1080</display-name>
+    <icon src="https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork/400caa96-4298-41ae-92a4-8a2406fc81c8.jpeg|https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork/400caa96-4298-41ae-92a4-8a2406fc81c8.jpeg|https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork/400caa96-4298-41ae-92a4-8a2406fc81c8.jpeg|https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork/400caa96-4298-41ae-92a4-8a2406fc81c8.jpeg|https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork/400caa96-4298-41ae-92a4-8a2406fc81c8.jpeg|https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork/400caa96-4298-41ae-92a4-8a2406fc81c8.jpeg|https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork/400caa96-4298-41ae-92a4-8a2406fc81c8.jpeg" />
+  </channel>
+  <channel id="Comedias (Rakuten TV)">
+    <display-name lang="es">Comedias (Rakuten TV)</display-name>
+    <display-name lang="es">Comedias (Rakuten TV).TV</display-name>
+    <display-name lang="es">Comedias (Rakuten TV) SD</display-name>
+    <display-name lang="es">Comedias (Rakuten TV) HD</display-name>
+    <display-name lang="es">Comedias (Rakuten TV) FHD</display-name>
+    <display-name lang="es">Comedias (Rakuten TV) UHD</display-name>
+    <display-name lang="es">Comedias (Rakuten TV) 720</display-name>
+    <display-name lang="es">Comedias (Rakuten TV) 1080</display-name>
+    <icon src="https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork/68048254-04b5-4438-bb14-118427a0ba3a.jpeg|https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork/68048254-04b5-4438-bb14-118427a0ba3a.jpeg|https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork/68048254-04b5-4438-bb14-118427a0ba3a.jpeg|https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork/68048254-04b5-4438-bb14-118427a0ba3a.jpeg|https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork/68048254-04b5-4438-bb14-118427a0ba3a.jpeg|https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork/68048254-04b5-4438-bb14-118427a0ba3a.jpeg|https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork/68048254-04b5-4438-bb14-118427a0ba3a.jpeg" />
+  </channel>
+  <channel id="Acción (Rakuten TV)">
+    <display-name lang="es">Acción (Rakuten TV)</display-name>
+    <display-name lang="es">Acción (Rakuten TV).TV</display-name>
+    <display-name lang="es">Acción (Rakuten TV) SD</display-name>
+    <display-name lang="es">Acción (Rakuten TV) HD</display-name>
+    <display-name lang="es">Acción (Rakuten TV) FHD</display-name>
+    <display-name lang="es">Acción (Rakuten TV) UHD</display-name>
+    <display-name lang="es">Acción (Rakuten TV) 720</display-name>
+    <display-name lang="es">Acción (Rakuten TV) 1080</display-name>
+    <icon src="https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/cc0a135a-3a25-4b7a-84b3-d29d5ee6e4d8.jpeg|https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/cc0a135a-3a25-4b7a-84b3-d29d5ee6e4d8.jpeg|https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/cc0a135a-3a25-4b7a-84b3-d29d5ee6e4d8.jpeg|https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/cc0a135a-3a25-4b7a-84b3-d29d5ee6e4d8.jpeg|https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/cc0a135a-3a25-4b7a-84b3-d29d5ee6e4d8.jpeg|https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/cc0a135a-3a25-4b7a-84b3-d29d5ee6e4d8.jpeg|https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/cc0a135a-3a25-4b7a-84b3-d29d5ee6e4d8.jpeg" />
+  </channel>
+  <channel id="Pelis Top (Rakuten TV)">
+    <display-name lang="es">Pelis Top (Rakuten TV)</display-name>
+    <display-name lang="es">Pelis Top (Rakuten TV).TV</display-name>
+    <display-name lang="es">Pelis Top (Rakuten TV) SD</display-name>
+    <display-name lang="es">Pelis Top (Rakuten TV) HD</display-name>
+    <display-name lang="es">Pelis Top (Rakuten TV) FHD</display-name>
+    <display-name lang="es">Pelis Top (Rakuten TV) UHD</display-name>
+    <display-name lang="es">Pelis Top (Rakuten TV) 720</display-name>
+    <display-name lang="es">Pelis Top (Rakuten TV) 1080</display-name>
+    <icon src="https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork/645e383c-88f5-4378-88fd-0d4989c01cde.jpeg|https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork/645e383c-88f5-4378-88fd-0d4989c01cde.jpeg|https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork/645e383c-88f5-4378-88fd-0d4989c01cde.jpeg|https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork/645e383c-88f5-4378-88fd-0d4989c01cde.jpeg|https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork/645e383c-88f5-4378-88fd-0d4989c01cde.jpeg|https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork/645e383c-88f5-4378-88fd-0d4989c01cde.jpeg|https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork/645e383c-88f5-4378-88fd-0d4989c01cde.jpeg" />
   </channel>
   <channel id="Concert Channel">
     <display-name lang="es">Concert Channel</display-name>
