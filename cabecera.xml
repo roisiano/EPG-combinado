@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tv generator-info-name="dobleM 04/11/2024 20:50" generator-info-url="t.me/EPG_dobleM">
+<tv generator-info-name="dobleM 05/11/2024 20:50" generator-info-url="t.me/EPG_dobleM">
   <channel id="La 1 HD">
     <display-name lang="es">La 1</display-name>
     <display-name lang="es">La 1.TV</display-name>
@@ -2200,17 +2200,6 @@
     <display-name lang="es">DAZN F1 BAR 1080</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20F1%20BAR.png" />
   </channel>
-  <channel id="DAZN 1 BAR">
-    <display-name lang="es">DAZN 1 BAR</display-name>
-    <display-name lang="es">DAZN 1 BAR.TV</display-name>
-    <display-name lang="es">DAZN 1 BAR SD</display-name>
-    <display-name lang="es">DAZN 1 BAR HD</display-name>
-    <display-name lang="es">DAZN 1 BAR FHD</display-name>
-    <display-name lang="es">DAZN 1 BAR UHD</display-name>
-    <display-name lang="es">DAZN 1 BAR 720</display-name>
-    <display-name lang="es">DAZN 1 BAR 1080</display-name>
-    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%201%20BAR.png" />
-  </channel>
   <channel id="GolStadium">
     <display-name lang="es">GolStadium</display-name>
     <display-name lang="es">GolStadium.TV</display-name>
@@ -2243,28 +2232,6 @@
     <display-name lang="es">Montilla TV 720</display-name>
     <display-name lang="es">Montilla TV 1080</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Montilla%20TV.png" />
-  </channel>
-  <channel id="Vivir Torredelcampo TV">
-    <display-name lang="es">Vivir Torredelcampo TV</display-name>
-    <display-name lang="es">Vivir Torredelcampo TV.TV</display-name>
-    <display-name lang="es">Vivir Torredelcampo TV SD</display-name>
-    <display-name lang="es">Vivir Torredelcampo TV HD</display-name>
-    <display-name lang="es">Vivir Torredelcampo TV FHD</display-name>
-    <display-name lang="es">Vivir Torredelcampo TV UHD</display-name>
-    <display-name lang="es">Vivir Torredelcampo TV 720</display-name>
-    <display-name lang="es">Vivir Torredelcampo TV 1080</display-name>
-    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Vivir%20Torredelcampo%20TV.png" />
-  </channel>
-  <channel id="Vicomartele">
-    <display-name lang="es">Vicomartele</display-name>
-    <display-name lang="es">Vicomartele.TV</display-name>
-    <display-name lang="es">Vicomartele SD</display-name>
-    <display-name lang="es">Vicomartele HD</display-name>
-    <display-name lang="es">Vicomartele FHD</display-name>
-    <display-name lang="es">Vicomartele UHD</display-name>
-    <display-name lang="es">Vicomartele 720</display-name>
-    <display-name lang="es">Vicomartele 1080</display-name>
-    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Vicomartele.png" />
   </channel>
   <channel id="UcubiTV">
     <display-name lang="es">UcubiTV</display-name>
