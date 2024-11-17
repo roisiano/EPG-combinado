@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tv generator-info-name="dobleM 15/11/2024 20:50" generator-info-url="t.me/EPG_dobleM">
+<tv generator-info-name="dobleM 16/11/2024 20:50" generator-info-url="t.me/EPG_dobleM">
   <channel id="La 1 HD">
     <display-name lang="es">La 1</display-name>
     <display-name lang="es">La 1.TV</display-name>
@@ -515,7 +515,6 @@
     <display-name lang="es">Enfamilia UHD</display-name>
     <display-name lang="es">Enfamilia 720</display-name>
     <display-name lang="es">Enfamilia 1080</display-name>
-    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Enfamilia.png" />
   </channel>
   <channel id="Baby TV">
     <display-name lang="es">Baby TV</display-name>
@@ -1320,17 +1319,6 @@
     <display-name lang="es">EuroNews 1080</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/EuroNews.png" />
   </channel>
-  <channel id="1+1 International">
-    <display-name lang="es">1+1 International</display-name>
-    <display-name lang="es">1+1 International.TV</display-name>
-    <display-name lang="es">1+1 International SD</display-name>
-    <display-name lang="es">1+1 International HD</display-name>
-    <display-name lang="es">1+1 International FHD</display-name>
-    <display-name lang="es">1+1 International UHD</display-name>
-    <display-name lang="es">1+1 International 720</display-name>
-    <display-name lang="es">1+1 International 1080</display-name>
-    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/1%2B1%20International.png" />
-  </channel>
   <channel id="El Toro TV">
     <display-name lang="es">El Toro TV</display-name>
     <display-name lang="es">El Toro TV.TV</display-name>
@@ -2134,6 +2122,17 @@
     <display-name lang="es">DAZN 1 BAR 1080</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%201%20BAR.png" />
   </channel>
+  <channel id="DAZN 2 BAR">
+    <display-name lang="es">DAZN 2 BAR</display-name>
+    <display-name lang="es">DAZN 2 BAR.TV</display-name>
+    <display-name lang="es">DAZN 2 BAR SD</display-name>
+    <display-name lang="es">DAZN 2 BAR HD</display-name>
+    <display-name lang="es">DAZN 2 BAR FHD</display-name>
+    <display-name lang="es">DAZN 2 BAR UHD</display-name>
+    <display-name lang="es">DAZN 2 BAR 720</display-name>
+    <display-name lang="es">DAZN 2 BAR 1080</display-name>
+    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%202%20BAR.png" />
+  </channel>
   <channel id="GolStadium">
     <display-name lang="es">GolStadium</display-name>
     <display-name lang="es">GolStadium.TV</display-name>
@@ -2166,17 +2165,6 @@
     <display-name lang="es">VE 720</display-name>
     <display-name lang="es">VE 1080</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/VE.png" />
-  </channel>
-  <channel id="Jamilena">
-    <display-name lang="es">Jamilena</display-name>
-    <display-name lang="es">Jamilena.TV</display-name>
-    <display-name lang="es">Jamilena SD</display-name>
-    <display-name lang="es">Jamilena HD</display-name>
-    <display-name lang="es">Jamilena FHD</display-name>
-    <display-name lang="es">Jamilena UHD</display-name>
-    <display-name lang="es">Jamilena 720</display-name>
-    <display-name lang="es">Jamilena 1080</display-name>
-    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Jamilena.png" />
   </channel>
   <channel id="Lebrija TV">
     <display-name lang="es">Lebrija TV</display-name>
@@ -4966,7 +4954,6 @@
     <display-name lang="es">Moto ADV UHD</display-name>
     <display-name lang="es">Moto ADV 720</display-name>
     <display-name lang="es">Moto ADV 1080</display-name>
-    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Moto%20ADV.png" />
   </channel>
   <channel id="TRACE Sports Stars">
     <display-name lang="es">TRACE Sports Stars</display-name>
