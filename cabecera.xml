@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tv generator-info-name="dobleM 19/11/2024 20:50" generator-info-url="t.me/EPG_dobleM">
+<tv generator-info-name="dobleM 20/11/2024 20:50" generator-info-url="t.me/EPG_dobleM">
   <channel id="La 1 HD">
     <display-name lang="es">La 1</display-name>
     <display-name lang="es">La 1.TV</display-name>
@@ -372,6 +372,7 @@
     <display-name lang="es">Energy UHD</display-name>
     <display-name lang="es">Energy 720</display-name>
     <display-name lang="es">Energy 1080</display-name>
+    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Energy.png" />
   </channel>
   <channel id="Factoría de Ficción">
     <display-name lang="es">Factoría de Ficción</display-name>
@@ -382,6 +383,7 @@
     <display-name lang="es">Factoría de Ficción UHD</display-name>
     <display-name lang="es">Factoría de Ficción 720</display-name>
     <display-name lang="es">Factoría de Ficción 1080</display-name>
+    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Factor%C3%ADa%20de%20Ficci%C3%B3n.png" />
   </channel>
   <channel id="Neox">
     <display-name lang="es">Neox</display-name>
@@ -392,6 +394,7 @@
     <display-name lang="es">Neox UHD</display-name>
     <display-name lang="es">Neox 720</display-name>
     <display-name lang="es">Neox 1080</display-name>
+    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Neox.png" />
   </channel>
   <channel id="Caza y Pesca HD">
     <display-name lang="es">Caza y Pesca</display-name>
@@ -402,6 +405,7 @@
     <display-name lang="es">Caza y Pesca UHD</display-name>
     <display-name lang="es">Caza y Pesca 720</display-name>
     <display-name lang="es">Caza y Pesca 1080</display-name>
+    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Caza%20y%20Pesca.png" />
   </channel>
   <channel id="Iberalia TV">
     <display-name lang="es">Iberalia TV</display-name>
@@ -412,6 +416,7 @@
     <display-name lang="es">Iberalia TV UHD</display-name>
     <display-name lang="es">Iberalia TV 720</display-name>
     <display-name lang="es">Iberalia TV 1080</display-name>
+    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Iberalia%20TV.png" />
   </channel>
   <channel id="National Geographic HD">
     <display-name lang="es">National Geographic</display-name>
@@ -422,6 +427,7 @@
     <display-name lang="es">National Geographic UHD</display-name>
     <display-name lang="es">National Geographic 720</display-name>
     <display-name lang="es">National Geographic 1080</display-name>
+    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/National%20Geographic.png" />
   </channel>
   <channel id="Nat Geo Wild HD">
     <display-name lang="es">Nat Geo Wild</display-name>
@@ -432,6 +438,7 @@
     <display-name lang="es">Nat Geo Wild UHD</display-name>
     <display-name lang="es">Nat Geo Wild 720</display-name>
     <display-name lang="es">Nat Geo Wild 1080</display-name>
+    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Nat%20Geo%20Wild.png" />
   </channel>
   <channel id="Historia">
     <display-name lang="es">Historia</display-name>
@@ -442,6 +449,7 @@
     <display-name lang="es">Historia UHD</display-name>
     <display-name lang="es">Historia 720</display-name>
     <display-name lang="es">Historia 1080</display-name>
+    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Historia.png" />
   </channel>
   <channel id="Discovery">
     <display-name lang="es">Discovery</display-name>
@@ -452,6 +460,7 @@
     <display-name lang="es">Discovery UHD</display-name>
     <display-name lang="es">Discovery 720</display-name>
     <display-name lang="es">Discovery 1080</display-name>
+    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Discovery.png" />
   </channel>
   <channel id="Canal Cocina">
     <display-name lang="es">Canal Cocina</display-name>
@@ -462,6 +471,7 @@
     <display-name lang="es">Canal Cocina UHD</display-name>
     <display-name lang="es">Canal Cocina 720</display-name>
     <display-name lang="es">Canal Cocina 1080</display-name>
+    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Canal%20Cocina.png" />
   </channel>
   <channel id="Decasa">
     <display-name lang="es">Decasa</display-name>
@@ -472,6 +482,7 @@
     <display-name lang="es">Decasa UHD</display-name>
     <display-name lang="es">Decasa 720</display-name>
     <display-name lang="es">Decasa 1080</display-name>
+    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Decasa.png" />
   </channel>
   <channel id="Divinity">
     <display-name lang="es">Divinity</display-name>
@@ -482,6 +493,7 @@
     <display-name lang="es">Divinity UHD</display-name>
     <display-name lang="es">Divinity 720</display-name>
     <display-name lang="es">Divinity 1080</display-name>
+    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Divinity.png" />
   </channel>
   <channel id="Nova">
     <display-name lang="es">Nova</display-name>
@@ -492,6 +504,7 @@
     <display-name lang="es">Nova UHD</display-name>
     <display-name lang="es">Nova 720</display-name>
     <display-name lang="es">Nova 1080</display-name>
+    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Nova.png" />
   </channel>
   <channel id="Enfamilia">
     <display-name lang="es">Enfamilia</display-name>
@@ -502,6 +515,7 @@
     <display-name lang="es">Enfamilia UHD</display-name>
     <display-name lang="es">Enfamilia 720</display-name>
     <display-name lang="es">Enfamilia 1080</display-name>
+    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Enfamilia.png" />
   </channel>
   <channel id="Baby TV">
     <display-name lang="es">Baby TV</display-name>
@@ -1260,6 +1274,7 @@
     <display-name lang="es">DKISS UHD</display-name>
     <display-name lang="es">DKISS 720</display-name>
     <display-name lang="es">DKISS 1080</display-name>
+    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DKISS.png" />
   </channel>
   <channel id="Mega">
     <display-name lang="es">Mega</display-name>
@@ -1270,6 +1285,7 @@
     <display-name lang="es">Mega UHD</display-name>
     <display-name lang="es">Mega 720</display-name>
     <display-name lang="es">Mega 1080</display-name>
+    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Mega.png" />
   </channel>
   <channel id="Ten">
     <display-name lang="es">Ten</display-name>
@@ -1280,6 +1296,7 @@
     <display-name lang="es">Ten UHD</display-name>
     <display-name lang="es">Ten 720</display-name>
     <display-name lang="es">Ten 1080</display-name>
+    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Ten.png" />
   </channel>
   <channel id="ETB3">
     <display-name lang="es">ETB3</display-name>
@@ -1290,6 +1307,7 @@
     <display-name lang="es">ETB3 UHD</display-name>
     <display-name lang="es">ETB3 720</display-name>
     <display-name lang="es">ETB3 1080</display-name>
+    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/ETB3.png" />
   </channel>
   <channel id="EuroNews">
     <display-name lang="es">EuroNews</display-name>
@@ -1300,6 +1318,7 @@
     <display-name lang="es">EuroNews UHD</display-name>
     <display-name lang="es">EuroNews 720</display-name>
     <display-name lang="es">EuroNews 1080</display-name>
+    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/EuroNews.png" />
   </channel>
   <channel id="El Toro TV">
     <display-name lang="es">El Toro TV</display-name>
@@ -1310,6 +1329,7 @@
     <display-name lang="es">El Toro TV UHD</display-name>
     <display-name lang="es">El Toro TV 720</display-name>
     <display-name lang="es">El Toro TV 1080</display-name>
+    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/El%20Toro%20TV.png" />
   </channel>
   <channel id="Negocios TV">
     <display-name lang="es">Negocios TV</display-name>
@@ -1320,6 +1340,7 @@
     <display-name lang="es">Negocios TV UHD</display-name>
     <display-name lang="es">Negocios TV 720</display-name>
     <display-name lang="es">Negocios TV 1080</display-name>
+    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Negocios%20TV.png" />
   </channel>
   <channel id="CGTN Español">
     <display-name lang="es">CGTN Español</display-name>
@@ -1330,6 +1351,7 @@
     <display-name lang="es">CGTN Español UHD</display-name>
     <display-name lang="es">CGTN Español 720</display-name>
     <display-name lang="es">CGTN Español 1080</display-name>
+    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/CGTN%20Espa%C3%B1ol.png" />
   </channel>
   <channel id="CGTN Documentary">
     <display-name lang="es">CGTN Documentary</display-name>
@@ -1340,6 +1362,7 @@
     <display-name lang="es">CGTN Documentary UHD</display-name>
     <display-name lang="es">CGTN Documentary 720</display-name>
     <display-name lang="es">CGTN Documentary 1080</display-name>
+    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/CGTN%20Documentary.png" />
   </channel>
   <channel id="Canal de las Estrellas">
     <display-name lang="es">Canal de las Estrellas</display-name>
@@ -1350,6 +1373,7 @@
     <display-name lang="es">Canal de las Estrellas UHD</display-name>
     <display-name lang="es">Canal de las Estrellas 720</display-name>
     <display-name lang="es">Canal de las Estrellas 1080</display-name>
+    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Canal%20de%20las%20Estrellas.png" />
   </channel>
   <channel id="TV Chile">
     <display-name lang="es">TV Chile</display-name>
@@ -1360,6 +1384,7 @@
     <display-name lang="es">TV Chile UHD</display-name>
     <display-name lang="es">TV Chile 720</display-name>
     <display-name lang="es">TV Chile 1080</display-name>
+    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/TV%20Chile.png" />
   </channel>
   <channel id="Nuestra Tele Internacional">
     <display-name lang="es">Nuestra Tele Internacional</display-name>
@@ -1370,6 +1395,7 @@
     <display-name lang="es">Nuestra Tele Internacional UHD</display-name>
     <display-name lang="es">Nuestra Tele Internacional 720</display-name>
     <display-name lang="es">Nuestra Tele Internacional 1080</display-name>
+    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Nuestra%20Tele%20Internacional.png" />
   </channel>
   <channel id="EWTN">
     <display-name lang="es">EWTN</display-name>
@@ -1380,6 +1406,7 @@
     <display-name lang="es">EWTN UHD</display-name>
     <display-name lang="es">EWTN 720</display-name>
     <display-name lang="es">EWTN 1080</display-name>
+    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/EWTN.png" />
   </channel>
   <channel id="EITB Basque">
     <display-name lang="es">EITB Basque</display-name>
@@ -1390,6 +1417,7 @@
     <display-name lang="es">EITB Basque UHD</display-name>
     <display-name lang="es">EITB Basque 720</display-name>
     <display-name lang="es">EITB Basque 1080</display-name>
+    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/EITB%20Basque.png" />
   </channel>
   <channel id="Telemadrid Internacional">
     <display-name lang="es">Telemadrid Internacional</display-name>
@@ -1400,6 +1428,7 @@
     <display-name lang="es">Telemadrid Internacional UHD</display-name>
     <display-name lang="es">Telemadrid Internacional 720</display-name>
     <display-name lang="es">Telemadrid Internacional 1080</display-name>
+    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Telemadrid%20Internacional.png" />
   </channel>
   <channel id="SX3">
     <display-name lang="es">SX3</display-name>
@@ -1410,6 +1439,7 @@
     <display-name lang="es">SX3 UHD</display-name>
     <display-name lang="es">SX3 720</display-name>
     <display-name lang="es">SX3 1080</display-name>
+    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/SX3.png" />
   </channel>
   <channel id="Esport 3">
     <display-name lang="es">Esport 3</display-name>
@@ -1420,6 +1450,7 @@
     <display-name lang="es">Esport 3 UHD</display-name>
     <display-name lang="es">Esport 3 720</display-name>
     <display-name lang="es">Esport 3 1080</display-name>
+    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Esport%203.png" />
   </channel>
   <channel id="324">
     <display-name lang="es">324</display-name>
@@ -1430,6 +1461,7 @@
     <display-name lang="es">324 UHD</display-name>
     <display-name lang="es">324 720</display-name>
     <display-name lang="es">324 1080</display-name>
+    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/324.png" />
   </channel>
   <channel id="Betevé">
     <display-name lang="es">Betevé</display-name>
@@ -1440,6 +1472,7 @@
     <display-name lang="es">Betevé UHD</display-name>
     <display-name lang="es">Betevé 720</display-name>
     <display-name lang="es">Betevé 1080</display-name>
+    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Betev%C3%A9.png" />
   </channel>
   <channel id="Canal Fútbol Replay">
     <display-name lang="es">Canal Fútbol Replay</display-name>
@@ -1450,6 +1483,7 @@
     <display-name lang="es">Canal Fútbol Replay UHD</display-name>
     <display-name lang="es">Canal Fútbol Replay 720</display-name>
     <display-name lang="es">Canal Fútbol Replay 1080</display-name>
+    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Canal%20F%C3%BAtbol%20Replay.png" />
   </channel>
   <channel id="M+ Copa del Rey">
     <display-name lang="es">M+ Copa del Rey</display-name>
@@ -2023,28 +2057,6 @@
     <display-name lang="es">Liga de Campeones BAR 2 1080</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Liga%20de%20Campeones%20BAR%202.png" />
   </channel>
-  <channel id="Liga de Campeones BAR 3">
-    <display-name lang="es">Liga de Campeones BAR 3</display-name>
-    <display-name lang="es">Liga de Campeones BAR 3.TV</display-name>
-    <display-name lang="es">Liga de Campeones BAR 3 SD</display-name>
-    <display-name lang="es">Liga de Campeones BAR 3 HD</display-name>
-    <display-name lang="es">Liga de Campeones BAR 3 FHD</display-name>
-    <display-name lang="es">Liga de Campeones BAR 3 UHD</display-name>
-    <display-name lang="es">Liga de Campeones BAR 3 720</display-name>
-    <display-name lang="es">Liga de Campeones BAR 3 1080</display-name>
-    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Liga%20de%20Campeones%20BAR%203.png" />
-  </channel>
-  <channel id="Liga de Campeones BAR 4">
-    <display-name lang="es">Liga de Campeones BAR 4</display-name>
-    <display-name lang="es">Liga de Campeones BAR 4.TV</display-name>
-    <display-name lang="es">Liga de Campeones BAR 4 SD</display-name>
-    <display-name lang="es">Liga de Campeones BAR 4 HD</display-name>
-    <display-name lang="es">Liga de Campeones BAR 4 FHD</display-name>
-    <display-name lang="es">Liga de Campeones BAR 4 UHD</display-name>
-    <display-name lang="es">Liga de Campeones BAR 4 720</display-name>
-    <display-name lang="es">Liga de Campeones BAR 4 1080</display-name>
-    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Liga%20de%20Campeones%20BAR%204.png" />
-  </channel>
   <channel id="Liga de Campeones BAR 5">
     <display-name lang="es">Liga de Campeones BAR 5</display-name>
     <display-name lang="es">Liga de Campeones BAR 5.TV</display-name>
@@ -2055,6 +2067,83 @@
     <display-name lang="es">Liga de Campeones BAR 5 720</display-name>
     <display-name lang="es">Liga de Campeones BAR 5 1080</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Liga%20de%20Campeones%20BAR%205.png" />
+  </channel>
+  <channel id="Liga de Campeones BAR 6">
+    <display-name lang="es">Liga de Campeones BAR 6</display-name>
+    <display-name lang="es">Liga de Campeones BAR 6.TV</display-name>
+    <display-name lang="es">Liga de Campeones BAR 6 SD</display-name>
+    <display-name lang="es">Liga de Campeones BAR 6 HD</display-name>
+    <display-name lang="es">Liga de Campeones BAR 6 FHD</display-name>
+    <display-name lang="es">Liga de Campeones BAR 6 UHD</display-name>
+    <display-name lang="es">Liga de Campeones BAR 6 720</display-name>
+    <display-name lang="es">Liga de Campeones BAR 6 1080</display-name>
+    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Liga%20de%20Campeones%20BAR%206.png" />
+  </channel>
+  <channel id="Liga de Campeones BAR 7">
+    <display-name lang="es">Liga de Campeones BAR 7</display-name>
+    <display-name lang="es">Liga de Campeones BAR 7.TV</display-name>
+    <display-name lang="es">Liga de Campeones BAR 7 SD</display-name>
+    <display-name lang="es">Liga de Campeones BAR 7 HD</display-name>
+    <display-name lang="es">Liga de Campeones BAR 7 FHD</display-name>
+    <display-name lang="es">Liga de Campeones BAR 7 UHD</display-name>
+    <display-name lang="es">Liga de Campeones BAR 7 720</display-name>
+    <display-name lang="es">Liga de Campeones BAR 7 1080</display-name>
+    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Liga%20de%20Campeones%20BAR%207.png" />
+  </channel>
+  <channel id="Liga de Campeones BAR 8">
+    <display-name lang="es">Liga de Campeones BAR 8</display-name>
+    <display-name lang="es">Liga de Campeones BAR 8.TV</display-name>
+    <display-name lang="es">Liga de Campeones BAR 8 SD</display-name>
+    <display-name lang="es">Liga de Campeones BAR 8 HD</display-name>
+    <display-name lang="es">Liga de Campeones BAR 8 FHD</display-name>
+    <display-name lang="es">Liga de Campeones BAR 8 UHD</display-name>
+    <display-name lang="es">Liga de Campeones BAR 8 720</display-name>
+    <display-name lang="es">Liga de Campeones BAR 8 1080</display-name>
+    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Liga%20de%20Campeones%20BAR%208.png" />
+  </channel>
+  <channel id="Liga de Campeones BAR 9">
+    <display-name lang="es">Liga de Campeones BAR 9</display-name>
+    <display-name lang="es">Liga de Campeones BAR 9.TV</display-name>
+    <display-name lang="es">Liga de Campeones BAR 9 SD</display-name>
+    <display-name lang="es">Liga de Campeones BAR 9 HD</display-name>
+    <display-name lang="es">Liga de Campeones BAR 9 FHD</display-name>
+    <display-name lang="es">Liga de Campeones BAR 9 UHD</display-name>
+    <display-name lang="es">Liga de Campeones BAR 9 720</display-name>
+    <display-name lang="es">Liga de Campeones BAR 9 1080</display-name>
+    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Liga%20de%20Campeones%20BAR%209.png" />
+  </channel>
+  <channel id="Liga de Campeones BAR 10">
+    <display-name lang="es">Liga de Campeones BAR 10</display-name>
+    <display-name lang="es">Liga de Campeones BAR 10.TV</display-name>
+    <display-name lang="es">Liga de Campeones BAR 10 SD</display-name>
+    <display-name lang="es">Liga de Campeones BAR 10 HD</display-name>
+    <display-name lang="es">Liga de Campeones BAR 10 FHD</display-name>
+    <display-name lang="es">Liga de Campeones BAR 10 UHD</display-name>
+    <display-name lang="es">Liga de Campeones BAR 10 720</display-name>
+    <display-name lang="es">Liga de Campeones BAR 10 1080</display-name>
+    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Liga%20de%20Campeones%20BAR%2010.png" />
+  </channel>
+  <channel id="Liga de Campeones BAR 11">
+    <display-name lang="es">Liga de Campeones BAR 11</display-name>
+    <display-name lang="es">Liga de Campeones BAR 11.TV</display-name>
+    <display-name lang="es">Liga de Campeones BAR 11 SD</display-name>
+    <display-name lang="es">Liga de Campeones BAR 11 HD</display-name>
+    <display-name lang="es">Liga de Campeones BAR 11 FHD</display-name>
+    <display-name lang="es">Liga de Campeones BAR 11 UHD</display-name>
+    <display-name lang="es">Liga de Campeones BAR 11 720</display-name>
+    <display-name lang="es">Liga de Campeones BAR 11 1080</display-name>
+    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Liga%20de%20Campeones%20BAR%2011.png" />
+  </channel>
+  <channel id="Liga de Campeones BAR 12">
+    <display-name lang="es">Liga de Campeones BAR 12</display-name>
+    <display-name lang="es">Liga de Campeones BAR 12.TV</display-name>
+    <display-name lang="es">Liga de Campeones BAR 12 SD</display-name>
+    <display-name lang="es">Liga de Campeones BAR 12 HD</display-name>
+    <display-name lang="es">Liga de Campeones BAR 12 FHD</display-name>
+    <display-name lang="es">Liga de Campeones BAR 12 UHD</display-name>
+    <display-name lang="es">Liga de Campeones BAR 12 720</display-name>
+    <display-name lang="es">Liga de Campeones BAR 12 1080</display-name>
+    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Liga%20de%20Campeones%20BAR%2012.png" />
   </channel>
   <channel id="GolStadium BAR">
     <display-name lang="es">GolStadium BAR</display-name>
@@ -2110,138 +2199,6 @@
     <display-name lang="es">GolStadium 720</display-name>
     <display-name lang="es">GolStadium 1080</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/GolStadium.png" />
-  </channel>
-  <channel id="Ilorci">
-    <display-name lang="es">Ilorci</display-name>
-    <display-name lang="es">Ilorci.TV</display-name>
-    <display-name lang="es">Ilorci SD</display-name>
-    <display-name lang="es">Ilorci HD</display-name>
-    <display-name lang="es">Ilorci FHD</display-name>
-    <display-name lang="es">Ilorci UHD</display-name>
-    <display-name lang="es">Ilorci 720</display-name>
-    <display-name lang="es">Ilorci 1080</display-name>
-    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Ilorci.png" />
-  </channel>
-  <channel id="VE">
-    <display-name lang="es">VE</display-name>
-    <display-name lang="es">VE.TV</display-name>
-    <display-name lang="es">VE SD</display-name>
-    <display-name lang="es">VE HD</display-name>
-    <display-name lang="es">VE FHD</display-name>
-    <display-name lang="es">VE UHD</display-name>
-    <display-name lang="es">VE 720</display-name>
-    <display-name lang="es">VE 1080</display-name>
-    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/VE.png" />
-  </channel>
-  <channel id="Jamilena">
-    <display-name lang="es">Jamilena</display-name>
-    <display-name lang="es">Jamilena.TV</display-name>
-    <display-name lang="es">Jamilena SD</display-name>
-    <display-name lang="es">Jamilena HD</display-name>
-    <display-name lang="es">Jamilena FHD</display-name>
-    <display-name lang="es">Jamilena UHD</display-name>
-    <display-name lang="es">Jamilena 720</display-name>
-    <display-name lang="es">Jamilena 1080</display-name>
-    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Jamilena.png" />
-  </channel>
-  <channel id="Lebrija TV">
-    <display-name lang="es">Lebrija TV</display-name>
-    <display-name lang="es">Lebrija TV.TV</display-name>
-    <display-name lang="es">Lebrija TV SD</display-name>
-    <display-name lang="es">Lebrija TV HD</display-name>
-    <display-name lang="es">Lebrija TV FHD</display-name>
-    <display-name lang="es">Lebrija TV UHD</display-name>
-    <display-name lang="es">Lebrija TV 720</display-name>
-    <display-name lang="es">Lebrija TV 1080</display-name>
-    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Lebrija%20TV.png" />
-  </channel>
-  <channel id="Montilla TV">
-    <display-name lang="es">Montilla TV</display-name>
-    <display-name lang="es">Montilla TV.TV</display-name>
-    <display-name lang="es">Montilla TV SD</display-name>
-    <display-name lang="es">Montilla TV HD</display-name>
-    <display-name lang="es">Montilla TV FHD</display-name>
-    <display-name lang="es">Montilla TV UHD</display-name>
-    <display-name lang="es">Montilla TV 720</display-name>
-    <display-name lang="es">Montilla TV 1080</display-name>
-    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Montilla%20TV.png" />
-  </channel>
-  <channel id="Vivir Torredelcampo TV">
-    <display-name lang="es">Vivir Torredelcampo TV</display-name>
-    <display-name lang="es">Vivir Torredelcampo TV.TV</display-name>
-    <display-name lang="es">Vivir Torredelcampo TV SD</display-name>
-    <display-name lang="es">Vivir Torredelcampo TV HD</display-name>
-    <display-name lang="es">Vivir Torredelcampo TV FHD</display-name>
-    <display-name lang="es">Vivir Torredelcampo TV UHD</display-name>
-    <display-name lang="es">Vivir Torredelcampo TV 720</display-name>
-    <display-name lang="es">Vivir Torredelcampo TV 1080</display-name>
-    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Vivir%20Torredelcampo%20TV.png" />
-  </channel>
-  <channel id="Vicomartele">
-    <display-name lang="es">Vicomartele</display-name>
-    <display-name lang="es">Vicomartele.TV</display-name>
-    <display-name lang="es">Vicomartele SD</display-name>
-    <display-name lang="es">Vicomartele HD</display-name>
-    <display-name lang="es">Vicomartele FHD</display-name>
-    <display-name lang="es">Vicomartele UHD</display-name>
-    <display-name lang="es">Vicomartele 720</display-name>
-    <display-name lang="es">Vicomartele 1080</display-name>
-    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Vicomartele.png" />
-  </channel>
-  <channel id="UcubiTV">
-    <display-name lang="es">UcubiTV</display-name>
-    <display-name lang="es">UcubiTV.TV</display-name>
-    <display-name lang="es">UcubiTV SD</display-name>
-    <display-name lang="es">UcubiTV HD</display-name>
-    <display-name lang="es">UcubiTV FHD</display-name>
-    <display-name lang="es">UcubiTV UHD</display-name>
-    <display-name lang="es">UcubiTV 720</display-name>
-    <display-name lang="es">UcubiTV 1080</display-name>
-    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/UcubiTV.png" />
-  </channel>
-  <channel id="La Rambla TV">
-    <display-name lang="es">La Rambla TV</display-name>
-    <display-name lang="es">La Rambla TV.TV</display-name>
-    <display-name lang="es">La Rambla TV SD</display-name>
-    <display-name lang="es">La Rambla TV HD</display-name>
-    <display-name lang="es">La Rambla TV FHD</display-name>
-    <display-name lang="es">La Rambla TV UHD</display-name>
-    <display-name lang="es">La Rambla TV 720</display-name>
-    <display-name lang="es">La Rambla TV 1080</display-name>
-    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/La%20Rambla%20TV.png" />
-  </channel>
-  <channel id="ZIMAGEN TV">
-    <display-name lang="es">ZIMAGEN TV</display-name>
-    <display-name lang="es">ZIMAGEN TV.TV</display-name>
-    <display-name lang="es">ZIMAGEN TV SD</display-name>
-    <display-name lang="es">ZIMAGEN TV HD</display-name>
-    <display-name lang="es">ZIMAGEN TV FHD</display-name>
-    <display-name lang="es">ZIMAGEN TV UHD</display-name>
-    <display-name lang="es">ZIMAGEN TV 720</display-name>
-    <display-name lang="es">ZIMAGEN TV 1080</display-name>
-    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/ZIMAGEN%20TV.png" />
-  </channel>
-  <channel id="Telepitu">
-    <display-name lang="es">Telepitu</display-name>
-    <display-name lang="es">Telepitu.TV</display-name>
-    <display-name lang="es">Telepitu SD</display-name>
-    <display-name lang="es">Telepitu HD</display-name>
-    <display-name lang="es">Telepitu FHD</display-name>
-    <display-name lang="es">Telepitu UHD</display-name>
-    <display-name lang="es">Telepitu 720</display-name>
-    <display-name lang="es">Telepitu 1080</display-name>
-    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Telepitu.png" />
-  </channel>
-  <channel id="Tele Castro">
-    <display-name lang="es">Tele Castro</display-name>
-    <display-name lang="es">Tele Castro.TV</display-name>
-    <display-name lang="es">Tele Castro SD</display-name>
-    <display-name lang="es">Tele Castro HD</display-name>
-    <display-name lang="es">Tele Castro FHD</display-name>
-    <display-name lang="es">Tele Castro UHD</display-name>
-    <display-name lang="es">Tele Castro 720</display-name>
-    <display-name lang="es">Tele Castro 1080</display-name>
-    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Tele%20Castro.png" />
   </channel>
   <channel id="Torolé TV">
     <display-name lang="es">Torolé TV</display-name>
@@ -2364,50 +2321,6 @@
     <display-name lang="es">Antena Motor 1080</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Antena%20Motor.png" />
   </channel>
-  <channel id="Telecuervo">
-    <display-name lang="es">Telecuervo</display-name>
-    <display-name lang="es">Telecuervo.TV</display-name>
-    <display-name lang="es">Telecuervo SD</display-name>
-    <display-name lang="es">Telecuervo HD</display-name>
-    <display-name lang="es">Telecuervo FHD</display-name>
-    <display-name lang="es">Telecuervo UHD</display-name>
-    <display-name lang="es">Telecuervo 720</display-name>
-    <display-name lang="es">Telecuervo 1080</display-name>
-    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Telecuervo.png" />
-  </channel>
-  <channel id="Doce TV Mairena">
-    <display-name lang="es">Doce TV Mairena</display-name>
-    <display-name lang="es">Doce TV Mairena.TV</display-name>
-    <display-name lang="es">Doce TV Mairena SD</display-name>
-    <display-name lang="es">Doce TV Mairena HD</display-name>
-    <display-name lang="es">Doce TV Mairena FHD</display-name>
-    <display-name lang="es">Doce TV Mairena UHD</display-name>
-    <display-name lang="es">Doce TV Mairena 720</display-name>
-    <display-name lang="es">Doce TV Mairena 1080</display-name>
-    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Doce%20TV%20Mairena.png" />
-  </channel>
-  <channel id="Atalaya">
-    <display-name lang="es">Atalaya</display-name>
-    <display-name lang="es">Atalaya.TV</display-name>
-    <display-name lang="es">Atalaya SD</display-name>
-    <display-name lang="es">Atalaya HD</display-name>
-    <display-name lang="es">Atalaya FHD</display-name>
-    <display-name lang="es">Atalaya UHD</display-name>
-    <display-name lang="es">Atalaya 720</display-name>
-    <display-name lang="es">Atalaya 1080</display-name>
-    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Atalaya.png" />
-  </channel>
-  <channel id="Huelva TV">
-    <display-name lang="es">Huelva TV</display-name>
-    <display-name lang="es">Huelva TV.TV</display-name>
-    <display-name lang="es">Huelva TV SD</display-name>
-    <display-name lang="es">Huelva TV HD</display-name>
-    <display-name lang="es">Huelva TV FHD</display-name>
-    <display-name lang="es">Huelva TV UHD</display-name>
-    <display-name lang="es">Huelva TV 720</display-name>
-    <display-name lang="es">Huelva TV 1080</display-name>
-    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Huelva%20TV.png" />
-  </channel>
   <channel id="Dhípica">
     <display-name lang="es">Dhípica</display-name>
     <display-name lang="es">Dhípica.TV</display-name>
@@ -2440,61 +2353,6 @@
     <display-name lang="es">tlnovelas 720</display-name>
     <display-name lang="es">tlnovelas 1080</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/tlnovelas.png" />
-  </channel>
-  <channel id="PTV Malaga">
-    <display-name lang="es">PTV Malaga</display-name>
-    <display-name lang="es">PTV Malaga.TV</display-name>
-    <display-name lang="es">PTV Malaga SD</display-name>
-    <display-name lang="es">PTV Malaga HD</display-name>
-    <display-name lang="es">PTV Malaga FHD</display-name>
-    <display-name lang="es">PTV Malaga UHD</display-name>
-    <display-name lang="es">PTV Malaga 720</display-name>
-    <display-name lang="es">PTV Malaga 1080</display-name>
-    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/PTV%20Malaga.png" />
-  </channel>
-  <channel id="PTV Cordoba">
-    <display-name lang="es">PTV Cordoba</display-name>
-    <display-name lang="es">PTV Cordoba.TV</display-name>
-    <display-name lang="es">PTV Cordoba SD</display-name>
-    <display-name lang="es">PTV Cordoba HD</display-name>
-    <display-name lang="es">PTV Cordoba FHD</display-name>
-    <display-name lang="es">PTV Cordoba UHD</display-name>
-    <display-name lang="es">PTV Cordoba 720</display-name>
-    <display-name lang="es">PTV Cordoba 1080</display-name>
-    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/PTV%20Cordoba.png" />
-  </channel>
-  <channel id="PTV Granada">
-    <display-name lang="es">PTV Granada</display-name>
-    <display-name lang="es">PTV Granada.TV</display-name>
-    <display-name lang="es">PTV Granada SD</display-name>
-    <display-name lang="es">PTV Granada HD</display-name>
-    <display-name lang="es">PTV Granada FHD</display-name>
-    <display-name lang="es">PTV Granada UHD</display-name>
-    <display-name lang="es">PTV Granada 720</display-name>
-    <display-name lang="es">PTV Granada 1080</display-name>
-    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/PTV%20Granada.png" />
-  </channel>
-  <channel id="PTV Sevilla">
-    <display-name lang="es">PTV Sevilla</display-name>
-    <display-name lang="es">PTV Sevilla.TV</display-name>
-    <display-name lang="es">PTV Sevilla SD</display-name>
-    <display-name lang="es">PTV Sevilla HD</display-name>
-    <display-name lang="es">PTV Sevilla FHD</display-name>
-    <display-name lang="es">PTV Sevilla UHD</display-name>
-    <display-name lang="es">PTV Sevilla 720</display-name>
-    <display-name lang="es">PTV Sevilla 1080</display-name>
-    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/PTV%20Sevilla.png" />
-  </channel>
-  <channel id="PTV Linares">
-    <display-name lang="es">PTV Linares</display-name>
-    <display-name lang="es">PTV Linares.TV</display-name>
-    <display-name lang="es">PTV Linares SD</display-name>
-    <display-name lang="es">PTV Linares HD</display-name>
-    <display-name lang="es">PTV Linares FHD</display-name>
-    <display-name lang="es">PTV Linares UHD</display-name>
-    <display-name lang="es">PTV Linares 720</display-name>
-    <display-name lang="es">PTV Linares 1080</display-name>
-    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/PTV%20Linares.png" />
   </channel>
   <channel id="DePelícula">
     <display-name lang="es">DePelícula</display-name>
@@ -4954,6 +4812,7 @@
     <display-name lang="es">Moto ADV UHD</display-name>
     <display-name lang="es">Moto ADV 720</display-name>
     <display-name lang="es">Moto ADV 1080</display-name>
+    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Moto%20ADV.png" />
   </channel>
   <channel id="TRACE Sports Stars">
     <display-name lang="es">TRACE Sports Stars</display-name>
