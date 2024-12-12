@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tv generator-info-name="dobleM 10/12/2024 20:51" generator-info-url="t.me/EPG_dobleM">
+<tv generator-info-name="dobleM 11/12/2024 20:50" generator-info-url="t.me/EPG_dobleM">
   <channel id="La 1 HD">
     <display-name lang="es">La 1</display-name>
     <display-name lang="es">La 1.TV</display-name>
@@ -110,16 +110,16 @@
     <display-name lang="es">M+ Originales 1080</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Originales.png" />
   </channel>
-  <channel id="M+ BBC Earth">
-    <display-name lang="es">M+ BBC Earth</display-name>
-    <display-name lang="es">M+ BBC Earth.TV</display-name>
-    <display-name lang="es">M+ BBC Earth SD</display-name>
-    <display-name lang="es">M+ BBC Earth HD</display-name>
-    <display-name lang="es">M+ BBC Earth FHD</display-name>
-    <display-name lang="es">M+ BBC Earth UHD</display-name>
-    <display-name lang="es">M+ BBC Earth 720</display-name>
-    <display-name lang="es">M+ BBC Earth 1080</display-name>
-    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20BBC%20Earth.png" />
+  <channel id="M+ Navidad">
+    <display-name lang="es">M+ Navidad</display-name>
+    <display-name lang="es">M+ Navidad.TV</display-name>
+    <display-name lang="es">M+ Navidad SD</display-name>
+    <display-name lang="es">M+ Navidad HD</display-name>
+    <display-name lang="es">M+ Navidad FHD</display-name>
+    <display-name lang="es">M+ Navidad UHD</display-name>
+    <display-name lang="es">M+ Navidad 720</display-name>
+    <display-name lang="es">M+ Navidad 1080</display-name>
+    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Navidad.png" />
   </channel>
   <channel id="M+ Documentales HD">
     <display-name lang="es">M+ Documentales</display-name>
@@ -482,7 +482,6 @@
     <display-name lang="es">Decasa UHD</display-name>
     <display-name lang="es">Decasa 720</display-name>
     <display-name lang="es">Decasa 1080</display-name>
-    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Decasa.png" />
   </channel>
   <channel id="Divinity">
     <display-name lang="es">Divinity</display-name>
@@ -1439,7 +1438,6 @@
     <display-name lang="es">Esport 3 UHD</display-name>
     <display-name lang="es">Esport 3 720</display-name>
     <display-name lang="es">Esport 3 1080</display-name>
-    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Esport%203.png" />
   </channel>
   <channel id="324">
     <display-name lang="es">324</display-name>
@@ -1450,7 +1448,6 @@
     <display-name lang="es">324 UHD</display-name>
     <display-name lang="es">324 720</display-name>
     <display-name lang="es">324 1080</display-name>
-    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/324.png" />
   </channel>
   <channel id="Betevé">
     <display-name lang="es">Betevé</display-name>
@@ -1461,7 +1458,6 @@
     <display-name lang="es">Betevé UHD</display-name>
     <display-name lang="es">Betevé 720</display-name>
     <display-name lang="es">Betevé 1080</display-name>
-    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Betev%C3%A9.png" />
   </channel>
   <channel id="Canal Fútbol Replay">
     <display-name lang="es">Canal Fútbol Replay</display-name>
@@ -1472,7 +1468,6 @@
     <display-name lang="es">Canal Fútbol Replay UHD</display-name>
     <display-name lang="es">Canal Fútbol Replay 720</display-name>
     <display-name lang="es">Canal Fútbol Replay 1080</display-name>
-    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Canal%20F%C3%BAtbol%20Replay.png" />
   </channel>
   <channel id="M+ Copa del Rey">
     <display-name lang="es">M+ Copa del Rey</display-name>
@@ -2035,6 +2030,17 @@
     <display-name lang="es">LaLiga TV BAR 3 1080</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/LaLiga%20TV%20BAR%203.png" />
   </channel>
+  <channel id="LaLiga TV BAR 4">
+    <display-name lang="es">LaLiga TV BAR 4</display-name>
+    <display-name lang="es">LaLiga TV BAR 4.TV</display-name>
+    <display-name lang="es">LaLiga TV BAR 4 SD</display-name>
+    <display-name lang="es">LaLiga TV BAR 4 HD</display-name>
+    <display-name lang="es">LaLiga TV BAR 4 FHD</display-name>
+    <display-name lang="es">LaLiga TV BAR 4 UHD</display-name>
+    <display-name lang="es">LaLiga TV BAR 4 720</display-name>
+    <display-name lang="es">LaLiga TV BAR 4 1080</display-name>
+    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/LaLiga%20TV%20BAR%204.png" />
+  </channel>
   <channel id="Liga de Campeones BAR 2">
     <display-name lang="es">Liga de Campeones BAR 2</display-name>
     <display-name lang="es">Liga de Campeones BAR 2.TV</display-name>
@@ -2177,6 +2183,28 @@
     <display-name lang="es">DAZN F1 BAR 720</display-name>
     <display-name lang="es">DAZN F1 BAR 1080</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20F1%20BAR.png" />
+  </channel>
+  <channel id="DAZN 1 BAR">
+    <display-name lang="es">DAZN 1 BAR</display-name>
+    <display-name lang="es">DAZN 1 BAR.TV</display-name>
+    <display-name lang="es">DAZN 1 BAR SD</display-name>
+    <display-name lang="es">DAZN 1 BAR HD</display-name>
+    <display-name lang="es">DAZN 1 BAR FHD</display-name>
+    <display-name lang="es">DAZN 1 BAR UHD</display-name>
+    <display-name lang="es">DAZN 1 BAR 720</display-name>
+    <display-name lang="es">DAZN 1 BAR 1080</display-name>
+    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%201%20BAR.png" />
+  </channel>
+  <channel id="DAZN 2 BAR">
+    <display-name lang="es">DAZN 2 BAR</display-name>
+    <display-name lang="es">DAZN 2 BAR.TV</display-name>
+    <display-name lang="es">DAZN 2 BAR SD</display-name>
+    <display-name lang="es">DAZN 2 BAR HD</display-name>
+    <display-name lang="es">DAZN 2 BAR FHD</display-name>
+    <display-name lang="es">DAZN 2 BAR UHD</display-name>
+    <display-name lang="es">DAZN 2 BAR 720</display-name>
+    <display-name lang="es">DAZN 2 BAR 1080</display-name>
+    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%202%20BAR.png" />
   </channel>
   <channel id="GolStadium">
     <display-name lang="es">GolStadium</display-name>
