@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tv generator-info-name="dobleM 11/12/2024 20:50" generator-info-url="t.me/EPG_dobleM">
+<tv generator-info-name="dobleM 12/12/2024 20:50" generator-info-url="t.me/EPG_dobleM">
   <channel id="La 1 HD">
     <display-name lang="es">La 1</display-name>
     <display-name lang="es">La 1.TV</display-name>
@@ -482,6 +482,7 @@
     <display-name lang="es">Decasa UHD</display-name>
     <display-name lang="es">Decasa 720</display-name>
     <display-name lang="es">Decasa 1080</display-name>
+    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Decasa.png" />
   </channel>
   <channel id="Divinity">
     <display-name lang="es">Divinity</display-name>
@@ -1438,6 +1439,7 @@
     <display-name lang="es">Esport 3 UHD</display-name>
     <display-name lang="es">Esport 3 720</display-name>
     <display-name lang="es">Esport 3 1080</display-name>
+    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Esport%203.png" />
   </channel>
   <channel id="324">
     <display-name lang="es">324</display-name>
@@ -1448,6 +1450,7 @@
     <display-name lang="es">324 UHD</display-name>
     <display-name lang="es">324 720</display-name>
     <display-name lang="es">324 1080</display-name>
+    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/324.png" />
   </channel>
   <channel id="Betevé">
     <display-name lang="es">Betevé</display-name>
@@ -1458,6 +1461,7 @@
     <display-name lang="es">Betevé UHD</display-name>
     <display-name lang="es">Betevé 720</display-name>
     <display-name lang="es">Betevé 1080</display-name>
+    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Betev%C3%A9.png" />
   </channel>
   <channel id="Canal Fútbol Replay">
     <display-name lang="es">Canal Fútbol Replay</display-name>
@@ -1468,6 +1472,7 @@
     <display-name lang="es">Canal Fútbol Replay UHD</display-name>
     <display-name lang="es">Canal Fútbol Replay 720</display-name>
     <display-name lang="es">Canal Fútbol Replay 1080</display-name>
+    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Canal%20F%C3%BAtbol%20Replay.png" />
   </channel>
   <channel id="M+ Copa del Rey">
     <display-name lang="es">M+ Copa del Rey</display-name>
@@ -5032,6 +5037,39 @@
     <display-name lang="es">My Padel TV 720</display-name>
     <display-name lang="es">My Padel TV 1080</display-name>
     <icon src="https://media.tvup.cloud/canales/color_lg_669e7c664641c24ee2ea8b16.png" />
+  </channel>
+  <channel id="Vaughan TV">
+    <display-name lang="es">Vaughan TV</display-name>
+    <display-name lang="es">Vaughan TV.TV</display-name>
+    <display-name lang="es">Vaughan TV SD</display-name>
+    <display-name lang="es">Vaughan TV HD</display-name>
+    <display-name lang="es">Vaughan TV FHD</display-name>
+    <display-name lang="es">Vaughan TV UHD</display-name>
+    <display-name lang="es">Vaughan TV 720</display-name>
+    <display-name lang="es">Vaughan TV 1080</display-name>
+    <icon src="https://media.tvup.cloud/canales/color_lg_66e953d1182d829c0a2edbae.png" />
+  </channel>
+  <channel id="Lingokids">
+    <display-name lang="es">Lingokids</display-name>
+    <display-name lang="es">Lingokids.TV</display-name>
+    <display-name lang="es">Lingokids SD</display-name>
+    <display-name lang="es">Lingokids HD</display-name>
+    <display-name lang="es">Lingokids FHD</display-name>
+    <display-name lang="es">Lingokids UHD</display-name>
+    <display-name lang="es">Lingokids 720</display-name>
+    <display-name lang="es">Lingokids 1080</display-name>
+    <icon src="https://media.tvup.cloud/canales/color_lg_66e9531c182d829c0a2ed9d1.png" />
+  </channel>
+  <channel id="Crimen &amp; Historia">
+    <display-name lang="es">Crimen &amp; Historia</display-name>
+    <display-name lang="es">Crimen &amp; Historia.TV</display-name>
+    <display-name lang="es">Crimen &amp; Historia SD</display-name>
+    <display-name lang="es">Crimen &amp; Historia HD</display-name>
+    <display-name lang="es">Crimen &amp; Historia FHD</display-name>
+    <display-name lang="es">Crimen &amp; Historia UHD</display-name>
+    <display-name lang="es">Crimen &amp; Historia 720</display-name>
+    <display-name lang="es">Crimen &amp; Historia 1080</display-name>
+    <icon src="https://media.tvup.cloud/canales/color_lg_6746f995367074ada7d2e66e.png" />
   </channel>
   <channel id="Sky News International">
     <display-name lang="es">Sky News International</display-name>
