@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tv generator-info-name="dobleM 25/12/2024 20:51" generator-info-url="t.me/EPG_dobleM">
+<tv generator-info-name="dobleM 26/12/2024 20:50" generator-info-url="t.me/EPG_dobleM">
   <channel id="La 1 HD">
     <display-name lang="es">La 1</display-name>
     <display-name lang="es">La 1.TV</display-name>
@@ -2068,6 +2068,28 @@
     <display-name lang="es">DAZN F1 BAR 1080</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20F1%20BAR.png" />
   </channel>
+  <channel id="DAZN 1 BAR">
+    <display-name lang="es">DAZN 1 BAR</display-name>
+    <display-name lang="es">DAZN 1 BAR.TV</display-name>
+    <display-name lang="es">DAZN 1 BAR SD</display-name>
+    <display-name lang="es">DAZN 1 BAR HD</display-name>
+    <display-name lang="es">DAZN 1 BAR FHD</display-name>
+    <display-name lang="es">DAZN 1 BAR UHD</display-name>
+    <display-name lang="es">DAZN 1 BAR 720</display-name>
+    <display-name lang="es">DAZN 1 BAR 1080</display-name>
+    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%201%20BAR.png" />
+  </channel>
+  <channel id="DAZN 2 BAR">
+    <display-name lang="es">DAZN 2 BAR</display-name>
+    <display-name lang="es">DAZN 2 BAR.TV</display-name>
+    <display-name lang="es">DAZN 2 BAR SD</display-name>
+    <display-name lang="es">DAZN 2 BAR HD</display-name>
+    <display-name lang="es">DAZN 2 BAR FHD</display-name>
+    <display-name lang="es">DAZN 2 BAR UHD</display-name>
+    <display-name lang="es">DAZN 2 BAR 720</display-name>
+    <display-name lang="es">DAZN 2 BAR 1080</display-name>
+    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%202%20BAR.png" />
+  </channel>
   <channel id="GolStadium">
     <display-name lang="es">GolStadium</display-name>
     <display-name lang="es">GolStadium.TV</display-name>
@@ -2868,7 +2890,6 @@
     <display-name lang="es">Canal Reus TV UHD</display-name>
     <display-name lang="es">Canal Reus TV 720</display-name>
     <display-name lang="es">Canal Reus TV 1080</display-name>
-    <icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/a70fc167fb5f47f095f0a35a2174d87c/Images/ef2270b80a714e71b59919e6827ec051" />
   </channel>
   <channel id="TV Girona">
     <display-name lang="es">TV Girona</display-name>
