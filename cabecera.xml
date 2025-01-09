@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tv generator-info-name="dobleM 07/01/2025 20:51" generator-info-url="t.me/EPG_dobleM">
+<tv generator-info-name="dobleM 09/01/2025 00:00" generator-info-url="t.me/EPG_dobleM">
   <channel id="La 1 HD">
     <display-name lang="es">La 1</display-name>
     <display-name lang="es">La 1.TV</display-name>
@@ -1903,6 +1903,17 @@
     <display-name lang="es">DAZN F1 BAR 1080</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20F1%20BAR.png" />
   </channel>
+  <channel id="DAZN 1 BAR">
+    <display-name lang="es">DAZN 1 BAR</display-name>
+    <display-name lang="es">DAZN 1 BAR.TV</display-name>
+    <display-name lang="es">DAZN 1 BAR SD</display-name>
+    <display-name lang="es">DAZN 1 BAR HD</display-name>
+    <display-name lang="es">DAZN 1 BAR FHD</display-name>
+    <display-name lang="es">DAZN 1 BAR UHD</display-name>
+    <display-name lang="es">DAZN 1 BAR 720</display-name>
+    <display-name lang="es">DAZN 1 BAR 1080</display-name>
+    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%201%20BAR.png" />
+  </channel>
   <channel id="GolStadium">
     <display-name lang="es">GolStadium</display-name>
     <display-name lang="es">GolStadium.TV</display-name>
@@ -2254,6 +2265,17 @@
     <display-name lang="es">Onetoro 720</display-name>
     <display-name lang="es">Onetoro 1080</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Onetoro.png" />
+  </channel>
+  <channel id="Squirrel TV">
+    <display-name lang="es">Squirrel TV</display-name>
+    <display-name lang="es">Squirrel TV.TV</display-name>
+    <display-name lang="es">Squirrel TV SD</display-name>
+    <display-name lang="es">Squirrel TV HD</display-name>
+    <display-name lang="es">Squirrel TV FHD</display-name>
+    <display-name lang="es">Squirrel TV UHD</display-name>
+    <display-name lang="es">Squirrel TV 720</display-name>
+    <display-name lang="es">Squirrel TV 1080</display-name>
+    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Squirrel%20TV.png" />
   </channel>
   <channel id="La 1 Cataluña">
     <display-name lang="es">La 1 Cataluña</display-name>
@@ -4993,6 +5015,28 @@
     <display-name lang="es">Horse TV 720</display-name>
     <display-name lang="es">Horse TV 1080</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Horse%20TV.png" />
+  </channel>
+  <channel id="beIN SPORTS en español">
+    <display-name lang="es">beIN SPORTS en español</display-name>
+    <display-name lang="es">beIN SPORTS en español.TV</display-name>
+    <display-name lang="es">beIN SPORTS en español SD</display-name>
+    <display-name lang="es">beIN SPORTS en español HD</display-name>
+    <display-name lang="es">beIN SPORTS en español FHD</display-name>
+    <display-name lang="es">beIN SPORTS en español UHD</display-name>
+    <display-name lang="es">beIN SPORTS en español 720</display-name>
+    <display-name lang="es">beIN SPORTS en español 1080</display-name>
+    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/beIN%20SPORTS%20en%20espa%C3%B1ol.png" />
+  </channel>
+  <channel id="beIN SPORTS XTRA ñ">
+    <display-name lang="es">beIN SPORTS XTRA ñ</display-name>
+    <display-name lang="es">beIN SPORTS XTRA ñ.TV</display-name>
+    <display-name lang="es">beIN SPORTS XTRA ñ SD</display-name>
+    <display-name lang="es">beIN SPORTS XTRA ñ HD</display-name>
+    <display-name lang="es">beIN SPORTS XTRA ñ FHD</display-name>
+    <display-name lang="es">beIN SPORTS XTRA ñ UHD</display-name>
+    <display-name lang="es">beIN SPORTS XTRA ñ 720</display-name>
+    <display-name lang="es">beIN SPORTS XTRA ñ 1080</display-name>
+    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/beIN%20SPORTS%20XTRA%20%C3%B1.png" />
   </channel>
   <channel id="CNN en Español">
     <display-name lang="es">CNN en Español</display-name>
