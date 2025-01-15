@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tv generator-info-name="dobleM 13/01/2025 20:50" generator-info-url="t.me/EPG_dobleM">
+<tv generator-info-name="dobleM 14/01/2025 20:50" generator-info-url="t.me/EPG_dobleM">
   <channel id="La 1 HD">
     <display-name lang="es">La 1</display-name>
     <display-name lang="es">La 1.TV</display-name>
@@ -110,16 +110,16 @@
     <display-name lang="es">M+ Originales 1080</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Originales.png" />
   </channel>
-  <channel id="M+ Navidad">
-    <display-name lang="es">M+ Navidad</display-name>
-    <display-name lang="es">M+ Navidad.TV</display-name>
-    <display-name lang="es">M+ Navidad SD</display-name>
-    <display-name lang="es">M+ Navidad HD</display-name>
-    <display-name lang="es">M+ Navidad FHD</display-name>
-    <display-name lang="es">M+ Navidad UHD</display-name>
-    <display-name lang="es">M+ Navidad 720</display-name>
-    <display-name lang="es">M+ Navidad 1080</display-name>
-    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Navidad.png" />
+  <channel id="M+ Los Goya">
+    <display-name lang="es">M+ Los Goya</display-name>
+    <display-name lang="es">M+ Los Goya.TV</display-name>
+    <display-name lang="es">M+ Los Goya SD</display-name>
+    <display-name lang="es">M+ Los Goya HD</display-name>
+    <display-name lang="es">M+ Los Goya FHD</display-name>
+    <display-name lang="es">M+ Los Goya UHD</display-name>
+    <display-name lang="es">M+ Los Goya 720</display-name>
+    <display-name lang="es">M+ Los Goya 1080</display-name>
+    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Los%20Goya.png" />
   </channel>
   <channel id="M+ Documentales HD">
     <display-name lang="es">M+ Documentales</display-name>
@@ -252,6 +252,28 @@
     <display-name lang="es">TCM 720</display-name>
     <display-name lang="es">TCM 1080</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/TCM.png" />
+  </channel>
+  <channel id="BBC Drama">
+    <display-name lang="es">BBC Drama</display-name>
+    <display-name lang="es">BBC Drama.TV</display-name>
+    <display-name lang="es">BBC Drama SD</display-name>
+    <display-name lang="es">BBC Drama HD</display-name>
+    <display-name lang="es">BBC Drama FHD</display-name>
+    <display-name lang="es">BBC Drama UHD</display-name>
+    <display-name lang="es">BBC Drama 720</display-name>
+    <display-name lang="es">BBC Drama 1080</display-name>
+    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/BBC%20Drama.png" />
+  </channel>
+  <channel id="BBC Top Gear">
+    <display-name lang="es">BBC Top Gear</display-name>
+    <display-name lang="es">BBC Top Gear.TV</display-name>
+    <display-name lang="es">BBC Top Gear SD</display-name>
+    <display-name lang="es">BBC Top Gear HD</display-name>
+    <display-name lang="es">BBC Top Gear FHD</display-name>
+    <display-name lang="es">BBC Top Gear UHD</display-name>
+    <display-name lang="es">BBC Top Gear 720</display-name>
+    <display-name lang="es">BBC Top Gear 1080</display-name>
+    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/BBC%20Top%20Gear.png" />
   </channel>
   <channel id="Paramount Network">
     <display-name lang="es">Paramount Network</display-name>
@@ -429,6 +451,17 @@
     <display-name lang="es">Nat Geo Wild 1080</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Nat%20Geo%20Wild.png" />
   </channel>
+  <channel id="BBC History">
+    <display-name lang="es">BBC History</display-name>
+    <display-name lang="es">BBC History.TV</display-name>
+    <display-name lang="es">BBC History SD</display-name>
+    <display-name lang="es">BBC History HD</display-name>
+    <display-name lang="es">BBC History FHD</display-name>
+    <display-name lang="es">BBC History UHD</display-name>
+    <display-name lang="es">BBC History 720</display-name>
+    <display-name lang="es">BBC History 1080</display-name>
+    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/BBC%20History.png" />
+  </channel>
   <channel id="Discovery">
     <display-name lang="es">Discovery</display-name>
     <display-name lang="es">Discovery.TV</display-name>
@@ -439,6 +472,17 @@
     <display-name lang="es">Discovery 720</display-name>
     <display-name lang="es">Discovery 1080</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Discovery.png" />
+  </channel>
+  <channel id="BBC Food">
+    <display-name lang="es">BBC Food</display-name>
+    <display-name lang="es">BBC Food.TV</display-name>
+    <display-name lang="es">BBC Food SD</display-name>
+    <display-name lang="es">BBC Food HD</display-name>
+    <display-name lang="es">BBC Food FHD</display-name>
+    <display-name lang="es">BBC Food UHD</display-name>
+    <display-name lang="es">BBC Food 720</display-name>
+    <display-name lang="es">BBC Food 1080</display-name>
+    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/BBC%20Food.png" />
   </channel>
   <channel id="Divinity">
     <display-name lang="es">Divinity</display-name>
@@ -1815,6 +1859,17 @@
     <display-name lang="es">M+ LaLiga TV UHD 1080</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20LaLiga%20TV%20UHD.png" />
   </channel>
+  <channel id="Eurosport 4K">
+    <display-name lang="es">Eurosport 4K</display-name>
+    <display-name lang="es">Eurosport 4K.TV</display-name>
+    <display-name lang="es">Eurosport 4K SD</display-name>
+    <display-name lang="es">Eurosport 4K HD</display-name>
+    <display-name lang="es">Eurosport 4K FHD</display-name>
+    <display-name lang="es">Eurosport 4K UHD</display-name>
+    <display-name lang="es">Eurosport 4K 720</display-name>
+    <display-name lang="es">Eurosport 4K 1080</display-name>
+    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Eurosport%204K.png" />
+  </channel>
   <channel id="Vamos BAR">
     <display-name lang="es">Vamos BAR</display-name>
     <display-name lang="es">Vamos BAR.TV</display-name>
@@ -1870,6 +1925,17 @@
     <display-name lang="es">LaLiga TV BAR 3 1080</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/LaLiga%20TV%20BAR%203.png" />
   </channel>
+  <channel id="Liga de Campeones BAR 2">
+    <display-name lang="es">Liga de Campeones BAR 2</display-name>
+    <display-name lang="es">Liga de Campeones BAR 2.TV</display-name>
+    <display-name lang="es">Liga de Campeones BAR 2 SD</display-name>
+    <display-name lang="es">Liga de Campeones BAR 2 HD</display-name>
+    <display-name lang="es">Liga de Campeones BAR 2 FHD</display-name>
+    <display-name lang="es">Liga de Campeones BAR 2 UHD</display-name>
+    <display-name lang="es">Liga de Campeones BAR 2 720</display-name>
+    <display-name lang="es">Liga de Campeones BAR 2 1080</display-name>
+    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Liga%20de%20Campeones%20BAR%202.png" />
+  </channel>
   <channel id="GolStadium BAR">
     <display-name lang="es">GolStadium BAR</display-name>
     <display-name lang="es">GolStadium BAR.TV</display-name>
@@ -1892,6 +1958,28 @@
     <display-name lang="es">DAZN F1 BAR 1080</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20F1%20BAR.png" />
   </channel>
+  <channel id="DAZN 1 BAR">
+    <display-name lang="es">DAZN 1 BAR</display-name>
+    <display-name lang="es">DAZN 1 BAR.TV</display-name>
+    <display-name lang="es">DAZN 1 BAR SD</display-name>
+    <display-name lang="es">DAZN 1 BAR HD</display-name>
+    <display-name lang="es">DAZN 1 BAR FHD</display-name>
+    <display-name lang="es">DAZN 1 BAR UHD</display-name>
+    <display-name lang="es">DAZN 1 BAR 720</display-name>
+    <display-name lang="es">DAZN 1 BAR 1080</display-name>
+    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%201%20BAR.png" />
+  </channel>
+  <channel id="DAZN 2 BAR">
+    <display-name lang="es">DAZN 2 BAR</display-name>
+    <display-name lang="es">DAZN 2 BAR.TV</display-name>
+    <display-name lang="es">DAZN 2 BAR SD</display-name>
+    <display-name lang="es">DAZN 2 BAR HD</display-name>
+    <display-name lang="es">DAZN 2 BAR FHD</display-name>
+    <display-name lang="es">DAZN 2 BAR UHD</display-name>
+    <display-name lang="es">DAZN 2 BAR 720</display-name>
+    <display-name lang="es">DAZN 2 BAR 1080</display-name>
+    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%202%20BAR.png" />
+  </channel>
   <channel id="GolStadium">
     <display-name lang="es">GolStadium</display-name>
     <display-name lang="es">GolStadium.TV</display-name>
@@ -1902,6 +1990,50 @@
     <display-name lang="es">GolStadium 720</display-name>
     <display-name lang="es">GolStadium 1080</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/GolStadium.png" />
+  </channel>
+  <channel id="GolStadium 1">
+    <display-name lang="es">GolStadium 1</display-name>
+    <display-name lang="es">GolStadium 1.TV</display-name>
+    <display-name lang="es">GolStadium 1 SD</display-name>
+    <display-name lang="es">GolStadium 1 HD</display-name>
+    <display-name lang="es">GolStadium 1 FHD</display-name>
+    <display-name lang="es">GolStadium 1 UHD</display-name>
+    <display-name lang="es">GolStadium 1 720</display-name>
+    <display-name lang="es">GolStadium 1 1080</display-name>
+    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/GolStadium%201.png" />
+  </channel>
+  <channel id="GolStadium 3">
+    <display-name lang="es">GolStadium 3</display-name>
+    <display-name lang="es">GolStadium 3.TV</display-name>
+    <display-name lang="es">GolStadium 3 SD</display-name>
+    <display-name lang="es">GolStadium 3 HD</display-name>
+    <display-name lang="es">GolStadium 3 FHD</display-name>
+    <display-name lang="es">GolStadium 3 UHD</display-name>
+    <display-name lang="es">GolStadium 3 720</display-name>
+    <display-name lang="es">GolStadium 3 1080</display-name>
+    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/GolStadium%203.png" />
+  </channel>
+  <channel id="GolStadium Euro1">
+    <display-name lang="es">GolStadium Euro1</display-name>
+    <display-name lang="es">GolStadium Euro1.TV</display-name>
+    <display-name lang="es">GolStadium Euro1 SD</display-name>
+    <display-name lang="es">GolStadium Euro1 HD</display-name>
+    <display-name lang="es">GolStadium Euro1 FHD</display-name>
+    <display-name lang="es">GolStadium Euro1 UHD</display-name>
+    <display-name lang="es">GolStadium Euro1 720</display-name>
+    <display-name lang="es">GolStadium Euro1 1080</display-name>
+    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/GolStadium%20Euro1.png" />
+  </channel>
+  <channel id="GolStadium Euro2">
+    <display-name lang="es">GolStadium Euro2</display-name>
+    <display-name lang="es">GolStadium Euro2.TV</display-name>
+    <display-name lang="es">GolStadium Euro2 SD</display-name>
+    <display-name lang="es">GolStadium Euro2 HD</display-name>
+    <display-name lang="es">GolStadium Euro2 FHD</display-name>
+    <display-name lang="es">GolStadium Euro2 UHD</display-name>
+    <display-name lang="es">GolStadium Euro2 720</display-name>
+    <display-name lang="es">GolStadium Euro2 1080</display-name>
+    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/GolStadium%20Euro2.png" />
   </channel>
   <channel id="Torolé TV">
     <display-name lang="es">Torolé TV</display-name>
@@ -2759,7 +2891,6 @@
     <display-name lang="es">Canal Terres de l'Ebre UHD</display-name>
     <display-name lang="es">Canal Terres de l'Ebre 720</display-name>
     <display-name lang="es">Canal Terres de l'Ebre 1080</display-name>
-    <icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/b98fe654fe94466e80ac5902566ac4b9/Images/9f325a5f48ad43d486d9cdb3e41dde08" />
   </channel>
   <channel id="Canal Taronja Anoia">
     <display-name lang="es">Canal Taronja Anoia</display-name>
@@ -2825,7 +2956,7 @@
     <display-name lang="es">Canal Blau UHD</display-name>
     <display-name lang="es">Canal Blau 720</display-name>
     <display-name lang="es">Canal Blau 1080</display-name>
-    <icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/c90cc7e06fd74f6c980a1039f80a322b/Images/632d259bffdc48cba81d56c5b4b66f38" />
+    <icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/c90cc7e06fd74f6c980a1039f80a322b/Images/4bf5cd5a7b124e96b80a8bfecc45c730" />
   </channel>
   <channel id="Televisió del Ripollès">
     <display-name lang="es">Televisió del Ripollès</display-name>
@@ -4904,7 +5035,7 @@
     <display-name lang="es">Vaughan TV UHD</display-name>
     <display-name lang="es">Vaughan TV 720</display-name>
     <display-name lang="es">Vaughan TV 1080</display-name>
-    <icon src="https://media.tvup.cloud/canales/color_lg_66e953d1182d829c0a2edbae.png" />
+    <icon src="https://media.tvup.cloud/canales/color_lg_66e953d1182d829c0a2edbae_1731927623534.png" />
   </channel>
   <channel id="Lingokids">
     <display-name lang="es">Lingokids</display-name>
@@ -4915,7 +5046,7 @@
     <display-name lang="es">Lingokids UHD</display-name>
     <display-name lang="es">Lingokids 720</display-name>
     <display-name lang="es">Lingokids 1080</display-name>
-    <icon src="https://media.tvup.cloud/canales/color_lg_66e9531c182d829c0a2ed9d1.png" />
+    <icon src="https://media.tvup.cloud/canales/color_lg_66e9531c182d829c0a2ed9d1_1731510933471.png" />
   </channel>
   <channel id="Crimen &amp; Historia">
     <display-name lang="es">Crimen &amp; Historia</display-name>
@@ -4926,7 +5057,7 @@
     <display-name lang="es">Crimen &amp; Historia UHD</display-name>
     <display-name lang="es">Crimen &amp; Historia 720</display-name>
     <display-name lang="es">Crimen &amp; Historia 1080</display-name>
-    <icon src="https://media.tvup.cloud/canales/color_lg_6746f995367074ada7d2e66e.png" />
+    <icon src="https://media.tvup.cloud/canales/color_lg_6746f995367074ada7d2e66e_1733742227105.png" />
   </channel>
   <channel id="Sky News International">
     <display-name lang="es">Sky News International</display-name>
