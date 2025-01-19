@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tv generator-info-name="dobleM 17/01/2025 20:50" generator-info-url="t.me/EPG_dobleM">
+<tv generator-info-name="dobleM 18/01/2025 20:51" generator-info-url="t.me/EPG_dobleM">
   <channel id="La 1 HD">
     <display-name lang="es">La 1</display-name>
     <display-name lang="es">La 1.TV</display-name>
@@ -132,16 +132,16 @@
     <display-name lang="es">M+ Documentales 1080</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Documentales.png" />
   </channel>
-  <channel id="M+E: Demi Moore">
-    <display-name lang="es">M+E: Demi Moore</display-name>
-    <display-name lang="es">M+E: Demi Moore.TV</display-name>
-    <display-name lang="es">M+E: Demi Moore SD</display-name>
-    <display-name lang="es">M+E: Demi Moore HD</display-name>
-    <display-name lang="es">M+E: Demi Moore FHD</display-name>
-    <display-name lang="es">M+E: Demi Moore UHD</display-name>
-    <display-name lang="es">M+E: Demi Moore 720</display-name>
-    <display-name lang="es">M+E: Demi Moore 1080</display-name>
-    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2BE%3A%20Demi%20Moore.png" />
+  <channel id="M+ Demi Moore">
+    <display-name lang="es">M+ Demi Moore</display-name>
+    <display-name lang="es">M+ Demi Moore.TV</display-name>
+    <display-name lang="es">M+ Demi Moore SD</display-name>
+    <display-name lang="es">M+ Demi Moore HD</display-name>
+    <display-name lang="es">M+ Demi Moore FHD</display-name>
+    <display-name lang="es">M+ Demi Moore UHD</display-name>
+    <display-name lang="es">M+ Demi Moore 720</display-name>
+    <display-name lang="es">M+ Demi Moore 1080</display-name>
+    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Demi%20Moore.png" />
   </channel>
   <channel id="La Resistencia 24H">
     <display-name lang="es">La Resistencia 24H</display-name>
@@ -2057,6 +2057,17 @@
     <display-name lang="es">DAZN 1 BAR 1080</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%201%20BAR.png" />
   </channel>
+  <channel id="DAZN 2 BAR">
+    <display-name lang="es">DAZN 2 BAR</display-name>
+    <display-name lang="es">DAZN 2 BAR.TV</display-name>
+    <display-name lang="es">DAZN 2 BAR SD</display-name>
+    <display-name lang="es">DAZN 2 BAR HD</display-name>
+    <display-name lang="es">DAZN 2 BAR FHD</display-name>
+    <display-name lang="es">DAZN 2 BAR UHD</display-name>
+    <display-name lang="es">DAZN 2 BAR 720</display-name>
+    <display-name lang="es">DAZN 2 BAR 1080</display-name>
+    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%202%20BAR.png" />
+  </channel>
   <channel id="GolStadium">
     <display-name lang="es">GolStadium</display-name>
     <display-name lang="es">GolStadium.TV</display-name>
@@ -3001,6 +3012,7 @@
     <display-name lang="es">Canal Taronja Central UHD</display-name>
     <display-name lang="es">Canal Taronja Central 720</display-name>
     <display-name lang="es">Canal Taronja Central 1080</display-name>
+    <icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/2483804e1dd343a08a95864a921fdce8/Images/bf16514e0dca4106954747a84dabb40a" />
   </channel>
   <channel id="TAC12">
     <display-name lang="es">TAC12</display-name>
@@ -5003,17 +5015,6 @@
     <display-name lang="es">Homeful 720</display-name>
     <display-name lang="es">Homeful 1080</display-name>
     <icon src="https://media.tvup.cloud/canales/color_lg_662f7be0f4f90185e83aefca.png" />
-  </channel>
-  <channel id="Canal Quickie">
-    <display-name lang="es">Canal Quickie</display-name>
-    <display-name lang="es">Canal Quickie.TV</display-name>
-    <display-name lang="es">Canal Quickie SD</display-name>
-    <display-name lang="es">Canal Quickie HD</display-name>
-    <display-name lang="es">Canal Quickie FHD</display-name>
-    <display-name lang="es">Canal Quickie UHD</display-name>
-    <display-name lang="es">Canal Quickie 720</display-name>
-    <display-name lang="es">Canal Quickie 1080</display-name>
-    <icon src="https://media.tvup.cloud/canales/color_lg_66333d72862f8df6b7e02bbd.png" />
   </channel>
   <channel id="FailArmy">
     <display-name lang="es">FailArmy</display-name>
