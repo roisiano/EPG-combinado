@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tv generator-info-name="dobleM 18/01/2025 20:51" generator-info-url="t.me/EPG_dobleM">
+<tv generator-info-name="dobleM 19/01/2025 20:50" generator-info-url="t.me/EPG_dobleM">
   <channel id="La 1 HD">
     <display-name lang="es">La 1</display-name>
     <display-name lang="es">La 1.TV</display-name>
@@ -2079,6 +2079,17 @@
     <display-name lang="es">GolStadium 1080</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/GolStadium.png" />
   </channel>
+  <channel id="GolStadium 1">
+    <display-name lang="es">GolStadium 1</display-name>
+    <display-name lang="es">GolStadium 1.TV</display-name>
+    <display-name lang="es">GolStadium 1 SD</display-name>
+    <display-name lang="es">GolStadium 1 HD</display-name>
+    <display-name lang="es">GolStadium 1 FHD</display-name>
+    <display-name lang="es">GolStadium 1 UHD</display-name>
+    <display-name lang="es">GolStadium 1 720</display-name>
+    <display-name lang="es">GolStadium 1 1080</display-name>
+    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/GolStadium%201.png" />
+  </channel>
   <channel id="GolStadium 3">
     <display-name lang="es">GolStadium 3</display-name>
     <display-name lang="es">GolStadium 3.TV</display-name>
@@ -3221,7 +3232,6 @@
     <display-name lang="es">TV Costa Brava UHD</display-name>
     <display-name lang="es">TV Costa Brava 720</display-name>
     <display-name lang="es">TV Costa Brava 1080</display-name>
-    <icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/4710b8c020dc4441929c75e3a40d9a7d/Images/d8b1cbbc1ebb4ce7acc069ec43a341a8" />
   </channel>
   <channel id="Vallès Visió">
     <display-name lang="es">Vallès Visió</display-name>
