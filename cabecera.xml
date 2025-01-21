@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tv generator-info-name="dobleM 19/01/2025 20:50" generator-info-url="t.me/EPG_dobleM">
+<tv generator-info-name="dobleM 20/01/2025 20:50" generator-info-url="t.me/EPG_dobleM">
   <channel id="La 1 HD">
     <display-name lang="es">La 1</display-name>
     <display-name lang="es">La 1.TV</display-name>
@@ -2057,17 +2057,6 @@
     <display-name lang="es">DAZN 1 BAR 1080</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%201%20BAR.png" />
   </channel>
-  <channel id="DAZN 2 BAR">
-    <display-name lang="es">DAZN 2 BAR</display-name>
-    <display-name lang="es">DAZN 2 BAR.TV</display-name>
-    <display-name lang="es">DAZN 2 BAR SD</display-name>
-    <display-name lang="es">DAZN 2 BAR HD</display-name>
-    <display-name lang="es">DAZN 2 BAR FHD</display-name>
-    <display-name lang="es">DAZN 2 BAR UHD</display-name>
-    <display-name lang="es">DAZN 2 BAR 720</display-name>
-    <display-name lang="es">DAZN 2 BAR 1080</display-name>
-    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%202%20BAR.png" />
-  </channel>
   <channel id="GolStadium">
     <display-name lang="es">GolStadium</display-name>
     <display-name lang="es">GolStadium.TV</display-name>
@@ -2089,17 +2078,6 @@
     <display-name lang="es">GolStadium 1 720</display-name>
     <display-name lang="es">GolStadium 1 1080</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/GolStadium%201.png" />
-  </channel>
-  <channel id="GolStadium 3">
-    <display-name lang="es">GolStadium 3</display-name>
-    <display-name lang="es">GolStadium 3.TV</display-name>
-    <display-name lang="es">GolStadium 3 SD</display-name>
-    <display-name lang="es">GolStadium 3 HD</display-name>
-    <display-name lang="es">GolStadium 3 FHD</display-name>
-    <display-name lang="es">GolStadium 3 UHD</display-name>
-    <display-name lang="es">GolStadium 3 720</display-name>
-    <display-name lang="es">GolStadium 3 1080</display-name>
-    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/GolStadium%203.png" />
   </channel>
   <channel id="GolStadium Euro1">
     <display-name lang="es">GolStadium Euro1</display-name>
@@ -2354,17 +2332,6 @@
     <display-name lang="es">FEF TV 6 Grupo 1 1080</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/FEF%20TV%206%20Grupo%201.png" />
   </channel>
-  <channel id="FEF TV 7 Grupo 1">
-    <display-name lang="es">FEF TV 7 Grupo 1</display-name>
-    <display-name lang="es">FEF TV 7 Grupo 1.TV</display-name>
-    <display-name lang="es">FEF TV 7 Grupo 1 SD</display-name>
-    <display-name lang="es">FEF TV 7 Grupo 1 HD</display-name>
-    <display-name lang="es">FEF TV 7 Grupo 1 FHD</display-name>
-    <display-name lang="es">FEF TV 7 Grupo 1 UHD</display-name>
-    <display-name lang="es">FEF TV 7 Grupo 1 720</display-name>
-    <display-name lang="es">FEF TV 7 Grupo 1 1080</display-name>
-    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/FEF%20TV%207%20Grupo%201.png" />
-  </channel>
   <channel id="FEF TV 1 Grupo 2">
     <display-name lang="es">FEF TV 1 Grupo 2</display-name>
     <display-name lang="es">FEF TV 1 Grupo 2.TV</display-name>
@@ -2485,6 +2452,17 @@
     <display-name lang="es">Squirrel TV 720</display-name>
     <display-name lang="es">Squirrel TV 1080</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Squirrel%20TV.png" />
+  </channel>
+  <channel id="Lolly kids">
+    <display-name lang="es">Lolly kids</display-name>
+    <display-name lang="es">Lolly kids.TV</display-name>
+    <display-name lang="es">Lolly kids SD</display-name>
+    <display-name lang="es">Lolly kids HD</display-name>
+    <display-name lang="es">Lolly kids FHD</display-name>
+    <display-name lang="es">Lolly kids UHD</display-name>
+    <display-name lang="es">Lolly kids 720</display-name>
+    <display-name lang="es">Lolly kids 1080</display-name>
+    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Lolly%20kids.png" />
   </channel>
   <channel id="La 1 Cataluña">
     <display-name lang="es">La 1 Cataluña</display-name>
@@ -3232,6 +3210,7 @@
     <display-name lang="es">TV Costa Brava UHD</display-name>
     <display-name lang="es">TV Costa Brava 720</display-name>
     <display-name lang="es">TV Costa Brava 1080</display-name>
+    <icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/4710b8c020dc4441929c75e3a40d9a7d/Images/d8b1cbbc1ebb4ce7acc069ec43a341a8" />
   </channel>
   <channel id="Vallès Visió">
     <display-name lang="es">Vallès Visió</display-name>
@@ -3365,6 +3344,37 @@
     <display-name lang="es">BOM Cine 1080</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/BOM%20Cine.png" />
   </channel>
+  <channel id="En Familia (Rakuten TV)">
+    <display-name lang="es">En Familia (Rakuten TV)</display-name>
+    <display-name lang="es">En Familia (Rakuten TV).TV</display-name>
+    <display-name lang="es">En Familia (Rakuten TV) SD</display-name>
+    <display-name lang="es">En Familia (Rakuten TV) HD</display-name>
+    <display-name lang="es">En Familia (Rakuten TV) FHD</display-name>
+    <display-name lang="es">En Familia (Rakuten TV) UHD</display-name>
+    <display-name lang="es">En Familia (Rakuten TV) 720</display-name>
+    <display-name lang="es">En Familia (Rakuten TV) 1080</display-name>
+  </channel>
+  <channel id="Todo Crimen (Rakuten TV)">
+    <display-name lang="es">Todo Crimen (Rakuten TV)</display-name>
+    <display-name lang="es">Todo Crimen (Rakuten TV).TV</display-name>
+    <display-name lang="es">Todo Crimen (Rakuten TV) SD</display-name>
+    <display-name lang="es">Todo Crimen (Rakuten TV) HD</display-name>
+    <display-name lang="es">Todo Crimen (Rakuten TV) FHD</display-name>
+    <display-name lang="es">Todo Crimen (Rakuten TV) UHD</display-name>
+    <display-name lang="es">Todo Crimen (Rakuten TV) 720</display-name>
+    <display-name lang="es">Todo Crimen (Rakuten TV) 1080</display-name>
+    <icon src="https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork-negative/8fb33036-37c7-478c-930f-f8f6230a5c32.png" />
+  </channel>
+  <channel id="Crimen (Rakuten TV)">
+    <display-name lang="es">Crimen (Rakuten TV)</display-name>
+    <display-name lang="es">Crimen (Rakuten TV).TV</display-name>
+    <display-name lang="es">Crimen (Rakuten TV) SD</display-name>
+    <display-name lang="es">Crimen (Rakuten TV) HD</display-name>
+    <display-name lang="es">Crimen (Rakuten TV) FHD</display-name>
+    <display-name lang="es">Crimen (Rakuten TV) UHD</display-name>
+    <display-name lang="es">Crimen (Rakuten TV) 720</display-name>
+    <display-name lang="es">Crimen (Rakuten TV) 1080</display-name>
+  </channel>
   <channel id="MyTime Movie Network (Rakuten TV)">
     <display-name lang="es">MyTime Movie Network (Rakuten TV)</display-name>
     <display-name lang="es">MyTime Movie Network (Rakuten TV).TV</display-name>
@@ -3452,6 +3462,17 @@
     <display-name lang="es">Pelis Top (Rakuten TV) 720</display-name>
     <display-name lang="es">Pelis Top (Rakuten TV) 1080</display-name>
     <icon src="https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork-negative/82ae4be3-2514-4733-9f9d-89545d4e2ef4.png" />
+  </channel>
+  <channel id="Fashion TV">
+    <display-name lang="es">Fashion TV</display-name>
+    <display-name lang="es">Fashion TV.TV</display-name>
+    <display-name lang="es">Fashion TV SD</display-name>
+    <display-name lang="es">Fashion TV HD</display-name>
+    <display-name lang="es">Fashion TV FHD</display-name>
+    <display-name lang="es">Fashion TV UHD</display-name>
+    <display-name lang="es">Fashion TV 720</display-name>
+    <display-name lang="es">Fashion TV 1080</display-name>
+    <icon src="https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork_negative/838ea64b-a331-4322-971a-3c8c52ac1124-fashion-tv-1643624523.png" />
   </channel>
   <channel id="FIFA+">
     <display-name lang="es">FIFA+</display-name>
