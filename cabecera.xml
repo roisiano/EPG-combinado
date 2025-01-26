@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tv generator-info-name="dobleM 24/01/2025 20:51" generator-info-url="t.me/EPG_dobleM">
+<tv generator-info-name="dobleM 25/01/2025 20:51" generator-info-url="t.me/EPG_dobleM">
   <channel id="La 1 HD">
     <display-name lang="es">La 1</display-name>
     <display-name lang="es">La 1.TV</display-name>
@@ -2145,6 +2145,17 @@
     <display-name lang="es">DAZN 1 BAR 1080</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%201%20BAR.png" />
   </channel>
+  <channel id="DAZN 2 BAR">
+    <display-name lang="es">DAZN 2 BAR</display-name>
+    <display-name lang="es">DAZN 2 BAR.TV</display-name>
+    <display-name lang="es">DAZN 2 BAR SD</display-name>
+    <display-name lang="es">DAZN 2 BAR HD</display-name>
+    <display-name lang="es">DAZN 2 BAR FHD</display-name>
+    <display-name lang="es">DAZN 2 BAR UHD</display-name>
+    <display-name lang="es">DAZN 2 BAR 720</display-name>
+    <display-name lang="es">DAZN 2 BAR 1080</display-name>
+    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%202%20BAR.png" />
+  </channel>
   <channel id="GolStadium">
     <display-name lang="es">GolStadium</display-name>
     <display-name lang="es">GolStadium.TV</display-name>
@@ -2540,6 +2551,17 @@
     <display-name lang="es">Onetoro 720</display-name>
     <display-name lang="es">Onetoro 1080</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Onetoro.png" />
+  </channel>
+  <channel id="Onda Cádiz TV">
+    <display-name lang="es">Onda Cádiz TV</display-name>
+    <display-name lang="es">Onda Cádiz TV.TV</display-name>
+    <display-name lang="es">Onda Cádiz TV SD</display-name>
+    <display-name lang="es">Onda Cádiz TV HD</display-name>
+    <display-name lang="es">Onda Cádiz TV FHD</display-name>
+    <display-name lang="es">Onda Cádiz TV UHD</display-name>
+    <display-name lang="es">Onda Cádiz TV 720</display-name>
+    <display-name lang="es">Onda Cádiz TV 1080</display-name>
+    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Onda%20C%C3%A1diz%20TV.png" />
   </channel>
   <channel id="Squirrel TV">
     <display-name lang="es">Squirrel TV</display-name>
