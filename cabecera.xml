@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tv generator-info-name="dobleM 27/01/2025 20:50" generator-info-url="t.me/EPG_dobleM">
+<tv generator-info-name="dobleM 28/01/2025 20:51" generator-info-url="t.me/EPG_dobleM">
   <channel id="La 1 HD">
     <display-name lang="es">La 1</display-name>
     <display-name lang="es">La 1.TV</display-name>
@@ -77,27 +77,27 @@
     <display-name lang="es">Movistar Plus+ 1080</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Movistar%20Plus%2B.png" />
   </channel>
-  <channel id="M+ Cine HD">
-    <display-name lang="es">M+ Cine</display-name>
-    <display-name lang="es">M+ Cine.TV</display-name>
-    <display-name lang="es">M+ Cine SD</display-name>
-    <display-name lang="es">M+ Cine HD</display-name>
-    <display-name lang="es">M+ Cine FHD</display-name>
-    <display-name lang="es">M+ Cine UHD</display-name>
-    <display-name lang="es">M+ Cine 720</display-name>
-    <display-name lang="es">M+ Cine 1080</display-name>
-    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Cine.png" />
+  <channel id="M+ Estrenos HD">
+    <display-name lang="es">M+ Estrenos</display-name>
+    <display-name lang="es">M+ Estrenos.TV</display-name>
+    <display-name lang="es">M+ Estrenos SD</display-name>
+    <display-name lang="es">M+ Estrenos HD</display-name>
+    <display-name lang="es">M+ Estrenos FHD</display-name>
+    <display-name lang="es">M+ Estrenos UHD</display-name>
+    <display-name lang="es">M+ Estrenos 720</display-name>
+    <display-name lang="es">M+ Estrenos 1080</display-name>
+    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Estrenos.png" />
   </channel>
-  <channel id="M+ Series HD">
-    <display-name lang="es">M+ Series</display-name>
-    <display-name lang="es">M+ Series.TV</display-name>
-    <display-name lang="es">M+ Series SD</display-name>
-    <display-name lang="es">M+ Series HD</display-name>
-    <display-name lang="es">M+ Series FHD</display-name>
-    <display-name lang="es">M+ Series UHD</display-name>
-    <display-name lang="es">M+ Series 720</display-name>
-    <display-name lang="es">M+ Series 1080</display-name>
-    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Series.png" />
+  <channel id="M+ Hits HD">
+    <display-name lang="es">M+ Hits</display-name>
+    <display-name lang="es">M+ Hits.TV</display-name>
+    <display-name lang="es">M+ Hits SD</display-name>
+    <display-name lang="es">M+ Hits HD</display-name>
+    <display-name lang="es">M+ Hits FHD</display-name>
+    <display-name lang="es">M+ Hits UHD</display-name>
+    <display-name lang="es">M+ Hits 720</display-name>
+    <display-name lang="es">M+ Hits 1080</display-name>
+    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Hits.png" />
   </channel>
   <channel id="M+ Originales HD">
     <display-name lang="es">M+ Originales</display-name>
@@ -2167,27 +2167,16 @@
     <display-name lang="es">GolStadium 3 1080</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/GolStadium%203.png" />
   </channel>
-  <channel id="GolStadium Euro1">
-    <display-name lang="es">GolStadium Euro1</display-name>
-    <display-name lang="es">GolStadium Euro1.TV</display-name>
-    <display-name lang="es">GolStadium Euro1 SD</display-name>
-    <display-name lang="es">GolStadium Euro1 HD</display-name>
-    <display-name lang="es">GolStadium Euro1 FHD</display-name>
-    <display-name lang="es">GolStadium Euro1 UHD</display-name>
-    <display-name lang="es">GolStadium Euro1 720</display-name>
-    <display-name lang="es">GolStadium Euro1 1080</display-name>
-    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/GolStadium%20Euro1.png" />
-  </channel>
-  <channel id="GolStadium Euro2">
-    <display-name lang="es">GolStadium Euro2</display-name>
-    <display-name lang="es">GolStadium Euro2.TV</display-name>
-    <display-name lang="es">GolStadium Euro2 SD</display-name>
-    <display-name lang="es">GolStadium Euro2 HD</display-name>
-    <display-name lang="es">GolStadium Euro2 FHD</display-name>
-    <display-name lang="es">GolStadium Euro2 UHD</display-name>
-    <display-name lang="es">GolStadium Euro2 720</display-name>
-    <display-name lang="es">GolStadium Euro2 1080</display-name>
-    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/GolStadium%20Euro2.png" />
+  <channel id="GolStadium 4">
+    <display-name lang="es">GolStadium 4</display-name>
+    <display-name lang="es">GolStadium 4.TV</display-name>
+    <display-name lang="es">GolStadium 4 SD</display-name>
+    <display-name lang="es">GolStadium 4 HD</display-name>
+    <display-name lang="es">GolStadium 4 FHD</display-name>
+    <display-name lang="es">GolStadium 4 UHD</display-name>
+    <display-name lang="es">GolStadium 4 720</display-name>
+    <display-name lang="es">GolStadium 4 1080</display-name>
+    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/GolStadium%204.png" />
   </channel>
   <channel id="Torolé TV">
     <display-name lang="es">Torolé TV</display-name>
@@ -3883,17 +3872,6 @@
     <display-name lang="es">Levante TV 1080</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Levante%20TV.png" />
   </channel>
-  <channel id="Canal 4 Tenerife">
-    <display-name lang="es">Canal 4 Tenerife</display-name>
-    <display-name lang="es">Canal 4 Tenerife.TV</display-name>
-    <display-name lang="es">Canal 4 Tenerife SD</display-name>
-    <display-name lang="es">Canal 4 Tenerife HD</display-name>
-    <display-name lang="es">Canal 4 Tenerife FHD</display-name>
-    <display-name lang="es">Canal 4 Tenerife UHD</display-name>
-    <display-name lang="es">Canal 4 Tenerife 720</display-name>
-    <display-name lang="es">Canal 4 Tenerife 1080</display-name>
-    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Canal%204%20Tenerife.png" />
-  </channel>
   <channel id="TV Ceuta">
     <display-name lang="es">TV Ceuta</display-name>
     <display-name lang="es">TV Ceuta.TV</display-name>
@@ -5400,6 +5378,17 @@
     <display-name lang="es">Discovery Turbo 720</display-name>
     <display-name lang="es">Discovery Turbo 1080</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Discovery%20Turbo.png" />
+  </channel>
+  <channel id="NickMusic">
+    <display-name lang="es">NickMusic</display-name>
+    <display-name lang="es">NickMusic.TV</display-name>
+    <display-name lang="es">NickMusic SD</display-name>
+    <display-name lang="es">NickMusic HD</display-name>
+    <display-name lang="es">NickMusic FHD</display-name>
+    <display-name lang="es">NickMusic UHD</display-name>
+    <display-name lang="es">NickMusic 720</display-name>
+    <display-name lang="es">NickMusic 1080</display-name>
+    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/NickMusic.png" />
   </channel>
   <channel id="FOX SPORTS">
     <display-name lang="es">FOX SPORTS</display-name>
