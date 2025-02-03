@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tv generator-info-name="dobleM 01/02/2025 20:51" generator-info-url="t.me/EPG_dobleM">
+<tv generator-info-name="dobleM 03/02/2025 01:07" generator-info-url="t.me/EPG_dobleM">
   <channel id="La 1 HD">
     <display-name lang="es">La 1</display-name>
     <display-name lang="es">La 1.TV</display-name>
@@ -2255,16 +2255,16 @@
     <display-name lang="es">NFL Network 1080</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/NFL%20Network.png" />
   </channel>
-  <channel id="Red Bull TV DAZN">
-    <display-name lang="es">Red Bull TV DAZN</display-name>
-    <display-name lang="es">Red Bull TV DAZN.TV</display-name>
-    <display-name lang="es">Red Bull TV DAZN SD</display-name>
-    <display-name lang="es">Red Bull TV DAZN HD</display-name>
-    <display-name lang="es">Red Bull TV DAZN FHD</display-name>
-    <display-name lang="es">Red Bull TV DAZN UHD</display-name>
-    <display-name lang="es">Red Bull TV DAZN 720</display-name>
-    <display-name lang="es">Red Bull TV DAZN 1080</display-name>
-    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Red%20Bull%20TV%20DAZN.png" />
+  <channel id="Red Bull TV">
+    <display-name lang="es">Red Bull TV</display-name>
+    <display-name lang="es">Red Bull TV.TV</display-name>
+    <display-name lang="es">Red Bull TV SD</display-name>
+    <display-name lang="es">Red Bull TV HD</display-name>
+    <display-name lang="es">Red Bull TV FHD</display-name>
+    <display-name lang="es">Red Bull TV UHD</display-name>
+    <display-name lang="es">Red Bull TV 720</display-name>
+    <display-name lang="es">Red Bull TV 1080</display-name>
+    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Red%20Bull%20TV.png" />
   </channel>
   <channel id="Matchroom Boxing">
     <display-name lang="es">Matchroom Boxing</display-name>
@@ -2310,16 +2310,16 @@
     <display-name lang="es">PDC Darts 1080</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/PDC%20Darts.png" />
   </channel>
-  <channel id="Motorvision TV DAZN">
-    <display-name lang="es">Motorvision TV DAZN</display-name>
-    <display-name lang="es">Motorvision TV DAZN.TV</display-name>
-    <display-name lang="es">Motorvision TV DAZN SD</display-name>
-    <display-name lang="es">Motorvision TV DAZN HD</display-name>
-    <display-name lang="es">Motorvision TV DAZN FHD</display-name>
-    <display-name lang="es">Motorvision TV DAZN UHD</display-name>
-    <display-name lang="es">Motorvision TV DAZN 720</display-name>
-    <display-name lang="es">Motorvision TV DAZN 1080</display-name>
-    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Motorvision%20TV%20DAZN.png" />
+  <channel id="Motorvision TV">
+    <display-name lang="es">Motorvision TV</display-name>
+    <display-name lang="es">Motorvision TV.TV</display-name>
+    <display-name lang="es">Motorvision TV SD</display-name>
+    <display-name lang="es">Motorvision TV HD</display-name>
+    <display-name lang="es">Motorvision TV FHD</display-name>
+    <display-name lang="es">Motorvision TV UHD</display-name>
+    <display-name lang="es">Motorvision TV 720</display-name>
+    <display-name lang="es">Motorvision TV 1080</display-name>
+    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Motorvision%20TV.png" />
   </channel>
   <channel id="PowerSports World">
     <display-name lang="es">PowerSports World</display-name>
