@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tv generator-info-name="dobleM 03/02/2025 20:50" generator-info-url="t.me/EPG_dobleM">
+<tv generator-info-name="dobleM 04/02/2025 20:51" generator-info-url="t.me/EPG_dobleM">
   <channel id="La 1 HD">
     <display-name lang="es">La 1</display-name>
     <display-name lang="es">La 1.TV</display-name>
@@ -2024,6 +2024,17 @@
     <display-name lang="es">DAZN 1 BAR 1080</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%201%20BAR.png" />
   </channel>
+  <channel id="DAZN 2 BAR">
+    <display-name lang="es">DAZN 2 BAR</display-name>
+    <display-name lang="es">DAZN 2 BAR.TV</display-name>
+    <display-name lang="es">DAZN 2 BAR SD</display-name>
+    <display-name lang="es">DAZN 2 BAR HD</display-name>
+    <display-name lang="es">DAZN 2 BAR FHD</display-name>
+    <display-name lang="es">DAZN 2 BAR UHD</display-name>
+    <display-name lang="es">DAZN 2 BAR 720</display-name>
+    <display-name lang="es">DAZN 2 BAR 1080</display-name>
+    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%202%20BAR.png" />
+  </channel>
   <channel id="GolStadium">
     <display-name lang="es">GolStadium</display-name>
     <display-name lang="es">GolStadium.TV</display-name>
@@ -3443,17 +3454,6 @@
     <display-name lang="es">MTV 90s 1080</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/MTV%2090s.png" />
   </channel>
-  <channel id="BOM Cine">
-    <display-name lang="es">BOM Cine</display-name>
-    <display-name lang="es">BOM Cine.TV</display-name>
-    <display-name lang="es">BOM Cine SD</display-name>
-    <display-name lang="es">BOM Cine HD</display-name>
-    <display-name lang="es">BOM Cine FHD</display-name>
-    <display-name lang="es">BOM Cine UHD</display-name>
-    <display-name lang="es">BOM Cine 720</display-name>
-    <display-name lang="es">BOM Cine 1080</display-name>
-    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/BOM%20Cine.png" />
-  </channel>
   <channel id="En Familia (Rakuten TV)">
     <display-name lang="es">En Familia (Rakuten TV)</display-name>
     <display-name lang="es">En Familia (Rakuten TV).TV</display-name>
@@ -3596,6 +3596,28 @@
     <display-name lang="es">FIFA+ 720</display-name>
     <display-name lang="es">FIFA+ 1080</display-name>
     <icon src="https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork-negative/90f56a4e-a286-43a6-96b5-e2e6f0630f86.png" />
+  </channel>
+  <channel id="San Valentín by Canal Hollywood">
+    <display-name lang="es">San Valentín by Canal Hollywood</display-name>
+    <display-name lang="es">San Valentín by Canal Hollywood.TV</display-name>
+    <display-name lang="es">San Valentín by Canal Hollywood SD</display-name>
+    <display-name lang="es">San Valentín by Canal Hollywood HD</display-name>
+    <display-name lang="es">San Valentín by Canal Hollywood FHD</display-name>
+    <display-name lang="es">San Valentín by Canal Hollywood UHD</display-name>
+    <display-name lang="es">San Valentín by Canal Hollywood 720</display-name>
+    <display-name lang="es">San Valentín by Canal Hollywood 1080</display-name>
+    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/San%20Valent%C3%ADn%20by%20Canal%20Hollywood.png" />
+  </channel>
+  <channel id="BOM Cine">
+    <display-name lang="es">BOM Cine</display-name>
+    <display-name lang="es">BOM Cine.TV</display-name>
+    <display-name lang="es">BOM Cine SD</display-name>
+    <display-name lang="es">BOM Cine HD</display-name>
+    <display-name lang="es">BOM Cine FHD</display-name>
+    <display-name lang="es">BOM Cine UHD</display-name>
+    <display-name lang="es">BOM Cine 720</display-name>
+    <display-name lang="es">BOM Cine 1080</display-name>
+    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/BOM%20Cine.png" />
   </channel>
   <channel id="AMC HD">
     <display-name lang="es">AMC</display-name>
@@ -4047,6 +4069,17 @@
     <display-name lang="es">TRACE Sports Stars 720</display-name>
     <display-name lang="es">TRACE Sports Stars 1080</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/TRACE%20Sports%20Stars.png" />
+  </channel>
+  <channel id="Top Barça">
+    <display-name lang="es">Top Barça</display-name>
+    <display-name lang="es">Top Barça.TV</display-name>
+    <display-name lang="es">Top Barça SD</display-name>
+    <display-name lang="es">Top Barça HD</display-name>
+    <display-name lang="es">Top Barça FHD</display-name>
+    <display-name lang="es">Top Barça UHD</display-name>
+    <display-name lang="es">Top Barça 720</display-name>
+    <display-name lang="es">Top Barça 1080</display-name>
+    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Top%20Bar%C3%A7a.png" />
   </channel>
   <channel id="Betis TV">
     <display-name lang="es">Betis TV</display-name>
