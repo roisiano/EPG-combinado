@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tv generator-info-name="dobleM 12/02/2025 20:51" generator-info-url="t.me/EPG_dobleM">
+<tv generator-info-name="dobleM 13/02/2025 20:51" generator-info-url="t.me/EPG_dobleM">
   <channel id="La 1 HD">
     <display-name lang="es">La 1</display-name>
     <display-name lang="es">La 1.TV</display-name>
@@ -110,16 +110,16 @@
     <display-name lang="es">M+ Originales 1080</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Originales.png" />
   </channel>
-  <channel id="M+ Los Goya">
-    <display-name lang="es">M+ Los Goya</display-name>
-    <display-name lang="es">M+ Los Goya.TV</display-name>
-    <display-name lang="es">M+ Los Goya SD</display-name>
-    <display-name lang="es">M+ Los Goya HD</display-name>
-    <display-name lang="es">M+ Los Goya FHD</display-name>
-    <display-name lang="es">M+ Los Goya UHD</display-name>
-    <display-name lang="es">M+ Los Goya 720</display-name>
-    <display-name lang="es">M+ Los Goya 1080</display-name>
-    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Los%20Goya.png" />
+  <channel id="M+ Oscars">
+    <display-name lang="es">M+ Oscars</display-name>
+    <display-name lang="es">M+ Oscars.TV</display-name>
+    <display-name lang="es">M+ Oscars SD</display-name>
+    <display-name lang="es">M+ Oscars HD</display-name>
+    <display-name lang="es">M+ Oscars FHD</display-name>
+    <display-name lang="es">M+ Oscars UHD</display-name>
+    <display-name lang="es">M+ Oscars 720</display-name>
+    <display-name lang="es">M+ Oscars 1080</display-name>
+    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Oscars.png" />
   </channel>
   <channel id="M+ Documentales HD">
     <display-name lang="es">M+ Documentales</display-name>
@@ -2100,28 +2100,6 @@
     <display-name lang="es">DAZN F1 BAR 720</display-name>
     <display-name lang="es">DAZN F1 BAR 1080</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20F1%20BAR.png" />
-  </channel>
-  <channel id="DAZN 1 BAR">
-    <display-name lang="es">DAZN 1 BAR</display-name>
-    <display-name lang="es">DAZN 1 BAR.TV</display-name>
-    <display-name lang="es">DAZN 1 BAR SD</display-name>
-    <display-name lang="es">DAZN 1 BAR HD</display-name>
-    <display-name lang="es">DAZN 1 BAR FHD</display-name>
-    <display-name lang="es">DAZN 1 BAR UHD</display-name>
-    <display-name lang="es">DAZN 1 BAR 720</display-name>
-    <display-name lang="es">DAZN 1 BAR 1080</display-name>
-    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%201%20BAR.png" />
-  </channel>
-  <channel id="DAZN 2 BAR">
-    <display-name lang="es">DAZN 2 BAR</display-name>
-    <display-name lang="es">DAZN 2 BAR.TV</display-name>
-    <display-name lang="es">DAZN 2 BAR SD</display-name>
-    <display-name lang="es">DAZN 2 BAR HD</display-name>
-    <display-name lang="es">DAZN 2 BAR FHD</display-name>
-    <display-name lang="es">DAZN 2 BAR UHD</display-name>
-    <display-name lang="es">DAZN 2 BAR 720</display-name>
-    <display-name lang="es">DAZN 2 BAR 1080</display-name>
-    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%202%20BAR.png" />
   </channel>
   <channel id="GolStadium">
     <display-name lang="es">GolStadium</display-name>
@@ -5696,6 +5674,7 @@
     <display-name lang="es">Vivid TV UHD</display-name>
     <display-name lang="es">Vivid TV 720</display-name>
     <display-name lang="es">Vivid TV 1080</display-name>
+    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Vivid%20TV.png" />
   </channel>
   <channel id="MTV Classic">
     <display-name lang="es">MTV Classic</display-name>
