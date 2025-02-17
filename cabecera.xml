@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tv generator-info-name="dobleM 15/02/2025 20:51" generator-info-url="t.me/EPG_dobleM">
+<tv generator-info-name="dobleM 16/02/2025 20:51" generator-info-url="t.me/EPG_dobleM">
   <channel id="La 1 HD">
     <display-name lang="es">La 1</display-name>
     <display-name lang="es">La 1.TV</display-name>
@@ -5718,6 +5718,7 @@
     <display-name lang="es">Atrescine UHD</display-name>
     <display-name lang="es">Atrescine 720</display-name>
     <display-name lang="es">Atrescine 1080</display-name>
+    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Atrescine.png" />
   </channel>
   <channel id="Vivid TV">
     <display-name lang="es">Vivid TV</display-name>
