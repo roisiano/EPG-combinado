@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tv generator-info-name="dobleM 28/02/2025 20:51" generator-info-url="t.me/EPG_dobleM">
+<tv generator-info-name="dobleM 01/03/2025 20:51" generator-info-url="t.me/EPG_dobleM">
   <channel id="La 1 HD">
     <display-name lang="es">La 1</display-name>
     <display-name lang="es">La 1.TV</display-name>
@@ -4563,7 +4563,6 @@
     <display-name lang="es">Moto ADV UHD</display-name>
     <display-name lang="es">Moto ADV 720</display-name>
     <display-name lang="es">Moto ADV 1080</display-name>
-    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Moto%20ADV.png" />
   </channel>
   <channel id="Runtime Clásicos">
     <display-name lang="es">Runtime Clásicos</display-name>
