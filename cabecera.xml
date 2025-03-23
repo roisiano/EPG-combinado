@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tv generator-info-name="dobleM 21/03/2025 20:50" generator-info-url="t.me/EPG_dobleM">
+<tv generator-info-name="dobleM 22/03/2025 20:50" generator-info-url="t.me/EPG_dobleM">
   <channel id="La 1 HD">
     <display-name lang="es">La 1</display-name>
     <display-name lang="es">La 1.TV</display-name>
@@ -2057,6 +2057,17 @@
     <display-name lang="es">DAZN F1 BAR 1080</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20F1%20BAR.png" />
   </channel>
+  <channel id="DAZN 1 BAR">
+    <display-name lang="es">DAZN 1 BAR</display-name>
+    <display-name lang="es">DAZN 1 BAR.TV</display-name>
+    <display-name lang="es">DAZN 1 BAR SD</display-name>
+    <display-name lang="es">DAZN 1 BAR HD</display-name>
+    <display-name lang="es">DAZN 1 BAR FHD</display-name>
+    <display-name lang="es">DAZN 1 BAR UHD</display-name>
+    <display-name lang="es">DAZN 1 BAR 720</display-name>
+    <display-name lang="es">DAZN 1 BAR 1080</display-name>
+    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%201%20BAR.png" />
+  </channel>
   <channel id="DAZN 2 BAR">
     <display-name lang="es">DAZN 2 BAR</display-name>
     <display-name lang="es">DAZN 2 BAR.TV</display-name>
@@ -2507,6 +2518,17 @@
     <display-name lang="es">FEF TV 4 Grupo 2 720</display-name>
     <display-name lang="es">FEF TV 4 Grupo 2 1080</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/FEF%20TV%204%20Grupo%202.png" />
+  </channel>
+  <channel id="FEF TV 5 Grupo 2">
+    <display-name lang="es">FEF TV 5 Grupo 2</display-name>
+    <display-name lang="es">FEF TV 5 Grupo 2.TV</display-name>
+    <display-name lang="es">FEF TV 5 Grupo 2 SD</display-name>
+    <display-name lang="es">FEF TV 5 Grupo 2 HD</display-name>
+    <display-name lang="es">FEF TV 5 Grupo 2 FHD</display-name>
+    <display-name lang="es">FEF TV 5 Grupo 2 UHD</display-name>
+    <display-name lang="es">FEF TV 5 Grupo 2 720</display-name>
+    <display-name lang="es">FEF TV 5 Grupo 2 1080</display-name>
+    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/FEF%20TV%205%20Grupo%202.png" />
   </channel>
   <channel id="Squirrel TV">
     <display-name lang="es">Squirrel TV</display-name>
@@ -4531,6 +4553,17 @@
     <display-name lang="es">Crimen (Rakuten TV) UHD</display-name>
     <display-name lang="es">Crimen (Rakuten TV) 720</display-name>
     <display-name lang="es">Crimen (Rakuten TV) 1080</display-name>
+  </channel>
+  <channel id="Thrillers (Rakuten TV)">
+    <display-name lang="es">Thrillers (Rakuten TV)</display-name>
+    <display-name lang="es">Thrillers (Rakuten TV).TV</display-name>
+    <display-name lang="es">Thrillers (Rakuten TV) SD</display-name>
+    <display-name lang="es">Thrillers (Rakuten TV) HD</display-name>
+    <display-name lang="es">Thrillers (Rakuten TV) FHD</display-name>
+    <display-name lang="es">Thrillers (Rakuten TV) UHD</display-name>
+    <display-name lang="es">Thrillers (Rakuten TV) 720</display-name>
+    <display-name lang="es">Thrillers (Rakuten TV) 1080</display-name>
+    <icon src="https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork-negative/c7573062-fae1-4249-beea-30d6944ddd35.png" />
   </channel>
   <channel id="MyTime Movie Network (Rakuten TV)">
     <display-name lang="es">MyTime Movie Network (Rakuten TV)</display-name>
