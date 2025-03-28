@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tv generator-info-name="dobleM 26/03/2025 20:50" generator-info-url="t.me/EPG_dobleM">
+<tv generator-info-name="dobleM 27/03/2025 20:50" generator-info-url="t.me/EPG_dobleM">
   <channel id="La 1 HD">
     <display-name lang="es">La 1</display-name>
     <display-name lang="es">La 1.TV</display-name>
@@ -3276,6 +3276,7 @@
     <display-name lang="es">Canal Terres de l'Ebre UHD</display-name>
     <display-name lang="es">Canal Terres de l'Ebre 720</display-name>
     <display-name lang="es">Canal Terres de l'Ebre 1080</display-name>
+    <icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/b98fe654fe94466e80ac5902566ac4b9/Images/9f325a5f48ad43d486d9cdb3e41dde08" />
   </channel>
   <channel id="Canal Taronja Anoia">
     <display-name lang="es">Canal Taronja Anoia</display-name>
