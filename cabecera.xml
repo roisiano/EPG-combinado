@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tv generator-info-name="dobleM 31/03/2025 20:50" generator-info-url="t.me/EPG_dobleM">
+<tv generator-info-name="dobleM 01/04/2025 20:50" generator-info-url="t.me/EPG_dobleM">
   <channel id="La 1 HD">
     <display-name lang="es">La 1</display-name>
     <display-name lang="es">La 1.TV</display-name>
@@ -2024,6 +2024,28 @@
     <display-name lang="es">DAZN F1 BAR 1080</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20F1%20BAR.png" />
   </channel>
+  <channel id="DAZN 1 BAR">
+    <display-name lang="es">DAZN 1 BAR</display-name>
+    <display-name lang="es">DAZN 1 BAR.TV</display-name>
+    <display-name lang="es">DAZN 1 BAR SD</display-name>
+    <display-name lang="es">DAZN 1 BAR HD</display-name>
+    <display-name lang="es">DAZN 1 BAR FHD</display-name>
+    <display-name lang="es">DAZN 1 BAR UHD</display-name>
+    <display-name lang="es">DAZN 1 BAR 720</display-name>
+    <display-name lang="es">DAZN 1 BAR 1080</display-name>
+    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%201%20BAR.png" />
+  </channel>
+  <channel id="DAZN 2 BAR">
+    <display-name lang="es">DAZN 2 BAR</display-name>
+    <display-name lang="es">DAZN 2 BAR.TV</display-name>
+    <display-name lang="es">DAZN 2 BAR SD</display-name>
+    <display-name lang="es">DAZN 2 BAR HD</display-name>
+    <display-name lang="es">DAZN 2 BAR FHD</display-name>
+    <display-name lang="es">DAZN 2 BAR UHD</display-name>
+    <display-name lang="es">DAZN 2 BAR 720</display-name>
+    <display-name lang="es">DAZN 2 BAR 1080</display-name>
+    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%202%20BAR.png" />
+  </channel>
   <channel id="GolStadium">
     <display-name lang="es">GolStadium</display-name>
     <display-name lang="es">GolStadium.TV</display-name>
@@ -2189,6 +2211,17 @@
     <display-name lang="es">REKTV 1080</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/REKTV.png" />
   </channel>
+  <channel id="tlnovelas">
+    <display-name lang="es">tlnovelas</display-name>
+    <display-name lang="es">tlnovelas.TV</display-name>
+    <display-name lang="es">tlnovelas SD</display-name>
+    <display-name lang="es">tlnovelas HD</display-name>
+    <display-name lang="es">tlnovelas FHD</display-name>
+    <display-name lang="es">tlnovelas UHD</display-name>
+    <display-name lang="es">tlnovelas 720</display-name>
+    <display-name lang="es">tlnovelas 1080</display-name>
+    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/tlnovelas.png" />
+  </channel>
   <channel id="DePelícula">
     <display-name lang="es">DePelícula</display-name>
     <display-name lang="es">DePelícula.TV</display-name>
@@ -2211,28 +2244,6 @@
     <display-name lang="es">DejateTV 1080</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DejateTV.png" />
   </channel>
-  <channel id="NFL Network">
-    <display-name lang="es">NFL Network</display-name>
-    <display-name lang="es">NFL Network.TV</display-name>
-    <display-name lang="es">NFL Network SD</display-name>
-    <display-name lang="es">NFL Network HD</display-name>
-    <display-name lang="es">NFL Network FHD</display-name>
-    <display-name lang="es">NFL Network UHD</display-name>
-    <display-name lang="es">NFL Network 720</display-name>
-    <display-name lang="es">NFL Network 1080</display-name>
-    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/NFL%20Network.png" />
-  </channel>
-  <channel id="Red Bull TV">
-    <display-name lang="es">Red Bull TV</display-name>
-    <display-name lang="es">Red Bull TV.TV</display-name>
-    <display-name lang="es">Red Bull TV SD</display-name>
-    <display-name lang="es">Red Bull TV HD</display-name>
-    <display-name lang="es">Red Bull TV FHD</display-name>
-    <display-name lang="es">Red Bull TV UHD</display-name>
-    <display-name lang="es">Red Bull TV 720</display-name>
-    <display-name lang="es">Red Bull TV 1080</display-name>
-    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Red%20Bull%20TV.png" />
-  </channel>
   <channel id="Matchroom Boxing">
     <display-name lang="es">Matchroom Boxing</display-name>
     <display-name lang="es">Matchroom Boxing.TV</display-name>
@@ -2254,17 +2265,6 @@
     <display-name lang="es">Boxing TV 720</display-name>
     <display-name lang="es">Boxing TV 1080</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Boxing%20TV.png" />
-  </channel>
-  <channel id="Unbeaten">
-    <display-name lang="es">Unbeaten</display-name>
-    <display-name lang="es">Unbeaten.TV</display-name>
-    <display-name lang="es">Unbeaten SD</display-name>
-    <display-name lang="es">Unbeaten HD</display-name>
-    <display-name lang="es">Unbeaten FHD</display-name>
-    <display-name lang="es">Unbeaten UHD</display-name>
-    <display-name lang="es">Unbeaten 720</display-name>
-    <display-name lang="es">Unbeaten 1080</display-name>
-    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Unbeaten.png" />
   </channel>
   <channel id="PDC Darts">
     <display-name lang="es">PDC Darts</display-name>
@@ -2298,17 +2298,6 @@
     <display-name lang="es">PowerSports World 720</display-name>
     <display-name lang="es">PowerSports World 1080</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/PowerSports%20World.png" />
-  </channel>
-  <channel id="SportStak">
-    <display-name lang="es">SportStak</display-name>
-    <display-name lang="es">SportStak.TV</display-name>
-    <display-name lang="es">SportStak SD</display-name>
-    <display-name lang="es">SportStak HD</display-name>
-    <display-name lang="es">SportStak FHD</display-name>
-    <display-name lang="es">SportStak UHD</display-name>
-    <display-name lang="es">SportStak 720</display-name>
-    <display-name lang="es">SportStak 1080</display-name>
-    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/SportStak.png" />
   </channel>
   <channel id="PLL Network">
     <display-name lang="es">PLL Network</display-name>
@@ -2640,61 +2629,6 @@
     <display-name lang="es">24 horas Canarias 1080</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/24%20horas%20Canarias.png" />
   </channel>
-  <channel id="Somos Cine">
-    <display-name lang="es">Somos Cine</display-name>
-    <display-name lang="es">Somos Cine.TV</display-name>
-    <display-name lang="es">Somos Cine SD</display-name>
-    <display-name lang="es">Somos Cine HD</display-name>
-    <display-name lang="es">Somos Cine FHD</display-name>
-    <display-name lang="es">Somos Cine UHD</display-name>
-    <display-name lang="es">Somos Cine 720</display-name>
-    <display-name lang="es">Somos Cine 1080</display-name>
-    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Somos%20Cine.png" />
-  </channel>
-  <channel id="Saber y ganar">
-    <display-name lang="es">Saber y ganar</display-name>
-    <display-name lang="es">Saber y ganar.TV</display-name>
-    <display-name lang="es">Saber y ganar SD</display-name>
-    <display-name lang="es">Saber y ganar HD</display-name>
-    <display-name lang="es">Saber y ganar FHD</display-name>
-    <display-name lang="es">Saber y ganar UHD</display-name>
-    <display-name lang="es">Saber y ganar 720</display-name>
-    <display-name lang="es">Saber y ganar 1080</display-name>
-    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Saber%20y%20ganar.png" />
-  </channel>
-  <channel id="Cuéntame">
-    <display-name lang="es">Cuéntame</display-name>
-    <display-name lang="es">Cuéntame.TV</display-name>
-    <display-name lang="es">Cuéntame SD</display-name>
-    <display-name lang="es">Cuéntame HD</display-name>
-    <display-name lang="es">Cuéntame FHD</display-name>
-    <display-name lang="es">Cuéntame UHD</display-name>
-    <display-name lang="es">Cuéntame 720</display-name>
-    <display-name lang="es">Cuéntame 1080</display-name>
-    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Cu%C3%A9ntame.png" />
-  </channel>
-  <channel id="Los Conciertos de Radio 3">
-    <display-name lang="es">Los Conciertos de Radio 3</display-name>
-    <display-name lang="es">Los Conciertos de Radio 3.TV</display-name>
-    <display-name lang="es">Los Conciertos de Radio 3 SD</display-name>
-    <display-name lang="es">Los Conciertos de Radio 3 HD</display-name>
-    <display-name lang="es">Los Conciertos de Radio 3 FHD</display-name>
-    <display-name lang="es">Los Conciertos de Radio 3 UHD</display-name>
-    <display-name lang="es">Los Conciertos de Radio 3 720</display-name>
-    <display-name lang="es">Los Conciertos de Radio 3 1080</display-name>
-    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Los%20Conciertos%20de%20Radio%203.png" />
-  </channel>
-  <channel id="Celebra Andalucía">
-    <display-name lang="es">Celebra Andalucía</display-name>
-    <display-name lang="es">Celebra Andalucía.TV</display-name>
-    <display-name lang="es">Celebra Andalucía SD</display-name>
-    <display-name lang="es">Celebra Andalucía HD</display-name>
-    <display-name lang="es">Celebra Andalucía FHD</display-name>
-    <display-name lang="es">Celebra Andalucía UHD</display-name>
-    <display-name lang="es">Celebra Andalucía 720</display-name>
-    <display-name lang="es">Celebra Andalucía 1080</display-name>
-    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Celebra%20Andaluc%C3%ADa.png" />
-  </channel>
   <channel id="La Promesa">
     <display-name lang="es">La Promesa</display-name>
     <display-name lang="es">La Promesa.TV</display-name>
@@ -2705,6 +2639,17 @@
     <display-name lang="es">La Promesa 720</display-name>
     <display-name lang="es">La Promesa 1080</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/La%20Promesa.png" />
+  </channel>
+  <channel id="La Moderna">
+    <display-name lang="es">La Moderna</display-name>
+    <display-name lang="es">La Moderna.TV</display-name>
+    <display-name lang="es">La Moderna SD</display-name>
+    <display-name lang="es">La Moderna HD</display-name>
+    <display-name lang="es">La Moderna FHD</display-name>
+    <display-name lang="es">La Moderna UHD</display-name>
+    <display-name lang="es">La Moderna 720</display-name>
+    <display-name lang="es">La Moderna 1080</display-name>
+    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/La%20Moderna.png" />
   </channel>
   <channel id="LateXou">
     <display-name lang="es">LateXou</display-name>
@@ -2717,16 +2662,71 @@
     <display-name lang="es">LateXou 1080</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/LateXou.png" />
   </channel>
-  <channel id="Maestros de la moda">
-    <display-name lang="es">Maestros de la moda</display-name>
-    <display-name lang="es">Maestros de la moda.TV</display-name>
-    <display-name lang="es">Maestros de la moda SD</display-name>
-    <display-name lang="es">Maestros de la moda HD</display-name>
-    <display-name lang="es">Maestros de la moda FHD</display-name>
-    <display-name lang="es">Maestros de la moda UHD</display-name>
-    <display-name lang="es">Maestros de la moda 720</display-name>
-    <display-name lang="es">Maestros de la moda 1080</display-name>
-    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Maestros%20de%20la%20moda.png" />
+  <channel id="La Revuelta">
+    <display-name lang="es">La Revuelta</display-name>
+    <display-name lang="es">La Revuelta.TV</display-name>
+    <display-name lang="es">La Revuelta SD</display-name>
+    <display-name lang="es">La Revuelta HD</display-name>
+    <display-name lang="es">La Revuelta FHD</display-name>
+    <display-name lang="es">La Revuelta UHD</display-name>
+    <display-name lang="es">La Revuelta 720</display-name>
+    <display-name lang="es">La Revuelta 1080</display-name>
+    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/La%20Revuelta.png" />
+  </channel>
+  <channel id="Somos Cine">
+    <display-name lang="es">Somos Cine</display-name>
+    <display-name lang="es">Somos Cine.TV</display-name>
+    <display-name lang="es">Somos Cine SD</display-name>
+    <display-name lang="es">Somos Cine HD</display-name>
+    <display-name lang="es">Somos Cine FHD</display-name>
+    <display-name lang="es">Somos Cine UHD</display-name>
+    <display-name lang="es">Somos Cine 720</display-name>
+    <display-name lang="es">Somos Cine 1080</display-name>
+    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Somos%20Cine.png" />
+  </channel>
+  <channel id="Cuéntame">
+    <display-name lang="es">Cuéntame</display-name>
+    <display-name lang="es">Cuéntame.TV</display-name>
+    <display-name lang="es">Cuéntame SD</display-name>
+    <display-name lang="es">Cuéntame HD</display-name>
+    <display-name lang="es">Cuéntame FHD</display-name>
+    <display-name lang="es">Cuéntame UHD</display-name>
+    <display-name lang="es">Cuéntame 720</display-name>
+    <display-name lang="es">Cuéntame 1080</display-name>
+    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Cu%C3%A9ntame.png" />
+  </channel>
+  <channel id="Saber y ganar">
+    <display-name lang="es">Saber y ganar</display-name>
+    <display-name lang="es">Saber y ganar.TV</display-name>
+    <display-name lang="es">Saber y ganar SD</display-name>
+    <display-name lang="es">Saber y ganar HD</display-name>
+    <display-name lang="es">Saber y ganar FHD</display-name>
+    <display-name lang="es">Saber y ganar UHD</display-name>
+    <display-name lang="es">Saber y ganar 720</display-name>
+    <display-name lang="es">Saber y ganar 1080</display-name>
+    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Saber%20y%20ganar.png" />
+  </channel>
+  <channel id="Los Conciertos de Radio 3">
+    <display-name lang="es">Los Conciertos de Radio 3</display-name>
+    <display-name lang="es">Los Conciertos de Radio 3.TV</display-name>
+    <display-name lang="es">Los Conciertos de Radio 3 SD</display-name>
+    <display-name lang="es">Los Conciertos de Radio 3 HD</display-name>
+    <display-name lang="es">Los Conciertos de Radio 3 FHD</display-name>
+    <display-name lang="es">Los Conciertos de Radio 3 UHD</display-name>
+    <display-name lang="es">Los Conciertos de Radio 3 720</display-name>
+    <display-name lang="es">Los Conciertos de Radio 3 1080</display-name>
+    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Los%20Conciertos%20de%20Radio%203.png" />
+  </channel>
+  <channel id="Talent">
+    <display-name lang="es">Talent</display-name>
+    <display-name lang="es">Talent.TV</display-name>
+    <display-name lang="es">Talent SD</display-name>
+    <display-name lang="es">Talent HD</display-name>
+    <display-name lang="es">Talent FHD</display-name>
+    <display-name lang="es">Talent UHD</display-name>
+    <display-name lang="es">Talent 720</display-name>
+    <display-name lang="es">Talent 1080</display-name>
+    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Talent.png" />
   </channel>
   <channel id="El Hormiguero">
     <display-name lang="es">El Hormiguero</display-name>
@@ -4333,28 +4333,6 @@
     <display-name lang="es">Gametoon 720</display-name>
     <display-name lang="es">Gametoon 1080</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Gametoon.png" />
-  </channel>
-  <channel id="Myzen TV">
-    <display-name lang="es">Myzen TV</display-name>
-    <display-name lang="es">Myzen TV.TV</display-name>
-    <display-name lang="es">Myzen TV SD</display-name>
-    <display-name lang="es">Myzen TV HD</display-name>
-    <display-name lang="es">Myzen TV FHD</display-name>
-    <display-name lang="es">Myzen TV UHD</display-name>
-    <display-name lang="es">Myzen TV 720</display-name>
-    <display-name lang="es">Myzen TV 1080</display-name>
-    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Myzen%20TV.png" />
-  </channel>
-  <channel id="OUTtv">
-    <display-name lang="es">OUTtv</display-name>
-    <display-name lang="es">OUTtv.TV</display-name>
-    <display-name lang="es">OUTtv SD</display-name>
-    <display-name lang="es">OUTtv HD</display-name>
-    <display-name lang="es">OUTtv FHD</display-name>
-    <display-name lang="es">OUTtv UHD</display-name>
-    <display-name lang="es">OUTtv 720</display-name>
-    <display-name lang="es">OUTtv 1080</display-name>
-    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/OUTtv.png" />
   </channel>
   <channel id="Vivir con gatos">
     <display-name lang="es">Vivir con gatos</display-name>
