@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tv generator-info-name="dobleM 05/04/2025 20:50" generator-info-url="t.me/EPG_dobleM">
+<tv generator-info-name="dobleM 06/04/2025 20:50" generator-info-url="t.me/EPG_dobleM">
   <channel id="La 1 HD">
     <display-name lang="es">La 1</display-name>
     <display-name lang="es">La 1.TV</display-name>
@@ -1924,6 +1924,28 @@
     <display-name lang="es">M+ LaLiga TV UHD 720</display-name>
     <display-name lang="es">M+ LaLiga TV UHD 1080</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20LaLiga%20TV%20UHD.png" />
+  </channel>
+  <channel id="M+ Liga de Campeones HDR">
+    <display-name lang="es">M+ Liga de Campeones HDR</display-name>
+    <display-name lang="es">M+ Liga de Campeones HDR.TV</display-name>
+    <display-name lang="es">M+ Liga de Campeones HDR SD</display-name>
+    <display-name lang="es">M+ Liga de Campeones HDR HD</display-name>
+    <display-name lang="es">M+ Liga de Campeones HDR FHD</display-name>
+    <display-name lang="es">M+ Liga de Campeones HDR UHD</display-name>
+    <display-name lang="es">M+ Liga de Campeones HDR 720</display-name>
+    <display-name lang="es">M+ Liga de Campeones HDR 1080</display-name>
+    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%20HDR.png" />
+  </channel>
+  <channel id="M+ Liga de Campeones 2 HDR">
+    <display-name lang="es">M+ Liga de Campeones 2 HDR</display-name>
+    <display-name lang="es">M+ Liga de Campeones 2 HDR.TV</display-name>
+    <display-name lang="es">M+ Liga de Campeones 2 HDR SD</display-name>
+    <display-name lang="es">M+ Liga de Campeones 2 HDR HD</display-name>
+    <display-name lang="es">M+ Liga de Campeones 2 HDR FHD</display-name>
+    <display-name lang="es">M+ Liga de Campeones 2 HDR UHD</display-name>
+    <display-name lang="es">M+ Liga de Campeones 2 HDR 720</display-name>
+    <display-name lang="es">M+ Liga de Campeones 2 HDR 1080</display-name>
+    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%202%20HDR.png" />
   </channel>
   <channel id="Eurosport 4K">
     <display-name lang="es">Eurosport 4K</display-name>
