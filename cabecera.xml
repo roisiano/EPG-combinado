@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tv generator-info-name="dobleM 29/04/2025 20:50" generator-info-url="t.me/EPG_dobleM">
+<tv generator-info-name="dobleM 30/04/2025 20:50" generator-info-url="t.me/EPG_dobleM">
   <channel id="La 1 HD">
     <display-name lang="es">La 1</display-name>
     <display-name lang="es">La 1.TV</display-name>
@@ -2013,6 +2013,17 @@
     <display-name lang="es">LaLiga TV BAR 3 1080</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/LaLiga%20TV%20BAR%203.png" />
   </channel>
+  <channel id="LaLiga TV BAR 4">
+    <display-name lang="es">LaLiga TV BAR 4</display-name>
+    <display-name lang="es">LaLiga TV BAR 4.TV</display-name>
+    <display-name lang="es">LaLiga TV BAR 4 SD</display-name>
+    <display-name lang="es">LaLiga TV BAR 4 HD</display-name>
+    <display-name lang="es">LaLiga TV BAR 4 FHD</display-name>
+    <display-name lang="es">LaLiga TV BAR 4 UHD</display-name>
+    <display-name lang="es">LaLiga TV BAR 4 720</display-name>
+    <display-name lang="es">LaLiga TV BAR 4 1080</display-name>
+    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/LaLiga%20TV%20BAR%204.png" />
+  </channel>
   <channel id="Liga de Campeones BAR 2">
     <display-name lang="es">Liga de Campeones BAR 2</display-name>
     <display-name lang="es">Liga de Campeones BAR 2.TV</display-name>
@@ -2045,17 +2056,6 @@
     <display-name lang="es">DAZN F1 BAR 720</display-name>
     <display-name lang="es">DAZN F1 BAR 1080</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20F1%20BAR.png" />
-  </channel>
-  <channel id="DAZN 1 BAR">
-    <display-name lang="es">DAZN 1 BAR</display-name>
-    <display-name lang="es">DAZN 1 BAR.TV</display-name>
-    <display-name lang="es">DAZN 1 BAR SD</display-name>
-    <display-name lang="es">DAZN 1 BAR HD</display-name>
-    <display-name lang="es">DAZN 1 BAR FHD</display-name>
-    <display-name lang="es">DAZN 1 BAR UHD</display-name>
-    <display-name lang="es">DAZN 1 BAR 720</display-name>
-    <display-name lang="es">DAZN 1 BAR 1080</display-name>
-    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%201%20BAR.png" />
   </channel>
   <channel id="GolStadium">
     <display-name lang="es">GolStadium</display-name>
@@ -2244,6 +2244,127 @@
     <display-name lang="es">DejateTV 1080</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DejateTV.png" />
   </channel>
+  <channel id="NFL Network">
+    <display-name lang="es">NFL Network</display-name>
+    <display-name lang="es">NFL Network.TV</display-name>
+    <display-name lang="es">NFL Network SD</display-name>
+    <display-name lang="es">NFL Network HD</display-name>
+    <display-name lang="es">NFL Network FHD</display-name>
+    <display-name lang="es">NFL Network UHD</display-name>
+    <display-name lang="es">NFL Network 720</display-name>
+    <display-name lang="es">NFL Network 1080</display-name>
+    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/NFL%20Network.png" />
+  </channel>
+  <channel id="Red Bull TV">
+    <display-name lang="es">Red Bull TV</display-name>
+    <display-name lang="es">Red Bull TV.TV</display-name>
+    <display-name lang="es">Red Bull TV SD</display-name>
+    <display-name lang="es">Red Bull TV HD</display-name>
+    <display-name lang="es">Red Bull TV FHD</display-name>
+    <display-name lang="es">Red Bull TV UHD</display-name>
+    <display-name lang="es">Red Bull TV 720</display-name>
+    <display-name lang="es">Red Bull TV 1080</display-name>
+    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Red%20Bull%20TV.png" />
+  </channel>
+  <channel id="Matchroom Boxing">
+    <display-name lang="es">Matchroom Boxing</display-name>
+    <display-name lang="es">Matchroom Boxing.TV</display-name>
+    <display-name lang="es">Matchroom Boxing SD</display-name>
+    <display-name lang="es">Matchroom Boxing HD</display-name>
+    <display-name lang="es">Matchroom Boxing FHD</display-name>
+    <display-name lang="es">Matchroom Boxing UHD</display-name>
+    <display-name lang="es">Matchroom Boxing 720</display-name>
+    <display-name lang="es">Matchroom Boxing 1080</display-name>
+    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Matchroom%20Boxing.png" />
+  </channel>
+  <channel id="Boxing TV">
+    <display-name lang="es">Boxing TV</display-name>
+    <display-name lang="es">Boxing TV.TV</display-name>
+    <display-name lang="es">Boxing TV SD</display-name>
+    <display-name lang="es">Boxing TV HD</display-name>
+    <display-name lang="es">Boxing TV FHD</display-name>
+    <display-name lang="es">Boxing TV UHD</display-name>
+    <display-name lang="es">Boxing TV 720</display-name>
+    <display-name lang="es">Boxing TV 1080</display-name>
+    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Boxing%20TV.png" />
+  </channel>
+  <channel id="Unbeaten">
+    <display-name lang="es">Unbeaten</display-name>
+    <display-name lang="es">Unbeaten.TV</display-name>
+    <display-name lang="es">Unbeaten SD</display-name>
+    <display-name lang="es">Unbeaten HD</display-name>
+    <display-name lang="es">Unbeaten FHD</display-name>
+    <display-name lang="es">Unbeaten UHD</display-name>
+    <display-name lang="es">Unbeaten 720</display-name>
+    <display-name lang="es">Unbeaten 1080</display-name>
+    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Unbeaten.png" />
+  </channel>
+  <channel id="PDC Darts">
+    <display-name lang="es">PDC Darts</display-name>
+    <display-name lang="es">PDC Darts.TV</display-name>
+    <display-name lang="es">PDC Darts SD</display-name>
+    <display-name lang="es">PDC Darts HD</display-name>
+    <display-name lang="es">PDC Darts FHD</display-name>
+    <display-name lang="es">PDC Darts UHD</display-name>
+    <display-name lang="es">PDC Darts 720</display-name>
+    <display-name lang="es">PDC Darts 1080</display-name>
+    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/PDC%20Darts.png" />
+  </channel>
+  <channel id="Motorvision TV">
+    <display-name lang="es">Motorvision TV</display-name>
+    <display-name lang="es">Motorvision TV.TV</display-name>
+    <display-name lang="es">Motorvision TV SD</display-name>
+    <display-name lang="es">Motorvision TV HD</display-name>
+    <display-name lang="es">Motorvision TV FHD</display-name>
+    <display-name lang="es">Motorvision TV UHD</display-name>
+    <display-name lang="es">Motorvision TV 720</display-name>
+    <display-name lang="es">Motorvision TV 1080</display-name>
+    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Motorvision%20TV.png" />
+  </channel>
+  <channel id="PowerSports World">
+    <display-name lang="es">PowerSports World</display-name>
+    <display-name lang="es">PowerSports World.TV</display-name>
+    <display-name lang="es">PowerSports World SD</display-name>
+    <display-name lang="es">PowerSports World HD</display-name>
+    <display-name lang="es">PowerSports World FHD</display-name>
+    <display-name lang="es">PowerSports World UHD</display-name>
+    <display-name lang="es">PowerSports World 720</display-name>
+    <display-name lang="es">PowerSports World 1080</display-name>
+    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/PowerSports%20World.png" />
+  </channel>
+  <channel id="PLL Network">
+    <display-name lang="es">PLL Network</display-name>
+    <display-name lang="es">PLL Network.TV</display-name>
+    <display-name lang="es">PLL Network SD</display-name>
+    <display-name lang="es">PLL Network HD</display-name>
+    <display-name lang="es">PLL Network FHD</display-name>
+    <display-name lang="es">PLL Network UHD</display-name>
+    <display-name lang="es">PLL Network 720</display-name>
+    <display-name lang="es">PLL Network 1080</display-name>
+    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/PLL%20Network.png" />
+  </channel>
+  <channel id="ACL Cornhole TV">
+    <display-name lang="es">ACL Cornhole TV</display-name>
+    <display-name lang="es">ACL Cornhole TV.TV</display-name>
+    <display-name lang="es">ACL Cornhole TV SD</display-name>
+    <display-name lang="es">ACL Cornhole TV HD</display-name>
+    <display-name lang="es">ACL Cornhole TV FHD</display-name>
+    <display-name lang="es">ACL Cornhole TV UHD</display-name>
+    <display-name lang="es">ACL Cornhole TV 720</display-name>
+    <display-name lang="es">ACL Cornhole TV 1080</display-name>
+    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/ACL%20Cornhole%20TV.png" />
+  </channel>
+  <channel id="Billiard TV">
+    <display-name lang="es">Billiard TV</display-name>
+    <display-name lang="es">Billiard TV.TV</display-name>
+    <display-name lang="es">Billiard TV SD</display-name>
+    <display-name lang="es">Billiard TV HD</display-name>
+    <display-name lang="es">Billiard TV FHD</display-name>
+    <display-name lang="es">Billiard TV UHD</display-name>
+    <display-name lang="es">Billiard TV 720</display-name>
+    <display-name lang="es">Billiard TV 1080</display-name>
+    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Billiard%20TV.png" />
+  </channel>
   <channel id="FEF TV 1 Grupo 1">
     <display-name lang="es">FEF TV 1 Grupo 1</display-name>
     <display-name lang="es">FEF TV 1 Grupo 1.TV</display-name>
@@ -2353,6 +2474,50 @@
     <display-name lang="es">FEF TV 5 Grupo 2 720</display-name>
     <display-name lang="es">FEF TV 5 Grupo 2 1080</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/FEF%20TV%205%20Grupo%202.png" />
+  </channel>
+  <channel id="DAZN LaLiga Femenina 1">
+    <display-name lang="es">DAZN LaLiga Femenina 1</display-name>
+    <display-name lang="es">DAZN LaLiga Femenina 1.TV</display-name>
+    <display-name lang="es">DAZN LaLiga Femenina 1 SD</display-name>
+    <display-name lang="es">DAZN LaLiga Femenina 1 HD</display-name>
+    <display-name lang="es">DAZN LaLiga Femenina 1 FHD</display-name>
+    <display-name lang="es">DAZN LaLiga Femenina 1 UHD</display-name>
+    <display-name lang="es">DAZN LaLiga Femenina 1 720</display-name>
+    <display-name lang="es">DAZN LaLiga Femenina 1 1080</display-name>
+    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20LaLiga%20Femenina%201.png" />
+  </channel>
+  <channel id="DAZN LaLiga Femenina 2">
+    <display-name lang="es">DAZN LaLiga Femenina 2</display-name>
+    <display-name lang="es">DAZN LaLiga Femenina 2.TV</display-name>
+    <display-name lang="es">DAZN LaLiga Femenina 2 SD</display-name>
+    <display-name lang="es">DAZN LaLiga Femenina 2 HD</display-name>
+    <display-name lang="es">DAZN LaLiga Femenina 2 FHD</display-name>
+    <display-name lang="es">DAZN LaLiga Femenina 2 UHD</display-name>
+    <display-name lang="es">DAZN LaLiga Femenina 2 720</display-name>
+    <display-name lang="es">DAZN LaLiga Femenina 2 1080</display-name>
+    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20LaLiga%20Femenina%202.png" />
+  </channel>
+  <channel id="DAZN LaLiga Femenina 3">
+    <display-name lang="es">DAZN LaLiga Femenina 3</display-name>
+    <display-name lang="es">DAZN LaLiga Femenina 3.TV</display-name>
+    <display-name lang="es">DAZN LaLiga Femenina 3 SD</display-name>
+    <display-name lang="es">DAZN LaLiga Femenina 3 HD</display-name>
+    <display-name lang="es">DAZN LaLiga Femenina 3 FHD</display-name>
+    <display-name lang="es">DAZN LaLiga Femenina 3 UHD</display-name>
+    <display-name lang="es">DAZN LaLiga Femenina 3 720</display-name>
+    <display-name lang="es">DAZN LaLiga Femenina 3 1080</display-name>
+    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20LaLiga%20Femenina%203.png" />
+  </channel>
+  <channel id="DAZN LaLiga Femenina 4">
+    <display-name lang="es">DAZN LaLiga Femenina 4</display-name>
+    <display-name lang="es">DAZN LaLiga Femenina 4.TV</display-name>
+    <display-name lang="es">DAZN LaLiga Femenina 4 SD</display-name>
+    <display-name lang="es">DAZN LaLiga Femenina 4 HD</display-name>
+    <display-name lang="es">DAZN LaLiga Femenina 4 FHD</display-name>
+    <display-name lang="es">DAZN LaLiga Femenina 4 UHD</display-name>
+    <display-name lang="es">DAZN LaLiga Femenina 4 720</display-name>
+    <display-name lang="es">DAZN LaLiga Femenina 4 1080</display-name>
+    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20LaLiga%20Femenina%204.png" />
   </channel>
   <channel id="Squirrel TV">
     <display-name lang="es">Squirrel TV</display-name>
