@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tv generator-info-name="dobleM 05/05/2025 20:50" generator-info-url="t.me/EPG_dobleM">
+<tv generator-info-name="dobleM 06/05/2025 20:50" generator-info-url="t.me/EPG_dobleM">
   <channel id="La 1 HD">
     <display-name lang="es">La 1</display-name>
     <display-name lang="es">La 1.TV</display-name>
@@ -132,16 +132,16 @@
     <display-name lang="es">M+ Documentales 1080</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Documentales.png" />
   </channel>
-  <channel id="M+ Musicales">
-    <display-name lang="es">M+ Musicales</display-name>
-    <display-name lang="es">M+ Musicales.TV</display-name>
-    <display-name lang="es">M+ Musicales SD</display-name>
-    <display-name lang="es">M+ Musicales HD</display-name>
-    <display-name lang="es">M+ Musicales FHD</display-name>
-    <display-name lang="es">M+ Musicales UHD</display-name>
-    <display-name lang="es">M+ Musicales 720</display-name>
-    <display-name lang="es">M+ Musicales 1080</display-name>
-    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Musicales.png" />
+  <channel id="M+ Comedia Española">
+    <display-name lang="es">M+ Comedia Española</display-name>
+    <display-name lang="es">M+ Comedia Española.TV</display-name>
+    <display-name lang="es">M+ Comedia Española SD</display-name>
+    <display-name lang="es">M+ Comedia Española HD</display-name>
+    <display-name lang="es">M+ Comedia Española FHD</display-name>
+    <display-name lang="es">M+ Comedia Española UHD</display-name>
+    <display-name lang="es">M+ Comedia Española 720</display-name>
+    <display-name lang="es">M+ Comedia Española 1080</display-name>
+    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Comedia%20Espa%C3%B1ola.png" />
   </channel>
   <channel id="La Resistencia 24H">
     <display-name lang="es">La Resistencia 24H</display-name>
@@ -2057,17 +2057,6 @@
     <display-name lang="es">DAZN F1 BAR 1080</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20F1%20BAR.png" />
   </channel>
-  <channel id="DAZN 1 BAR">
-    <display-name lang="es">DAZN 1 BAR</display-name>
-    <display-name lang="es">DAZN 1 BAR.TV</display-name>
-    <display-name lang="es">DAZN 1 BAR SD</display-name>
-    <display-name lang="es">DAZN 1 BAR HD</display-name>
-    <display-name lang="es">DAZN 1 BAR FHD</display-name>
-    <display-name lang="es">DAZN 1 BAR UHD</display-name>
-    <display-name lang="es">DAZN 1 BAR 720</display-name>
-    <display-name lang="es">DAZN 1 BAR 1080</display-name>
-    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%201%20BAR.png" />
-  </channel>
   <channel id="GolStadium">
     <display-name lang="es">GolStadium</display-name>
     <display-name lang="es">GolStadium.TV</display-name>
@@ -3386,7 +3375,6 @@
     <display-name lang="es">Canal Terres de l'Ebre UHD</display-name>
     <display-name lang="es">Canal Terres de l'Ebre 720</display-name>
     <display-name lang="es">Canal Terres de l'Ebre 1080</display-name>
-    <icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/b98fe654fe94466e80ac5902566ac4b9/Images/9f325a5f48ad43d486d9cdb3e41dde08" />
   </channel>
   <channel id="Canal Taronja Anoia">
     <display-name lang="es">Canal Taronja Anoia</display-name>
@@ -3474,6 +3462,7 @@
     <display-name lang="es">Cugat Media UHD</display-name>
     <display-name lang="es">Cugat Media 720</display-name>
     <display-name lang="es">Cugat Media 1080</display-name>
+    <icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/0a7002085b31450f9c507ba8fb0bac04/Images/08ffd52a310b42ef87828453c2a1d6e1" />
   </channel>
   <channel id="ETV">
     <display-name lang="es">ETV</display-name>
@@ -3539,6 +3528,7 @@
     <display-name lang="es">TV Berguedà UHD</display-name>
     <display-name lang="es">TV Berguedà 720</display-name>
     <display-name lang="es">TV Berguedà 1080</display-name>
+    <icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/bfcb5ca4ff69469cbc691e0c5ddc4d4b/Images/92273c48950642bc9ebdf33eae57ab77" />
   </channel>
   <channel id="Televisió de l'Hospitalet">
     <display-name lang="es">Televisió de l'Hospitalet</display-name>
@@ -3549,7 +3539,6 @@
     <display-name lang="es">Televisió de l'Hospitalet UHD</display-name>
     <display-name lang="es">Televisió de l'Hospitalet 720</display-name>
     <display-name lang="es">Televisió de l'Hospitalet 1080</display-name>
-    <icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/4d27376306554922877e2fcde8b28d2a/Images/b3d18271aae4465290668f581fa3e20d" />
   </channel>
   <channel id="Lleida TV">
     <display-name lang="es">Lleida TV</display-name>
