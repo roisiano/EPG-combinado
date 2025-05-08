@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tv generator-info-name="dobleM 06/05/2025 20:50" generator-info-url="t.me/EPG_dobleM">
+<tv generator-info-name="dobleM 07/05/2025 20:50" generator-info-url="t.me/EPG_dobleM">
   <channel id="La 1 HD">
     <display-name lang="es">La 1</display-name>
     <display-name lang="es">La 1.TV</display-name>
@@ -110,16 +110,16 @@
     <display-name lang="es">M+ Originales 1080</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Originales.png" />
   </channel>
-  <channel id="M+ Los 90">
-    <display-name lang="es">M+ Los 90</display-name>
-    <display-name lang="es">M+ Los 90.TV</display-name>
-    <display-name lang="es">M+ Los 90 SD</display-name>
-    <display-name lang="es">M+ Los 90 HD</display-name>
-    <display-name lang="es">M+ Los 90 FHD</display-name>
-    <display-name lang="es">M+ Los 90 UHD</display-name>
-    <display-name lang="es">M+ Los 90 720</display-name>
-    <display-name lang="es">M+ Los 90 1080</display-name>
-    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Los%2090.png" />
+  <channel id="M+ Tom Cruise">
+    <display-name lang="es">M+ Tom Cruise</display-name>
+    <display-name lang="es">M+ Tom Cruise.TV</display-name>
+    <display-name lang="es">M+ Tom Cruise SD</display-name>
+    <display-name lang="es">M+ Tom Cruise HD</display-name>
+    <display-name lang="es">M+ Tom Cruise FHD</display-name>
+    <display-name lang="es">M+ Tom Cruise UHD</display-name>
+    <display-name lang="es">M+ Tom Cruise 720</display-name>
+    <display-name lang="es">M+ Tom Cruise 1080</display-name>
+    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Tom%20Cruise.png" />
   </channel>
   <channel id="M+ Documentales HD">
     <display-name lang="es">M+ Documentales</display-name>
@@ -1231,6 +1231,17 @@
     <display-name lang="es">CGTN Documentary 720</display-name>
     <display-name lang="es">CGTN Documentary 1080</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/CGTN%20Documentary.png" />
+  </channel>
+  <channel id="UCL">
+    <display-name lang="es">UCL</display-name>
+    <display-name lang="es">UCL.TV</display-name>
+    <display-name lang="es">UCL SD</display-name>
+    <display-name lang="es">UCL HD</display-name>
+    <display-name lang="es">UCL FHD</display-name>
+    <display-name lang="es">UCL UHD</display-name>
+    <display-name lang="es">UCL 720</display-name>
+    <display-name lang="es">UCL 1080</display-name>
+    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/UCL.png" />
   </channel>
   <channel id="Canal de las Estrellas">
     <display-name lang="es">Canal de las Estrellas</display-name>
@@ -4144,6 +4155,28 @@
     <display-name lang="es">RunTime Clásicos 720</display-name>
     <display-name lang="es">RunTime Clásicos 1080</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/RunTime%20Cl%C3%A1sicos.png" />
+  </channel>
+  <channel id="RunTime Familia">
+    <display-name lang="es">RunTime Familia</display-name>
+    <display-name lang="es">RunTime Familia.TV</display-name>
+    <display-name lang="es">RunTime Familia SD</display-name>
+    <display-name lang="es">RunTime Familia HD</display-name>
+    <display-name lang="es">RunTime Familia FHD</display-name>
+    <display-name lang="es">RunTime Familia UHD</display-name>
+    <display-name lang="es">RunTime Familia 720</display-name>
+    <display-name lang="es">RunTime Familia 1080</display-name>
+    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/RunTime%20Familia.png" />
+  </channel>
+  <channel id="II Guerra Mundial by Canal HISTORIA">
+    <display-name lang="es">II Guerra Mundial by Canal HISTORIA</display-name>
+    <display-name lang="es">II Guerra Mundial by Canal HISTORIA.TV</display-name>
+    <display-name lang="es">II Guerra Mundial by Canal HISTORIA SD</display-name>
+    <display-name lang="es">II Guerra Mundial by Canal HISTORIA HD</display-name>
+    <display-name lang="es">II Guerra Mundial by Canal HISTORIA FHD</display-name>
+    <display-name lang="es">II Guerra Mundial by Canal HISTORIA UHD</display-name>
+    <display-name lang="es">II Guerra Mundial by Canal HISTORIA 720</display-name>
+    <display-name lang="es">II Guerra Mundial by Canal HISTORIA 1080</display-name>
+    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/II%20Guerra%20Mundial%20by%20Canal%20HISTORIA.png" />
   </channel>
   <channel id="TRACE Sports Stars">
     <display-name lang="es">TRACE Sports Stars</display-name>
