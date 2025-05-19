@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tv generator-info-name="dobleM 17/05/2025 20:50" generator-info-url="t.me/EPG_dobleM">
+<tv generator-info-name="dobleM 19/05/2025 00:06" generator-info-url="t.me/EPG_dobleM">
   <channel id="La 1 HD">
     <display-name lang="es">La 1</display-name>
     <display-name lang="es">La 1.TV</display-name>
@@ -1936,6 +1936,17 @@
     <display-name lang="es">DAZN 1 BAR 1080</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%201%20BAR.png" />
   </channel>
+  <channel id="DAZN 2 BAR">
+    <display-name lang="es">DAZN 2 BAR</display-name>
+    <display-name lang="es">DAZN 2 BAR.TV</display-name>
+    <display-name lang="es">DAZN 2 BAR SD</display-name>
+    <display-name lang="es">DAZN 2 BAR HD</display-name>
+    <display-name lang="es">DAZN 2 BAR FHD</display-name>
+    <display-name lang="es">DAZN 2 BAR UHD</display-name>
+    <display-name lang="es">DAZN 2 BAR 720</display-name>
+    <display-name lang="es">DAZN 2 BAR 1080</display-name>
+    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%202%20BAR.png" />
+  </channel>
   <channel id="GolStadium">
     <display-name lang="es">GolStadium</display-name>
     <display-name lang="es">GolStadium.TV</display-name>
@@ -3795,50 +3806,6 @@
     <display-name lang="es">Información TV 1080</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Informaci%C3%B3n%20TV.png" />
   </channel>
-  <channel id="BOM Cine">
-    <display-name lang="es">BOM Cine</display-name>
-    <display-name lang="es">BOM Cine.TV</display-name>
-    <display-name lang="es">BOM Cine SD</display-name>
-    <display-name lang="es">BOM Cine HD</display-name>
-    <display-name lang="es">BOM Cine FHD</display-name>
-    <display-name lang="es">BOM Cine UHD</display-name>
-    <display-name lang="es">BOM Cine 720</display-name>
-    <display-name lang="es">BOM Cine 1080</display-name>
-    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/BOM%20Cine.png" />
-  </channel>
-  <channel id="AMC HD">
-    <display-name lang="es">AMC</display-name>
-    <display-name lang="es">AMC.TV</display-name>
-    <display-name lang="es">AMC SD</display-name>
-    <display-name lang="es">AMC HD</display-name>
-    <display-name lang="es">AMC FHD</display-name>
-    <display-name lang="es">AMC UHD</display-name>
-    <display-name lang="es">AMC 720</display-name>
-    <display-name lang="es">AMC 1080</display-name>
-    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/AMC.png" />
-  </channel>
-  <channel id="Sundance TV">
-    <display-name lang="es">Sundance TV</display-name>
-    <display-name lang="es">Sundance TV.TV</display-name>
-    <display-name lang="es">Sundance TV SD</display-name>
-    <display-name lang="es">Sundance TV HD</display-name>
-    <display-name lang="es">Sundance TV FHD</display-name>
-    <display-name lang="es">Sundance TV UHD</display-name>
-    <display-name lang="es">Sundance TV 720</display-name>
-    <display-name lang="es">Sundance TV 1080</display-name>
-    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Sundance%20TV.png" />
-  </channel>
-  <channel id="Somos">
-    <display-name lang="es">Somos</display-name>
-    <display-name lang="es">Somos.TV</display-name>
-    <display-name lang="es">Somos SD</display-name>
-    <display-name lang="es">Somos HD</display-name>
-    <display-name lang="es">Somos FHD</display-name>
-    <display-name lang="es">Somos UHD</display-name>
-    <display-name lang="es">Somos 720</display-name>
-    <display-name lang="es">Somos 1080</display-name>
-    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Somos.png" />
-  </channel>
   <channel id="DARK">
     <display-name lang="es">DARK</display-name>
     <display-name lang="es">DARK.TV</display-name>
@@ -3849,39 +3816,6 @@
     <display-name lang="es">DARK 720</display-name>
     <display-name lang="es">DARK 1080</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DARK.png" />
-  </channel>
-  <channel id="XTRM">
-    <display-name lang="es">XTRM</display-name>
-    <display-name lang="es">XTRM.TV</display-name>
-    <display-name lang="es">XTRM SD</display-name>
-    <display-name lang="es">XTRM HD</display-name>
-    <display-name lang="es">XTRM FHD</display-name>
-    <display-name lang="es">XTRM UHD</display-name>
-    <display-name lang="es">XTRM 720</display-name>
-    <display-name lang="es">XTRM 1080</display-name>
-    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/XTRM.png" />
-  </channel>
-  <channel id="Odisea">
-    <display-name lang="es">Odisea</display-name>
-    <display-name lang="es">Odisea.TV</display-name>
-    <display-name lang="es">Odisea SD</display-name>
-    <display-name lang="es">Odisea HD</display-name>
-    <display-name lang="es">Odisea FHD</display-name>
-    <display-name lang="es">Odisea UHD</display-name>
-    <display-name lang="es">Odisea 720</display-name>
-    <display-name lang="es">Odisea 1080</display-name>
-    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Odisea.png" />
-  </channel>
-  <channel id="AMC Crime">
-    <display-name lang="es">AMC Crime</display-name>
-    <display-name lang="es">AMC Crime.TV</display-name>
-    <display-name lang="es">AMC Crime SD</display-name>
-    <display-name lang="es">AMC Crime HD</display-name>
-    <display-name lang="es">AMC Crime FHD</display-name>
-    <display-name lang="es">AMC Crime UHD</display-name>
-    <display-name lang="es">AMC Crime 720</display-name>
-    <display-name lang="es">AMC Crime 1080</display-name>
-    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/AMC%20Crime.png" />
   </channel>
   <channel id="AMC Break">
     <display-name lang="es">AMC Break</display-name>
@@ -3894,27 +3828,38 @@
     <display-name lang="es">AMC Break 1080</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/AMC%20Break.png" />
   </channel>
-  <channel id="BuenViaje">
-    <display-name lang="es">BuenViaje</display-name>
-    <display-name lang="es">BuenViaje.TV</display-name>
-    <display-name lang="es">BuenViaje SD</display-name>
-    <display-name lang="es">BuenViaje HD</display-name>
-    <display-name lang="es">BuenViaje FHD</display-name>
-    <display-name lang="es">BuenViaje UHD</display-name>
-    <display-name lang="es">BuenViaje 720</display-name>
-    <display-name lang="es">BuenViaje 1080</display-name>
-    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/BuenViaje.png" />
+  <channel id="Odisea">
+    <display-name lang="es">Odisea</display-name>
+    <display-name lang="es">Odisea.TV</display-name>
+    <display-name lang="es">Odisea SD</display-name>
+    <display-name lang="es">Odisea HD</display-name>
+    <display-name lang="es">Odisea FHD</display-name>
+    <display-name lang="es">Odisea UHD</display-name>
+    <display-name lang="es">Odisea 720</display-name>
+    <display-name lang="es">Odisea 1080</display-name>
+    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Odisea.png" />
   </channel>
-  <channel id="Canal Hollywood HD">
-    <display-name lang="es">Canal Hollywood</display-name>
-    <display-name lang="es">Canal Hollywood.TV</display-name>
-    <display-name lang="es">Canal Hollywood SD</display-name>
-    <display-name lang="es">Canal Hollywood HD</display-name>
-    <display-name lang="es">Canal Hollywood FHD</display-name>
-    <display-name lang="es">Canal Hollywood UHD</display-name>
-    <display-name lang="es">Canal Hollywood 720</display-name>
-    <display-name lang="es">Canal Hollywood 1080</display-name>
-    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Canal%20Hollywood.png" />
+  <channel id="AMC HD">
+    <display-name lang="es">AMC</display-name>
+    <display-name lang="es">AMC.TV</display-name>
+    <display-name lang="es">AMC SD</display-name>
+    <display-name lang="es">AMC HD</display-name>
+    <display-name lang="es">AMC FHD</display-name>
+    <display-name lang="es">AMC UHD</display-name>
+    <display-name lang="es">AMC 720</display-name>
+    <display-name lang="es">AMC 1080</display-name>
+    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/AMC.png" />
+  </channel>
+  <channel id="AMC Crime">
+    <display-name lang="es">AMC Crime</display-name>
+    <display-name lang="es">AMC Crime.TV</display-name>
+    <display-name lang="es">AMC Crime SD</display-name>
+    <display-name lang="es">AMC Crime HD</display-name>
+    <display-name lang="es">AMC Crime FHD</display-name>
+    <display-name lang="es">AMC Crime UHD</display-name>
+    <display-name lang="es">AMC Crime 720</display-name>
+    <display-name lang="es">AMC Crime 1080</display-name>
+    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/AMC%20Crime.png" />
   </channel>
   <channel id="Historia">
     <display-name lang="es">Historia</display-name>
@@ -3927,16 +3872,38 @@
     <display-name lang="es">Historia 1080</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Historia.png" />
   </channel>
-  <channel id="Canal Cocina">
-    <display-name lang="es">Canal Cocina</display-name>
-    <display-name lang="es">Canal Cocina.TV</display-name>
-    <display-name lang="es">Canal Cocina SD</display-name>
-    <display-name lang="es">Canal Cocina HD</display-name>
-    <display-name lang="es">Canal Cocina FHD</display-name>
-    <display-name lang="es">Canal Cocina UHD</display-name>
-    <display-name lang="es">Canal Cocina 720</display-name>
-    <display-name lang="es">Canal Cocina 1080</display-name>
-    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Canal%20Cocina.png" />
+  <channel id="XTRM">
+    <display-name lang="es">XTRM</display-name>
+    <display-name lang="es">XTRM.TV</display-name>
+    <display-name lang="es">XTRM SD</display-name>
+    <display-name lang="es">XTRM HD</display-name>
+    <display-name lang="es">XTRM FHD</display-name>
+    <display-name lang="es">XTRM UHD</display-name>
+    <display-name lang="es">XTRM 720</display-name>
+    <display-name lang="es">XTRM 1080</display-name>
+    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/XTRM.png" />
+  </channel>
+  <channel id="Canal Hollywood HD">
+    <display-name lang="es">Canal Hollywood</display-name>
+    <display-name lang="es">Canal Hollywood.TV</display-name>
+    <display-name lang="es">Canal Hollywood SD</display-name>
+    <display-name lang="es">Canal Hollywood HD</display-name>
+    <display-name lang="es">Canal Hollywood FHD</display-name>
+    <display-name lang="es">Canal Hollywood UHD</display-name>
+    <display-name lang="es">Canal Hollywood 720</display-name>
+    <display-name lang="es">Canal Hollywood 1080</display-name>
+    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Canal%20Hollywood.png" />
+  </channel>
+  <channel id="Sundance TV">
+    <display-name lang="es">Sundance TV</display-name>
+    <display-name lang="es">Sundance TV.TV</display-name>
+    <display-name lang="es">Sundance TV SD</display-name>
+    <display-name lang="es">Sundance TV HD</display-name>
+    <display-name lang="es">Sundance TV FHD</display-name>
+    <display-name lang="es">Sundance TV UHD</display-name>
+    <display-name lang="es">Sundance TV 720</display-name>
+    <display-name lang="es">Sundance TV 1080</display-name>
+    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Sundance%20TV.png" />
   </channel>
   <channel id="Enfamilia">
     <display-name lang="es">Enfamilia</display-name>
@@ -3949,6 +3916,28 @@
     <display-name lang="es">Enfamilia 1080</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Enfamilia.png" />
   </channel>
+  <channel id="Somos">
+    <display-name lang="es">Somos</display-name>
+    <display-name lang="es">Somos.TV</display-name>
+    <display-name lang="es">Somos SD</display-name>
+    <display-name lang="es">Somos HD</display-name>
+    <display-name lang="es">Somos FHD</display-name>
+    <display-name lang="es">Somos UHD</display-name>
+    <display-name lang="es">Somos 720</display-name>
+    <display-name lang="es">Somos 1080</display-name>
+    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Somos.png" />
+  </channel>
+  <channel id="Canal Cocina">
+    <display-name lang="es">Canal Cocina</display-name>
+    <display-name lang="es">Canal Cocina.TV</display-name>
+    <display-name lang="es">Canal Cocina SD</display-name>
+    <display-name lang="es">Canal Cocina HD</display-name>
+    <display-name lang="es">Canal Cocina FHD</display-name>
+    <display-name lang="es">Canal Cocina UHD</display-name>
+    <display-name lang="es">Canal Cocina 720</display-name>
+    <display-name lang="es">Canal Cocina 1080</display-name>
+    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Canal%20Cocina.png" />
+  </channel>
   <channel id="Decasa">
     <display-name lang="es">Decasa</display-name>
     <display-name lang="es">Decasa.TV</display-name>
@@ -3959,6 +3948,39 @@
     <display-name lang="es">Decasa 720</display-name>
     <display-name lang="es">Decasa 1080</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Decasa.png" />
+  </channel>
+  <channel id="SELEKT">
+    <display-name lang="es">SELEKT</display-name>
+    <display-name lang="es">SELEKT.TV</display-name>
+    <display-name lang="es">SELEKT SD</display-name>
+    <display-name lang="es">SELEKT HD</display-name>
+    <display-name lang="es">SELEKT FHD</display-name>
+    <display-name lang="es">SELEKT UHD</display-name>
+    <display-name lang="es">SELEKT 720</display-name>
+    <display-name lang="es">SELEKT 1080</display-name>
+    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/SELEKT.png" />
+  </channel>
+  <channel id="BOM Cine">
+    <display-name lang="es">BOM Cine</display-name>
+    <display-name lang="es">BOM Cine.TV</display-name>
+    <display-name lang="es">BOM Cine SD</display-name>
+    <display-name lang="es">BOM Cine HD</display-name>
+    <display-name lang="es">BOM Cine FHD</display-name>
+    <display-name lang="es">BOM Cine UHD</display-name>
+    <display-name lang="es">BOM Cine 720</display-name>
+    <display-name lang="es">BOM Cine 1080</display-name>
+    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/BOM%20Cine.png" />
+  </channel>
+  <channel id="BuenViaje">
+    <display-name lang="es">BuenViaje</display-name>
+    <display-name lang="es">BuenViaje.TV</display-name>
+    <display-name lang="es">BuenViaje SD</display-name>
+    <display-name lang="es">BuenViaje HD</display-name>
+    <display-name lang="es">BuenViaje FHD</display-name>
+    <display-name lang="es">BuenViaje UHD</display-name>
+    <display-name lang="es">BuenViaje 720</display-name>
+    <display-name lang="es">BuenViaje 1080</display-name>
+    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/BuenViaje.png" />
   </channel>
   <channel id="Cines Verdi TV">
     <display-name lang="es">Cines Verdi TV</display-name>
@@ -4025,17 +4047,6 @@
     <display-name lang="es">Festival 4K 720</display-name>
     <display-name lang="es">Festival 4K 1080</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Festival%204K.png" />
-  </channel>
-  <channel id="SELEKT">
-    <display-name lang="es">SELEKT</display-name>
-    <display-name lang="es">SELEKT.TV</display-name>
-    <display-name lang="es">SELEKT SD</display-name>
-    <display-name lang="es">SELEKT HD</display-name>
-    <display-name lang="es">SELEKT FHD</display-name>
-    <display-name lang="es">SELEKT UHD</display-name>
-    <display-name lang="es">SELEKT 720</display-name>
-    <display-name lang="es">SELEKT 1080</display-name>
-    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/SELEKT.png" />
   </channel>
   <channel id="Runtime Thriller-Terror">
     <display-name lang="es">Runtime Thriller-Terror</display-name>
