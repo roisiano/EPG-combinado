@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tv generator-info-name="dobleM 28/05/2025 20:50" generator-info-url="t.me/EPG_dobleM">
+<tv generator-info-name="dobleM 29/05/2025 20:50" generator-info-url="t.me/EPG_dobleM">
   <channel id="La 1 HD">
     <display-name lang="es">La 1</display-name>
     <display-name lang="es">La 1.TV</display-name>
@@ -110,16 +110,16 @@
     <display-name lang="es">M+ Originales 1080</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Originales.png" />
   </channel>
-  <channel id="M+ Tom Cruise">
-    <display-name lang="es">M+ Tom Cruise</display-name>
-    <display-name lang="es">M+ Tom Cruise.TV</display-name>
-    <display-name lang="es">M+ Tom Cruise SD</display-name>
-    <display-name lang="es">M+ Tom Cruise HD</display-name>
-    <display-name lang="es">M+ Tom Cruise FHD</display-name>
-    <display-name lang="es">M+ Tom Cruise UHD</display-name>
-    <display-name lang="es">M+ Tom Cruise 720</display-name>
-    <display-name lang="es">M+ Tom Cruise 1080</display-name>
-    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Tom%20Cruise.png" />
+  <channel id="M+ Thriller">
+    <display-name lang="es">M+ Thriller</display-name>
+    <display-name lang="es">M+ Thriller.TV</display-name>
+    <display-name lang="es">M+ Thriller SD</display-name>
+    <display-name lang="es">M+ Thriller HD</display-name>
+    <display-name lang="es">M+ Thriller FHD</display-name>
+    <display-name lang="es">M+ Thriller UHD</display-name>
+    <display-name lang="es">M+ Thriller 720</display-name>
+    <display-name lang="es">M+ Thriller 1080</display-name>
+    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Thriller.png" />
   </channel>
   <channel id="M+ Documentales HD">
     <display-name lang="es">M+ Documentales</display-name>
@@ -2045,6 +2045,17 @@
     <display-name lang="es">GolStadium 1 720</display-name>
     <display-name lang="es">GolStadium 1 1080</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/GolStadium%201.png" />
+  </channel>
+  <channel id="GolStadium 3">
+    <display-name lang="es">GolStadium 3</display-name>
+    <display-name lang="es">GolStadium 3.TV</display-name>
+    <display-name lang="es">GolStadium 3 SD</display-name>
+    <display-name lang="es">GolStadium 3 HD</display-name>
+    <display-name lang="es">GolStadium 3 FHD</display-name>
+    <display-name lang="es">GolStadium 3 UHD</display-name>
+    <display-name lang="es">GolStadium 3 720</display-name>
+    <display-name lang="es">GolStadium 3 1080</display-name>
+    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/GolStadium%203.png" />
   </channel>
   <channel id="Torolé TV">
     <display-name lang="es">Torolé TV</display-name>
