@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tv generator-info-name="dobleM 12/06/2025 20:50" generator-info-url="t.me/EPG_dobleM">
+<tv generator-info-name="dobleM 13/06/2025 20:50" generator-info-url="t.me/EPG_dobleM">
   <channel id="La 1 HD">
     <display-name lang="es">La 1</display-name>
     <display-name lang="es">La 1.TV</display-name>
@@ -132,16 +132,16 @@
     <display-name lang="es">M+ Documentales 1080</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Documentales.png" />
   </channel>
-  <channel id="M+ Comedia Española">
-    <display-name lang="es">M+ Comedia Española</display-name>
-    <display-name lang="es">M+ Comedia Española.TV</display-name>
-    <display-name lang="es">M+ Comedia Española SD</display-name>
-    <display-name lang="es">M+ Comedia Española HD</display-name>
-    <display-name lang="es">M+ Comedia Española FHD</display-name>
-    <display-name lang="es">M+ Comedia Española UHD</display-name>
-    <display-name lang="es">M+ Comedia Española 720</display-name>
-    <display-name lang="es">M+ Comedia Española 1080</display-name>
-    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Comedia%20Espa%C3%B1ola.png" />
+  <channel id="M+ Todo Chaplin">
+    <display-name lang="es">M+ Todo Chaplin</display-name>
+    <display-name lang="es">M+ Todo Chaplin.TV</display-name>
+    <display-name lang="es">M+ Todo Chaplin SD</display-name>
+    <display-name lang="es">M+ Todo Chaplin HD</display-name>
+    <display-name lang="es">M+ Todo Chaplin FHD</display-name>
+    <display-name lang="es">M+ Todo Chaplin UHD</display-name>
+    <display-name lang="es">M+ Todo Chaplin 720</display-name>
+    <display-name lang="es">M+ Todo Chaplin 1080</display-name>
+    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Todo%20Chaplin.png" />
   </channel>
   <channel id="M+ Clásicos HD">
     <display-name lang="es">M+ Clásicos</display-name>
@@ -1353,17 +1353,6 @@
     <display-name lang="es">Canal Fútbol Replay 1080</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Canal%20F%C3%BAtbol%20Replay.png" />
   </channel>
-  <channel id="M+ Copa del Rey">
-    <display-name lang="es">M+ Copa del Rey</display-name>
-    <display-name lang="es">M+ Copa del Rey.TV</display-name>
-    <display-name lang="es">M+ Copa del Rey SD</display-name>
-    <display-name lang="es">M+ Copa del Rey HD</display-name>
-    <display-name lang="es">M+ Copa del Rey FHD</display-name>
-    <display-name lang="es">M+ Copa del Rey UHD</display-name>
-    <display-name lang="es">M+ Copa del Rey 720</display-name>
-    <display-name lang="es">M+ Copa del Rey 1080</display-name>
-    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Copa%20del%20Rey.png" />
-  </channel>
   <channel id="M+ Vamos HD">
     <display-name lang="es">M+ Vamos</display-name>
     <display-name lang="es">M+ Vamos.TV</display-name>
@@ -1716,105 +1705,6 @@
     <display-name lang="es">LaLiga TV Hypermotion 3 1080</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/LaLiga%20TV%20Hypermotion%203.png" />
   </channel>
-  <channel id="LaLiga TV Hypermotion 4">
-    <display-name lang="es">LaLiga TV Hypermotion 4</display-name>
-    <display-name lang="es">LaLiga TV Hypermotion 4.TV</display-name>
-    <display-name lang="es">LaLiga TV Hypermotion 4 SD</display-name>
-    <display-name lang="es">LaLiga TV Hypermotion 4 HD</display-name>
-    <display-name lang="es">LaLiga TV Hypermotion 4 FHD</display-name>
-    <display-name lang="es">LaLiga TV Hypermotion 4 UHD</display-name>
-    <display-name lang="es">LaLiga TV Hypermotion 4 720</display-name>
-    <display-name lang="es">LaLiga TV Hypermotion 4 1080</display-name>
-    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/LaLiga%20TV%20Hypermotion%204.png" />
-  </channel>
-  <channel id="LaLiga TV Hypermotion 5">
-    <display-name lang="es">LaLiga TV Hypermotion 5</display-name>
-    <display-name lang="es">LaLiga TV Hypermotion 5.TV</display-name>
-    <display-name lang="es">LaLiga TV Hypermotion 5 SD</display-name>
-    <display-name lang="es">LaLiga TV Hypermotion 5 HD</display-name>
-    <display-name lang="es">LaLiga TV Hypermotion 5 FHD</display-name>
-    <display-name lang="es">LaLiga TV Hypermotion 5 UHD</display-name>
-    <display-name lang="es">LaLiga TV Hypermotion 5 720</display-name>
-    <display-name lang="es">LaLiga TV Hypermotion 5 1080</display-name>
-    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/LaLiga%20TV%20Hypermotion%205.png" />
-  </channel>
-  <channel id="LaLiga TV Hypermotion 6">
-    <display-name lang="es">LaLiga TV Hypermotion 6</display-name>
-    <display-name lang="es">LaLiga TV Hypermotion 6.TV</display-name>
-    <display-name lang="es">LaLiga TV Hypermotion 6 SD</display-name>
-    <display-name lang="es">LaLiga TV Hypermotion 6 HD</display-name>
-    <display-name lang="es">LaLiga TV Hypermotion 6 FHD</display-name>
-    <display-name lang="es">LaLiga TV Hypermotion 6 UHD</display-name>
-    <display-name lang="es">LaLiga TV Hypermotion 6 720</display-name>
-    <display-name lang="es">LaLiga TV Hypermotion 6 1080</display-name>
-    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/LaLiga%20TV%20Hypermotion%206.png" />
-  </channel>
-  <channel id="LaLiga TV Hypermotion 7">
-    <display-name lang="es">LaLiga TV Hypermotion 7</display-name>
-    <display-name lang="es">LaLiga TV Hypermotion 7.TV</display-name>
-    <display-name lang="es">LaLiga TV Hypermotion 7 SD</display-name>
-    <display-name lang="es">LaLiga TV Hypermotion 7 HD</display-name>
-    <display-name lang="es">LaLiga TV Hypermotion 7 FHD</display-name>
-    <display-name lang="es">LaLiga TV Hypermotion 7 UHD</display-name>
-    <display-name lang="es">LaLiga TV Hypermotion 7 720</display-name>
-    <display-name lang="es">LaLiga TV Hypermotion 7 1080</display-name>
-    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/LaLiga%20TV%20Hypermotion%207.png" />
-  </channel>
-  <channel id="LaLiga TV Hypermotion 8">
-    <display-name lang="es">LaLiga TV Hypermotion 8</display-name>
-    <display-name lang="es">LaLiga TV Hypermotion 8.TV</display-name>
-    <display-name lang="es">LaLiga TV Hypermotion 8 SD</display-name>
-    <display-name lang="es">LaLiga TV Hypermotion 8 HD</display-name>
-    <display-name lang="es">LaLiga TV Hypermotion 8 FHD</display-name>
-    <display-name lang="es">LaLiga TV Hypermotion 8 UHD</display-name>
-    <display-name lang="es">LaLiga TV Hypermotion 8 720</display-name>
-    <display-name lang="es">LaLiga TV Hypermotion 8 1080</display-name>
-    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/LaLiga%20TV%20Hypermotion%208.png" />
-  </channel>
-  <channel id="LaLiga TV Hypermotion 9">
-    <display-name lang="es">LaLiga TV Hypermotion 9</display-name>
-    <display-name lang="es">LaLiga TV Hypermotion 9.TV</display-name>
-    <display-name lang="es">LaLiga TV Hypermotion 9 SD</display-name>
-    <display-name lang="es">LaLiga TV Hypermotion 9 HD</display-name>
-    <display-name lang="es">LaLiga TV Hypermotion 9 FHD</display-name>
-    <display-name lang="es">LaLiga TV Hypermotion 9 UHD</display-name>
-    <display-name lang="es">LaLiga TV Hypermotion 9 720</display-name>
-    <display-name lang="es">LaLiga TV Hypermotion 9 1080</display-name>
-    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/LaLiga%20TV%20Hypermotion%209.png" />
-  </channel>
-  <channel id="LaLiga TV Hypermotion 10">
-    <display-name lang="es">LaLiga TV Hypermotion 10</display-name>
-    <display-name lang="es">LaLiga TV Hypermotion 10.TV</display-name>
-    <display-name lang="es">LaLiga TV Hypermotion 10 SD</display-name>
-    <display-name lang="es">LaLiga TV Hypermotion 10 HD</display-name>
-    <display-name lang="es">LaLiga TV Hypermotion 10 FHD</display-name>
-    <display-name lang="es">LaLiga TV Hypermotion 10 UHD</display-name>
-    <display-name lang="es">LaLiga TV Hypermotion 10 720</display-name>
-    <display-name lang="es">LaLiga TV Hypermotion 10 1080</display-name>
-    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/LaLiga%20TV%20Hypermotion%2010.png" />
-  </channel>
-  <channel id="LaLiga TV Hypermotion 11">
-    <display-name lang="es">LaLiga TV Hypermotion 11</display-name>
-    <display-name lang="es">LaLiga TV Hypermotion 11.TV</display-name>
-    <display-name lang="es">LaLiga TV Hypermotion 11 SD</display-name>
-    <display-name lang="es">LaLiga TV Hypermotion 11 HD</display-name>
-    <display-name lang="es">LaLiga TV Hypermotion 11 FHD</display-name>
-    <display-name lang="es">LaLiga TV Hypermotion 11 UHD</display-name>
-    <display-name lang="es">LaLiga TV Hypermotion 11 720</display-name>
-    <display-name lang="es">LaLiga TV Hypermotion 11 1080</display-name>
-    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/LaLiga%20TV%20Hypermotion%2011.png" />
-  </channel>
-  <channel id="LaLiga TV Hypermotion 12">
-    <display-name lang="es">LaLiga TV Hypermotion 12</display-name>
-    <display-name lang="es">LaLiga TV Hypermotion 12.TV</display-name>
-    <display-name lang="es">LaLiga TV Hypermotion 12 SD</display-name>
-    <display-name lang="es">LaLiga TV Hypermotion 12 HD</display-name>
-    <display-name lang="es">LaLiga TV Hypermotion 12 FHD</display-name>
-    <display-name lang="es">LaLiga TV Hypermotion 12 UHD</display-name>
-    <display-name lang="es">LaLiga TV Hypermotion 12 720</display-name>
-    <display-name lang="es">LaLiga TV Hypermotion 12 1080</display-name>
-    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/LaLiga%20TV%20Hypermotion%2012.png" />
-  </channel>
   <channel id="M+ Deportes 4">
     <display-name lang="es">M+ Deportes 4</display-name>
     <display-name lang="es">M+ Deportes 4.TV</display-name>
@@ -2012,6 +1902,17 @@
     <display-name lang="es">DAZN F1 BAR 720</display-name>
     <display-name lang="es">DAZN F1 BAR 1080</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20F1%20BAR.png" />
+  </channel>
+  <channel id="DAZN 1 BAR">
+    <display-name lang="es">DAZN 1 BAR</display-name>
+    <display-name lang="es">DAZN 1 BAR.TV</display-name>
+    <display-name lang="es">DAZN 1 BAR SD</display-name>
+    <display-name lang="es">DAZN 1 BAR HD</display-name>
+    <display-name lang="es">DAZN 1 BAR FHD</display-name>
+    <display-name lang="es">DAZN 1 BAR UHD</display-name>
+    <display-name lang="es">DAZN 1 BAR 720</display-name>
+    <display-name lang="es">DAZN 1 BAR 1080</display-name>
+    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%201%20BAR.png" />
   </channel>
   <channel id="GolStadium">
     <display-name lang="es">GolStadium</display-name>
