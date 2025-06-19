@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tv generator-info-name="dobleM 17/06/2025 20:50" generator-info-url="t.me/EPG_dobleM">
+<tv generator-info-name="dobleM 18/06/2025 20:50" generator-info-url="t.me/EPG_dobleM">
   <channel id="La 1 HD">
     <display-name lang="es">La 1</display-name>
     <display-name lang="es">La 1.TV</display-name>
@@ -3001,7 +3001,7 @@
     <display-name lang="es">Cugat Media UHD</display-name>
     <display-name lang="es">Cugat Media 720</display-name>
     <display-name lang="es">Cugat Media 1080</display-name>
-    <icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/0a7002085b31450f9c507ba8fb0bac04/Images/08ffd52a310b42ef87828453c2a1d6e1" />
+    <icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/0a7002085b31450f9c507ba8fb0bac04/Images/79be7d3777f941d38b04f864089b85e9" />
   </channel>
   <channel id="ETV">
     <display-name lang="es">ETV</display-name>
@@ -3189,6 +3189,17 @@
     <display-name lang="es">Canal Terrassa 720</display-name>
     <display-name lang="es">Canal Terrassa 1080</display-name>
     <icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/7b1fb076dbeb487ebc107950baeaa583/Images/30706a728c58462a92dc464334a0cd9b" />
+  </channel>
+  <channel id="Veo7">
+    <display-name lang="es">Veo7</display-name>
+    <display-name lang="es">Veo7.TV</display-name>
+    <display-name lang="es">Veo7 SD</display-name>
+    <display-name lang="es">Veo7 HD</display-name>
+    <display-name lang="es">Veo7 FHD</display-name>
+    <display-name lang="es">Veo7 UHD</display-name>
+    <display-name lang="es">Veo7 720</display-name>
+    <display-name lang="es">Veo7 1080</display-name>
+    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Veo7.png" />
   </channel>
   <channel id="Dark Rojo">
     <display-name lang="es">Dark Rojo</display-name>
