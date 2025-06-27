@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tv generator-info-name="dobleM 25/06/2025 20:50" generator-info-url="t.me/EPG_dobleM">
+<tv generator-info-name="dobleM 26/06/2025 20:50" generator-info-url="t.me/EPG_dobleM">
   <channel id="La 1 HD">
     <display-name lang="es">La 1</display-name>
     <display-name lang="es">La 1.TV</display-name>
@@ -1826,6 +1826,17 @@
     <display-name lang="es">Eurosport 4K 1080</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Eurosport%204K.png" />
   </channel>
+  <channel id="M+ Wimbledon UHD">
+    <display-name lang="es">M+ Wimbledon</display-name>
+    <display-name lang="es">M+ Wimbledon.TV</display-name>
+    <display-name lang="es">M+ Wimbledon SD</display-name>
+    <display-name lang="es">M+ Wimbledon HD</display-name>
+    <display-name lang="es">M+ Wimbledon FHD</display-name>
+    <display-name lang="es">M+ Wimbledon UHD</display-name>
+    <display-name lang="es">M+ Wimbledon 720</display-name>
+    <display-name lang="es">M+ Wimbledon 1080</display-name>
+    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Wimbledon.png" />
+  </channel>
   <channel id="Vamos BAR">
     <display-name lang="es">Vamos BAR</display-name>
     <display-name lang="es">Vamos BAR.TV</display-name>
@@ -1903,6 +1914,17 @@
     <display-name lang="es">DAZN F1 BAR 1080</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20F1%20BAR.png" />
   </channel>
+  <channel id="DAZN 1 BAR">
+    <display-name lang="es">DAZN 1 BAR</display-name>
+    <display-name lang="es">DAZN 1 BAR.TV</display-name>
+    <display-name lang="es">DAZN 1 BAR SD</display-name>
+    <display-name lang="es">DAZN 1 BAR HD</display-name>
+    <display-name lang="es">DAZN 1 BAR FHD</display-name>
+    <display-name lang="es">DAZN 1 BAR UHD</display-name>
+    <display-name lang="es">DAZN 1 BAR 720</display-name>
+    <display-name lang="es">DAZN 1 BAR 1080</display-name>
+    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%201%20BAR.png" />
+  </channel>
   <channel id="GolStadium">
     <display-name lang="es">GolStadium</display-name>
     <display-name lang="es">GolStadium.TV</display-name>
@@ -1924,28 +1946,6 @@
     <display-name lang="es">GolStadium 1 720</display-name>
     <display-name lang="es">GolStadium 1 1080</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/GolStadium%201.png" />
-  </channel>
-  <channel id="GolStadium 3">
-    <display-name lang="es">GolStadium 3</display-name>
-    <display-name lang="es">GolStadium 3.TV</display-name>
-    <display-name lang="es">GolStadium 3 SD</display-name>
-    <display-name lang="es">GolStadium 3 HD</display-name>
-    <display-name lang="es">GolStadium 3 FHD</display-name>
-    <display-name lang="es">GolStadium 3 UHD</display-name>
-    <display-name lang="es">GolStadium 3 720</display-name>
-    <display-name lang="es">GolStadium 3 1080</display-name>
-    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/GolStadium%203.png" />
-  </channel>
-  <channel id="GolStadium 4">
-    <display-name lang="es">GolStadium 4</display-name>
-    <display-name lang="es">GolStadium 4.TV</display-name>
-    <display-name lang="es">GolStadium 4 SD</display-name>
-    <display-name lang="es">GolStadium 4 HD</display-name>
-    <display-name lang="es">GolStadium 4 FHD</display-name>
-    <display-name lang="es">GolStadium 4 UHD</display-name>
-    <display-name lang="es">GolStadium 4 720</display-name>
-    <display-name lang="es">GolStadium 4 1080</display-name>
-    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/GolStadium%204.png" />
   </channel>
   <channel id="Torolé TV">
     <display-name lang="es">Torolé TV</display-name>
@@ -2078,6 +2078,17 @@
     <display-name lang="es">tlnovelas 720</display-name>
     <display-name lang="es">tlnovelas 1080</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/tlnovelas.png" />
+  </channel>
+  <channel id="DePelícula">
+    <display-name lang="es">DePelícula</display-name>
+    <display-name lang="es">DePelícula.TV</display-name>
+    <display-name lang="es">DePelícula SD</display-name>
+    <display-name lang="es">DePelícula HD</display-name>
+    <display-name lang="es">DePelícula FHD</display-name>
+    <display-name lang="es">DePelícula UHD</display-name>
+    <display-name lang="es">DePelícula 720</display-name>
+    <display-name lang="es">DePelícula 1080</display-name>
+    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DePel%C3%ADcula.png" />
   </channel>
   <channel id="DejateTV">
     <display-name lang="es">DejateTV</display-name>
@@ -2442,17 +2453,6 @@
     <display-name lang="es">Concursos 1080</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Concursos.png" />
   </channel>
-  <channel id="Feria del Libro">
-    <display-name lang="es">Feria del Libro</display-name>
-    <display-name lang="es">Feria del Libro.TV</display-name>
-    <display-name lang="es">Feria del Libro SD</display-name>
-    <display-name lang="es">Feria del Libro HD</display-name>
-    <display-name lang="es">Feria del Libro FHD</display-name>
-    <display-name lang="es">Feria del Libro UHD</display-name>
-    <display-name lang="es">Feria del Libro 720</display-name>
-    <display-name lang="es">Feria del Libro 1080</display-name>
-    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Feria%20del%20Libro.png" />
-  </channel>
   <channel id="El Hormiguero">
     <display-name lang="es">El Hormiguero</display-name>
     <display-name lang="es">El Hormiguero.TV</display-name>
@@ -2781,6 +2781,7 @@
     <display-name lang="es">La 7 Segovia UHD</display-name>
     <display-name lang="es">La 7 Segovia 720</display-name>
     <display-name lang="es">La 7 Segovia 1080</display-name>
+    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/La%207%20Segovia.png" />
   </channel>
   <channel id="La 7 Soria">
     <display-name lang="es">La 7 Soria</display-name>
