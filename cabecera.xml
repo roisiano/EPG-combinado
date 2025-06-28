@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tv generator-info-name="dobleM 26/06/2025 20:50" generator-info-url="t.me/EPG_dobleM">
+<tv generator-info-name="dobleM 27/06/2025 20:50" generator-info-url="t.me/EPG_dobleM">
   <channel id="La 1 HD">
     <display-name lang="es">La 1</display-name>
     <display-name lang="es">La 1.TV</display-name>
@@ -2222,17 +2222,6 @@
     <display-name lang="es">Billiard TV 1080</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Billiard%20TV.png" />
   </channel>
-  <channel id="Futsal TV 1 Masculino">
-    <display-name lang="es">Futsal TV 1 Masculino</display-name>
-    <display-name lang="es">Futsal TV 1 Masculino.TV</display-name>
-    <display-name lang="es">Futsal TV 1 Masculino SD</display-name>
-    <display-name lang="es">Futsal TV 1 Masculino HD</display-name>
-    <display-name lang="es">Futsal TV 1 Masculino FHD</display-name>
-    <display-name lang="es">Futsal TV 1 Masculino UHD</display-name>
-    <display-name lang="es">Futsal TV 1 Masculino 720</display-name>
-    <display-name lang="es">Futsal TV 1 Masculino 1080</display-name>
-    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Futsal%20TV%201%20Masculino.png" />
-  </channel>
   <channel id="Squirrel TV">
     <display-name lang="es">Squirrel TV</display-name>
     <display-name lang="es">Squirrel TV.TV</display-name>
@@ -2792,6 +2781,7 @@
     <display-name lang="es">La 7 Soria UHD</display-name>
     <display-name lang="es">La 7 Soria 720</display-name>
     <display-name lang="es">La 7 Soria 1080</display-name>
+    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/La%207%20Soria.png" />
   </channel>
   <channel id="La 7 Valladolid">
     <display-name lang="es">La 7 Valladolid</display-name>
