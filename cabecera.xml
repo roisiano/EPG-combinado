@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tv generator-info-name="dobleM 30/06/2025 20:50" generator-info-url="t.me/EPG_dobleM">
+<tv generator-info-name="dobleM 01/07/2025 20:50" generator-info-url="t.me/EPG_dobleM">
   <channel id="La 1 HD">
     <display-name lang="es">La 1</display-name>
     <display-name lang="es">La 1.TV</display-name>
@@ -4203,6 +4203,7 @@
     <display-name lang="es">1+1 International UHD</display-name>
     <display-name lang="es">1+1 International 720</display-name>
     <display-name lang="es">1+1 International 1080</display-name>
+    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/1+1 International.png" />
   </channel>
   <channel id="Lolly Kids">
     <display-name lang="es">Lolly Kids</display-name>
@@ -4213,6 +4214,7 @@
     <display-name lang="es">Lolly Kids UHD</display-name>
     <display-name lang="es">Lolly Kids 720</display-name>
     <display-name lang="es">Lolly Kids 1080</display-name>
+    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Lolly%20Kids.png" />
   </channel>
   <channel id="Libertad Digital TV">
     <display-name lang="es">Libertad Digital TV</display-name>
@@ -4223,6 +4225,7 @@
     <display-name lang="es">Libertad Digital TV UHD</display-name>
     <display-name lang="es">Libertad Digital TV 720</display-name>
     <display-name lang="es">Libertad Digital TV 1080</display-name>
+    <icon src="https://yt3.googleusercontent.com/ytc/AIdro_mJBwGvGJx9rJx7Fyo19zzImyR7p9O2WXRS1uPaSMoP6HE=s900-c-k-c0x00ffffff-no-rj" />
   </channel>
   <channel id="Alacantí TV">
     <display-name lang="es">Alacantí TV</display-name>
@@ -4233,6 +4236,7 @@
     <display-name lang="es">Alacantí TV UHD</display-name>
     <display-name lang="es">Alacantí TV 720</display-name>
     <display-name lang="es">Alacantí TV 1080</display-name>
+    <icon src="https://alacantitv.com/wp-content/uploads/2024/03/logo-alacantitv-programacion.jpg" />
   </channel>
   <channel id="Onda Cádiz TV">
     <display-name lang="es">Onda Cádiz TV</display-name>
@@ -4243,6 +4247,7 @@
     <display-name lang="es">Onda Cádiz TV UHD</display-name>
     <display-name lang="es">Onda Cádiz TV 720</display-name>
     <display-name lang="es">Onda Cádiz TV 1080</display-name>
+    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Onda%20C%C3%A1diz%20TV.png" />
   </channel>
   <channel id="En Familia (Rakuten TV)">
     <display-name lang="es">En Familia (Rakuten TV)</display-name>
@@ -4253,6 +4258,7 @@
     <display-name lang="es">En Familia (Rakuten TV) UHD</display-name>
     <display-name lang="es">En Familia (Rakuten TV) 720</display-name>
     <display-name lang="es">En Familia (Rakuten TV) 1080</display-name>
+    <icon src="https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork-negative/97145f2b-1d06-42dd-b10f-485e7b456895.png" />
   </channel>
   <channel id="Todo Crimen (Rakuten TV)">
     <display-name lang="es">Todo Crimen (Rakuten TV)</display-name>
@@ -4263,6 +4269,8 @@
     <display-name lang="es">Todo Crimen (Rakuten TV) UHD</display-name>
     <display-name lang="es">Todo Crimen (Rakuten TV) 720</display-name>
     <display-name lang="es">Todo Crimen (Rakuten TV) 1080</display-name>
+    <icon src="https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork-negative/8fb33036-37c7-478c-930f-f8f6230a5c32.png" />
+    <icon src="https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork-negative/e058d349-db97-4c0b-a9dd-477147a1d473.png" />
   </channel>
   <channel id="Crimen (Rakuten TV)">
     <display-name lang="es">Crimen (Rakuten TV)</display-name>
@@ -4283,6 +4291,7 @@
     <display-name lang="es">Thrillers (Rakuten TV) UHD</display-name>
     <display-name lang="es">Thrillers (Rakuten TV) 720</display-name>
     <display-name lang="es">Thrillers (Rakuten TV) 1080</display-name>
+    <icon src="https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork-negative/c7573062-fae1-4249-beea-30d6944ddd35.png" />
   </channel>
   <channel id="MyTime Movie Network (Rakuten TV)">
     <display-name lang="es">MyTime Movie Network (Rakuten TV)</display-name>
@@ -4293,6 +4302,7 @@
     <display-name lang="es">MyTime Movie Network (Rakuten TV) UHD</display-name>
     <display-name lang="es">MyTime Movie Network (Rakuten TV) 720</display-name>
     <display-name lang="es">MyTime Movie Network (Rakuten TV) 1080</display-name>
+    <icon src="https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork_negative/d3b1e728-ef8e-4dc6-b2ee-dd668a44bae4-mytime-movie-network-1643366410.png" />
   </channel>
   <channel id="Cine Español (Rakuten TV)">
     <display-name lang="es">Cine Español (Rakuten TV)</display-name>
@@ -4303,6 +4313,7 @@
     <display-name lang="es">Cine Español (Rakuten TV) UHD</display-name>
     <display-name lang="es">Cine Español (Rakuten TV) 720</display-name>
     <display-name lang="es">Cine Español (Rakuten TV) 1080</display-name>
+    <icon src="https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork-negative/2da65634-f27e-48f9-8f3b-a03bd31cbade.png" />
   </channel>
   <channel id="Películas Románticas (Rakuten TV)">
     <display-name lang="es">Películas Románticas (Rakuten TV)</display-name>
@@ -4313,6 +4324,7 @@
     <display-name lang="es">Películas Románticas (Rakuten TV) UHD</display-name>
     <display-name lang="es">Películas Románticas (Rakuten TV) 720</display-name>
     <display-name lang="es">Películas Románticas (Rakuten TV) 1080</display-name>
+    <icon src="https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork-negative/6a3d067c-8cb2-4581-84e1-f284ee948e3a.png" />
   </channel>
   <channel id="Dramas (Rakuten TV)">
     <display-name lang="es">Dramas (Rakuten TV)</display-name>
@@ -4323,6 +4335,7 @@
     <display-name lang="es">Dramas (Rakuten TV) UHD</display-name>
     <display-name lang="es">Dramas (Rakuten TV) 720</display-name>
     <display-name lang="es">Dramas (Rakuten TV) 1080</display-name>
+    <icon src="https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork-negative/ee3c242a-398d-4d9e-9a79-c8c6427278c0.png" />
   </channel>
   <channel id="Comedias (Rakuten TV)">
     <display-name lang="es">Comedias (Rakuten TV)</display-name>
@@ -4333,6 +4346,7 @@
     <display-name lang="es">Comedias (Rakuten TV) UHD</display-name>
     <display-name lang="es">Comedias (Rakuten TV) 720</display-name>
     <display-name lang="es">Comedias (Rakuten TV) 1080</display-name>
+    <icon src="https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork-negative/14c7b74d-cd73-4791-98f2-f6e097cce068.png" />
   </channel>
   <channel id="Acción (Rakuten TV)">
     <display-name lang="es">Acción (Rakuten TV)</display-name>
@@ -4343,6 +4357,7 @@
     <display-name lang="es">Acción (Rakuten TV) UHD</display-name>
     <display-name lang="es">Acción (Rakuten TV) 720</display-name>
     <display-name lang="es">Acción (Rakuten TV) 1080</display-name>
+    <icon src="https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork-negative/6b4cf5b7-bb4d-439a-9779-f83fd1bde012.png" />
   </channel>
   <channel id="Pelis Top (Rakuten TV)">
     <display-name lang="es">Pelis Top (Rakuten TV)</display-name>
@@ -4353,6 +4368,7 @@
     <display-name lang="es">Pelis Top (Rakuten TV) UHD</display-name>
     <display-name lang="es">Pelis Top (Rakuten TV) 720</display-name>
     <display-name lang="es">Pelis Top (Rakuten TV) 1080</display-name>
+    <icon src="https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork-negative/82ae4be3-2514-4733-9f9d-89545d4e2ef4.png" />
   </channel>
   <channel id="Red Bull TV (Rakuten TV)">
     <display-name lang="es">Red Bull TV (Rakuten TV)</display-name>
@@ -4363,6 +4379,7 @@
     <display-name lang="es">Red Bull TV (Rakuten TV) UHD</display-name>
     <display-name lang="es">Red Bull TV (Rakuten TV) 720</display-name>
     <display-name lang="es">Red Bull TV (Rakuten TV) 1080</display-name>
+    <icon src="https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork-negative/b03ad405-231f-44f4-90ea-5fdacaf2a06c.png" />
   </channel>
   <channel id="FIFA+">
     <display-name lang="es">FIFA+</display-name>
@@ -4373,6 +4390,7 @@
     <display-name lang="es">FIFA+ UHD</display-name>
     <display-name lang="es">FIFA+ 720</display-name>
     <display-name lang="es">FIFA+ 1080</display-name>
+    <icon src="https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork-negative/e2bc4647-5158-44b1-a14e-6b541ed03997.png" />
   </channel>
   <channel id="DSPORTS">
     <display-name lang="es">DSPORTS</display-name>
@@ -4383,6 +4401,7 @@
     <display-name lang="es">DSPORTS UHD</display-name>
     <display-name lang="es">DSPORTS 720</display-name>
     <display-name lang="es">DSPORTS 1080</display-name>
+    <icon src="https://dsports-widgets.tbxnet.com/assets/images/channels/1610.png" />
   </channel>
   <channel id="DSPORTS 2">
     <display-name lang="es">DSPORTS 2</display-name>
@@ -4393,6 +4412,7 @@
     <display-name lang="es">DSPORTS 2 UHD</display-name>
     <display-name lang="es">DSPORTS 2 720</display-name>
     <display-name lang="es">DSPORTS 2 1080</display-name>
+    <icon src="https://dsports-widgets.tbxnet.com/assets/images/channels/1612.png" />
   </channel>
   <channel id="DSPORTS+">
     <display-name lang="es">DSPORTS+</display-name>
@@ -4403,6 +4423,7 @@
     <display-name lang="es">DSPORTS+ UHD</display-name>
     <display-name lang="es">DSPORTS+ 720</display-name>
     <display-name lang="es">DSPORTS+ 1080</display-name>
+    <icon src="https://dsports-widgets.tbxnet.com/assets/images/channels/1613.png" />
   </channel>
   <channel id="DSPORTS Fight">
     <display-name lang="es">DSPORTS Fight</display-name>
@@ -4413,6 +4434,7 @@
     <display-name lang="es">DSPORTS Fight UHD</display-name>
     <display-name lang="es">DSPORTS Fight 720</display-name>
     <display-name lang="es">DSPORTS Fight 1080</display-name>
+    <icon src="https://dsports-widgets.tbxnet.com/assets/images/channels/1615.png" />
   </channel>
   <channel id="beIN SPORTS en español">
     <display-name lang="es">beIN SPORTS en español</display-name>
@@ -4423,6 +4445,7 @@
     <display-name lang="es">beIN SPORTS en español UHD</display-name>
     <display-name lang="es">beIN SPORTS en español 720</display-name>
     <display-name lang="es">beIN SPORTS en español 1080</display-name>
+    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/beIN%20SPORTS%20en%20espa%C3%B1ol.png" />
   </channel>
   <channel id="beIN SPORTS XTRA ñ">
     <display-name lang="es">beIN SPORTS XTRA ñ</display-name>
@@ -4433,6 +4456,7 @@
     <display-name lang="es">beIN SPORTS XTRA ñ UHD</display-name>
     <display-name lang="es">beIN SPORTS XTRA ñ 720</display-name>
     <display-name lang="es">beIN SPORTS XTRA ñ 1080</display-name>
+    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/beIN%20SPORTS%20XTRA%20%C3%B1.png" />
   </channel>
   <channel id="CNN en Español">
     <display-name lang="es">CNN en Español</display-name>
