@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tv generator-info-name="dobleM 24/07/2025 22:38" generator-info-url="t.me/EPG_dobleM">
+<tv generator-info-name="dobleM 25/07/2025 20:50" generator-info-url="t.me/EPG_dobleM">
   <channel id="La 1 HD">
     <display-name lang="es">La 1</display-name>
     <display-name lang="es">La 1.TV</display-name>
@@ -1342,17 +1342,6 @@
     <display-name lang="es">Betevé 1080</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Betev%C3%A9.png" />
   </channel>
-  <channel id="Canal Fútbol Replay">
-    <display-name lang="es">Canal Fútbol Replay</display-name>
-    <display-name lang="es">Canal Fútbol Replay.TV</display-name>
-    <display-name lang="es">Canal Fútbol Replay SD</display-name>
-    <display-name lang="es">Canal Fútbol Replay HD</display-name>
-    <display-name lang="es">Canal Fútbol Replay FHD</display-name>
-    <display-name lang="es">Canal Fútbol Replay UHD</display-name>
-    <display-name lang="es">Canal Fútbol Replay 720</display-name>
-    <display-name lang="es">Canal Fútbol Replay 1080</display-name>
-    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Canal%20F%C3%BAtbol%20Replay.png" />
-  </channel>
   <channel id="M+ Vamos HD">
     <display-name lang="es">M+ Vamos</display-name>
     <display-name lang="es">M+ Vamos.TV</display-name>
@@ -1947,16 +1936,16 @@
     <display-name lang="es">GolStadium 1080</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/GolStadium.png" />
   </channel>
-  <channel id="GolStadium 3">
-    <display-name lang="es">GolStadium 3</display-name>
-    <display-name lang="es">GolStadium 3.TV</display-name>
-    <display-name lang="es">GolStadium 3 SD</display-name>
-    <display-name lang="es">GolStadium 3 HD</display-name>
-    <display-name lang="es">GolStadium 3 FHD</display-name>
-    <display-name lang="es">GolStadium 3 UHD</display-name>
-    <display-name lang="es">GolStadium 3 720</display-name>
-    <display-name lang="es">GolStadium 3 1080</display-name>
-    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/GolStadium%203.png" />
+  <channel id="Gol Classics">
+    <display-name lang="es">Gol Classics</display-name>
+    <display-name lang="es">Gol Classics.TV</display-name>
+    <display-name lang="es">Gol Classics SD</display-name>
+    <display-name lang="es">Gol Classics HD</display-name>
+    <display-name lang="es">Gol Classics FHD</display-name>
+    <display-name lang="es">Gol Classics UHD</display-name>
+    <display-name lang="es">Gol Classics 720</display-name>
+    <display-name lang="es">Gol Classics 1080</display-name>
+    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Gol%20Classics.png" />
   </channel>
   <channel id="Torolé TV">
     <display-name lang="es">Torolé TV</display-name>
@@ -2222,17 +2211,6 @@
     <display-name lang="es">Billiard TV 1080</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Billiard%20TV.png" />
   </channel>
-  <channel id="Squirrel TV">
-    <display-name lang="es">Squirrel TV</display-name>
-    <display-name lang="es">Squirrel TV.TV</display-name>
-    <display-name lang="es">Squirrel TV SD</display-name>
-    <display-name lang="es">Squirrel TV HD</display-name>
-    <display-name lang="es">Squirrel TV FHD</display-name>
-    <display-name lang="es">Squirrel TV UHD</display-name>
-    <display-name lang="es">Squirrel TV 720</display-name>
-    <display-name lang="es">Squirrel TV 1080</display-name>
-    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Squirrel%20TV.png" />
-  </channel>
   <channel id="8madrid TV">
     <display-name lang="es">8madrid TV</display-name>
     <display-name lang="es">8madrid TV.TV</display-name>
@@ -2266,6 +2244,17 @@
     <display-name lang="es">VE PLUS TV 1080</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/VE%20PLUS%20TV.png" />
   </channel>
+  <channel id="Extreme Channel">
+    <display-name lang="es">Extreme Channel</display-name>
+    <display-name lang="es">Extreme Channel.TV</display-name>
+    <display-name lang="es">Extreme Channel SD</display-name>
+    <display-name lang="es">Extreme Channel HD</display-name>
+    <display-name lang="es">Extreme Channel FHD</display-name>
+    <display-name lang="es">Extreme Channel UHD</display-name>
+    <display-name lang="es">Extreme Channel 720</display-name>
+    <display-name lang="es">Extreme Channel 1080</display-name>
+    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Extreme%20Channel.png" />
+  </channel>
   <channel id="Extreme Sports">
     <display-name lang="es">Extreme Sports</display-name>
     <display-name lang="es">Extreme Sports.TV</display-name>
@@ -2298,6 +2287,17 @@
     <display-name lang="es">HIT TV 720</display-name>
     <display-name lang="es">HIT TV 1080</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/HIT%20TV.png" />
+  </channel>
+  <channel id="Squirrel TV">
+    <display-name lang="es">Squirrel TV</display-name>
+    <display-name lang="es">Squirrel TV.TV</display-name>
+    <display-name lang="es">Squirrel TV SD</display-name>
+    <display-name lang="es">Squirrel TV HD</display-name>
+    <display-name lang="es">Squirrel TV FHD</display-name>
+    <display-name lang="es">Squirrel TV UHD</display-name>
+    <display-name lang="es">Squirrel TV 720</display-name>
+    <display-name lang="es">Squirrel TV 1080</display-name>
+    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Squirrel%20TV.png" />
   </channel>
   <channel id="Veo7">
     <display-name lang="es">Veo7</display-name>
@@ -4839,17 +4839,6 @@
     <display-name lang="es">PT | DAZN 5 720</display-name>
     <display-name lang="es">PT | DAZN 5 1080</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%205.png" />
-  </channel>
-  <channel id="PT | DAZN 6">
-    <display-name lang="es">PT | DAZN 6</display-name>
-    <display-name lang="es">PT | DAZN 6.TV</display-name>
-    <display-name lang="es">PT | DAZN 6 SD</display-name>
-    <display-name lang="es">PT | DAZN 6 HD</display-name>
-    <display-name lang="es">PT | DAZN 6 FHD</display-name>
-    <display-name lang="es">PT | DAZN 6 UHD</display-name>
-    <display-name lang="es">PT | DAZN 6 720</display-name>
-    <display-name lang="es">PT | DAZN 6 1080</display-name>
-    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%206.png" />
   </channel>
   <channel id="PT | Eurosport 1 HD">
     <display-name lang="es">PT | Eurosport 1</display-name>
