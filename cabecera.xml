@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tv generator-info-name="dobleM 26/07/2025 20:50" generator-info-url="t.me/EPG_dobleM">
+<tv generator-info-name="dobleM 27/07/2025 20:50" generator-info-url="t.me/EPG_dobleM">
   <channel id="La 1 HD">
     <display-name lang="es">La 1</display-name>
     <display-name lang="es">La 1.TV</display-name>
@@ -2090,6 +2090,17 @@
     <display-name lang="es">tlnovelas 1080</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/tlnovelas.png" />
   </channel>
+  <channel id="DePelícula">
+    <display-name lang="es">DePelícula</display-name>
+    <display-name lang="es">DePelícula.TV</display-name>
+    <display-name lang="es">DePelícula SD</display-name>
+    <display-name lang="es">DePelícula HD</display-name>
+    <display-name lang="es">DePelícula FHD</display-name>
+    <display-name lang="es">DePelícula UHD</display-name>
+    <display-name lang="es">DePelícula 720</display-name>
+    <display-name lang="es">DePelícula 1080</display-name>
+    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DePel%C3%ADcula.png" />
+  </channel>
   <channel id="DejateTV">
     <display-name lang="es">DejateTV</display-name>
     <display-name lang="es">DejateTV.TV</display-name>
@@ -2254,39 +2265,6 @@
     <display-name lang="es">Extreme Channel 720</display-name>
     <display-name lang="es">Extreme Channel 1080</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Extreme%20Channel.png" />
-  </channel>
-  <channel id="Extreme Sports">
-    <display-name lang="es">Extreme Sports</display-name>
-    <display-name lang="es">Extreme Sports.TV</display-name>
-    <display-name lang="es">Extreme Sports SD</display-name>
-    <display-name lang="es">Extreme Sports HD</display-name>
-    <display-name lang="es">Extreme Sports FHD</display-name>
-    <display-name lang="es">Extreme Sports UHD</display-name>
-    <display-name lang="es">Extreme Sports 720</display-name>
-    <display-name lang="es">Extreme Sports 1080</display-name>
-    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Extreme%20Sports.png" />
-  </channel>
-  <channel id="Horse TV">
-    <display-name lang="es">Horse TV</display-name>
-    <display-name lang="es">Horse TV.TV</display-name>
-    <display-name lang="es">Horse TV SD</display-name>
-    <display-name lang="es">Horse TV HD</display-name>
-    <display-name lang="es">Horse TV FHD</display-name>
-    <display-name lang="es">Horse TV UHD</display-name>
-    <display-name lang="es">Horse TV 720</display-name>
-    <display-name lang="es">Horse TV 1080</display-name>
-    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Horse%20TV.png" />
-  </channel>
-  <channel id="HIT TV">
-    <display-name lang="es">HIT TV</display-name>
-    <display-name lang="es">HIT TV.TV</display-name>
-    <display-name lang="es">HIT TV SD</display-name>
-    <display-name lang="es">HIT TV HD</display-name>
-    <display-name lang="es">HIT TV FHD</display-name>
-    <display-name lang="es">HIT TV UHD</display-name>
-    <display-name lang="es">HIT TV 720</display-name>
-    <display-name lang="es">HIT TV 1080</display-name>
-    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/HIT%20TV.png" />
   </channel>
   <channel id="Squirrel TV">
     <display-name lang="es">Squirrel TV</display-name>
@@ -3309,7 +3287,6 @@
     <display-name lang="es">VOTV UHD</display-name>
     <display-name lang="es">VOTV 720</display-name>
     <display-name lang="es">VOTV 1080</display-name>
-    <icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/bed4a72f8c8248c3a283684eb4038f4d/Images/f3496345ca4f49e1b16c1f306ac33090" />
   </channel>
   <channel id="TV Berguedà">
     <display-name lang="es">TV Berguedà</display-name>
@@ -3795,6 +3772,50 @@
     <display-name lang="es">TRACE Sports Stars 1080</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/TRACE%20Sports%20Stars.png" />
   </channel>
+  <channel id="Horse TV">
+    <display-name lang="es">Horse TV</display-name>
+    <display-name lang="es">Horse TV.TV</display-name>
+    <display-name lang="es">Horse TV SD</display-name>
+    <display-name lang="es">Horse TV HD</display-name>
+    <display-name lang="es">Horse TV FHD</display-name>
+    <display-name lang="es">Horse TV UHD</display-name>
+    <display-name lang="es">Horse TV 720</display-name>
+    <display-name lang="es">Horse TV 1080</display-name>
+    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Horse%20TV.png" />
+  </channel>
+  <channel id="Nautical Channel">
+    <display-name lang="es">Nautical Channel</display-name>
+    <display-name lang="es">Nautical Channel.TV</display-name>
+    <display-name lang="es">Nautical Channel SD</display-name>
+    <display-name lang="es">Nautical Channel HD</display-name>
+    <display-name lang="es">Nautical Channel FHD</display-name>
+    <display-name lang="es">Nautical Channel UHD</display-name>
+    <display-name lang="es">Nautical Channel 720</display-name>
+    <display-name lang="es">Nautical Channel 1080</display-name>
+    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Nautical%20Channel.png" />
+  </channel>
+  <channel id="Surf Channel">
+    <display-name lang="es">Surf Channel</display-name>
+    <display-name lang="es">Surf Channel.TV</display-name>
+    <display-name lang="es">Surf Channel SD</display-name>
+    <display-name lang="es">Surf Channel HD</display-name>
+    <display-name lang="es">Surf Channel FHD</display-name>
+    <display-name lang="es">Surf Channel UHD</display-name>
+    <display-name lang="es">Surf Channel 720</display-name>
+    <display-name lang="es">Surf Channel 1080</display-name>
+    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Surf%20Channel.png" />
+  </channel>
+  <channel id="Motorvision">
+    <display-name lang="es">Motorvision</display-name>
+    <display-name lang="es">Motorvision.TV</display-name>
+    <display-name lang="es">Motorvision SD</display-name>
+    <display-name lang="es">Motorvision HD</display-name>
+    <display-name lang="es">Motorvision FHD</display-name>
+    <display-name lang="es">Motorvision UHD</display-name>
+    <display-name lang="es">Motorvision 720</display-name>
+    <display-name lang="es">Motorvision 1080</display-name>
+    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Motorvision.png" />
+  </channel>
   <channel id="Fast&amp;FunBox">
     <display-name lang="es">Fast&amp;FunBox</display-name>
     <display-name lang="es">Fast&amp;FunBox.TV</display-name>
@@ -3827,28 +3848,6 @@
     <display-name lang="es">Fight Box 720</display-name>
     <display-name lang="es">Fight Box 1080</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Fight%20Box.png" />
-  </channel>
-  <channel id="Surf Channel">
-    <display-name lang="es">Surf Channel</display-name>
-    <display-name lang="es">Surf Channel.TV</display-name>
-    <display-name lang="es">Surf Channel SD</display-name>
-    <display-name lang="es">Surf Channel HD</display-name>
-    <display-name lang="es">Surf Channel FHD</display-name>
-    <display-name lang="es">Surf Channel UHD</display-name>
-    <display-name lang="es">Surf Channel 720</display-name>
-    <display-name lang="es">Surf Channel 1080</display-name>
-    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Surf%20Channel.png" />
-  </channel>
-  <channel id="Motorvision">
-    <display-name lang="es">Motorvision</display-name>
-    <display-name lang="es">Motorvision.TV</display-name>
-    <display-name lang="es">Motorvision SD</display-name>
-    <display-name lang="es">Motorvision HD</display-name>
-    <display-name lang="es">Motorvision FHD</display-name>
-    <display-name lang="es">Motorvision UHD</display-name>
-    <display-name lang="es">Motorvision 720</display-name>
-    <display-name lang="es">Motorvision 1080</display-name>
-    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Motorvision.png" />
   </channel>
   <channel id="MTV Live">
     <display-name lang="es">MTV Live</display-name>
@@ -4026,17 +4025,6 @@
     <display-name lang="es">Gulli 1080</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Gulli.png" />
   </channel>
-  <channel id="Nautical Channel">
-    <display-name lang="es">Nautical Channel</display-name>
-    <display-name lang="es">Nautical Channel.TV</display-name>
-    <display-name lang="es">Nautical Channel SD</display-name>
-    <display-name lang="es">Nautical Channel HD</display-name>
-    <display-name lang="es">Nautical Channel FHD</display-name>
-    <display-name lang="es">Nautical Channel UHD</display-name>
-    <display-name lang="es">Nautical Channel 720</display-name>
-    <display-name lang="es">Nautical Channel 1080</display-name>
-    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Nautical%20Channel.png" />
-  </channel>
   <channel id="Tennis Channel">
     <display-name lang="es">Tennis Channel</display-name>
     <display-name lang="es">Tennis Channel.TV</display-name>
@@ -4190,6 +4178,17 @@
     <display-name lang="es">Historia y Vida 720</display-name>
     <display-name lang="es">Historia y Vida 1080</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Historia%20y%20Vida.png" />
+  </channel>
+  <channel id="HIT TV">
+    <display-name lang="es">HIT TV</display-name>
+    <display-name lang="es">HIT TV.TV</display-name>
+    <display-name lang="es">HIT TV SD</display-name>
+    <display-name lang="es">HIT TV HD</display-name>
+    <display-name lang="es">HIT TV FHD</display-name>
+    <display-name lang="es">HIT TV UHD</display-name>
+    <display-name lang="es">HIT TV 720</display-name>
+    <display-name lang="es">HIT TV 1080</display-name>
+    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/HIT%20TV.png" />
   </channel>
   <channel id="Moto ADV">
     <display-name lang="es">Moto ADV</display-name>
