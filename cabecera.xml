@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tv generator-info-name="dobleM 05/08/2025 20:50" generator-info-url="t.me/EPG_dobleM">
+<tv generator-info-name="dobleM 06/08/2025 20:50" generator-info-url="t.me/EPG_dobleM">
   <channel id="La 1 HD">
     <display-name lang="es">La 1</display-name>
     <display-name lang="es">La 1.TV</display-name>
@@ -2244,28 +2244,6 @@
     <display-name lang="es">Extreme Channel 1080</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Extreme%20Channel.png" />
   </channel>
-  <channel id="Squirrel TV">
-    <display-name lang="es">Squirrel TV</display-name>
-    <display-name lang="es">Squirrel TV.TV</display-name>
-    <display-name lang="es">Squirrel TV SD</display-name>
-    <display-name lang="es">Squirrel TV HD</display-name>
-    <display-name lang="es">Squirrel TV FHD</display-name>
-    <display-name lang="es">Squirrel TV UHD</display-name>
-    <display-name lang="es">Squirrel TV 720</display-name>
-    <display-name lang="es">Squirrel TV 1080</display-name>
-    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Squirrel%20TV.png" />
-  </channel>
-  <channel id="Veo7">
-    <display-name lang="es">Veo7</display-name>
-    <display-name lang="es">Veo7.TV</display-name>
-    <display-name lang="es">Veo7 SD</display-name>
-    <display-name lang="es">Veo7 HD</display-name>
-    <display-name lang="es">Veo7 FHD</display-name>
-    <display-name lang="es">Veo7 UHD</display-name>
-    <display-name lang="es">Veo7 720</display-name>
-    <display-name lang="es">Veo7 1080</display-name>
-    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Veo7.png" />
-  </channel>
   <channel id="Dark Rojo">
     <display-name lang="es">Dark Rojo</display-name>
     <display-name lang="es">Dark Rojo.TV</display-name>
@@ -2891,7 +2869,7 @@
     <display-name lang="es">mtmad UHD</display-name>
     <display-name lang="es">mtmad 720</display-name>
     <display-name lang="es">mtmad 1080</display-name>
-    <icon src="https://img-prod-api2.mediasetplay.mediaset.it/api/images/by/v5/esp/aHR0cHM6Ly9kYW0uY2xvdWQubWVkaWFzZXQubmV0L20vM2M4MWNjYTAxMzVjZjdiNC9vcmlnaW5hbC9DaGFubmVsX2xvZ28tTXRtYWQucG5n/single/87/87@2?r=%202x&quot;%20media=&quot;(max-width:%201023px)|https://img-prod-api2.mediasetplay.mediaset.it/api/images/by/v5/esp/aHR0cHM6Ly9kYW0uY2xvdWQubWVkaWFzZXQubmV0L20vM2M4MWNjYTAxMzVjZjdiNC9vcmlnaW5hbC9DaGFubmVsX2xvZ28tTXRtYWQucG5n/single/87/87@2?r=%202x&quot;%20media=&quot;(max-width:%201023px)|https://img-prod-api2.mediasetplay.mediaset.it/api/images/by/v5/esp/aHR0cHM6Ly9kYW0uY2xvdWQubWVkaWFzZXQubmV0L20vM2M4MWNjYTAxMzVjZjdiNC9vcmlnaW5hbC9DaGFubmVsX2xvZ28tTXRtYWQucG5n/single/87/87@2?r=%202x&quot;%20media=&quot;(max-width:%201023px)|https://img-prod-api2.mediasetplay.mediaset.it/api/images/by/v5/esp/aHR0cHM6Ly9kYW0uY2xvdWQubWVkaWFzZXQubmV0L20vM2M4MWNjYTAxMzVjZjdiNC9vcmlnaW5hbC9DaGFubmVsX2xvZ28tTXRtYWQucG5n/single/87/87@2?r=%202x&quot;%20media=&quot;(max-width:%201023px)|https://img-prod-api2.mediasetplay.mediaset.it/api/images/by/v5/esp/aHR0cHM6Ly9kYW0uY2xvdWQubWVkaWFzZXQubmV0L20vM2M4MWNjYTAxMzVjZjdiNC9vcmlnaW5hbC9DaGFubmVsX2xvZ28tTXRtYWQucG5n/single/87/87@2?r=%202x&quot;%20media=&quot;(max-width:%201023px)|https://img-prod-api2.mediasetplay.mediaset.it/api/images/by/v5/esp/aHR0cHM6Ly9kYW0uY2xvdWQubWVkaWFzZXQubmV0L20vM2M4MWNjYTAxMzVjZjdiNC9vcmlnaW5hbC9DaGFubmVsX2xvZ28tTXRtYWQucG5n/single/87/87@2?r=%202x&quot;%20media=&quot;(max-width:%201023px)|https://img-prod-api2.mediasetplay.mediaset.it/api/images/by/v5/esp/aHR0cHM6Ly9kYW0uY2xvdWQubWVkaWFzZXQubmV0L20vM2M4MWNjYTAxMzVjZjdiNC9vcmlnaW5hbC9DaGFubmVsX2xvZ28tTXRtYWQucG5n/single/87/87@2?r=%202x&quot;%20media=&quot;(max-width:%201023px)" />
+    <icon src="https://img-prod-api2.mediasetplay.mediaset.it/api/images/by/v5/esp/aHR0cHM6Ly9kYW0uY2xvdWQubWVkaWFzZXQubmV0L20vM2M4MWNjYTAxMzVjZjdiNC9vcmlnaW5hbC9DaGFubmVsX2xvZ28tTXRtYWQucG5n/single/87/87@2?r=%202x&quot;%20media=&quot;(max-width:%201023px)|https://img-prod-api2.mediasetplay.mediaset.it/api/images/by/v5/esp/aHR0cHM6Ly9kYW0uY2xvdWQubWVkaWFzZXQubmV0L20vM2M4MWNjYTAxMzVjZjdiNC9vcmlnaW5hbC9DaGFubmVsX2xvZ28tTXRtYWQucG5n/single/87/87@2?r=%202x&quot;%20media=&quot;(max-width:%201023px)|https://img-prod-api2.mediasetplay.mediaset.it/api/images/by/v5/esp/aHR0cHM6Ly9kYW0uY2xvdWQubWVkaWFzZXQubmV0L20vM2M4MWNjYTAxMzVjZjdiNC9vcmlnaW5hbC9DaGFubmVsX2xvZ28tTXRtYWQucG5n/single/87/87@2?r=%202x&quot;%20media=&quot;(max-width:%201023px)|https://img-prod-api2.mediasetplay.mediaset.it/api/images/by/v5/esp/aHR0cHM6Ly9kYW0uY2xvdWQubWVkaWFzZXQubmV0L20vM2M4MWNjYTAxMzVjZjdiNC9vcmlnaW5hbC9DaGFubmVsX2xvZ28tTXRtYWQucG5n/single/87/87@2?r=%202x&quot;%20media=&quot;(max-width:%201023px)|https://img-prod-api2.mediasetplay.mediaset.it/api/images/by/v5/esp/aHR0cHM6Ly9kYW0uY2xvdWQubWVkaWFzZXQubmV0L20vM2M4MWNjYTAxMzVjZjdiNC9vcmlnaW5hbC9DaGFubmVsX2xvZ28tTXRtYWQucG5n/single/87/87@2?r=%202x&quot;%20media=&quot;(max-width:%201023px)|https://img-prod-api2.mediasetplay.mediaset.it/api/images/by/v5/esp/aHR0cHM6Ly9kYW0uY2xvdWQubWVkaWFzZXQubmV0L20vM2M4MWNjYTAxMzVjZjdiNC9vcmlnaW5hbC9DaGFubmVsX2xvZ28tTXRtYWQucG5n/single/87/87@2?r=%202x&quot;%20media=&quot;(max-width:%201023px)" />
   </channel>
   <channel id="Padel 24h">
     <display-name lang="es">Padel 24h</display-name>
@@ -2902,7 +2880,7 @@
     <display-name lang="es">Padel 24h UHD</display-name>
     <display-name lang="es">Padel 24h 720</display-name>
     <display-name lang="es">Padel 24h 1080</display-name>
-    <icon src="https://img-prod-api2.mediasetplay.mediaset.it/api/images/by/v5/esp/aHR0cHM6Ly9kYW0uY2xvdWQubWVkaWFzZXQubmV0L20vMTBjYWQ2OGJkNzgyMTQ2Mi9vcmlnaW5hbC9DaGFubmVsX2xvZ28tUGFkZWwyNGgucG5n/single/87/87@2?r=%202x&quot;%20media=&quot;(max-width:%201023px)|https://img-prod-api2.mediasetplay.mediaset.it/api/images/by/v5/esp/aHR0cHM6Ly9kYW0uY2xvdWQubWVkaWFzZXQubmV0L20vMTBjYWQ2OGJkNzgyMTQ2Mi9vcmlnaW5hbC9DaGFubmVsX2xvZ28tUGFkZWwyNGgucG5n/single/87/87@2?r=%202x&quot;%20media=&quot;(max-width:%201023px)|https://img-prod-api2.mediasetplay.mediaset.it/api/images/by/v5/esp/aHR0cHM6Ly9kYW0uY2xvdWQubWVkaWFzZXQubmV0L20vMTBjYWQ2OGJkNzgyMTQ2Mi9vcmlnaW5hbC9DaGFubmVsX2xvZ28tUGFkZWwyNGgucG5n/single/87/87@2?r=%202x&quot;%20media=&quot;(max-width:%201023px)|https://img-prod-api2.mediasetplay.mediaset.it/api/images/by/v5/esp/aHR0cHM6Ly9kYW0uY2xvdWQubWVkaWFzZXQubmV0L20vMTBjYWQ2OGJkNzgyMTQ2Mi9vcmlnaW5hbC9DaGFubmVsX2xvZ28tUGFkZWwyNGgucG5n/single/87/87@2?r=%202x&quot;%20media=&quot;(max-width:%201023px)|https://img-prod-api2.mediasetplay.mediaset.it/api/images/by/v5/esp/aHR0cHM6Ly9kYW0uY2xvdWQubWVkaWFzZXQubmV0L20vMTBjYWQ2OGJkNzgyMTQ2Mi9vcmlnaW5hbC9DaGFubmVsX2xvZ28tUGFkZWwyNGgucG5n/single/87/87@2?r=%202x&quot;%20media=&quot;(max-width:%201023px)|https://img-prod-api2.mediasetplay.mediaset.it/api/images/by/v5/esp/aHR0cHM6Ly9kYW0uY2xvdWQubWVkaWFzZXQubmV0L20vMTBjYWQ2OGJkNzgyMTQ2Mi9vcmlnaW5hbC9DaGFubmVsX2xvZ28tUGFkZWwyNGgucG5n/single/87/87@2?r=%202x&quot;%20media=&quot;(max-width:%201023px)|https://img-prod-api2.mediasetplay.mediaset.it/api/images/by/v5/esp/aHR0cHM6Ly9kYW0uY2xvdWQubWVkaWFzZXQubmV0L20vMTBjYWQ2OGJkNzgyMTQ2Mi9vcmlnaW5hbC9DaGFubmVsX2xvZ28tUGFkZWwyNGgucG5n/single/87/87@2?r=%202x&quot;%20media=&quot;(max-width:%201023px)" />
+    <icon src="https://img-prod-api2.mediasetplay.mediaset.it/api/images/by/v5/esp/aHR0cHM6Ly9kYW0uY2xvdWQubWVkaWFzZXQubmV0L20vMTBjYWQ2OGJkNzgyMTQ2Mi9vcmlnaW5hbC9DaGFubmVsX2xvZ28tUGFkZWwyNGgucG5n/single/87/87@2?r=%202x&quot;%20media=&quot;(max-width:%201023px)|https://img-prod-api2.mediasetplay.mediaset.it/api/images/by/v5/esp/aHR0cHM6Ly9kYW0uY2xvdWQubWVkaWFzZXQubmV0L20vMTBjYWQ2OGJkNzgyMTQ2Mi9vcmlnaW5hbC9DaGFubmVsX2xvZ28tUGFkZWwyNGgucG5n/single/87/87@2?r=%202x&quot;%20media=&quot;(max-width:%201023px)|https://img-prod-api2.mediasetplay.mediaset.it/api/images/by/v5/esp/aHR0cHM6Ly9kYW0uY2xvdWQubWVkaWFzZXQubmV0L20vMTBjYWQ2OGJkNzgyMTQ2Mi9vcmlnaW5hbC9DaGFubmVsX2xvZ28tUGFkZWwyNGgucG5n/single/87/87@2?r=%202x&quot;%20media=&quot;(max-width:%201023px)|https://img-prod-api2.mediasetplay.mediaset.it/api/images/by/v5/esp/aHR0cHM6Ly9kYW0uY2xvdWQubWVkaWFzZXQubmV0L20vMTBjYWQ2OGJkNzgyMTQ2Mi9vcmlnaW5hbC9DaGFubmVsX2xvZ28tUGFkZWwyNGgucG5n/single/87/87@2?r=%202x&quot;%20media=&quot;(max-width:%201023px)|https://img-prod-api2.mediasetplay.mediaset.it/api/images/by/v5/esp/aHR0cHM6Ly9kYW0uY2xvdWQubWVkaWFzZXQubmV0L20vMTBjYWQ2OGJkNzgyMTQ2Mi9vcmlnaW5hbC9DaGFubmVsX2xvZ28tUGFkZWwyNGgucG5n/single/87/87@2?r=%202x&quot;%20media=&quot;(max-width:%201023px)|https://img-prod-api2.mediasetplay.mediaset.it/api/images/by/v5/esp/aHR0cHM6Ly9kYW0uY2xvdWQubWVkaWFzZXQubmV0L20vMTBjYWQ2OGJkNzgyMTQ2Mi9vcmlnaW5hbC9DaGFubmVsX2xvZ28tUGFkZWwyNGgucG5n/single/87/87@2?r=%202x&quot;%20media=&quot;(max-width:%201023px)" />
   </channel>
   <channel id="Acontra+">
     <display-name lang="es">Acontra+</display-name>
@@ -3586,6 +3564,28 @@
     <display-name lang="es">SELEKT 1080</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/SELEKT.png" />
   </channel>
+  <channel id="Veo7">
+    <display-name lang="es">Veo7</display-name>
+    <display-name lang="es">Veo7.TV</display-name>
+    <display-name lang="es">Veo7 SD</display-name>
+    <display-name lang="es">Veo7 HD</display-name>
+    <display-name lang="es">Veo7 FHD</display-name>
+    <display-name lang="es">Veo7 UHD</display-name>
+    <display-name lang="es">Veo7 720</display-name>
+    <display-name lang="es">Veo7 1080</display-name>
+    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Veo7.png" />
+  </channel>
+  <channel id="Squirrel TV">
+    <display-name lang="es">Squirrel TV</display-name>
+    <display-name lang="es">Squirrel TV.TV</display-name>
+    <display-name lang="es">Squirrel TV SD</display-name>
+    <display-name lang="es">Squirrel TV HD</display-name>
+    <display-name lang="es">Squirrel TV FHD</display-name>
+    <display-name lang="es">Squirrel TV UHD</display-name>
+    <display-name lang="es">Squirrel TV 720</display-name>
+    <display-name lang="es">Squirrel TV 1080</display-name>
+    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Squirrel%20TV.png" />
+  </channel>
   <channel id="BOM Cine">
     <display-name lang="es">BOM Cine</display-name>
     <display-name lang="es">BOM Cine.TV</display-name>
@@ -3673,6 +3673,17 @@
     <display-name lang="es">Festival 4K 720</display-name>
     <display-name lang="es">Festival 4K 1080</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Festival%204K.png" />
+  </channel>
+  <channel id="TVR Rioja">
+    <display-name lang="es">TVR Rioja</display-name>
+    <display-name lang="es">TVR Rioja.TV</display-name>
+    <display-name lang="es">TVR Rioja SD</display-name>
+    <display-name lang="es">TVR Rioja HD</display-name>
+    <display-name lang="es">TVR Rioja FHD</display-name>
+    <display-name lang="es">TVR Rioja UHD</display-name>
+    <display-name lang="es">TVR Rioja 720</display-name>
+    <display-name lang="es">TVR Rioja 1080</display-name>
+    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/TVR%20Rioja.png" />
   </channel>
   <channel id="Runtime Thriller-Terror">
     <display-name lang="es">Runtime Thriller-Terror</display-name>
