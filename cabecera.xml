@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tv generator-info-name="dobleM 20/08/2025 20:50" generator-info-url="t.me/EPG_dobleM">
+<tv generator-info-name="dobleM 21/08/2025 20:50" generator-info-url="t.me/EPG_dobleM">
   <channel id="La 1 HD">
     <display-name lang="es">La 1</display-name>
     <display-name lang="es">La 1.TV</display-name>
@@ -1892,17 +1892,6 @@
     <display-name lang="es">LaLiga TV BAR 3 1080</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/LaLiga%20TV%20BAR%203.png" />
   </channel>
-  <channel id="Liga de Campeones BAR 2">
-    <display-name lang="es">Liga de Campeones BAR 2</display-name>
-    <display-name lang="es">Liga de Campeones BAR 2.TV</display-name>
-    <display-name lang="es">Liga de Campeones BAR 2 SD</display-name>
-    <display-name lang="es">Liga de Campeones BAR 2 HD</display-name>
-    <display-name lang="es">Liga de Campeones BAR 2 FHD</display-name>
-    <display-name lang="es">Liga de Campeones BAR 2 UHD</display-name>
-    <display-name lang="es">Liga de Campeones BAR 2 720</display-name>
-    <display-name lang="es">Liga de Campeones BAR 2 1080</display-name>
-    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Liga%20de%20Campeones%20BAR%202.png" />
-  </channel>
   <channel id="GolStadium BAR">
     <display-name lang="es">GolStadium BAR</display-name>
     <display-name lang="es">GolStadium BAR.TV</display-name>
@@ -2079,6 +2068,17 @@
     <display-name lang="es">tlnovelas 1080</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/tlnovelas.png" />
   </channel>
+  <channel id="DePelícula">
+    <display-name lang="es">DePelícula</display-name>
+    <display-name lang="es">DePelícula.TV</display-name>
+    <display-name lang="es">DePelícula SD</display-name>
+    <display-name lang="es">DePelícula HD</display-name>
+    <display-name lang="es">DePelícula FHD</display-name>
+    <display-name lang="es">DePelícula UHD</display-name>
+    <display-name lang="es">DePelícula 720</display-name>
+    <display-name lang="es">DePelícula 1080</display-name>
+    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DePel%C3%ADcula.png" />
+  </channel>
   <channel id="DejateTV">
     <display-name lang="es">DejateTV</display-name>
     <display-name lang="es">DejateTV.TV</display-name>
@@ -2089,6 +2089,50 @@
     <display-name lang="es">DejateTV 720</display-name>
     <display-name lang="es">DejateTV 1080</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DejateTV.png" />
+  </channel>
+  <channel id="PTV Granada">
+    <display-name lang="es">PTV Granada</display-name>
+    <display-name lang="es">PTV Granada.TV</display-name>
+    <display-name lang="es">PTV Granada SD</display-name>
+    <display-name lang="es">PTV Granada HD</display-name>
+    <display-name lang="es">PTV Granada FHD</display-name>
+    <display-name lang="es">PTV Granada UHD</display-name>
+    <display-name lang="es">PTV Granada 720</display-name>
+    <display-name lang="es">PTV Granada 1080</display-name>
+    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/PTV%20Granada.png" />
+  </channel>
+  <channel id="PTV Sevilla">
+    <display-name lang="es">PTV Sevilla</display-name>
+    <display-name lang="es">PTV Sevilla.TV</display-name>
+    <display-name lang="es">PTV Sevilla SD</display-name>
+    <display-name lang="es">PTV Sevilla HD</display-name>
+    <display-name lang="es">PTV Sevilla FHD</display-name>
+    <display-name lang="es">PTV Sevilla UHD</display-name>
+    <display-name lang="es">PTV Sevilla 720</display-name>
+    <display-name lang="es">PTV Sevilla 1080</display-name>
+    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/PTV%20Sevilla.png" />
+  </channel>
+  <channel id="PTV Linares">
+    <display-name lang="es">PTV Linares</display-name>
+    <display-name lang="es">PTV Linares.TV</display-name>
+    <display-name lang="es">PTV Linares SD</display-name>
+    <display-name lang="es">PTV Linares HD</display-name>
+    <display-name lang="es">PTV Linares FHD</display-name>
+    <display-name lang="es">PTV Linares UHD</display-name>
+    <display-name lang="es">PTV Linares 720</display-name>
+    <display-name lang="es">PTV Linares 1080</display-name>
+    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/PTV%20Linares.png" />
+  </channel>
+  <channel id="PTV Málaga">
+    <display-name lang="es">PTV Málaga</display-name>
+    <display-name lang="es">PTV Málaga.TV</display-name>
+    <display-name lang="es">PTV Málaga SD</display-name>
+    <display-name lang="es">PTV Málaga HD</display-name>
+    <display-name lang="es">PTV Málaga FHD</display-name>
+    <display-name lang="es">PTV Málaga UHD</display-name>
+    <display-name lang="es">PTV Málaga 720</display-name>
+    <display-name lang="es">PTV Málaga 1080</display-name>
+    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/PTV%20M%C3%A1laga.png" />
   </channel>
   <channel id="NFL Network">
     <display-name lang="es">NFL Network</display-name>
@@ -2210,6 +2254,94 @@
     <display-name lang="es">Billiard TV 720</display-name>
     <display-name lang="es">Billiard TV 1080</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Billiard%20TV.png" />
+  </channel>
+  <channel id="DAZN LaLiga Femenina 1">
+    <display-name lang="es">DAZN LaLiga Femenina 1</display-name>
+    <display-name lang="es">DAZN LaLiga Femenina 1.TV</display-name>
+    <display-name lang="es">DAZN LaLiga Femenina 1 SD</display-name>
+    <display-name lang="es">DAZN LaLiga Femenina 1 HD</display-name>
+    <display-name lang="es">DAZN LaLiga Femenina 1 FHD</display-name>
+    <display-name lang="es">DAZN LaLiga Femenina 1 UHD</display-name>
+    <display-name lang="es">DAZN LaLiga Femenina 1 720</display-name>
+    <display-name lang="es">DAZN LaLiga Femenina 1 1080</display-name>
+    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20LaLiga%20Femenina%201.png" />
+  </channel>
+  <channel id="DAZN LaLiga Femenina 2">
+    <display-name lang="es">DAZN LaLiga Femenina 2</display-name>
+    <display-name lang="es">DAZN LaLiga Femenina 2.TV</display-name>
+    <display-name lang="es">DAZN LaLiga Femenina 2 SD</display-name>
+    <display-name lang="es">DAZN LaLiga Femenina 2 HD</display-name>
+    <display-name lang="es">DAZN LaLiga Femenina 2 FHD</display-name>
+    <display-name lang="es">DAZN LaLiga Femenina 2 UHD</display-name>
+    <display-name lang="es">DAZN LaLiga Femenina 2 720</display-name>
+    <display-name lang="es">DAZN LaLiga Femenina 2 1080</display-name>
+    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20LaLiga%20Femenina%202.png" />
+  </channel>
+  <channel id="DAZN LaLiga Femenina 3">
+    <display-name lang="es">DAZN LaLiga Femenina 3</display-name>
+    <display-name lang="es">DAZN LaLiga Femenina 3.TV</display-name>
+    <display-name lang="es">DAZN LaLiga Femenina 3 SD</display-name>
+    <display-name lang="es">DAZN LaLiga Femenina 3 HD</display-name>
+    <display-name lang="es">DAZN LaLiga Femenina 3 FHD</display-name>
+    <display-name lang="es">DAZN LaLiga Femenina 3 UHD</display-name>
+    <display-name lang="es">DAZN LaLiga Femenina 3 720</display-name>
+    <display-name lang="es">DAZN LaLiga Femenina 3 1080</display-name>
+    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20LaLiga%20Femenina%203.png" />
+  </channel>
+  <channel id="DAZN LaLiga Femenina 4">
+    <display-name lang="es">DAZN LaLiga Femenina 4</display-name>
+    <display-name lang="es">DAZN LaLiga Femenina 4.TV</display-name>
+    <display-name lang="es">DAZN LaLiga Femenina 4 SD</display-name>
+    <display-name lang="es">DAZN LaLiga Femenina 4 HD</display-name>
+    <display-name lang="es">DAZN LaLiga Femenina 4 FHD</display-name>
+    <display-name lang="es">DAZN LaLiga Femenina 4 UHD</display-name>
+    <display-name lang="es">DAZN LaLiga Femenina 4 720</display-name>
+    <display-name lang="es">DAZN LaLiga Femenina 4 1080</display-name>
+    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20LaLiga%20Femenina%204.png" />
+  </channel>
+  <channel id="DAZN LaLiga Femenina 5">
+    <display-name lang="es">DAZN LaLiga Femenina 5</display-name>
+    <display-name lang="es">DAZN LaLiga Femenina 5.TV</display-name>
+    <display-name lang="es">DAZN LaLiga Femenina 5 SD</display-name>
+    <display-name lang="es">DAZN LaLiga Femenina 5 HD</display-name>
+    <display-name lang="es">DAZN LaLiga Femenina 5 FHD</display-name>
+    <display-name lang="es">DAZN LaLiga Femenina 5 UHD</display-name>
+    <display-name lang="es">DAZN LaLiga Femenina 5 720</display-name>
+    <display-name lang="es">DAZN LaLiga Femenina 5 1080</display-name>
+    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20LaLiga%20Femenina%205.png" />
+  </channel>
+  <channel id="DAZN LaLiga Femenina 6">
+    <display-name lang="es">DAZN LaLiga Femenina 6</display-name>
+    <display-name lang="es">DAZN LaLiga Femenina 6.TV</display-name>
+    <display-name lang="es">DAZN LaLiga Femenina 6 SD</display-name>
+    <display-name lang="es">DAZN LaLiga Femenina 6 HD</display-name>
+    <display-name lang="es">DAZN LaLiga Femenina 6 FHD</display-name>
+    <display-name lang="es">DAZN LaLiga Femenina 6 UHD</display-name>
+    <display-name lang="es">DAZN LaLiga Femenina 6 720</display-name>
+    <display-name lang="es">DAZN LaLiga Femenina 6 1080</display-name>
+    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20LaLiga%20Femenina%206.png" />
+  </channel>
+  <channel id="DAZN LaLiga Femenina 7">
+    <display-name lang="es">DAZN LaLiga Femenina 7</display-name>
+    <display-name lang="es">DAZN LaLiga Femenina 7.TV</display-name>
+    <display-name lang="es">DAZN LaLiga Femenina 7 SD</display-name>
+    <display-name lang="es">DAZN LaLiga Femenina 7 HD</display-name>
+    <display-name lang="es">DAZN LaLiga Femenina 7 FHD</display-name>
+    <display-name lang="es">DAZN LaLiga Femenina 7 UHD</display-name>
+    <display-name lang="es">DAZN LaLiga Femenina 7 720</display-name>
+    <display-name lang="es">DAZN LaLiga Femenina 7 1080</display-name>
+    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20LaLiga%20Femenina%207.png" />
+  </channel>
+  <channel id="DAZN LaLiga Femenina 8">
+    <display-name lang="es">DAZN LaLiga Femenina 8</display-name>
+    <display-name lang="es">DAZN LaLiga Femenina 8.TV</display-name>
+    <display-name lang="es">DAZN LaLiga Femenina 8 SD</display-name>
+    <display-name lang="es">DAZN LaLiga Femenina 8 HD</display-name>
+    <display-name lang="es">DAZN LaLiga Femenina 8 FHD</display-name>
+    <display-name lang="es">DAZN LaLiga Femenina 8 UHD</display-name>
+    <display-name lang="es">DAZN LaLiga Femenina 8 720</display-name>
+    <display-name lang="es">DAZN LaLiga Femenina 8 1080</display-name>
+    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20LaLiga%20Femenina%208.png" />
   </channel>
   <channel id="8madrid TV">
     <display-name lang="es">8madrid TV</display-name>
@@ -2880,7 +3012,7 @@
     <display-name lang="es">mtmad UHD</display-name>
     <display-name lang="es">mtmad 720</display-name>
     <display-name lang="es">mtmad 1080</display-name>
-    <icon src="https://img-prod-api2.mediasetplay.mediaset.it/api/images/by/v5/esp/aHR0cHM6Ly9kYW0uY2xvdWQubWVkaWFzZXQubmV0L20vM2M4MWNjYTAxMzVjZjdiNC9vcmlnaW5hbC9DaGFubmVsX2xvZ28tTXRtYWQucG5n/single/87/87@2?r=%202x&quot;%20media=&quot;(max-width:%201023px)|https://img-prod-api2.mediasetplay.mediaset.it/api/images/by/v5/esp/aHR0cHM6Ly9kYW0uY2xvdWQubWVkaWFzZXQubmV0L20vM2M4MWNjYTAxMzVjZjdiNC9vcmlnaW5hbC9DaGFubmVsX2xvZ28tTXRtYWQucG5n/single/87/87@2?r=%202x&quot;%20media=&quot;(max-width:%201023px)|https://img-prod-api2.mediasetplay.mediaset.it/api/images/by/v5/esp/aHR0cHM6Ly9kYW0uY2xvdWQubWVkaWFzZXQubmV0L20vM2M4MWNjYTAxMzVjZjdiNC9vcmlnaW5hbC9DaGFubmVsX2xvZ28tTXRtYWQucG5n/single/87/87@2?r=%202x&quot;%20media=&quot;(max-width:%201023px)|https://img-prod-api2.mediasetplay.mediaset.it/api/images/by/v5/esp/aHR0cHM6Ly9kYW0uY2xvdWQubWVkaWFzZXQubmV0L20vM2M4MWNjYTAxMzVjZjdiNC9vcmlnaW5hbC9DaGFubmVsX2xvZ28tTXRtYWQucG5n/single/87/87@2?r=%202x&quot;%20media=&quot;(max-width:%201023px)|https://img-prod-api2.mediasetplay.mediaset.it/api/images/by/v5/esp/aHR0cHM6Ly9kYW0uY2xvdWQubWVkaWFzZXQubmV0L20vM2M4MWNjYTAxMzVjZjdiNC9vcmlnaW5hbC9DaGFubmVsX2xvZ28tTXRtYWQucG5n/single/87/87@2?r=%202x&quot;%20media=&quot;(max-width:%201023px)|https://img-prod-api2.mediasetplay.mediaset.it/api/images/by/v5/esp/aHR0cHM6Ly9kYW0uY2xvdWQubWVkaWFzZXQubmV0L20vM2M4MWNjYTAxMzVjZjdiNC9vcmlnaW5hbC9DaGFubmVsX2xvZ28tTXRtYWQucG5n/single/87/87@2?r=%202x&quot;%20media=&quot;(max-width:%201023px)" />
+    <icon src="https://img-prod-api2.mediasetplay.mediaset.it/api/images/by/v5/esp/aHR0cHM6Ly9kYW0uY2xvdWQubWVkaWFzZXQubmV0L20vM2M4MWNjYTAxMzVjZjdiNC9vcmlnaW5hbC9DaGFubmVsX2xvZ28tTXRtYWQucG5n/single/87/87@2?r=%202x&quot;%20media=&quot;(max-width:%201023px)|https://img-prod-api2.mediasetplay.mediaset.it/api/images/by/v5/esp/aHR0cHM6Ly9kYW0uY2xvdWQubWVkaWFzZXQubmV0L20vM2M4MWNjYTAxMzVjZjdiNC9vcmlnaW5hbC9DaGFubmVsX2xvZ28tTXRtYWQucG5n/single/87/87@2?r=%202x&quot;%20media=&quot;(max-width:%201023px)|https://img-prod-api2.mediasetplay.mediaset.it/api/images/by/v5/esp/aHR0cHM6Ly9kYW0uY2xvdWQubWVkaWFzZXQubmV0L20vM2M4MWNjYTAxMzVjZjdiNC9vcmlnaW5hbC9DaGFubmVsX2xvZ28tTXRtYWQucG5n/single/87/87@2?r=%202x&quot;%20media=&quot;(max-width:%201023px)|https://img-prod-api2.mediasetplay.mediaset.it/api/images/by/v5/esp/aHR0cHM6Ly9kYW0uY2xvdWQubWVkaWFzZXQubmV0L20vM2M4MWNjYTAxMzVjZjdiNC9vcmlnaW5hbC9DaGFubmVsX2xvZ28tTXRtYWQucG5n/single/87/87@2?r=%202x&quot;%20media=&quot;(max-width:%201023px)|https://img-prod-api2.mediasetplay.mediaset.it/api/images/by/v5/esp/aHR0cHM6Ly9kYW0uY2xvdWQubWVkaWFzZXQubmV0L20vM2M4MWNjYTAxMzVjZjdiNC9vcmlnaW5hbC9DaGFubmVsX2xvZ28tTXRtYWQucG5n/single/87/87@2?r=%202x&quot;%20media=&quot;(max-width:%201023px)|https://img-prod-api2.mediasetplay.mediaset.it/api/images/by/v5/esp/aHR0cHM6Ly9kYW0uY2xvdWQubWVkaWFzZXQubmV0L20vM2M4MWNjYTAxMzVjZjdiNC9vcmlnaW5hbC9DaGFubmVsX2xvZ28tTXRtYWQucG5n/single/87/87@2?r=%202x&quot;%20media=&quot;(max-width:%201023px)|https://img-prod-api2.mediasetplay.mediaset.it/api/images/by/v5/esp/aHR0cHM6Ly9kYW0uY2xvdWQubWVkaWFzZXQubmV0L20vM2M4MWNjYTAxMzVjZjdiNC9vcmlnaW5hbC9DaGFubmVsX2xvZ28tTXRtYWQucG5n/single/87/87@2?r=%202x&quot;%20media=&quot;(max-width:%201023px)" />
   </channel>
   <channel id="Padel 24h">
     <display-name lang="es">Padel 24h</display-name>
@@ -2891,7 +3023,7 @@
     <display-name lang="es">Padel 24h UHD</display-name>
     <display-name lang="es">Padel 24h 720</display-name>
     <display-name lang="es">Padel 24h 1080</display-name>
-    <icon src="https://img-prod-api2.mediasetplay.mediaset.it/api/images/by/v5/esp/aHR0cHM6Ly9kYW0uY2xvdWQubWVkaWFzZXQubmV0L20vMTBjYWQ2OGJkNzgyMTQ2Mi9vcmlnaW5hbC9DaGFubmVsX2xvZ28tUGFkZWwyNGgucG5n/single/87/87@2?r=%202x&quot;%20media=&quot;(max-width:%201023px)|https://img-prod-api2.mediasetplay.mediaset.it/api/images/by/v5/esp/aHR0cHM6Ly9kYW0uY2xvdWQubWVkaWFzZXQubmV0L20vMTBjYWQ2OGJkNzgyMTQ2Mi9vcmlnaW5hbC9DaGFubmVsX2xvZ28tUGFkZWwyNGgucG5n/single/87/87@2?r=%202x&quot;%20media=&quot;(max-width:%201023px)|https://img-prod-api2.mediasetplay.mediaset.it/api/images/by/v5/esp/aHR0cHM6Ly9kYW0uY2xvdWQubWVkaWFzZXQubmV0L20vMTBjYWQ2OGJkNzgyMTQ2Mi9vcmlnaW5hbC9DaGFubmVsX2xvZ28tUGFkZWwyNGgucG5n/single/87/87@2?r=%202x&quot;%20media=&quot;(max-width:%201023px)|https://img-prod-api2.mediasetplay.mediaset.it/api/images/by/v5/esp/aHR0cHM6Ly9kYW0uY2xvdWQubWVkaWFzZXQubmV0L20vMTBjYWQ2OGJkNzgyMTQ2Mi9vcmlnaW5hbC9DaGFubmVsX2xvZ28tUGFkZWwyNGgucG5n/single/87/87@2?r=%202x&quot;%20media=&quot;(max-width:%201023px)|https://img-prod-api2.mediasetplay.mediaset.it/api/images/by/v5/esp/aHR0cHM6Ly9kYW0uY2xvdWQubWVkaWFzZXQubmV0L20vMTBjYWQ2OGJkNzgyMTQ2Mi9vcmlnaW5hbC9DaGFubmVsX2xvZ28tUGFkZWwyNGgucG5n/single/87/87@2?r=%202x&quot;%20media=&quot;(max-width:%201023px)|https://img-prod-api2.mediasetplay.mediaset.it/api/images/by/v5/esp/aHR0cHM6Ly9kYW0uY2xvdWQubWVkaWFzZXQubmV0L20vMTBjYWQ2OGJkNzgyMTQ2Mi9vcmlnaW5hbC9DaGFubmVsX2xvZ28tUGFkZWwyNGgucG5n/single/87/87@2?r=%202x&quot;%20media=&quot;(max-width:%201023px)" />
+    <icon src="https://img-prod-api2.mediasetplay.mediaset.it/api/images/by/v5/esp/aHR0cHM6Ly9kYW0uY2xvdWQubWVkaWFzZXQubmV0L20vMTBjYWQ2OGJkNzgyMTQ2Mi9vcmlnaW5hbC9DaGFubmVsX2xvZ28tUGFkZWwyNGgucG5n/single/87/87@2?r=%202x&quot;%20media=&quot;(max-width:%201023px)|https://img-prod-api2.mediasetplay.mediaset.it/api/images/by/v5/esp/aHR0cHM6Ly9kYW0uY2xvdWQubWVkaWFzZXQubmV0L20vMTBjYWQ2OGJkNzgyMTQ2Mi9vcmlnaW5hbC9DaGFubmVsX2xvZ28tUGFkZWwyNGgucG5n/single/87/87@2?r=%202x&quot;%20media=&quot;(max-width:%201023px)|https://img-prod-api2.mediasetplay.mediaset.it/api/images/by/v5/esp/aHR0cHM6Ly9kYW0uY2xvdWQubWVkaWFzZXQubmV0L20vMTBjYWQ2OGJkNzgyMTQ2Mi9vcmlnaW5hbC9DaGFubmVsX2xvZ28tUGFkZWwyNGgucG5n/single/87/87@2?r=%202x&quot;%20media=&quot;(max-width:%201023px)|https://img-prod-api2.mediasetplay.mediaset.it/api/images/by/v5/esp/aHR0cHM6Ly9kYW0uY2xvdWQubWVkaWFzZXQubmV0L20vMTBjYWQ2OGJkNzgyMTQ2Mi9vcmlnaW5hbC9DaGFubmVsX2xvZ28tUGFkZWwyNGgucG5n/single/87/87@2?r=%202x&quot;%20media=&quot;(max-width:%201023px)|https://img-prod-api2.mediasetplay.mediaset.it/api/images/by/v5/esp/aHR0cHM6Ly9kYW0uY2xvdWQubWVkaWFzZXQubmV0L20vMTBjYWQ2OGJkNzgyMTQ2Mi9vcmlnaW5hbC9DaGFubmVsX2xvZ28tUGFkZWwyNGgucG5n/single/87/87@2?r=%202x&quot;%20media=&quot;(max-width:%201023px)|https://img-prod-api2.mediasetplay.mediaset.it/api/images/by/v5/esp/aHR0cHM6Ly9kYW0uY2xvdWQubWVkaWFzZXQubmV0L20vMTBjYWQ2OGJkNzgyMTQ2Mi9vcmlnaW5hbC9DaGFubmVsX2xvZ28tUGFkZWwyNGgucG5n/single/87/87@2?r=%202x&quot;%20media=&quot;(max-width:%201023px)|https://img-prod-api2.mediasetplay.mediaset.it/api/images/by/v5/esp/aHR0cHM6Ly9kYW0uY2xvdWQubWVkaWFzZXQubmV0L20vMTBjYWQ2OGJkNzgyMTQ2Mi9vcmlnaW5hbC9DaGFubmVsX2xvZ28tUGFkZWwyNGgucG5n/single/87/87@2?r=%202x&quot;%20media=&quot;(max-width:%201023px)" />
   </channel>
   <channel id="Acontra+">
     <display-name lang="es">Acontra+</display-name>
