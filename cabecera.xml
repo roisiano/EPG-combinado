@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tv generator-info-name="dobleM 30/08/2025 20:50" generator-info-url="t.me/EPG_dobleM">
+<tv generator-info-name="dobleM 31/08/2025 20:50" generator-info-url="t.me/EPG_dobleM">
   <channel id="La 1 HD">
     <display-name lang="es">La 1</display-name>
     <display-name lang="es">La 1.TV</display-name>
@@ -2090,17 +2090,6 @@
     <display-name lang="es">REKTV 1080</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/REKTV.png" />
   </channel>
-  <channel id="tlnovelas">
-    <display-name lang="es">tlnovelas</display-name>
-    <display-name lang="es">tlnovelas.TV</display-name>
-    <display-name lang="es">tlnovelas SD</display-name>
-    <display-name lang="es">tlnovelas HD</display-name>
-    <display-name lang="es">tlnovelas FHD</display-name>
-    <display-name lang="es">tlnovelas UHD</display-name>
-    <display-name lang="es">tlnovelas 720</display-name>
-    <display-name lang="es">tlnovelas 1080</display-name>
-    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/tlnovelas.png" />
-  </channel>
   <channel id="DePelícula">
     <display-name lang="es">DePelícula</display-name>
     <display-name lang="es">DePelícula.TV</display-name>
@@ -2133,17 +2122,6 @@
     <display-name lang="es">PTV Granada 720</display-name>
     <display-name lang="es">PTV Granada 1080</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/PTV%20Granada.png" />
-  </channel>
-  <channel id="PTV Sevilla">
-    <display-name lang="es">PTV Sevilla</display-name>
-    <display-name lang="es">PTV Sevilla.TV</display-name>
-    <display-name lang="es">PTV Sevilla SD</display-name>
-    <display-name lang="es">PTV Sevilla HD</display-name>
-    <display-name lang="es">PTV Sevilla FHD</display-name>
-    <display-name lang="es">PTV Sevilla UHD</display-name>
-    <display-name lang="es">PTV Sevilla 720</display-name>
-    <display-name lang="es">PTV Sevilla 1080</display-name>
-    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/PTV%20Sevilla.png" />
   </channel>
   <channel id="PTV Linares">
     <display-name lang="es">PTV Linares</display-name>
@@ -2363,6 +2341,72 @@
     <display-name lang="es">DAZN Liga F 2 UHD</display-name>
     <display-name lang="es">DAZN Liga F 2 720</display-name>
     <display-name lang="es">DAZN Liga F 2 1080</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v4/onboarding-images/none/sn_5k620c7y6dlbmcm88dt3eb7t/fill/center/top/none/100/0/0/png/image/25/g" />
+  </channel>
+  <channel id="DAZN Liga F 3">
+    <display-name lang="es">DAZN Liga F 3</display-name>
+    <display-name lang="es">DAZN Liga F 3.TV</display-name>
+    <display-name lang="es">DAZN Liga F 3 SD</display-name>
+    <display-name lang="es">DAZN Liga F 3 HD</display-name>
+    <display-name lang="es">DAZN Liga F 3 FHD</display-name>
+    <display-name lang="es">DAZN Liga F 3 UHD</display-name>
+    <display-name lang="es">DAZN Liga F 3 720</display-name>
+    <display-name lang="es">DAZN Liga F 3 1080</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v4/onboarding-images/none/sn_5k620c7y6dlbmcm88dt3eb7t/fill/center/top/none/100/0/0/png/image/25/g" />
+  </channel>
+  <channel id="DAZN Liga F 4">
+    <display-name lang="es">DAZN Liga F 4</display-name>
+    <display-name lang="es">DAZN Liga F 4.TV</display-name>
+    <display-name lang="es">DAZN Liga F 4 SD</display-name>
+    <display-name lang="es">DAZN Liga F 4 HD</display-name>
+    <display-name lang="es">DAZN Liga F 4 FHD</display-name>
+    <display-name lang="es">DAZN Liga F 4 UHD</display-name>
+    <display-name lang="es">DAZN Liga F 4 720</display-name>
+    <display-name lang="es">DAZN Liga F 4 1080</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v4/onboarding-images/none/sn_5k620c7y6dlbmcm88dt3eb7t/fill/center/top/none/100/0/0/png/image/25/g" />
+  </channel>
+  <channel id="DAZN Liga F 5">
+    <display-name lang="es">DAZN Liga F 5</display-name>
+    <display-name lang="es">DAZN Liga F 5.TV</display-name>
+    <display-name lang="es">DAZN Liga F 5 SD</display-name>
+    <display-name lang="es">DAZN Liga F 5 HD</display-name>
+    <display-name lang="es">DAZN Liga F 5 FHD</display-name>
+    <display-name lang="es">DAZN Liga F 5 UHD</display-name>
+    <display-name lang="es">DAZN Liga F 5 720</display-name>
+    <display-name lang="es">DAZN Liga F 5 1080</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v4/onboarding-images/none/sn_5k620c7y6dlbmcm88dt3eb7t/fill/center/top/none/100/0/0/png/image/25/g" />
+  </channel>
+  <channel id="DAZN Liga F 6">
+    <display-name lang="es">DAZN Liga F 6</display-name>
+    <display-name lang="es">DAZN Liga F 6.TV</display-name>
+    <display-name lang="es">DAZN Liga F 6 SD</display-name>
+    <display-name lang="es">DAZN Liga F 6 HD</display-name>
+    <display-name lang="es">DAZN Liga F 6 FHD</display-name>
+    <display-name lang="es">DAZN Liga F 6 UHD</display-name>
+    <display-name lang="es">DAZN Liga F 6 720</display-name>
+    <display-name lang="es">DAZN Liga F 6 1080</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v4/onboarding-images/none/sn_5k620c7y6dlbmcm88dt3eb7t/fill/center/top/none/100/0/0/png/image/25/g" />
+  </channel>
+  <channel id="DAZN Liga F 7">
+    <display-name lang="es">DAZN Liga F 7</display-name>
+    <display-name lang="es">DAZN Liga F 7.TV</display-name>
+    <display-name lang="es">DAZN Liga F 7 SD</display-name>
+    <display-name lang="es">DAZN Liga F 7 HD</display-name>
+    <display-name lang="es">DAZN Liga F 7 FHD</display-name>
+    <display-name lang="es">DAZN Liga F 7 UHD</display-name>
+    <display-name lang="es">DAZN Liga F 7 720</display-name>
+    <display-name lang="es">DAZN Liga F 7 1080</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v4/onboarding-images/none/sn_5k620c7y6dlbmcm88dt3eb7t/fill/center/top/none/100/0/0/png/image/25/g" />
+  </channel>
+  <channel id="DAZN Liga F 8">
+    <display-name lang="es">DAZN Liga F 8</display-name>
+    <display-name lang="es">DAZN Liga F 8.TV</display-name>
+    <display-name lang="es">DAZN Liga F 8 SD</display-name>
+    <display-name lang="es">DAZN Liga F 8 HD</display-name>
+    <display-name lang="es">DAZN Liga F 8 FHD</display-name>
+    <display-name lang="es">DAZN Liga F 8 UHD</display-name>
+    <display-name lang="es">DAZN Liga F 8 720</display-name>
+    <display-name lang="es">DAZN Liga F 8 1080</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v4/onboarding-images/none/sn_5k620c7y6dlbmcm88dt3eb7t/fill/center/top/none/100/0/0/png/image/25/g" />
   </channel>
   <channel id="DAZN Premier League">
