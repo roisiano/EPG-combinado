@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tv generator-info-name="dobleM 13/09/2025 20:50" generator-info-url="t.me/EPG_dobleM">
+<tv generator-info-name="dobleM 14/09/2025 20:50" generator-info-url="t.me/EPG_dobleM">
   <channel id="La 1 HD">
     <display-name lang="es">La 1</display-name>
     <display-name lang="es">La 1.TV</display-name>
@@ -2497,17 +2497,6 @@
     <display-name lang="es">DAZN Bundesliga 4 1080</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v4/onboarding-images/none/sn_6by3h89i2eykc341oz7lv1ddd/fill/center/top/none/100/0/0/png/image/25/g" />
   </channel>
-  <channel id="DAZN Bundesliga 5">
-    <display-name lang="es">DAZN Bundesliga 5</display-name>
-    <display-name lang="es">DAZN Bundesliga 5.TV</display-name>
-    <display-name lang="es">DAZN Bundesliga 5 SD</display-name>
-    <display-name lang="es">DAZN Bundesliga 5 HD</display-name>
-    <display-name lang="es">DAZN Bundesliga 5 FHD</display-name>
-    <display-name lang="es">DAZN Bundesliga 5 UHD</display-name>
-    <display-name lang="es">DAZN Bundesliga 5 720</display-name>
-    <display-name lang="es">DAZN Bundesliga 5 1080</display-name>
-    <icon src="https://image.discovery.indazn.com/eu/v4/onboarding-images/none/sn_6by3h89i2eykc341oz7lv1ddd/fill/center/top/none/100/0/0/png/image/25/g" />
-  </channel>
   <channel id="DAZN Liga F">
     <display-name lang="es">DAZN Liga F</display-name>
     <display-name lang="es">DAZN Liga F.TV</display-name>
@@ -2528,6 +2517,72 @@
     <display-name lang="es">DAZN Liga F 2 UHD</display-name>
     <display-name lang="es">DAZN Liga F 2 720</display-name>
     <display-name lang="es">DAZN Liga F 2 1080</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v4/onboarding-images/none/sn_5k620c7y6dlbmcm88dt3eb7t/fill/center/top/none/100/0/0/png/image/25/g" />
+  </channel>
+  <channel id="DAZN Liga F 3">
+    <display-name lang="es">DAZN Liga F 3</display-name>
+    <display-name lang="es">DAZN Liga F 3.TV</display-name>
+    <display-name lang="es">DAZN Liga F 3 SD</display-name>
+    <display-name lang="es">DAZN Liga F 3 HD</display-name>
+    <display-name lang="es">DAZN Liga F 3 FHD</display-name>
+    <display-name lang="es">DAZN Liga F 3 UHD</display-name>
+    <display-name lang="es">DAZN Liga F 3 720</display-name>
+    <display-name lang="es">DAZN Liga F 3 1080</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v4/onboarding-images/none/sn_5k620c7y6dlbmcm88dt3eb7t/fill/center/top/none/100/0/0/png/image/25/g" />
+  </channel>
+  <channel id="DAZN Liga F 4">
+    <display-name lang="es">DAZN Liga F 4</display-name>
+    <display-name lang="es">DAZN Liga F 4.TV</display-name>
+    <display-name lang="es">DAZN Liga F 4 SD</display-name>
+    <display-name lang="es">DAZN Liga F 4 HD</display-name>
+    <display-name lang="es">DAZN Liga F 4 FHD</display-name>
+    <display-name lang="es">DAZN Liga F 4 UHD</display-name>
+    <display-name lang="es">DAZN Liga F 4 720</display-name>
+    <display-name lang="es">DAZN Liga F 4 1080</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v4/onboarding-images/none/sn_5k620c7y6dlbmcm88dt3eb7t/fill/center/top/none/100/0/0/png/image/25/g" />
+  </channel>
+  <channel id="DAZN Liga F 5">
+    <display-name lang="es">DAZN Liga F 5</display-name>
+    <display-name lang="es">DAZN Liga F 5.TV</display-name>
+    <display-name lang="es">DAZN Liga F 5 SD</display-name>
+    <display-name lang="es">DAZN Liga F 5 HD</display-name>
+    <display-name lang="es">DAZN Liga F 5 FHD</display-name>
+    <display-name lang="es">DAZN Liga F 5 UHD</display-name>
+    <display-name lang="es">DAZN Liga F 5 720</display-name>
+    <display-name lang="es">DAZN Liga F 5 1080</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v4/onboarding-images/none/sn_5k620c7y6dlbmcm88dt3eb7t/fill/center/top/none/100/0/0/png/image/25/g" />
+  </channel>
+  <channel id="DAZN Liga F 6">
+    <display-name lang="es">DAZN Liga F 6</display-name>
+    <display-name lang="es">DAZN Liga F 6.TV</display-name>
+    <display-name lang="es">DAZN Liga F 6 SD</display-name>
+    <display-name lang="es">DAZN Liga F 6 HD</display-name>
+    <display-name lang="es">DAZN Liga F 6 FHD</display-name>
+    <display-name lang="es">DAZN Liga F 6 UHD</display-name>
+    <display-name lang="es">DAZN Liga F 6 720</display-name>
+    <display-name lang="es">DAZN Liga F 6 1080</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v4/onboarding-images/none/sn_5k620c7y6dlbmcm88dt3eb7t/fill/center/top/none/100/0/0/png/image/25/g" />
+  </channel>
+  <channel id="DAZN Liga F 7">
+    <display-name lang="es">DAZN Liga F 7</display-name>
+    <display-name lang="es">DAZN Liga F 7.TV</display-name>
+    <display-name lang="es">DAZN Liga F 7 SD</display-name>
+    <display-name lang="es">DAZN Liga F 7 HD</display-name>
+    <display-name lang="es">DAZN Liga F 7 FHD</display-name>
+    <display-name lang="es">DAZN Liga F 7 UHD</display-name>
+    <display-name lang="es">DAZN Liga F 7 720</display-name>
+    <display-name lang="es">DAZN Liga F 7 1080</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v4/onboarding-images/none/sn_5k620c7y6dlbmcm88dt3eb7t/fill/center/top/none/100/0/0/png/image/25/g" />
+  </channel>
+  <channel id="DAZN Liga F 8">
+    <display-name lang="es">DAZN Liga F 8</display-name>
+    <display-name lang="es">DAZN Liga F 8.TV</display-name>
+    <display-name lang="es">DAZN Liga F 8 SD</display-name>
+    <display-name lang="es">DAZN Liga F 8 HD</display-name>
+    <display-name lang="es">DAZN Liga F 8 FHD</display-name>
+    <display-name lang="es">DAZN Liga F 8 UHD</display-name>
+    <display-name lang="es">DAZN Liga F 8 720</display-name>
+    <display-name lang="es">DAZN Liga F 8 1080</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v4/onboarding-images/none/sn_5k620c7y6dlbmcm88dt3eb7t/fill/center/top/none/100/0/0/png/image/25/g" />
   </channel>
   <channel id="DAZN Premier League">
@@ -2572,17 +2627,6 @@
     <display-name lang="es">DAZN Premier League 4 UHD</display-name>
     <display-name lang="es">DAZN Premier League 4 720</display-name>
     <display-name lang="es">DAZN Premier League 4 1080</display-name>
-    <icon src="https://image.discovery.indazn.com/eu/v4/onboarding-images/none/sn_2kwbbcootiqqgmrzs6o5inle5/fill/center/top/none/100/0/0/png/image/25/g" />
-  </channel>
-  <channel id="DAZN Premier League 5">
-    <display-name lang="es">DAZN Premier League 5</display-name>
-    <display-name lang="es">DAZN Premier League 5.TV</display-name>
-    <display-name lang="es">DAZN Premier League 5 SD</display-name>
-    <display-name lang="es">DAZN Premier League 5 HD</display-name>
-    <display-name lang="es">DAZN Premier League 5 FHD</display-name>
-    <display-name lang="es">DAZN Premier League 5 UHD</display-name>
-    <display-name lang="es">DAZN Premier League 5 720</display-name>
-    <display-name lang="es">DAZN Premier League 5 1080</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v4/onboarding-images/none/sn_2kwbbcootiqqgmrzs6o5inle5/fill/center/top/none/100/0/0/png/image/25/g" />
   </channel>
   <channel id="DAZN Serie A">
@@ -3320,7 +3364,7 @@
     <display-name lang="es">Acontra+ UHD</display-name>
     <display-name lang="es">Acontra+ 720</display-name>
     <display-name lang="es">Acontra+ 1080</display-name>
-    <icon src="https://img-prod-api2.mediasetplay.mediaset.it/api/images/by/v5/esp/aHR0cHM6Ly9kYW0uY2xvdWQubWVkaWFzZXQubmV0L20vMzYwMTUzNjRkNDQyNGNkYS9vcmlnaW5hbC9DaGFubmVsX2xvZ28tQWNvbnRyYS5wbmc/single/87/87@2?r=%202x&quot;%20media=&quot;(max-width:%201023px)|https://img-prod-api2.mediasetplay.mediaset.it/api/images/by/v5/esp/aHR0cHM6Ly9kYW0uY2xvdWQubWVkaWFzZXQubmV0L20vMzYwMTUzNjRkNDQyNGNkYS9vcmlnaW5hbC9DaGFubmVsX2xvZ28tQWNvbnRyYS5wbmc/single/87/87@2?r=%202x&quot;%20media=&quot;(max-width:%201023px)|https://img-prod-api2.mediasetplay.mediaset.it/api/images/by/v5/esp/aHR0cHM6Ly9kYW0uY2xvdWQubWVkaWFzZXQubmV0L20vMzYwMTUzNjRkNDQyNGNkYS9vcmlnaW5hbC9DaGFubmVsX2xvZ28tQWNvbnRyYS5wbmc/single/87/87@2?r=%202x&quot;%20media=&quot;(max-width:%201023px)|https://img-prod-api2.mediasetplay.mediaset.it/api/images/by/v5/esp/aHR0cHM6Ly9kYW0uY2xvdWQubWVkaWFzZXQubmV0L20vMzYwMTUzNjRkNDQyNGNkYS9vcmlnaW5hbC9DaGFubmVsX2xvZ28tQWNvbnRyYS5wbmc/single/87/87@2?r=%202x&quot;%20media=&quot;(max-width:%201023px)|https://img-prod-api2.mediasetplay.mediaset.it/api/images/by/v5/esp/aHR0cHM6Ly9kYW0uY2xvdWQubWVkaWFzZXQubmV0L20vMzYwMTUzNjRkNDQyNGNkYS9vcmlnaW5hbC9DaGFubmVsX2xvZ28tQWNvbnRyYS5wbmc/single/87/87@2?r=%202x&quot;%20media=&quot;(max-width:%201023px)|https://img-prod-api2.mediasetplay.mediaset.it/api/images/by/v5/esp/aHR0cHM6Ly9kYW0uY2xvdWQubWVkaWFzZXQubmV0L20vMzYwMTUzNjRkNDQyNGNkYS9vcmlnaW5hbC9DaGFubmVsX2xvZ28tQWNvbnRyYS5wbmc/single/87/87@2?r=%202x&quot;%20media=&quot;(max-width:%201023px)|https://img-prod-api2.mediasetplay.mediaset.it/api/images/by/v5/esp/aHR0cHM6Ly9kYW0uY2xvdWQubWVkaWFzZXQubmV0L20vMzYwMTUzNjRkNDQyNGNkYS9vcmlnaW5hbC9DaGFubmVsX2xvZ28tQWNvbnRyYS5wbmc/single/87/87@2?r=%202x&quot;%20media=&quot;(max-width:%201023px)" />
+    <icon src="https://img-prod-api2.mediasetplay.mediaset.it/api/images/by/v5/esp/aHR0cHM6Ly9kYW0uY2xvdWQubWVkaWFzZXQubmV0L20vMzYwMTUzNjRkNDQyNGNkYS9vcmlnaW5hbC9DaGFubmVsX2xvZ28tQWNvbnRyYS5wbmc/single/87/87@2?r=%202x&quot;%20media=&quot;(max-width:%201023px)|https://img-prod-api2.mediasetplay.mediaset.it/api/images/by/v5/esp/aHR0cHM6Ly9kYW0uY2xvdWQubWVkaWFzZXQubmV0L20vMzYwMTUzNjRkNDQyNGNkYS9vcmlnaW5hbC9DaGFubmVsX2xvZ28tQWNvbnRyYS5wbmc/single/87/87@2?r=%202x&quot;%20media=&quot;(max-width:%201023px)|https://img-prod-api2.mediasetplay.mediaset.it/api/images/by/v5/esp/aHR0cHM6Ly9kYW0uY2xvdWQubWVkaWFzZXQubmV0L20vMzYwMTUzNjRkNDQyNGNkYS9vcmlnaW5hbC9DaGFubmVsX2xvZ28tQWNvbnRyYS5wbmc/single/87/87@2?r=%202x&quot;%20media=&quot;(max-width:%201023px)|https://img-prod-api2.mediasetplay.mediaset.it/api/images/by/v5/esp/aHR0cHM6Ly9kYW0uY2xvdWQubWVkaWFzZXQubmV0L20vMzYwMTUzNjRkNDQyNGNkYS9vcmlnaW5hbC9DaGFubmVsX2xvZ28tQWNvbnRyYS5wbmc/single/87/87@2?r=%202x&quot;%20media=&quot;(max-width:%201023px)|https://img-prod-api2.mediasetplay.mediaset.it/api/images/by/v5/esp/aHR0cHM6Ly9kYW0uY2xvdWQubWVkaWFzZXQubmV0L20vMzYwMTUzNjRkNDQyNGNkYS9vcmlnaW5hbC9DaGFubmVsX2xvZ28tQWNvbnRyYS5wbmc/single/87/87@2?r=%202x&quot;%20media=&quot;(max-width:%201023px)|https://img-prod-api2.mediasetplay.mediaset.it/api/images/by/v5/esp/aHR0cHM6Ly9kYW0uY2xvdWQubWVkaWFzZXQubmV0L20vMzYwMTUzNjRkNDQyNGNkYS9vcmlnaW5hbC9DaGFubmVsX2xvZ28tQWNvbnRyYS5wbmc/single/87/87@2?r=%202x&quot;%20media=&quot;(max-width:%201023px)" />
   </channel>
   <channel id="Fight Sports">
     <display-name lang="es"> Fight Sports</display-name>
