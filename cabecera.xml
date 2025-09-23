@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tv generator-info-name="dobleM 21/09/2025 20:50" generator-info-url="t.me/EPG_dobleM">
+<tv generator-info-name="dobleM 22/09/2025 20:50" generator-info-url="t.me/EPG_dobleM">
   <channel id="La 1 HD">
     <display-name lang="es">La 1</display-name>
     <display-name lang="es">La 1.TV</display-name>
@@ -1331,16 +1331,16 @@
     <display-name lang="es">Esport 3 1080</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Esport%203.png" />
   </channel>
-  <channel id="324">
-    <display-name lang="es">324</display-name>
-    <display-name lang="es">324.TV</display-name>
-    <display-name lang="es">324 SD</display-name>
-    <display-name lang="es">324 HD</display-name>
-    <display-name lang="es">324 FHD</display-name>
-    <display-name lang="es">324 UHD</display-name>
-    <display-name lang="es">324 720</display-name>
-    <display-name lang="es">324 1080</display-name>
-    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/324.png" />
+  <channel id="3CatInfo">
+    <display-name lang="es">3CatInfo</display-name>
+    <display-name lang="es">3CatInfo.TV</display-name>
+    <display-name lang="es">3CatInfo SD</display-name>
+    <display-name lang="es">3CatInfo HD</display-name>
+    <display-name lang="es">3CatInfo FHD</display-name>
+    <display-name lang="es">3CatInfo UHD</display-name>
+    <display-name lang="es">3CatInfo 720</display-name>
+    <display-name lang="es">3CatInfo 1080</display-name>
+    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/3CatInfo.png" />
   </channel>
   <channel id="Betevé">
     <display-name lang="es">Betevé</display-name>
@@ -2089,17 +2089,6 @@
     <display-name lang="es">LaLiga TV BAR 3 720</display-name>
     <display-name lang="es">LaLiga TV BAR 3 1080</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/LaLiga%20TV%20BAR%203.png" />
-  </channel>
-  <channel id="LaLiga TV BAR 4">
-    <display-name lang="es">LaLiga TV BAR 4</display-name>
-    <display-name lang="es">LaLiga TV BAR 4.TV</display-name>
-    <display-name lang="es">LaLiga TV BAR 4 SD</display-name>
-    <display-name lang="es">LaLiga TV BAR 4 HD</display-name>
-    <display-name lang="es">LaLiga TV BAR 4 FHD</display-name>
-    <display-name lang="es">LaLiga TV BAR 4 UHD</display-name>
-    <display-name lang="es">LaLiga TV BAR 4 720</display-name>
-    <display-name lang="es">LaLiga TV BAR 4 1080</display-name>
-    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/LaLiga%20TV%20BAR%204.png" />
   </channel>
   <channel id="Liga de Campeones BAR 2">
     <display-name lang="es">Liga de Campeones BAR 2</display-name>
@@ -2882,6 +2871,17 @@
     <display-name lang="es">DAZN 2 BAR 1080</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%202%20BAR.png" />
   </channel>
+  <channel id="LaLiga TV BAR 4">
+    <display-name lang="es">LaLiga TV BAR 4</display-name>
+    <display-name lang="es">LaLiga TV BAR 4.TV</display-name>
+    <display-name lang="es">LaLiga TV BAR 4 SD</display-name>
+    <display-name lang="es">LaLiga TV BAR 4 HD</display-name>
+    <display-name lang="es">LaLiga TV BAR 4 FHD</display-name>
+    <display-name lang="es">LaLiga TV BAR 4 UHD</display-name>
+    <display-name lang="es">LaLiga TV BAR 4 720</display-name>
+    <display-name lang="es">LaLiga TV BAR 4 1080</display-name>
+    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/LaLiga%20TV%20BAR%204.png" />
+  </channel>
   <channel id="LaLiga TV BAR 5">
     <display-name lang="es">LaLiga TV BAR 5</display-name>
     <display-name lang="es">LaLiga TV BAR 5.TV</display-name>
@@ -3036,16 +3036,16 @@
     <display-name lang="es">TV3 Catalunya 1080</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/TV3%20Catalunya.png" />
   </channel>
-  <channel id="324 Catalunya">
-    <display-name lang="es">324 Catalunya</display-name>
-    <display-name lang="es">324 Catalunya.TV</display-name>
-    <display-name lang="es">324 Catalunya SD</display-name>
-    <display-name lang="es">324 Catalunya HD</display-name>
-    <display-name lang="es">324 Catalunya FHD</display-name>
-    <display-name lang="es">324 Catalunya UHD</display-name>
-    <display-name lang="es">324 Catalunya 720</display-name>
-    <display-name lang="es">324 Catalunya 1080</display-name>
-    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/324%20Catalunya.png" />
+  <channel id="3CatInfo Catalunya">
+    <display-name lang="es">3CatInfo Catalunya</display-name>
+    <display-name lang="es">3CatInfo Catalunya.TV</display-name>
+    <display-name lang="es">3CatInfo Catalunya SD</display-name>
+    <display-name lang="es">3CatInfo Catalunya HD</display-name>
+    <display-name lang="es">3CatInfo Catalunya FHD</display-name>
+    <display-name lang="es">3CatInfo Catalunya UHD</display-name>
+    <display-name lang="es">3CatInfo Catalunya 720</display-name>
+    <display-name lang="es">3CatInfo Catalunya 1080</display-name>
+    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/3CatInfo%20Catalunya.png" />
   </channel>
   <channel id="SX3 Catalunya">
     <display-name lang="es">SX3 Catalunya</display-name>
@@ -5873,28 +5873,6 @@
     <display-name lang="es">DE | Rally TV 1080</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Rally%20TV.png" />
   </channel>
-  <channel id="DE | Sky Sport Austria">
-    <display-name lang="es">DE | Sky Sport Austria</display-name>
-    <display-name lang="es">DE | Sky Sport Austria.TV</display-name>
-    <display-name lang="es">DE | Sky Sport Austria SD</display-name>
-    <display-name lang="es">DE | Sky Sport Austria HD</display-name>
-    <display-name lang="es">DE | Sky Sport Austria FHD</display-name>
-    <display-name lang="es">DE | Sky Sport Austria UHD</display-name>
-    <display-name lang="es">DE | Sky Sport Austria 720</display-name>
-    <display-name lang="es">DE | Sky Sport Austria 1080</display-name>
-    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Sky%20Sport%20Austria.png" />
-  </channel>
-  <channel id="DE | DAZN">
-    <display-name lang="es">DE | DAZN</display-name>
-    <display-name lang="es">DE | DAZN.TV</display-name>
-    <display-name lang="es">DE | DAZN SD</display-name>
-    <display-name lang="es">DE | DAZN HD</display-name>
-    <display-name lang="es">DE | DAZN FHD</display-name>
-    <display-name lang="es">DE | DAZN UHD</display-name>
-    <display-name lang="es">DE | DAZN 720</display-name>
-    <display-name lang="es">DE | DAZN 1080</display-name>
-    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN.png" />
-  </channel>
   <channel id="DE | DAZN 1">
     <display-name lang="es">DE | DAZN 1</display-name>
     <display-name lang="es">DE | DAZN 1.TV</display-name>
@@ -5917,16 +5895,93 @@
     <display-name lang="es">DE | DAZN 2 1080</display-name>
     <icon src="https://www.sky.de/static/img/senderlogos_dark/900_sky_logo_dazn2-hd_tvguide.png" />
   </channel>
-  <channel id="DE | Servus TV Motorsport">
-    <display-name lang="es">DE | Servus TV Motorsport</display-name>
-    <display-name lang="es">DE | Servus TV Motorsport.TV</display-name>
-    <display-name lang="es">DE | Servus TV Motorsport SD</display-name>
-    <display-name lang="es">DE | Servus TV Motorsport HD</display-name>
-    <display-name lang="es">DE | Servus TV Motorsport FHD</display-name>
-    <display-name lang="es">DE | Servus TV Motorsport UHD</display-name>
-    <display-name lang="es">DE | Servus TV Motorsport 720</display-name>
-    <display-name lang="es">DE | Servus TV Motorsport 1080</display-name>
-    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Servus%20TV%20Motorsport.png" />
+  <channel id="DE | Sky Sport Austria 1">
+    <display-name lang="es">DE | Sky Sport Austria 1</display-name>
+    <display-name lang="es">DE | Sky Sport Austria 1.TV</display-name>
+    <display-name lang="es">DE | Sky Sport Austria 1 SD</display-name>
+    <display-name lang="es">DE | Sky Sport Austria 1 HD</display-name>
+    <display-name lang="es">DE | Sky Sport Austria 1 FHD</display-name>
+    <display-name lang="es">DE | Sky Sport Austria 1 UHD</display-name>
+    <display-name lang="es">DE | Sky Sport Austria 1 720</display-name>
+    <display-name lang="es">DE | Sky Sport Austria 1 1080</display-name>
+    <icon src="https://www.sky.de/static/img/senderlogos_dark/492_sky_logo_skysportaustria-hd_tvguide.png" />
+  </channel>
+  <channel id="DE | Sky Sport Austria 2">
+    <display-name lang="es">DE | Sky Sport Austria 2</display-name>
+    <display-name lang="es">DE | Sky Sport Austria 2.TV</display-name>
+    <display-name lang="es">DE | Sky Sport Austria 2 SD</display-name>
+    <display-name lang="es">DE | Sky Sport Austria 2 HD</display-name>
+    <display-name lang="es">DE | Sky Sport Austria 2 FHD</display-name>
+    <display-name lang="es">DE | Sky Sport Austria 2 UHD</display-name>
+    <display-name lang="es">DE | Sky Sport Austria 2 720</display-name>
+    <display-name lang="es">DE | Sky Sport Austria 2 1080</display-name>
+    <icon src="https://www.sky.de/static/img/senderlogos_dark/729_sky_logo_skysportaustria_2-hd_tvguide.png" />
+  </channel>
+  <channel id="DE | Sky Sport Austria 3">
+    <display-name lang="es">DE | Sky Sport Austria 3</display-name>
+    <display-name lang="es">DE | Sky Sport Austria 3.TV</display-name>
+    <display-name lang="es">DE | Sky Sport Austria 3 SD</display-name>
+    <display-name lang="es">DE | Sky Sport Austria 3 HD</display-name>
+    <display-name lang="es">DE | Sky Sport Austria 3 FHD</display-name>
+    <display-name lang="es">DE | Sky Sport Austria 3 UHD</display-name>
+    <display-name lang="es">DE | Sky Sport Austria 3 720</display-name>
+    <display-name lang="es">DE | Sky Sport Austria 3 1080</display-name>
+    <icon src="https://www.sky.de/static/img/senderlogos_dark/730_sky_logo_skysportaustria_3-hd_tvguide.png" />
+  </channel>
+  <channel id="DE | Sky Sport Austria 4">
+    <display-name lang="es">DE | Sky Sport Austria 4</display-name>
+    <display-name lang="es">DE | Sky Sport Austria 4.TV</display-name>
+    <display-name lang="es">DE | Sky Sport Austria 4 SD</display-name>
+    <display-name lang="es">DE | Sky Sport Austria 4 HD</display-name>
+    <display-name lang="es">DE | Sky Sport Austria 4 FHD</display-name>
+    <display-name lang="es">DE | Sky Sport Austria 4 UHD</display-name>
+    <display-name lang="es">DE | Sky Sport Austria 4 720</display-name>
+    <display-name lang="es">DE | Sky Sport Austria 4 1080</display-name>
+    <icon src="https://www.sky.de/static/img/senderlogos_dark/898_sky_logo_skysportaustria_4-hd_tvguide.png" />
+  </channel>
+  <channel id="DE | Sky Sport Austria 5">
+    <display-name lang="es">DE | Sky Sport Austria 5</display-name>
+    <display-name lang="es">DE | Sky Sport Austria 5.TV</display-name>
+    <display-name lang="es">DE | Sky Sport Austria 5 SD</display-name>
+    <display-name lang="es">DE | Sky Sport Austria 5 HD</display-name>
+    <display-name lang="es">DE | Sky Sport Austria 5 FHD</display-name>
+    <display-name lang="es">DE | Sky Sport Austria 5 UHD</display-name>
+    <display-name lang="es">DE | Sky Sport Austria 5 720</display-name>
+    <display-name lang="es">DE | Sky Sport Austria 5 1080</display-name>
+    <icon src="https://www.sky.de/static/img/senderlogos_dark/883_sky_logo_sky-sport-austria-5-hd_tvguide.png" />
+  </channel>
+  <channel id="DE | Sky Sport Austria 6">
+    <display-name lang="es">DE | Sky Sport Austria 6</display-name>
+    <display-name lang="es">DE | Sky Sport Austria 6.TV</display-name>
+    <display-name lang="es">DE | Sky Sport Austria 6 SD</display-name>
+    <display-name lang="es">DE | Sky Sport Austria 6 HD</display-name>
+    <display-name lang="es">DE | Sky Sport Austria 6 FHD</display-name>
+    <display-name lang="es">DE | Sky Sport Austria 6 UHD</display-name>
+    <display-name lang="es">DE | Sky Sport Austria 6 720</display-name>
+    <display-name lang="es">DE | Sky Sport Austria 6 1080</display-name>
+    <icon src="https://www.sky.de/static/img/senderlogos_dark/884_sky_logo_sky-sport-austria-6-hd_tvguide.png" />
+  </channel>
+  <channel id="DE | Sky Sport Austria 7">
+    <display-name lang="es">DE | Sky Sport Austria 7</display-name>
+    <display-name lang="es">DE | Sky Sport Austria 7.TV</display-name>
+    <display-name lang="es">DE | Sky Sport Austria 7 SD</display-name>
+    <display-name lang="es">DE | Sky Sport Austria 7 HD</display-name>
+    <display-name lang="es">DE | Sky Sport Austria 7 FHD</display-name>
+    <display-name lang="es">DE | Sky Sport Austria 7 UHD</display-name>
+    <display-name lang="es">DE | Sky Sport Austria 7 720</display-name>
+    <display-name lang="es">DE | Sky Sport Austria 7 1080</display-name>
+    <icon src="https://www.sky.de/static/img/senderlogos_dark/885_sky_logo_sky-sport-austria-7-hd_tvguide.png" />
+  </channel>
+  <channel id="DE | Sky Sport Austria 8">
+    <display-name lang="es">DE | Sky Sport Austria 8</display-name>
+    <display-name lang="es">DE | Sky Sport Austria 8.TV</display-name>
+    <display-name lang="es">DE | Sky Sport Austria 8 SD</display-name>
+    <display-name lang="es">DE | Sky Sport Austria 8 HD</display-name>
+    <display-name lang="es">DE | Sky Sport Austria 8 FHD</display-name>
+    <display-name lang="es">DE | Sky Sport Austria 8 UHD</display-name>
+    <display-name lang="es">DE | Sky Sport Austria 8 720</display-name>
+    <display-name lang="es">DE | Sky Sport Austria 8 1080</display-name>
+    <icon src="https://www.sky.de/static/img/senderlogos_dark/928_sky_logo_sky-sport-austria-8-hd_tvguide.png" />
   </channel>
   <channel id="DE | Das Erste">
     <display-name lang="es">DE | Das Erste</display-name>
@@ -5937,7 +5992,7 @@
     <display-name lang="es">DE | Das Erste UHD</display-name>
     <display-name lang="es">DE | Das Erste 720</display-name>
     <display-name lang="es">DE | Das Erste 1080</display-name>
-    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Das%20Erste.png" />
+    <icon src="http://ngiss.t-online.de/cm1s/media/cf416cc96a575e40e35f43c05d829efdb176bc35.png" />
   </channel>
   <channel id="DE | ZDF">
     <display-name lang="es">DE | ZDF</display-name>
@@ -5948,7 +6003,7 @@
     <display-name lang="es">DE | ZDF UHD</display-name>
     <display-name lang="es">DE | ZDF 720</display-name>
     <display-name lang="es">DE | ZDF 1080</display-name>
-    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/ZDF.png" />
+    <icon src="http://ngiss.t-online.de/cm1s/media/e19130e25f23d70df7f85807c6ddc1c8d62109f5.png" />
   </channel>
   <channel id="DE | RTL">
     <display-name lang="es">DE | RTL</display-name>
@@ -5959,7 +6014,7 @@
     <display-name lang="es">DE | RTL UHD</display-name>
     <display-name lang="es">DE | RTL 720</display-name>
     <display-name lang="es">DE | RTL 1080</display-name>
-    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/RTL.png" />
+    <icon src="http://ngiss.t-online.de/cm1s/media/9837608c7cfa66c854354b00e53992f6861bcd1a.png" />
   </channel>
   <channel id="DE | KiKA">
     <display-name lang="es">DE | KiKA</display-name>
@@ -5970,7 +6025,7 @@
     <display-name lang="es">DE | KiKA UHD</display-name>
     <display-name lang="es">DE | KiKA 720</display-name>
     <display-name lang="es">DE | KiKA 1080</display-name>
-    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/KiKA.png" />
+    <icon src="http://ngiss.t-online.de/cm1s/media/2f0ff7b44c615c4de521878f52a67bc204e90ccc.png" />
   </channel>
   <channel id="DE | MTV">
     <display-name lang="es">DE | MTV</display-name>
@@ -5981,7 +6036,7 @@
     <display-name lang="es">DE | MTV UHD</display-name>
     <display-name lang="es">DE | MTV 720</display-name>
     <display-name lang="es">DE | MTV 1080</display-name>
-    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/MTV.png" />
+    <icon src="http://ngiss.t-online.de/cm1s/media/168b11e1cd29dad018263863ebd1ba3085694b39.png" />
   </channel>
   <channel id="DE | ARTE">
     <display-name lang="es">DE | ARTE</display-name>
@@ -5992,73 +6047,7 @@
     <display-name lang="es">DE | ARTE UHD</display-name>
     <display-name lang="es">DE | ARTE 720</display-name>
     <display-name lang="es">DE | ARTE 1080</display-name>
-    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/ARTE.png" />
-  </channel>
-  <channel id="DE | Eurosport 1">
-    <display-name lang="es">DE | Eurosport 1</display-name>
-    <display-name lang="es">DE | Eurosport 1.TV</display-name>
-    <display-name lang="es">DE | Eurosport 1 SD</display-name>
-    <display-name lang="es">DE | Eurosport 1 HD</display-name>
-    <display-name lang="es">DE | Eurosport 1 FHD</display-name>
-    <display-name lang="es">DE | Eurosport 1 UHD</display-name>
-    <display-name lang="es">DE | Eurosport 1 720</display-name>
-    <display-name lang="es">DE | Eurosport 1 1080</display-name>
-    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Eurosport%201.png" />
-  </channel>
-  <channel id="DE | Eurosport 2">
-    <display-name lang="es">DE | Eurosport 2</display-name>
-    <display-name lang="es">DE | Eurosport 2.TV</display-name>
-    <display-name lang="es">DE | Eurosport 2 SD</display-name>
-    <display-name lang="es">DE | Eurosport 2 HD</display-name>
-    <display-name lang="es">DE | Eurosport 2 FHD</display-name>
-    <display-name lang="es">DE | Eurosport 2 UHD</display-name>
-    <display-name lang="es">DE | Eurosport 2 720</display-name>
-    <display-name lang="es">DE | Eurosport 2 1080</display-name>
-    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Eurosport%202.png" />
-  </channel>
-  <channel id="DE | MOTORVISION.TV">
-    <display-name lang="es">DE | MOTORVISION.TV</display-name>
-    <display-name lang="es">DE | MOTORVISION.TV.TV</display-name>
-    <display-name lang="es">DE | MOTORVISION.TV SD</display-name>
-    <display-name lang="es">DE | MOTORVISION.TV HD</display-name>
-    <display-name lang="es">DE | MOTORVISION.TV FHD</display-name>
-    <display-name lang="es">DE | MOTORVISION.TV UHD</display-name>
-    <display-name lang="es">DE | MOTORVISION.TV 720</display-name>
-    <display-name lang="es">DE | MOTORVISION.TV 1080</display-name>
-    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/MOTORVISION.TV.png" />
-  </channel>
-  <channel id="DE | SPORT1+">
-    <display-name lang="es">DE | SPORT1+</display-name>
-    <display-name lang="es">DE | SPORT1+.TV</display-name>
-    <display-name lang="es">DE | SPORT1+ SD</display-name>
-    <display-name lang="es">DE | SPORT1+ HD</display-name>
-    <display-name lang="es">DE | SPORT1+ FHD</display-name>
-    <display-name lang="es">DE | SPORT1+ UHD</display-name>
-    <display-name lang="es">DE | SPORT1+ 720</display-name>
-    <display-name lang="es">DE | SPORT1+ 1080</display-name>
-    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/SPORT1%2B.png" />
-  </channel>
-  <channel id="DE | eSPORTS1">
-    <display-name lang="es">DE | eSPORTS1</display-name>
-    <display-name lang="es">DE | eSPORTS1.TV</display-name>
-    <display-name lang="es">DE | eSPORTS1 SD</display-name>
-    <display-name lang="es">DE | eSPORTS1 HD</display-name>
-    <display-name lang="es">DE | eSPORTS1 FHD</display-name>
-    <display-name lang="es">DE | eSPORTS1 UHD</display-name>
-    <display-name lang="es">DE | eSPORTS1 720</display-name>
-    <display-name lang="es">DE | eSPORTS1 1080</display-name>
-    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/eSPORTS1.png" />
-  </channel>
-  <channel id="DE | Red Bull TV">
-    <display-name lang="es">DE | Red Bull TV</display-name>
-    <display-name lang="es">DE | Red Bull TV.TV</display-name>
-    <display-name lang="es">DE | Red Bull TV SD</display-name>
-    <display-name lang="es">DE | Red Bull TV HD</display-name>
-    <display-name lang="es">DE | Red Bull TV FHD</display-name>
-    <display-name lang="es">DE | Red Bull TV UHD</display-name>
-    <display-name lang="es">DE | Red Bull TV 720</display-name>
-    <display-name lang="es">DE | Red Bull TV 1080</display-name>
-    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Red%20Bull%20TV.png" />
+    <icon src="http://ngiss.t-online.de/cm1s/media/8421f189118991ab7b5d1bb1a749cf8eca1b0501.png" />
   </channel>
   <channel id="DE | QVC">
     <display-name lang="es">DE | QVC</display-name>
@@ -6069,95 +6058,117 @@
     <display-name lang="es">DE | QVC UHD</display-name>
     <display-name lang="es">DE | QVC 720</display-name>
     <display-name lang="es">DE | QVC 1080</display-name>
-    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/QVC.png" />
+    <icon src="http://ngiss.t-online.de/cm1s/media/fd01d35d5c28a955c3e7e62a65d1018feb3b8317.png" />
   </channel>
-  <channel id="DE | Sky Sport F1">
-    <display-name lang="es">DE | Sky Sport F1</display-name>
-    <display-name lang="es">DE | Sky Sport F1.TV</display-name>
-    <display-name lang="es">DE | Sky Sport F1 SD</display-name>
-    <display-name lang="es">DE | Sky Sport F1 HD</display-name>
-    <display-name lang="es">DE | Sky Sport F1 FHD</display-name>
-    <display-name lang="es">DE | Sky Sport F1 UHD</display-name>
-    <display-name lang="es">DE | Sky Sport F1 720</display-name>
-    <display-name lang="es">DE | Sky Sport F1 1080</display-name>
-    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Sky%20Sport%20F1.png" />
+  <channel id="DE | More Than Sports TV">
+    <display-name lang="es">DE | More Than Sports TV</display-name>
+    <display-name lang="es">DE | More Than Sports TV.TV</display-name>
+    <display-name lang="es">DE | More Than Sports TV SD</display-name>
+    <display-name lang="es">DE | More Than Sports TV HD</display-name>
+    <display-name lang="es">DE | More Than Sports TV FHD</display-name>
+    <display-name lang="es">DE | More Than Sports TV UHD</display-name>
+    <display-name lang="es">DE | More Than Sports TV 720</display-name>
+    <display-name lang="es">DE | More Than Sports TV 1080</display-name>
+    <icon src="http://ngiss.t-online.de/cm1s/media/c6e18e3771201a6b8ff041c2836eb241497af0ea.png" />
   </channel>
-  <channel id="DE | Sky Sport Golf">
-    <display-name lang="es">DE | Sky Sport Golf</display-name>
-    <display-name lang="es">DE | Sky Sport Golf.TV</display-name>
-    <display-name lang="es">DE | Sky Sport Golf SD</display-name>
-    <display-name lang="es">DE | Sky Sport Golf HD</display-name>
-    <display-name lang="es">DE | Sky Sport Golf FHD</display-name>
-    <display-name lang="es">DE | Sky Sport Golf UHD</display-name>
-    <display-name lang="es">DE | Sky Sport Golf 720</display-name>
-    <display-name lang="es">DE | Sky Sport Golf 1080</display-name>
-    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Sky%20Sport%20Golf.png" />
+  <channel id="DE | MS Sport">
+    <display-name lang="es">DE | MS Sport</display-name>
+    <display-name lang="es">DE | MS Sport.TV</display-name>
+    <display-name lang="es">DE | MS Sport SD</display-name>
+    <display-name lang="es">DE | MS Sport HD</display-name>
+    <display-name lang="es">DE | MS Sport FHD</display-name>
+    <display-name lang="es">DE | MS Sport UHD</display-name>
+    <display-name lang="es">DE | MS Sport 720</display-name>
+    <display-name lang="es">DE | MS Sport 1080</display-name>
+    <icon src="http://ngiss.t-online.de/cm1s/media/a208c66966241315ecf746853baca8b3d5ca5ab5.png" />
   </channel>
-  <channel id="DE | Sky Sport Mix">
-    <display-name lang="es">DE | Sky Sport Mix</display-name>
-    <display-name lang="es">DE | Sky Sport Mix.TV</display-name>
-    <display-name lang="es">DE | Sky Sport Mix SD</display-name>
-    <display-name lang="es">DE | Sky Sport Mix HD</display-name>
-    <display-name lang="es">DE | Sky Sport Mix FHD</display-name>
-    <display-name lang="es">DE | Sky Sport Mix UHD</display-name>
-    <display-name lang="es">DE | Sky Sport Mix 720</display-name>
-    <display-name lang="es">DE | Sky Sport Mix 1080</display-name>
-    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Sky%20Sport%20Mix.png" />
+  <channel id="DE | Eurosport 1">
+    <display-name lang="es">DE | Eurosport 1</display-name>
+    <display-name lang="es">DE | Eurosport 1.TV</display-name>
+    <display-name lang="es">DE | Eurosport 1 SD</display-name>
+    <display-name lang="es">DE | Eurosport 1 HD</display-name>
+    <display-name lang="es">DE | Eurosport 1 FHD</display-name>
+    <display-name lang="es">DE | Eurosport 1 UHD</display-name>
+    <display-name lang="es">DE | Eurosport 1 720</display-name>
+    <display-name lang="es">DE | Eurosport 1 1080</display-name>
+    <icon src="http://ngiss.t-online.de/cm1s/media/78c2b996afeb3ce1579cf2b322ee15216020b0b6.png" />
   </channel>
-  <channel id="DE | Sky Sport Premier League">
-    <display-name lang="es">DE | Sky Sport Premier League</display-name>
-    <display-name lang="es">DE | Sky Sport Premier League.TV</display-name>
-    <display-name lang="es">DE | Sky Sport Premier League SD</display-name>
-    <display-name lang="es">DE | Sky Sport Premier League HD</display-name>
-    <display-name lang="es">DE | Sky Sport Premier League FHD</display-name>
-    <display-name lang="es">DE | Sky Sport Premier League UHD</display-name>
-    <display-name lang="es">DE | Sky Sport Premier League 720</display-name>
-    <display-name lang="es">DE | Sky Sport Premier League 1080</display-name>
-    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Sky%20Sport%20Premier%20League.png" />
+  <channel id="DE | Eurosport 2">
+    <display-name lang="es">DE | Eurosport 2</display-name>
+    <display-name lang="es">DE | Eurosport 2.TV</display-name>
+    <display-name lang="es">DE | Eurosport 2 SD</display-name>
+    <display-name lang="es">DE | Eurosport 2 HD</display-name>
+    <display-name lang="es">DE | Eurosport 2 FHD</display-name>
+    <display-name lang="es">DE | Eurosport 2 UHD</display-name>
+    <display-name lang="es">DE | Eurosport 2 720</display-name>
+    <display-name lang="es">DE | Eurosport 2 1080</display-name>
+    <icon src="http://ngiss.t-online.de/cm1s/media/2e93193d3564e9ceba2faf1a89427e489b5d981a.png" />
   </channel>
-  <channel id="DE | Sky Sport Tennis">
-    <display-name lang="es">DE | Sky Sport Tennis</display-name>
-    <display-name lang="es">DE | Sky Sport Tennis.TV</display-name>
-    <display-name lang="es">DE | Sky Sport Tennis SD</display-name>
-    <display-name lang="es">DE | Sky Sport Tennis HD</display-name>
-    <display-name lang="es">DE | Sky Sport Tennis FHD</display-name>
-    <display-name lang="es">DE | Sky Sport Tennis UHD</display-name>
-    <display-name lang="es">DE | Sky Sport Tennis 720</display-name>
-    <display-name lang="es">DE | Sky Sport Tennis 1080</display-name>
-    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Sky%20Sport%20Tennis.png" />
+  <channel id="DE | Red Bull TV">
+    <display-name lang="es">DE | Red Bull TV</display-name>
+    <display-name lang="es">DE | Red Bull TV.TV</display-name>
+    <display-name lang="es">DE | Red Bull TV SD</display-name>
+    <display-name lang="es">DE | Red Bull TV HD</display-name>
+    <display-name lang="es">DE | Red Bull TV FHD</display-name>
+    <display-name lang="es">DE | Red Bull TV UHD</display-name>
+    <display-name lang="es">DE | Red Bull TV 720</display-name>
+    <display-name lang="es">DE | Red Bull TV 1080</display-name>
+    <icon src="http://ngiss.t-online.de/cm1s/media/e1ea5bb2bb473472a8123ce8cc0079f60454c390.png" />
   </channel>
-  <channel id="DE | Sky Sport Top Event">
-    <display-name lang="es">DE | Sky Sport Top Event</display-name>
-    <display-name lang="es">DE | Sky Sport Top Event.TV</display-name>
-    <display-name lang="es">DE | Sky Sport Top Event SD</display-name>
-    <display-name lang="es">DE | Sky Sport Top Event HD</display-name>
-    <display-name lang="es">DE | Sky Sport Top Event FHD</display-name>
-    <display-name lang="es">DE | Sky Sport Top Event UHD</display-name>
-    <display-name lang="es">DE | Sky Sport Top Event 720</display-name>
-    <display-name lang="es">DE | Sky Sport Top Event 1080</display-name>
-    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Sky%20Sport%20Top%20Event.png" />
+  <channel id="DE | Red Bull TV Motorsport">
+    <display-name lang="es">DE | Red Bull TV Motorsport</display-name>
+    <display-name lang="es">DE | Red Bull TV Motorsport.TV</display-name>
+    <display-name lang="es">DE | Red Bull TV Motorsport SD</display-name>
+    <display-name lang="es">DE | Red Bull TV Motorsport HD</display-name>
+    <display-name lang="es">DE | Red Bull TV Motorsport FHD</display-name>
+    <display-name lang="es">DE | Red Bull TV Motorsport UHD</display-name>
+    <display-name lang="es">DE | Red Bull TV Motorsport 720</display-name>
+    <display-name lang="es">DE | Red Bull TV Motorsport 1080</display-name>
+    <icon src="http://ngiss.t-online.de/cm1s/media/4b9636542ae8a6af85d6a8c9f71cf11893001dc2.jpeg" />
   </channel>
-  <channel id="DE | Sky Sport News">
-    <display-name lang="es">DE | Sky Sport News</display-name>
-    <display-name lang="es">DE | Sky Sport News.TV</display-name>
-    <display-name lang="es">DE | Sky Sport News SD</display-name>
-    <display-name lang="es">DE | Sky Sport News HD</display-name>
-    <display-name lang="es">DE | Sky Sport News FHD</display-name>
-    <display-name lang="es">DE | Sky Sport News UHD</display-name>
-    <display-name lang="es">DE | Sky Sport News 720</display-name>
-    <display-name lang="es">DE | Sky Sport News 1080</display-name>
-    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Sky%20Sport%20News.png" />
+  <channel id="DE | SPORT1">
+    <display-name lang="es">DE | SPORT1</display-name>
+    <display-name lang="es">DE | SPORT1.TV</display-name>
+    <display-name lang="es">DE | SPORT1 SD</display-name>
+    <display-name lang="es">DE | SPORT1 HD</display-name>
+    <display-name lang="es">DE | SPORT1 FHD</display-name>
+    <display-name lang="es">DE | SPORT1 UHD</display-name>
+    <display-name lang="es">DE | SPORT1 720</display-name>
+    <display-name lang="es">DE | SPORT1 1080</display-name>
+    <icon src="http://ngiss.t-online.de/cm1s/media/94977337f9f8820fc5258cc186f803a581286245.png" />
   </channel>
-  <channel id="DE | Sky Sport Bundesliga">
-    <display-name lang="es">DE | Sky Sport Bundesliga</display-name>
-    <display-name lang="es">DE | Sky Sport Bundesliga.TV</display-name>
-    <display-name lang="es">DE | Sky Sport Bundesliga SD</display-name>
-    <display-name lang="es">DE | Sky Sport Bundesliga HD</display-name>
-    <display-name lang="es">DE | Sky Sport Bundesliga FHD</display-name>
-    <display-name lang="es">DE | Sky Sport Bundesliga UHD</display-name>
-    <display-name lang="es">DE | Sky Sport Bundesliga 720</display-name>
-    <display-name lang="es">DE | Sky Sport Bundesliga 1080</display-name>
-    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Sky%20Sport%20Bundesliga.png" />
+  <channel id="DE | Motorvision+">
+    <display-name lang="es">DE | Motorvision+</display-name>
+    <display-name lang="es">DE | Motorvision+.TV</display-name>
+    <display-name lang="es">DE | Motorvision+ SD</display-name>
+    <display-name lang="es">DE | Motorvision+ HD</display-name>
+    <display-name lang="es">DE | Motorvision+ FHD</display-name>
+    <display-name lang="es">DE | Motorvision+ UHD</display-name>
+    <display-name lang="es">DE | Motorvision+ 720</display-name>
+    <display-name lang="es">DE | Motorvision+ 1080</display-name>
+    <icon src="http://ngiss.t-online.de/cm1s/media/c106fe8ef548c796be95ef4d6e17d7718e8f765e.png" />
+  </channel>
+  <channel id="DE | eSportsONE">
+    <display-name lang="es">DE | eSportsONE</display-name>
+    <display-name lang="es">DE | eSportsONE.TV</display-name>
+    <display-name lang="es">DE | eSportsONE SD</display-name>
+    <display-name lang="es">DE | eSportsONE HD</display-name>
+    <display-name lang="es">DE | eSportsONE FHD</display-name>
+    <display-name lang="es">DE | eSportsONE UHD</display-name>
+    <display-name lang="es">DE | eSportsONE 720</display-name>
+    <display-name lang="es">DE | eSportsONE 1080</display-name>
+    <icon src="http://ngiss.t-online.de/cm1s/media/d9eaa902b52b78517f3b47ab210111b9d37a7fa7.png" />
+  </channel>
+  <channel id="DE | MagentaSport">
+    <display-name lang="es">DE | MagentaSport</display-name>
+    <display-name lang="es">DE | MagentaSport.TV</display-name>
+    <display-name lang="es">DE | MagentaSport SD</display-name>
+    <display-name lang="es">DE | MagentaSport HD</display-name>
+    <display-name lang="es">DE | MagentaSport FHD</display-name>
+    <display-name lang="es">DE | MagentaSport UHD</display-name>
+    <display-name lang="es">DE | MagentaSport 720</display-name>
+    <display-name lang="es">DE | MagentaSport 1080</display-name>
+    <icon src="http://ngiss.t-online.de/cm1s/media/ac4a4a48299d42f6ee414227a1e3e25da23a3abd.png" />
   </channel>
   <channel id="DE | SPORTDIGITAL FUSSBALL">
     <display-name lang="es">DE | SPORTDIGITAL FUSSBALL</display-name>
@@ -6168,7 +6179,117 @@
     <display-name lang="es">DE | SPORTDIGITAL FUSSBALL UHD</display-name>
     <display-name lang="es">DE | SPORTDIGITAL FUSSBALL 720</display-name>
     <display-name lang="es">DE | SPORTDIGITAL FUSSBALL 1080</display-name>
-    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/SPORTDIGITAL%20FUSSBALL.png" />
+    <icon src="http://ngiss.t-online.de/cm1s/media/58639959eb7241ee5cc8dbf96122c1f73ec809a9.png" />
+  </channel>
+  <channel id="DE | Sportdigital1+">
+    <display-name lang="es">DE | Sportdigital1+</display-name>
+    <display-name lang="es">DE | Sportdigital1+.TV</display-name>
+    <display-name lang="es">DE | Sportdigital1+ SD</display-name>
+    <display-name lang="es">DE | Sportdigital1+ HD</display-name>
+    <display-name lang="es">DE | Sportdigital1+ FHD</display-name>
+    <display-name lang="es">DE | Sportdigital1+ UHD</display-name>
+    <display-name lang="es">DE | Sportdigital1+ 720</display-name>
+    <display-name lang="es">DE | Sportdigital1+ 1080</display-name>
+    <icon src="http://ngiss.t-online.de/cm1s/media/1387e929a8dc564c1b47249c58db2087ae0fc93b.png" />
+  </channel>
+  <channel id="DE | Sky Sport Kompakt 1">
+    <display-name lang="es">DE | Sky Sport Kompakt 1</display-name>
+    <display-name lang="es">DE | Sky Sport Kompakt 1.TV</display-name>
+    <display-name lang="es">DE | Sky Sport Kompakt 1 SD</display-name>
+    <display-name lang="es">DE | Sky Sport Kompakt 1 HD</display-name>
+    <display-name lang="es">DE | Sky Sport Kompakt 1 FHD</display-name>
+    <display-name lang="es">DE | Sky Sport Kompakt 1 UHD</display-name>
+    <display-name lang="es">DE | Sky Sport Kompakt 1 720</display-name>
+    <display-name lang="es">DE | Sky Sport Kompakt 1 1080</display-name>
+    <icon src="http://ngiss.t-online.de/cm1s/media/50dd32f0f42a79c4b5379b499412f381564764e3.png" />
+  </channel>
+  <channel id="DE | Sky Sport News">
+    <display-name lang="es">DE | Sky Sport News</display-name>
+    <display-name lang="es">DE | Sky Sport News.TV</display-name>
+    <display-name lang="es">DE | Sky Sport News SD</display-name>
+    <display-name lang="es">DE | Sky Sport News HD</display-name>
+    <display-name lang="es">DE | Sky Sport News FHD</display-name>
+    <display-name lang="es">DE | Sky Sport News UHD</display-name>
+    <display-name lang="es">DE | Sky Sport News 720</display-name>
+    <display-name lang="es">DE | Sky Sport News 1080</display-name>
+    <icon src="http://ngiss.t-online.de/cm1s/media/2498751ec7f984ac0d80376e61d8322492d69b83.png" />
+  </channel>
+  <channel id="DE | Sky Sport Top Event">
+    <display-name lang="es">DE | Sky Sport Top Event</display-name>
+    <display-name lang="es">DE | Sky Sport Top Event.TV</display-name>
+    <display-name lang="es">DE | Sky Sport Top Event SD</display-name>
+    <display-name lang="es">DE | Sky Sport Top Event HD</display-name>
+    <display-name lang="es">DE | Sky Sport Top Event FHD</display-name>
+    <display-name lang="es">DE | Sky Sport Top Event UHD</display-name>
+    <display-name lang="es">DE | Sky Sport Top Event 720</display-name>
+    <display-name lang="es">DE | Sky Sport Top Event 1080</display-name>
+    <icon src="http://ngiss.t-online.de/cm1s/media/577040e2d47ce20ce71f0985bd447e2f328542fd.png" />
+  </channel>
+  <channel id="DE | Sky Sport Bundesliga">
+    <display-name lang="es">DE | Sky Sport Bundesliga</display-name>
+    <display-name lang="es">DE | Sky Sport Bundesliga.TV</display-name>
+    <display-name lang="es">DE | Sky Sport Bundesliga SD</display-name>
+    <display-name lang="es">DE | Sky Sport Bundesliga HD</display-name>
+    <display-name lang="es">DE | Sky Sport Bundesliga FHD</display-name>
+    <display-name lang="es">DE | Sky Sport Bundesliga UHD</display-name>
+    <display-name lang="es">DE | Sky Sport Bundesliga 720</display-name>
+    <display-name lang="es">DE | Sky Sport Bundesliga 1080</display-name>
+    <icon src="http://ngiss.t-online.de/cm1s/media/e05bdb7a982d1d570cf99d19ad357d5572e477eb.png" />
+  </channel>
+  <channel id="DE | Sky Sport F1">
+    <display-name lang="es">DE | Sky Sport F1</display-name>
+    <display-name lang="es">DE | Sky Sport F1.TV</display-name>
+    <display-name lang="es">DE | Sky Sport F1 SD</display-name>
+    <display-name lang="es">DE | Sky Sport F1 HD</display-name>
+    <display-name lang="es">DE | Sky Sport F1 FHD</display-name>
+    <display-name lang="es">DE | Sky Sport F1 UHD</display-name>
+    <display-name lang="es">DE | Sky Sport F1 720</display-name>
+    <display-name lang="es">DE | Sky Sport F1 1080</display-name>
+    <icon src="http://ngiss.t-online.de/cm1s/media/5e262f2be1a0530c07327d65e867d74b524fac03.png" />
+  </channel>
+  <channel id="DE | Sky Sport Premier League">
+    <display-name lang="es">DE | Sky Sport Premier League</display-name>
+    <display-name lang="es">DE | Sky Sport Premier League.TV</display-name>
+    <display-name lang="es">DE | Sky Sport Premier League SD</display-name>
+    <display-name lang="es">DE | Sky Sport Premier League HD</display-name>
+    <display-name lang="es">DE | Sky Sport Premier League FHD</display-name>
+    <display-name lang="es">DE | Sky Sport Premier League UHD</display-name>
+    <display-name lang="es">DE | Sky Sport Premier League 720</display-name>
+    <display-name lang="es">DE | Sky Sport Premier League 1080</display-name>
+    <icon src="http://ngiss.t-online.de/cm1s/media/7cf51fbd8edfb9a32257339ecb7ad0f8eee8b989.png" />
+  </channel>
+  <channel id="DE | Sky Sport Mix">
+    <display-name lang="es">DE | Sky Sport Mix</display-name>
+    <display-name lang="es">DE | Sky Sport Mix.TV</display-name>
+    <display-name lang="es">DE | Sky Sport Mix SD</display-name>
+    <display-name lang="es">DE | Sky Sport Mix HD</display-name>
+    <display-name lang="es">DE | Sky Sport Mix FHD</display-name>
+    <display-name lang="es">DE | Sky Sport Mix UHD</display-name>
+    <display-name lang="es">DE | Sky Sport Mix 720</display-name>
+    <display-name lang="es">DE | Sky Sport Mix 1080</display-name>
+    <icon src="http://ngiss.t-online.de/cm1s/media/ed2e5bdbaddbfbb84f40d2980fd9bf4022a5a1b9.png" />
+  </channel>
+  <channel id="DE | Sky Sport Tennis">
+    <display-name lang="es">DE | Sky Sport Tennis</display-name>
+    <display-name lang="es">DE | Sky Sport Tennis.TV</display-name>
+    <display-name lang="es">DE | Sky Sport Tennis SD</display-name>
+    <display-name lang="es">DE | Sky Sport Tennis HD</display-name>
+    <display-name lang="es">DE | Sky Sport Tennis FHD</display-name>
+    <display-name lang="es">DE | Sky Sport Tennis UHD</display-name>
+    <display-name lang="es">DE | Sky Sport Tennis 720</display-name>
+    <display-name lang="es">DE | Sky Sport Tennis 1080</display-name>
+    <icon src="http://ngiss.t-online.de/cm1s/media/2b8c1e691bf3f12b2ca1d01fe233ebf4871d8808.png" />
+  </channel>
+  <channel id="DE | Sky Sport Golf">
+    <display-name lang="es">DE | Sky Sport Golf</display-name>
+    <display-name lang="es">DE | Sky Sport Golf.TV</display-name>
+    <display-name lang="es">DE | Sky Sport Golf SD</display-name>
+    <display-name lang="es">DE | Sky Sport Golf HD</display-name>
+    <display-name lang="es">DE | Sky Sport Golf FHD</display-name>
+    <display-name lang="es">DE | Sky Sport Golf UHD</display-name>
+    <display-name lang="es">DE | Sky Sport Golf 720</display-name>
+    <display-name lang="es">DE | Sky Sport Golf 1080</display-name>
+    <icon src="http://ngiss.t-online.de/cm1s/media/4522d64c5b2b9fd8ed24d3cd9e03d918dc32037d.png" />
   </channel>
   <channel id="DE | Sky Sport Bundesliga 1">
     <display-name lang="es">DE | Sky Sport Bundesliga 1</display-name>
@@ -6179,7 +6300,7 @@
     <display-name lang="es">DE | Sky Sport Bundesliga 1 UHD</display-name>
     <display-name lang="es">DE | Sky Sport Bundesliga 1 720</display-name>
     <display-name lang="es">DE | Sky Sport Bundesliga 1 1080</display-name>
-    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Sky%20Sport%20Bundesliga%201.png" />
+    <icon src="http://ngiss.t-online.de/cm1s/media/315f4e1d7ae0ed6a576cc85574c6e195f2820925.png" />
   </channel>
   <channel id="DE | Sky Sport Bundesliga 2">
     <display-name lang="es">DE | Sky Sport Bundesliga 2</display-name>
@@ -6190,7 +6311,7 @@
     <display-name lang="es">DE | Sky Sport Bundesliga 2 UHD</display-name>
     <display-name lang="es">DE | Sky Sport Bundesliga 2 720</display-name>
     <display-name lang="es">DE | Sky Sport Bundesliga 2 1080</display-name>
-    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Sky%20Sport%20Bundesliga%202.png" />
+    <icon src="http://ngiss.t-online.de/cm1s/media/54fdfb49171a1da7210ccf22d8f8af24934365e1.png" />
   </channel>
   <channel id="DE | Sky Sport Bundesliga 3">
     <display-name lang="es">DE | Sky Sport Bundesliga 3</display-name>
@@ -6201,7 +6322,7 @@
     <display-name lang="es">DE | Sky Sport Bundesliga 3 UHD</display-name>
     <display-name lang="es">DE | Sky Sport Bundesliga 3 720</display-name>
     <display-name lang="es">DE | Sky Sport Bundesliga 3 1080</display-name>
-    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Sky%20Sport%20Bundesliga%203.png" />
+    <icon src="http://ngiss.t-online.de/cm1s/media/b7604a3db1310d4a4fb83fffb15debe55d41dbf7.png" />
   </channel>
   <channel id="DE | Sky Sport Bundesliga 4">
     <display-name lang="es">DE | Sky Sport Bundesliga 4</display-name>
@@ -6212,7 +6333,7 @@
     <display-name lang="es">DE | Sky Sport Bundesliga 4 UHD</display-name>
     <display-name lang="es">DE | Sky Sport Bundesliga 4 720</display-name>
     <display-name lang="es">DE | Sky Sport Bundesliga 4 1080</display-name>
-    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Sky%20Sport%20Bundesliga%204.png" />
+    <icon src="http://ngiss.t-online.de/cm1s/media/ab1f8d87c8f74b510387c81c0a89aa004006ee60.png" />
   </channel>
   <channel id="DE | Sky Sport Bundesliga 5">
     <display-name lang="es">DE | Sky Sport Bundesliga 5</display-name>
@@ -6223,7 +6344,7 @@
     <display-name lang="es">DE | Sky Sport Bundesliga 5 UHD</display-name>
     <display-name lang="es">DE | Sky Sport Bundesliga 5 720</display-name>
     <display-name lang="es">DE | Sky Sport Bundesliga 5 1080</display-name>
-    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Sky%20Sport%20Bundesliga%205.png" />
+    <icon src="http://ngiss.t-online.de/cm1s/media/9fbf9f911b60bb7c0bbfceaf6b0506cadf63cc02.png" />
   </channel>
   <channel id="DE | Sky Sport Bundesliga 6">
     <display-name lang="es">DE | Sky Sport Bundesliga 6</display-name>
@@ -6234,7 +6355,7 @@
     <display-name lang="es">DE | Sky Sport Bundesliga 6 UHD</display-name>
     <display-name lang="es">DE | Sky Sport Bundesliga 6 720</display-name>
     <display-name lang="es">DE | Sky Sport Bundesliga 6 1080</display-name>
-    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Sky%20Sport%20Bundesliga%206.png" />
+    <icon src="http://ngiss.t-online.de/cm1s/media/1f8dc21b9fce64499d61956f407ab5a72cb78ed0.png" />
   </channel>
   <channel id="DE | Sky Sport Bundesliga 7">
     <display-name lang="es">DE | Sky Sport Bundesliga 7</display-name>
@@ -6245,7 +6366,7 @@
     <display-name lang="es">DE | Sky Sport Bundesliga 7 UHD</display-name>
     <display-name lang="es">DE | Sky Sport Bundesliga 7 720</display-name>
     <display-name lang="es">DE | Sky Sport Bundesliga 7 1080</display-name>
-    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Sky%20Sport%20Bundesliga%207.png" />
+    <icon src="http://ngiss.t-online.de/cm1s/media/ec53727b223a2c6b129c78e2b06c7f45cce4659a.png" />
   </channel>
   <channel id="DE | Sky Sport Bundesliga 8">
     <display-name lang="es">DE | Sky Sport Bundesliga 8</display-name>
@@ -6256,7 +6377,7 @@
     <display-name lang="es">DE | Sky Sport Bundesliga 8 UHD</display-name>
     <display-name lang="es">DE | Sky Sport Bundesliga 8 720</display-name>
     <display-name lang="es">DE | Sky Sport Bundesliga 8 1080</display-name>
-    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Sky%20Sport%20Bundesliga%208.png" />
+    <icon src="http://ngiss.t-online.de/cm1s/media/d997f9be46160f7c3db14cbdc3cf2b48fc6eb274.png" />
   </channel>
   <channel id="DE | Sky Sport Bundesliga 9">
     <display-name lang="es">DE | Sky Sport Bundesliga 9</display-name>
@@ -6267,7 +6388,7 @@
     <display-name lang="es">DE | Sky Sport Bundesliga 9 UHD</display-name>
     <display-name lang="es">DE | Sky Sport Bundesliga 9 720</display-name>
     <display-name lang="es">DE | Sky Sport Bundesliga 9 1080</display-name>
-    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Sky%20Sport%20Bundesliga%209.png" />
+    <icon src="http://ngiss.t-online.de/cm1s/media/e48399d331a672785f16f1011054a01cd52413df.png" />
   </channel>
   <channel id="DE | Sky Sport Bundesliga 10">
     <display-name lang="es">DE | Sky Sport Bundesliga 10</display-name>
@@ -6278,7 +6399,7 @@
     <display-name lang="es">DE | Sky Sport Bundesliga 10 UHD</display-name>
     <display-name lang="es">DE | Sky Sport Bundesliga 10 720</display-name>
     <display-name lang="es">DE | Sky Sport Bundesliga 10 1080</display-name>
-    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Sky%20Sport%20Bundesliga%2010.png" />
+    <icon src="http://ngiss.t-online.de/cm1s/media/d00d089e311ba581066027cff70935778efaf201.png" />
   </channel>
   <channel id="DE | Sky Sport 1">
     <display-name lang="es">DE | Sky Sport 1</display-name>
@@ -6289,7 +6410,7 @@
     <display-name lang="es">DE | Sky Sport 1 UHD</display-name>
     <display-name lang="es">DE | Sky Sport 1 720</display-name>
     <display-name lang="es">DE | Sky Sport 1 1080</display-name>
-    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Sky%20Sport%201.png" />
+    <icon src="http://ngiss.t-online.de/cm1s/media/bfca3bcb13981de2a46b970f3167110e0f3c5a83.png" />
   </channel>
   <channel id="DE | Sky Sport 2">
     <display-name lang="es">DE | Sky Sport 2</display-name>
@@ -6300,7 +6421,7 @@
     <display-name lang="es">DE | Sky Sport 2 UHD</display-name>
     <display-name lang="es">DE | Sky Sport 2 720</display-name>
     <display-name lang="es">DE | Sky Sport 2 1080</display-name>
-    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Sky%20Sport%202.png" />
+    <icon src="http://ngiss.t-online.de/cm1s/media/c330c871a2f15660efbf06c917fc6af8606874c7.png" />
   </channel>
   <channel id="DE | Sky Sport 3">
     <display-name lang="es">DE | Sky Sport 3</display-name>
@@ -6311,7 +6432,7 @@
     <display-name lang="es">DE | Sky Sport 3 UHD</display-name>
     <display-name lang="es">DE | Sky Sport 3 720</display-name>
     <display-name lang="es">DE | Sky Sport 3 1080</display-name>
-    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Sky%20Sport%203.png" />
+    <icon src="http://ngiss.t-online.de/cm1s/media/f3093734389bd620327880348d7974ba38d4c4d3.png" />
   </channel>
   <channel id="DE | Sky Sport 4">
     <display-name lang="es">DE | Sky Sport 4</display-name>
@@ -6322,7 +6443,7 @@
     <display-name lang="es">DE | Sky Sport 4 UHD</display-name>
     <display-name lang="es">DE | Sky Sport 4 720</display-name>
     <display-name lang="es">DE | Sky Sport 4 1080</display-name>
-    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Sky%20Sport%204.png" />
+    <icon src="http://ngiss.t-online.de/cm1s/media/c6a8dbde2b6d4afa5961586d6317f0cc86ddc6e9.png" />
   </channel>
   <channel id="DE | Sky Sport 5">
     <display-name lang="es">DE | Sky Sport 5</display-name>
@@ -6333,7 +6454,7 @@
     <display-name lang="es">DE | Sky Sport 5 UHD</display-name>
     <display-name lang="es">DE | Sky Sport 5 720</display-name>
     <display-name lang="es">DE | Sky Sport 5 1080</display-name>
-    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Sky%20Sport%205.png" />
+    <icon src="http://ngiss.t-online.de/cm1s/media/cda082d3267802e1bd0721e6a64850b2920ac427.png" />
   </channel>
   <channel id="DE | Sky Sport 6">
     <display-name lang="es">DE | Sky Sport 6</display-name>
@@ -6344,7 +6465,7 @@
     <display-name lang="es">DE | Sky Sport 6 UHD</display-name>
     <display-name lang="es">DE | Sky Sport 6 720</display-name>
     <display-name lang="es">DE | Sky Sport 6 1080</display-name>
-    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Sky%20Sport%206.png" />
+    <icon src="http://ngiss.t-online.de/cm1s/media/acc2e098dc86b8c85a1bbfa5f6311b5978603e1c.png" />
   </channel>
   <channel id="DE | Sky Sport 7">
     <display-name lang="es">DE | Sky Sport 7</display-name>
@@ -6355,7 +6476,7 @@
     <display-name lang="es">DE | Sky Sport 7 UHD</display-name>
     <display-name lang="es">DE | Sky Sport 7 720</display-name>
     <display-name lang="es">DE | Sky Sport 7 1080</display-name>
-    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Sky%20Sport%207.png" />
+    <icon src="http://ngiss.t-online.de/cm1s/media/3957d066cf0f424aabd67e0d677737ff0c2b524c.png" />
   </channel>
   <channel id="DE | Sky Sport 8">
     <display-name lang="es">DE | Sky Sport 8</display-name>
@@ -6366,7 +6487,7 @@
     <display-name lang="es">DE | Sky Sport 8 UHD</display-name>
     <display-name lang="es">DE | Sky Sport 8 720</display-name>
     <display-name lang="es">DE | Sky Sport 8 1080</display-name>
-    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Sky%20Sport%208.png" />
+    <icon src="http://ngiss.t-online.de/cm1s/media/27bc8c5ac71da92955eb4952145b305d6d1813d5.png" />
   </channel>
   <channel id="DE | Sky Sport 9">
     <display-name lang="es">DE | Sky Sport 9</display-name>
@@ -6377,7 +6498,7 @@
     <display-name lang="es">DE | Sky Sport 9 UHD</display-name>
     <display-name lang="es">DE | Sky Sport 9 720</display-name>
     <display-name lang="es">DE | Sky Sport 9 1080</display-name>
-    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Sky%20Sport%209.png" />
+    <icon src="http://ngiss.t-online.de/cm1s/media/2b19683849d2f29ba98a944a4489a09625603b14.png" />
   </channel>
   <channel id="DE | Sky Sport 10">
     <display-name lang="es">DE | Sky Sport 10</display-name>
@@ -6388,7 +6509,7 @@
     <display-name lang="es">DE | Sky Sport 10 UHD</display-name>
     <display-name lang="es">DE | Sky Sport 10 720</display-name>
     <display-name lang="es">DE | Sky Sport 10 1080</display-name>
-    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Sky%20Sport%2010.png" />
+    <icon src="http://ngiss.t-online.de/cm1s/media/25751836767f9282d88d99e61c38a1529b0616d3.png" />
   </channel>
   <channel id="UK | Premier Sports 1">
     <display-name lang="es">UK | Premier Sports 1</display-name>
