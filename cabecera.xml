@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tv generator-info-name="dobleM 22/09/2025 20:50" generator-info-url="t.me/EPG_dobleM">
+<tv generator-info-name="dobleM 23/09/2025 20:45" generator-info-url="t.me/EPG_dobleM">
   <channel id="La 1 HD">
     <display-name lang="es">La 1</display-name>
     <display-name lang="es">La 1.TV</display-name>
@@ -2563,28 +2563,6 @@
     <display-name lang="es">DAZN Liga F 6 1080</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v4/onboarding-images/none/sn_5k620c7y6dlbmcm88dt3eb7t/fill/center/top/none/100/0/0/png/image/25/g" />
   </channel>
-  <channel id="DAZN Liga F 7">
-    <display-name lang="es">DAZN Liga F 7</display-name>
-    <display-name lang="es">DAZN Liga F 7.TV</display-name>
-    <display-name lang="es">DAZN Liga F 7 SD</display-name>
-    <display-name lang="es">DAZN Liga F 7 HD</display-name>
-    <display-name lang="es">DAZN Liga F 7 FHD</display-name>
-    <display-name lang="es">DAZN Liga F 7 UHD</display-name>
-    <display-name lang="es">DAZN Liga F 7 720</display-name>
-    <display-name lang="es">DAZN Liga F 7 1080</display-name>
-    <icon src="https://image.discovery.indazn.com/eu/v4/onboarding-images/none/sn_5k620c7y6dlbmcm88dt3eb7t/fill/center/top/none/100/0/0/png/image/25/g" />
-  </channel>
-  <channel id="DAZN Liga F 8">
-    <display-name lang="es">DAZN Liga F 8</display-name>
-    <display-name lang="es">DAZN Liga F 8.TV</display-name>
-    <display-name lang="es">DAZN Liga F 8 SD</display-name>
-    <display-name lang="es">DAZN Liga F 8 HD</display-name>
-    <display-name lang="es">DAZN Liga F 8 FHD</display-name>
-    <display-name lang="es">DAZN Liga F 8 UHD</display-name>
-    <display-name lang="es">DAZN Liga F 8 720</display-name>
-    <display-name lang="es">DAZN Liga F 8 1080</display-name>
-    <icon src="https://image.discovery.indazn.com/eu/v4/onboarding-images/none/sn_5k620c7y6dlbmcm88dt3eb7t/fill/center/top/none/100/0/0/png/image/25/g" />
-  </channel>
   <channel id="DAZN Premier League">
     <display-name lang="es">DAZN Premier League</display-name>
     <display-name lang="es">DAZN Premier League.TV</display-name>
@@ -3848,6 +3826,7 @@
     <display-name lang="es">Onetoro UHD</display-name>
     <display-name lang="es">Onetoro 720</display-name>
     <display-name lang="es">Onetoro 1080</display-name>
+    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Onetoro.png" />
   </channel>
   <channel id="Libertad Digital TV">
     <display-name lang="es">Libertad Digital TV</display-name>
