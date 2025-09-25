@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tv generator-info-name="dobleM 23/09/2025 20:45" generator-info-url="t.me/EPG_dobleM">
+<tv generator-info-name="dobleM 24/09/2025 22:59" generator-info-url="t.me/EPG_dobleM">
   <channel id="La 1 HD">
     <display-name lang="es">La 1</display-name>
     <display-name lang="es">La 1.TV</display-name>
@@ -2552,17 +2552,6 @@
     <display-name lang="es">DAZN Liga F 5 1080</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v4/onboarding-images/none/sn_5k620c7y6dlbmcm88dt3eb7t/fill/center/top/none/100/0/0/png/image/25/g" />
   </channel>
-  <channel id="DAZN Liga F 6">
-    <display-name lang="es">DAZN Liga F 6</display-name>
-    <display-name lang="es">DAZN Liga F 6.TV</display-name>
-    <display-name lang="es">DAZN Liga F 6 SD</display-name>
-    <display-name lang="es">DAZN Liga F 6 HD</display-name>
-    <display-name lang="es">DAZN Liga F 6 FHD</display-name>
-    <display-name lang="es">DAZN Liga F 6 UHD</display-name>
-    <display-name lang="es">DAZN Liga F 6 720</display-name>
-    <display-name lang="es">DAZN Liga F 6 1080</display-name>
-    <icon src="https://image.discovery.indazn.com/eu/v4/onboarding-images/none/sn_5k620c7y6dlbmcm88dt3eb7t/fill/center/top/none/100/0/0/png/image/25/g" />
-  </channel>
   <channel id="DAZN Premier League">
     <display-name lang="es">DAZN Premier League</display-name>
     <display-name lang="es">DAZN Premier League.TV</display-name>
@@ -3276,7 +3265,7 @@
     <display-name lang="es">mtmad UHD</display-name>
     <display-name lang="es">mtmad 720</display-name>
     <display-name lang="es">mtmad 1080</display-name>
-    <icon src="https://img-prod-api2.mediasetplay.mediaset.it/api/images/by/v5/esp/aHR0cHM6Ly9kYW0uY2xvdWQubWVkaWFzZXQubmV0L20vM2M4MWNjYTAxMzVjZjdiNC9vcmlnaW5hbC9DaGFubmVsX2xvZ28tTXRtYWQucG5n/single/87/87@2?r=%202x&quot;%20media=&quot;(max-width:%201023px)|https://img-prod-api2.mediasetplay.mediaset.it/api/images/by/v5/esp/aHR0cHM6Ly9kYW0uY2xvdWQubWVkaWFzZXQubmV0L20vM2M4MWNjYTAxMzVjZjdiNC9vcmlnaW5hbC9DaGFubmVsX2xvZ28tTXRtYWQucG5n/single/87/87@2?r=%202x&quot;%20media=&quot;(max-width:%201023px)|https://img-prod-api2.mediasetplay.mediaset.it/api/images/by/v5/esp/aHR0cHM6Ly9kYW0uY2xvdWQubWVkaWFzZXQubmV0L20vM2M4MWNjYTAxMzVjZjdiNC9vcmlnaW5hbC9DaGFubmVsX2xvZ28tTXRtYWQucG5n/single/87/87@2?r=%202x&quot;%20media=&quot;(max-width:%201023px)|https://img-prod-api2.mediasetplay.mediaset.it/api/images/by/v5/esp/aHR0cHM6Ly9kYW0uY2xvdWQubWVkaWFzZXQubmV0L20vM2M4MWNjYTAxMzVjZjdiNC9vcmlnaW5hbC9DaGFubmVsX2xvZ28tTXRtYWQucG5n/single/87/87@2?r=%202x&quot;%20media=&quot;(max-width:%201023px)|https://img-prod-api2.mediasetplay.mediaset.it/api/images/by/v5/esp/aHR0cHM6Ly9kYW0uY2xvdWQubWVkaWFzZXQubmV0L20vM2M4MWNjYTAxMzVjZjdiNC9vcmlnaW5hbC9DaGFubmVsX2xvZ28tTXRtYWQucG5n/single/87/87@2?r=%202x&quot;%20media=&quot;(max-width:%201023px)|https://img-prod-api2.mediasetplay.mediaset.it/api/images/by/v5/esp/aHR0cHM6Ly9kYW0uY2xvdWQubWVkaWFzZXQubmV0L20vM2M4MWNjYTAxMzVjZjdiNC9vcmlnaW5hbC9DaGFubmVsX2xvZ28tTXRtYWQucG5n/single/87/87@2?r=%202x&quot;%20media=&quot;(max-width:%201023px)|https://img-prod-api2.mediasetplay.mediaset.it/api/images/by/v5/esp/aHR0cHM6Ly9kYW0uY2xvdWQubWVkaWFzZXQubmV0L20vM2M4MWNjYTAxMzVjZjdiNC9vcmlnaW5hbC9DaGFubmVsX2xvZ28tTXRtYWQucG5n/single/87/87@2?r=%202x&quot;%20media=&quot;(max-width:%201023px)" />
+    <icon src="https://img-prod-api2.mediasetplay.mediaset.it/api/images/by/v5/esp/aHR0cHM6Ly9kYW0uY2xvdWQubWVkaWFzZXQubmV0L20vM2M4MWNjYTAxMzVjZjdiNC9vcmlnaW5hbC9DaGFubmVsX2xvZ28tTXRtYWQucG5n/single/87/87@2?r=%202x&quot;%20media=&quot;(max-width:%201023px)|https://img-prod-api2.mediasetplay.mediaset.it/api/images/by/v5/esp/aHR0cHM6Ly9kYW0uY2xvdWQubWVkaWFzZXQubmV0L20vM2M4MWNjYTAxMzVjZjdiNC9vcmlnaW5hbC9DaGFubmVsX2xvZ28tTXRtYWQucG5n/single/87/87@2?r=%202x&quot;%20media=&quot;(max-width:%201023px)|https://img-prod-api2.mediasetplay.mediaset.it/api/images/by/v5/esp/aHR0cHM6Ly9kYW0uY2xvdWQubWVkaWFzZXQubmV0L20vM2M4MWNjYTAxMzVjZjdiNC9vcmlnaW5hbC9DaGFubmVsX2xvZ28tTXRtYWQucG5n/single/87/87@2?r=%202x&quot;%20media=&quot;(max-width:%201023px)|https://img-prod-api2.mediasetplay.mediaset.it/api/images/by/v5/esp/aHR0cHM6Ly9kYW0uY2xvdWQubWVkaWFzZXQubmV0L20vM2M4MWNjYTAxMzVjZjdiNC9vcmlnaW5hbC9DaGFubmVsX2xvZ28tTXRtYWQucG5n/single/87/87@2?r=%202x&quot;%20media=&quot;(max-width:%201023px)|https://img-prod-api2.mediasetplay.mediaset.it/api/images/by/v5/esp/aHR0cHM6Ly9kYW0uY2xvdWQubWVkaWFzZXQubmV0L20vM2M4MWNjYTAxMzVjZjdiNC9vcmlnaW5hbC9DaGFubmVsX2xvZ28tTXRtYWQucG5n/single/87/87@2?r=%202x&quot;%20media=&quot;(max-width:%201023px)|https://img-prod-api2.mediasetplay.mediaset.it/api/images/by/v5/esp/aHR0cHM6Ly9kYW0uY2xvdWQubWVkaWFzZXQubmV0L20vM2M4MWNjYTAxMzVjZjdiNC9vcmlnaW5hbC9DaGFubmVsX2xvZ28tTXRtYWQucG5n/single/87/87@2?r=%202x&quot;%20media=&quot;(max-width:%201023px)" />
   </channel>
   <channel id="Padel 24h">
     <display-name lang="es">Padel 24h</display-name>
@@ -3287,7 +3276,7 @@
     <display-name lang="es">Padel 24h UHD</display-name>
     <display-name lang="es">Padel 24h 720</display-name>
     <display-name lang="es">Padel 24h 1080</display-name>
-    <icon src="https://img-prod-api2.mediasetplay.mediaset.it/api/images/by/v5/esp/aHR0cHM6Ly9kYW0uY2xvdWQubWVkaWFzZXQubmV0L20vMTBjYWQ2OGJkNzgyMTQ2Mi9vcmlnaW5hbC9DaGFubmVsX2xvZ28tUGFkZWwyNGgucG5n/single/87/87@2?r=%202x&quot;%20media=&quot;(max-width:%201023px)|https://img-prod-api2.mediasetplay.mediaset.it/api/images/by/v5/esp/aHR0cHM6Ly9kYW0uY2xvdWQubWVkaWFzZXQubmV0L20vMTBjYWQ2OGJkNzgyMTQ2Mi9vcmlnaW5hbC9DaGFubmVsX2xvZ28tUGFkZWwyNGgucG5n/single/87/87@2?r=%202x&quot;%20media=&quot;(max-width:%201023px)|https://img-prod-api2.mediasetplay.mediaset.it/api/images/by/v5/esp/aHR0cHM6Ly9kYW0uY2xvdWQubWVkaWFzZXQubmV0L20vMTBjYWQ2OGJkNzgyMTQ2Mi9vcmlnaW5hbC9DaGFubmVsX2xvZ28tUGFkZWwyNGgucG5n/single/87/87@2?r=%202x&quot;%20media=&quot;(max-width:%201023px)|https://img-prod-api2.mediasetplay.mediaset.it/api/images/by/v5/esp/aHR0cHM6Ly9kYW0uY2xvdWQubWVkaWFzZXQubmV0L20vMTBjYWQ2OGJkNzgyMTQ2Mi9vcmlnaW5hbC9DaGFubmVsX2xvZ28tUGFkZWwyNGgucG5n/single/87/87@2?r=%202x&quot;%20media=&quot;(max-width:%201023px)|https://img-prod-api2.mediasetplay.mediaset.it/api/images/by/v5/esp/aHR0cHM6Ly9kYW0uY2xvdWQubWVkaWFzZXQubmV0L20vMTBjYWQ2OGJkNzgyMTQ2Mi9vcmlnaW5hbC9DaGFubmVsX2xvZ28tUGFkZWwyNGgucG5n/single/87/87@2?r=%202x&quot;%20media=&quot;(max-width:%201023px)|https://img-prod-api2.mediasetplay.mediaset.it/api/images/by/v5/esp/aHR0cHM6Ly9kYW0uY2xvdWQubWVkaWFzZXQubmV0L20vMTBjYWQ2OGJkNzgyMTQ2Mi9vcmlnaW5hbC9DaGFubmVsX2xvZ28tUGFkZWwyNGgucG5n/single/87/87@2?r=%202x&quot;%20media=&quot;(max-width:%201023px)|https://img-prod-api2.mediasetplay.mediaset.it/api/images/by/v5/esp/aHR0cHM6Ly9kYW0uY2xvdWQubWVkaWFzZXQubmV0L20vMTBjYWQ2OGJkNzgyMTQ2Mi9vcmlnaW5hbC9DaGFubmVsX2xvZ28tUGFkZWwyNGgucG5n/single/87/87@2?r=%202x&quot;%20media=&quot;(max-width:%201023px)" />
+    <icon src="https://img-prod-api2.mediasetplay.mediaset.it/api/images/by/v5/esp/aHR0cHM6Ly9kYW0uY2xvdWQubWVkaWFzZXQubmV0L20vMTBjYWQ2OGJkNzgyMTQ2Mi9vcmlnaW5hbC9DaGFubmVsX2xvZ28tUGFkZWwyNGgucG5n/single/87/87@2?r=%202x&quot;%20media=&quot;(max-width:%201023px)|https://img-prod-api2.mediasetplay.mediaset.it/api/images/by/v5/esp/aHR0cHM6Ly9kYW0uY2xvdWQubWVkaWFzZXQubmV0L20vMTBjYWQ2OGJkNzgyMTQ2Mi9vcmlnaW5hbC9DaGFubmVsX2xvZ28tUGFkZWwyNGgucG5n/single/87/87@2?r=%202x&quot;%20media=&quot;(max-width:%201023px)|https://img-prod-api2.mediasetplay.mediaset.it/api/images/by/v5/esp/aHR0cHM6Ly9kYW0uY2xvdWQubWVkaWFzZXQubmV0L20vMTBjYWQ2OGJkNzgyMTQ2Mi9vcmlnaW5hbC9DaGFubmVsX2xvZ28tUGFkZWwyNGgucG5n/single/87/87@2?r=%202x&quot;%20media=&quot;(max-width:%201023px)|https://img-prod-api2.mediasetplay.mediaset.it/api/images/by/v5/esp/aHR0cHM6Ly9kYW0uY2xvdWQubWVkaWFzZXQubmV0L20vMTBjYWQ2OGJkNzgyMTQ2Mi9vcmlnaW5hbC9DaGFubmVsX2xvZ28tUGFkZWwyNGgucG5n/single/87/87@2?r=%202x&quot;%20media=&quot;(max-width:%201023px)|https://img-prod-api2.mediasetplay.mediaset.it/api/images/by/v5/esp/aHR0cHM6Ly9kYW0uY2xvdWQubWVkaWFzZXQubmV0L20vMTBjYWQ2OGJkNzgyMTQ2Mi9vcmlnaW5hbC9DaGFubmVsX2xvZ28tUGFkZWwyNGgucG5n/single/87/87@2?r=%202x&quot;%20media=&quot;(max-width:%201023px)|https://img-prod-api2.mediasetplay.mediaset.it/api/images/by/v5/esp/aHR0cHM6Ly9kYW0uY2xvdWQubWVkaWFzZXQubmV0L20vMTBjYWQ2OGJkNzgyMTQ2Mi9vcmlnaW5hbC9DaGFubmVsX2xvZ28tUGFkZWwyNGgucG5n/single/87/87@2?r=%202x&quot;%20media=&quot;(max-width:%201023px)" />
   </channel>
   <channel id="Acontra+">
     <display-name lang="es">Acontra+</display-name>
