@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tv generator-info-name="dobleM 25/09/2025 20:45" generator-info-url="t.me/EPG_dobleM">
+<tv generator-info-name="dobleM 26/09/2025 20:44" generator-info-url="t.me/EPG_dobleM">
   <channel id="La 1 HD">
     <display-name lang="es">La 1</display-name>
     <display-name lang="es">La 1.TV</display-name>
@@ -65,17 +65,6 @@
     <display-name lang="es">La Sexta 720</display-name>
     <display-name lang="es">La Sexta 1080</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/La%20Sexta.png" />
-  </channel>
-  <channel id="Movistar Plus+ HD">
-    <display-name lang="es">Movistar Plus+</display-name>
-    <display-name lang="es">Movistar Plus+.TV</display-name>
-    <display-name lang="es">Movistar Plus+ SD</display-name>
-    <display-name lang="es">Movistar Plus+ HD</display-name>
-    <display-name lang="es">Movistar Plus+ FHD</display-name>
-    <display-name lang="es">Movistar Plus+ UHD</display-name>
-    <display-name lang="es">Movistar Plus+ 720</display-name>
-    <display-name lang="es">Movistar Plus+ 1080</display-name>
-    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Movistar%20Plus%2B.png" />
   </channel>
   <channel id="M+ Estrenos HD">
     <display-name lang="es">M+ Estrenos</display-name>
@@ -1353,6 +1342,17 @@
     <display-name lang="es">Betevé 1080</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Betev%C3%A9.png" />
   </channel>
+  <channel id="Movistar Plus+ HD">
+    <display-name lang="es">Movistar Plus+</display-name>
+    <display-name lang="es">Movistar Plus+.TV</display-name>
+    <display-name lang="es">Movistar Plus+ SD</display-name>
+    <display-name lang="es">Movistar Plus+ HD</display-name>
+    <display-name lang="es">Movistar Plus+ FHD</display-name>
+    <display-name lang="es">Movistar Plus+ UHD</display-name>
+    <display-name lang="es">Movistar Plus+ 720</display-name>
+    <display-name lang="es">Movistar Plus+ 1080</display-name>
+    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Movistar%20Plus%2B.png" />
+  </channel>
   <channel id="Primera Federación">
     <display-name lang="es">Primera Federación</display-name>
     <display-name lang="es">Primera Federación.TV</display-name>
@@ -2530,28 +2530,6 @@
     <display-name lang="es">DAZN Liga F 3 1080</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v4/onboarding-images/none/sn_5k620c7y6dlbmcm88dt3eb7t/fill/center/top/none/100/0/0/png/image/25/g" />
   </channel>
-  <channel id="DAZN Liga F 4">
-    <display-name lang="es">DAZN Liga F 4</display-name>
-    <display-name lang="es">DAZN Liga F 4.TV</display-name>
-    <display-name lang="es">DAZN Liga F 4 SD</display-name>
-    <display-name lang="es">DAZN Liga F 4 HD</display-name>
-    <display-name lang="es">DAZN Liga F 4 FHD</display-name>
-    <display-name lang="es">DAZN Liga F 4 UHD</display-name>
-    <display-name lang="es">DAZN Liga F 4 720</display-name>
-    <display-name lang="es">DAZN Liga F 4 1080</display-name>
-    <icon src="https://image.discovery.indazn.com/eu/v4/onboarding-images/none/sn_5k620c7y6dlbmcm88dt3eb7t/fill/center/top/none/100/0/0/png/image/25/g" />
-  </channel>
-  <channel id="DAZN Liga F 5">
-    <display-name lang="es">DAZN Liga F 5</display-name>
-    <display-name lang="es">DAZN Liga F 5.TV</display-name>
-    <display-name lang="es">DAZN Liga F 5 SD</display-name>
-    <display-name lang="es">DAZN Liga F 5 HD</display-name>
-    <display-name lang="es">DAZN Liga F 5 FHD</display-name>
-    <display-name lang="es">DAZN Liga F 5 UHD</display-name>
-    <display-name lang="es">DAZN Liga F 5 720</display-name>
-    <display-name lang="es">DAZN Liga F 5 1080</display-name>
-    <icon src="https://image.discovery.indazn.com/eu/v4/onboarding-images/none/sn_5k620c7y6dlbmcm88dt3eb7t/fill/center/top/none/100/0/0/png/image/25/g" />
-  </channel>
   <channel id="DAZN Premier League">
     <display-name lang="es">DAZN Premier League</display-name>
     <display-name lang="es">DAZN Premier League.TV</display-name>
@@ -3265,7 +3243,7 @@
     <display-name lang="es">mtmad UHD</display-name>
     <display-name lang="es">mtmad 720</display-name>
     <display-name lang="es">mtmad 1080</display-name>
-    <icon src="https://img-prod-api2.mediasetplay.mediaset.it/api/images/by/v5/esp/aHR0cHM6Ly9kYW0uY2xvdWQubWVkaWFzZXQubmV0L20vM2M4MWNjYTAxMzVjZjdiNC9vcmlnaW5hbC9DaGFubmVsX2xvZ28tTXRtYWQucG5n/single/87/87@2?r=%202x&quot;%20media=&quot;(max-width:%201023px)|https://img-prod-api2.mediasetplay.mediaset.it/api/images/by/v5/esp/aHR0cHM6Ly9kYW0uY2xvdWQubWVkaWFzZXQubmV0L20vM2M4MWNjYTAxMzVjZjdiNC9vcmlnaW5hbC9DaGFubmVsX2xvZ28tTXRtYWQucG5n/single/87/87@2?r=%202x&quot;%20media=&quot;(max-width:%201023px)|https://img-prod-api2.mediasetplay.mediaset.it/api/images/by/v5/esp/aHR0cHM6Ly9kYW0uY2xvdWQubWVkaWFzZXQubmV0L20vM2M4MWNjYTAxMzVjZjdiNC9vcmlnaW5hbC9DaGFubmVsX2xvZ28tTXRtYWQucG5n/single/87/87@2?r=%202x&quot;%20media=&quot;(max-width:%201023px)|https://img-prod-api2.mediasetplay.mediaset.it/api/images/by/v5/esp/aHR0cHM6Ly9kYW0uY2xvdWQubWVkaWFzZXQubmV0L20vM2M4MWNjYTAxMzVjZjdiNC9vcmlnaW5hbC9DaGFubmVsX2xvZ28tTXRtYWQucG5n/single/87/87@2?r=%202x&quot;%20media=&quot;(max-width:%201023px)|https://img-prod-api2.mediasetplay.mediaset.it/api/images/by/v5/esp/aHR0cHM6Ly9kYW0uY2xvdWQubWVkaWFzZXQubmV0L20vM2M4MWNjYTAxMzVjZjdiNC9vcmlnaW5hbC9DaGFubmVsX2xvZ28tTXRtYWQucG5n/single/87/87@2?r=%202x&quot;%20media=&quot;(max-width:%201023px)" />
+    <icon src="https://img-prod-api2.mediasetplay.mediaset.it/api/images/by/v5/esp/aHR0cHM6Ly9kYW0uY2xvdWQubWVkaWFzZXQubmV0L20vM2M4MWNjYTAxMzVjZjdiNC9vcmlnaW5hbC9DaGFubmVsX2xvZ28tTXRtYWQucG5n/single/87/87@2?r=%202x&quot;%20media=&quot;(max-width:%201023px)|https://img-prod-api2.mediasetplay.mediaset.it/api/images/by/v5/esp/aHR0cHM6Ly9kYW0uY2xvdWQubWVkaWFzZXQubmV0L20vM2M4MWNjYTAxMzVjZjdiNC9vcmlnaW5hbC9DaGFubmVsX2xvZ28tTXRtYWQucG5n/single/87/87@2?r=%202x&quot;%20media=&quot;(max-width:%201023px)|https://img-prod-api2.mediasetplay.mediaset.it/api/images/by/v5/esp/aHR0cHM6Ly9kYW0uY2xvdWQubWVkaWFzZXQubmV0L20vM2M4MWNjYTAxMzVjZjdiNC9vcmlnaW5hbC9DaGFubmVsX2xvZ28tTXRtYWQucG5n/single/87/87@2?r=%202x&quot;%20media=&quot;(max-width:%201023px)|https://img-prod-api2.mediasetplay.mediaset.it/api/images/by/v5/esp/aHR0cHM6Ly9kYW0uY2xvdWQubWVkaWFzZXQubmV0L20vM2M4MWNjYTAxMzVjZjdiNC9vcmlnaW5hbC9DaGFubmVsX2xvZ28tTXRtYWQucG5n/single/87/87@2?r=%202x&quot;%20media=&quot;(max-width:%201023px)|https://img-prod-api2.mediasetplay.mediaset.it/api/images/by/v5/esp/aHR0cHM6Ly9kYW0uY2xvdWQubWVkaWFzZXQubmV0L20vM2M4MWNjYTAxMzVjZjdiNC9vcmlnaW5hbC9DaGFubmVsX2xvZ28tTXRtYWQucG5n/single/87/87@2?r=%202x&quot;%20media=&quot;(max-width:%201023px)|https://img-prod-api2.mediasetplay.mediaset.it/api/images/by/v5/esp/aHR0cHM6Ly9kYW0uY2xvdWQubWVkaWFzZXQubmV0L20vM2M4MWNjYTAxMzVjZjdiNC9vcmlnaW5hbC9DaGFubmVsX2xvZ28tTXRtYWQucG5n/single/87/87@2?r=%202x&quot;%20media=&quot;(max-width:%201023px)|https://img-prod-api2.mediasetplay.mediaset.it/api/images/by/v5/esp/aHR0cHM6Ly9kYW0uY2xvdWQubWVkaWFzZXQubmV0L20vM2M4MWNjYTAxMzVjZjdiNC9vcmlnaW5hbC9DaGFubmVsX2xvZ28tTXRtYWQucG5n/single/87/87@2?r=%202x&quot;%20media=&quot;(max-width:%201023px)" />
   </channel>
   <channel id="Padel 24h">
     <display-name lang="es">Padel 24h</display-name>
@@ -3276,7 +3254,7 @@
     <display-name lang="es">Padel 24h UHD</display-name>
     <display-name lang="es">Padel 24h 720</display-name>
     <display-name lang="es">Padel 24h 1080</display-name>
-    <icon src="https://img-prod-api2.mediasetplay.mediaset.it/api/images/by/v5/esp/aHR0cHM6Ly9kYW0uY2xvdWQubWVkaWFzZXQubmV0L20vMTBjYWQ2OGJkNzgyMTQ2Mi9vcmlnaW5hbC9DaGFubmVsX2xvZ28tUGFkZWwyNGgucG5n/single/87/87@2?r=%202x&quot;%20media=&quot;(max-width:%201023px)|https://img-prod-api2.mediasetplay.mediaset.it/api/images/by/v5/esp/aHR0cHM6Ly9kYW0uY2xvdWQubWVkaWFzZXQubmV0L20vMTBjYWQ2OGJkNzgyMTQ2Mi9vcmlnaW5hbC9DaGFubmVsX2xvZ28tUGFkZWwyNGgucG5n/single/87/87@2?r=%202x&quot;%20media=&quot;(max-width:%201023px)|https://img-prod-api2.mediasetplay.mediaset.it/api/images/by/v5/esp/aHR0cHM6Ly9kYW0uY2xvdWQubWVkaWFzZXQubmV0L20vMTBjYWQ2OGJkNzgyMTQ2Mi9vcmlnaW5hbC9DaGFubmVsX2xvZ28tUGFkZWwyNGgucG5n/single/87/87@2?r=%202x&quot;%20media=&quot;(max-width:%201023px)|https://img-prod-api2.mediasetplay.mediaset.it/api/images/by/v5/esp/aHR0cHM6Ly9kYW0uY2xvdWQubWVkaWFzZXQubmV0L20vMTBjYWQ2OGJkNzgyMTQ2Mi9vcmlnaW5hbC9DaGFubmVsX2xvZ28tUGFkZWwyNGgucG5n/single/87/87@2?r=%202x&quot;%20media=&quot;(max-width:%201023px)|https://img-prod-api2.mediasetplay.mediaset.it/api/images/by/v5/esp/aHR0cHM6Ly9kYW0uY2xvdWQubWVkaWFzZXQubmV0L20vMTBjYWQ2OGJkNzgyMTQ2Mi9vcmlnaW5hbC9DaGFubmVsX2xvZ28tUGFkZWwyNGgucG5n/single/87/87@2?r=%202x&quot;%20media=&quot;(max-width:%201023px)" />
+    <icon src="https://img-prod-api2.mediasetplay.mediaset.it/api/images/by/v5/esp/aHR0cHM6Ly9kYW0uY2xvdWQubWVkaWFzZXQubmV0L20vMTBjYWQ2OGJkNzgyMTQ2Mi9vcmlnaW5hbC9DaGFubmVsX2xvZ28tUGFkZWwyNGgucG5n/single/87/87@2?r=%202x&quot;%20media=&quot;(max-width:%201023px)|https://img-prod-api2.mediasetplay.mediaset.it/api/images/by/v5/esp/aHR0cHM6Ly9kYW0uY2xvdWQubWVkaWFzZXQubmV0L20vMTBjYWQ2OGJkNzgyMTQ2Mi9vcmlnaW5hbC9DaGFubmVsX2xvZ28tUGFkZWwyNGgucG5n/single/87/87@2?r=%202x&quot;%20media=&quot;(max-width:%201023px)|https://img-prod-api2.mediasetplay.mediaset.it/api/images/by/v5/esp/aHR0cHM6Ly9kYW0uY2xvdWQubWVkaWFzZXQubmV0L20vMTBjYWQ2OGJkNzgyMTQ2Mi9vcmlnaW5hbC9DaGFubmVsX2xvZ28tUGFkZWwyNGgucG5n/single/87/87@2?r=%202x&quot;%20media=&quot;(max-width:%201023px)|https://img-prod-api2.mediasetplay.mediaset.it/api/images/by/v5/esp/aHR0cHM6Ly9kYW0uY2xvdWQubWVkaWFzZXQubmV0L20vMTBjYWQ2OGJkNzgyMTQ2Mi9vcmlnaW5hbC9DaGFubmVsX2xvZ28tUGFkZWwyNGgucG5n/single/87/87@2?r=%202x&quot;%20media=&quot;(max-width:%201023px)|https://img-prod-api2.mediasetplay.mediaset.it/api/images/by/v5/esp/aHR0cHM6Ly9kYW0uY2xvdWQubWVkaWFzZXQubmV0L20vMTBjYWQ2OGJkNzgyMTQ2Mi9vcmlnaW5hbC9DaGFubmVsX2xvZ28tUGFkZWwyNGgucG5n/single/87/87@2?r=%202x&quot;%20media=&quot;(max-width:%201023px)|https://img-prod-api2.mediasetplay.mediaset.it/api/images/by/v5/esp/aHR0cHM6Ly9kYW0uY2xvdWQubWVkaWFzZXQubmV0L20vMTBjYWQ2OGJkNzgyMTQ2Mi9vcmlnaW5hbC9DaGFubmVsX2xvZ28tUGFkZWwyNGgucG5n/single/87/87@2?r=%202x&quot;%20media=&quot;(max-width:%201023px)|https://img-prod-api2.mediasetplay.mediaset.it/api/images/by/v5/esp/aHR0cHM6Ly9kYW0uY2xvdWQubWVkaWFzZXQubmV0L20vMTBjYWQ2OGJkNzgyMTQ2Mi9vcmlnaW5hbC9DaGFubmVsX2xvZ28tUGFkZWwyNGgucG5n/single/87/87@2?r=%202x&quot;%20media=&quot;(max-width:%201023px)" />
   </channel>
   <channel id="Acontra+">
     <display-name lang="es">Acontra+</display-name>
@@ -5949,6 +5927,7 @@
     <display-name lang="es">DE | Sky Sport Austria 8 UHD</display-name>
     <display-name lang="es">DE | Sky Sport Austria 8 720</display-name>
     <display-name lang="es">DE | Sky Sport Austria 8 1080</display-name>
+    <icon src="https://www.sky.de/static/img/senderlogos_dark/928_sky_logo_sky-sport-austria-8-hd_tvguide.png" />
   </channel>
   <channel id="DE | Das Erste">
     <display-name lang="es">DE | Das Erste</display-name>
