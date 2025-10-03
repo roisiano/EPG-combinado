@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tv generator-info-name="dobleM 01/10/2025 20:44" generator-info-url="t.me/EPG_dobleM">
+<tv generator-info-name="dobleM 02/10/2025 20:44" generator-info-url="t.me/EPG_dobleM">
   <channel id="La 1 HD">
     <display-name lang="es">La 1</display-name>
     <display-name lang="es">La 1.TV</display-name>
@@ -2310,6 +2310,17 @@
     <display-name lang="es">PTV Granada 1080</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/PTV%20Granada.png" />
   </channel>
+  <channel id="PTV Sevilla">
+    <display-name lang="es">PTV Sevilla</display-name>
+    <display-name lang="es">PTV Sevilla.TV</display-name>
+    <display-name lang="es">PTV Sevilla SD</display-name>
+    <display-name lang="es">PTV Sevilla HD</display-name>
+    <display-name lang="es">PTV Sevilla FHD</display-name>
+    <display-name lang="es">PTV Sevilla UHD</display-name>
+    <display-name lang="es">PTV Sevilla 720</display-name>
+    <display-name lang="es">PTV Sevilla 1080</display-name>
+    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/PTV%20Sevilla.png" />
+  </channel>
   <channel id="PTV Linares">
     <display-name lang="es">PTV Linares</display-name>
     <display-name lang="es">PTV Linares.TV</display-name>
@@ -2497,6 +2508,28 @@
     <display-name lang="es">DAZN Bundesliga 4 1080</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v4/onboarding-images/none/sn_6by3h89i2eykc341oz7lv1ddd/fill/center/top/none/100/0/0/png/image/25/g" />
   </channel>
+  <channel id="DAZN LALIGA EA SPORTS">
+    <display-name lang="es">DAZN LALIGA EA SPORTS</display-name>
+    <display-name lang="es">DAZN LALIGA EA SPORTS.TV</display-name>
+    <display-name lang="es">DAZN LALIGA EA SPORTS SD</display-name>
+    <display-name lang="es">DAZN LALIGA EA SPORTS HD</display-name>
+    <display-name lang="es">DAZN LALIGA EA SPORTS FHD</display-name>
+    <display-name lang="es">DAZN LALIGA EA SPORTS UHD</display-name>
+    <display-name lang="es">DAZN LALIGA EA SPORTS 720</display-name>
+    <display-name lang="es">DAZN LALIGA EA SPORTS 1080</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v4/onboarding-images/none/sn_34pl8szyvrbwcmfkuocjm3r6t/fill/center/top/none/100/0/0/png/image/25/g" />
+  </channel>
+  <channel id="DAZN LALIGA EA SPORTS 2">
+    <display-name lang="es">DAZN LALIGA EA SPORTS 2</display-name>
+    <display-name lang="es">DAZN LALIGA EA SPORTS 2.TV</display-name>
+    <display-name lang="es">DAZN LALIGA EA SPORTS 2 SD</display-name>
+    <display-name lang="es">DAZN LALIGA EA SPORTS 2 HD</display-name>
+    <display-name lang="es">DAZN LALIGA EA SPORTS 2 FHD</display-name>
+    <display-name lang="es">DAZN LALIGA EA SPORTS 2 UHD</display-name>
+    <display-name lang="es">DAZN LALIGA EA SPORTS 2 720</display-name>
+    <display-name lang="es">DAZN LALIGA EA SPORTS 2 1080</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v4/onboarding-images/none/sn_34pl8szyvrbwcmfkuocjm3r6t/fill/center/top/none/100/0/0/png/image/25/g" />
+  </channel>
   <channel id="DAZN Liga F">
     <display-name lang="es">DAZN Liga F</display-name>
     <display-name lang="es">DAZN Liga F.TV</display-name>
@@ -2529,6 +2562,105 @@
     <display-name lang="es">DAZN Liga F 3 720</display-name>
     <display-name lang="es">DAZN Liga F 3 1080</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v4/onboarding-images/none/sn_5k620c7y6dlbmcm88dt3eb7t/fill/center/top/none/100/0/0/png/image/25/g" />
+  </channel>
+  <channel id="DAZN National League">
+    <display-name lang="es">DAZN National League</display-name>
+    <display-name lang="es">DAZN National League.TV</display-name>
+    <display-name lang="es">DAZN National League SD</display-name>
+    <display-name lang="es">DAZN National League HD</display-name>
+    <display-name lang="es">DAZN National League FHD</display-name>
+    <display-name lang="es">DAZN National League UHD</display-name>
+    <display-name lang="es">DAZN National League 720</display-name>
+    <display-name lang="es">DAZN National League 1080</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v4/onboarding-images/none/sn_b5udgm9vakjqz8dcmy5b2g0xt/fill/center/top/none/100/0/0/png/image/25/g" />
+  </channel>
+  <channel id="DAZN National League 2">
+    <display-name lang="es">DAZN National League 2</display-name>
+    <display-name lang="es">DAZN National League 2.TV</display-name>
+    <display-name lang="es">DAZN National League 2 SD</display-name>
+    <display-name lang="es">DAZN National League 2 HD</display-name>
+    <display-name lang="es">DAZN National League 2 FHD</display-name>
+    <display-name lang="es">DAZN National League 2 UHD</display-name>
+    <display-name lang="es">DAZN National League 2 720</display-name>
+    <display-name lang="es">DAZN National League 2 1080</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v4/onboarding-images/none/sn_b5udgm9vakjqz8dcmy5b2g0xt/fill/center/top/none/100/0/0/png/image/25/g" />
+  </channel>
+  <channel id="DAZN National League 3">
+    <display-name lang="es">DAZN National League 3</display-name>
+    <display-name lang="es">DAZN National League 3.TV</display-name>
+    <display-name lang="es">DAZN National League 3 SD</display-name>
+    <display-name lang="es">DAZN National League 3 HD</display-name>
+    <display-name lang="es">DAZN National League 3 FHD</display-name>
+    <display-name lang="es">DAZN National League 3 UHD</display-name>
+    <display-name lang="es">DAZN National League 3 720</display-name>
+    <display-name lang="es">DAZN National League 3 1080</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v4/onboarding-images/none/sn_b5udgm9vakjqz8dcmy5b2g0xt/fill/center/top/none/100/0/0/png/image/25/g" />
+  </channel>
+  <channel id="DAZN National League 4">
+    <display-name lang="es">DAZN National League 4</display-name>
+    <display-name lang="es">DAZN National League 4.TV</display-name>
+    <display-name lang="es">DAZN National League 4 SD</display-name>
+    <display-name lang="es">DAZN National League 4 HD</display-name>
+    <display-name lang="es">DAZN National League 4 FHD</display-name>
+    <display-name lang="es">DAZN National League 4 UHD</display-name>
+    <display-name lang="es">DAZN National League 4 720</display-name>
+    <display-name lang="es">DAZN National League 4 1080</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v4/onboarding-images/none/sn_b5udgm9vakjqz8dcmy5b2g0xt/fill/center/top/none/100/0/0/png/image/25/g" />
+  </channel>
+  <channel id="DAZN National League 5">
+    <display-name lang="es">DAZN National League 5</display-name>
+    <display-name lang="es">DAZN National League 5.TV</display-name>
+    <display-name lang="es">DAZN National League 5 SD</display-name>
+    <display-name lang="es">DAZN National League 5 HD</display-name>
+    <display-name lang="es">DAZN National League 5 FHD</display-name>
+    <display-name lang="es">DAZN National League 5 UHD</display-name>
+    <display-name lang="es">DAZN National League 5 720</display-name>
+    <display-name lang="es">DAZN National League 5 1080</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v4/onboarding-images/none/sn_b5udgm9vakjqz8dcmy5b2g0xt/fill/center/top/none/100/0/0/png/image/25/g" />
+  </channel>
+  <channel id="DAZN National League 6">
+    <display-name lang="es">DAZN National League 6</display-name>
+    <display-name lang="es">DAZN National League 6.TV</display-name>
+    <display-name lang="es">DAZN National League 6 SD</display-name>
+    <display-name lang="es">DAZN National League 6 HD</display-name>
+    <display-name lang="es">DAZN National League 6 FHD</display-name>
+    <display-name lang="es">DAZN National League 6 UHD</display-name>
+    <display-name lang="es">DAZN National League 6 720</display-name>
+    <display-name lang="es">DAZN National League 6 1080</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v4/onboarding-images/none/sn_b5udgm9vakjqz8dcmy5b2g0xt/fill/center/top/none/100/0/0/png/image/25/g" />
+  </channel>
+  <channel id="DAZN National League 7">
+    <display-name lang="es">DAZN National League 7</display-name>
+    <display-name lang="es">DAZN National League 7.TV</display-name>
+    <display-name lang="es">DAZN National League 7 SD</display-name>
+    <display-name lang="es">DAZN National League 7 HD</display-name>
+    <display-name lang="es">DAZN National League 7 FHD</display-name>
+    <display-name lang="es">DAZN National League 7 UHD</display-name>
+    <display-name lang="es">DAZN National League 7 720</display-name>
+    <display-name lang="es">DAZN National League 7 1080</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v4/onboarding-images/none/sn_b5udgm9vakjqz8dcmy5b2g0xt/fill/center/top/none/100/0/0/png/image/25/g" />
+  </channel>
+  <channel id="DAZN National League 8">
+    <display-name lang="es">DAZN National League 8</display-name>
+    <display-name lang="es">DAZN National League 8.TV</display-name>
+    <display-name lang="es">DAZN National League 8 SD</display-name>
+    <display-name lang="es">DAZN National League 8 HD</display-name>
+    <display-name lang="es">DAZN National League 8 FHD</display-name>
+    <display-name lang="es">DAZN National League 8 UHD</display-name>
+    <display-name lang="es">DAZN National League 8 720</display-name>
+    <display-name lang="es">DAZN National League 8 1080</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v4/onboarding-images/none/sn_b5udgm9vakjqz8dcmy5b2g0xt/fill/center/top/none/100/0/0/png/image/25/g" />
+  </channel>
+  <channel id="DAZN National League 9">
+    <display-name lang="es">DAZN National League 9</display-name>
+    <display-name lang="es">DAZN National League 9.TV</display-name>
+    <display-name lang="es">DAZN National League 9 SD</display-name>
+    <display-name lang="es">DAZN National League 9 HD</display-name>
+    <display-name lang="es">DAZN National League 9 FHD</display-name>
+    <display-name lang="es">DAZN National League 9 UHD</display-name>
+    <display-name lang="es">DAZN National League 9 720</display-name>
+    <display-name lang="es">DAZN National League 9 1080</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v4/onboarding-images/none/sn_b5udgm9vakjqz8dcmy5b2g0xt/fill/center/top/none/100/0/0/png/image/25/g" />
   </channel>
   <channel id="DAZN Premier League">
     <display-name lang="es">DAZN Premier League</display-name>
@@ -2607,6 +2739,237 @@
     <display-name lang="es">DAZN MotoGP 1080</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v4/onboarding-images/none/sn_2e554vbpw7g0ykhl0rziuabxl/fill/center/top/none/100/0/0/png/image/25/g" />
   </channel>
+  <channel id="DAZN NFL Game Pass">
+    <display-name lang="es">DAZN NFL Game Pass</display-name>
+    <display-name lang="es">DAZN NFL Game Pass.TV</display-name>
+    <display-name lang="es">DAZN NFL Game Pass SD</display-name>
+    <display-name lang="es">DAZN NFL Game Pass HD</display-name>
+    <display-name lang="es">DAZN NFL Game Pass FHD</display-name>
+    <display-name lang="es">DAZN NFL Game Pass UHD</display-name>
+    <display-name lang="es">DAZN NFL Game Pass 720</display-name>
+    <display-name lang="es">DAZN NFL Game Pass 1080</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v4/onboarding-images/none/sn_wy3kluvb4efae1of0d8146c1/fill/center/top/none/100/0/0/png/image/25/g" />
+  </channel>
+  <channel id="DAZN NFL Game Pass 10">
+    <display-name lang="es">DAZN NFL Game Pass 10</display-name>
+    <display-name lang="es">DAZN NFL Game Pass 10.TV</display-name>
+    <display-name lang="es">DAZN NFL Game Pass 10 SD</display-name>
+    <display-name lang="es">DAZN NFL Game Pass 10 HD</display-name>
+    <display-name lang="es">DAZN NFL Game Pass 10 FHD</display-name>
+    <display-name lang="es">DAZN NFL Game Pass 10 UHD</display-name>
+    <display-name lang="es">DAZN NFL Game Pass 10 720</display-name>
+    <display-name lang="es">DAZN NFL Game Pass 10 1080</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v4/onboarding-images/none/sn_wy3kluvb4efae1of0d8146c1/fill/center/top/none/100/0/0/png/image/25/g" />
+  </channel>
+  <channel id="DAZN NFL Game Pass 11">
+    <display-name lang="es">DAZN NFL Game Pass 11</display-name>
+    <display-name lang="es">DAZN NFL Game Pass 11.TV</display-name>
+    <display-name lang="es">DAZN NFL Game Pass 11 SD</display-name>
+    <display-name lang="es">DAZN NFL Game Pass 11 HD</display-name>
+    <display-name lang="es">DAZN NFL Game Pass 11 FHD</display-name>
+    <display-name lang="es">DAZN NFL Game Pass 11 UHD</display-name>
+    <display-name lang="es">DAZN NFL Game Pass 11 720</display-name>
+    <display-name lang="es">DAZN NFL Game Pass 11 1080</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v4/onboarding-images/none/sn_wy3kluvb4efae1of0d8146c1/fill/center/top/none/100/0/0/png/image/25/g" />
+  </channel>
+  <channel id="DAZN NFL Game Pass 12">
+    <display-name lang="es">DAZN NFL Game Pass 12</display-name>
+    <display-name lang="es">DAZN NFL Game Pass 12.TV</display-name>
+    <display-name lang="es">DAZN NFL Game Pass 12 SD</display-name>
+    <display-name lang="es">DAZN NFL Game Pass 12 HD</display-name>
+    <display-name lang="es">DAZN NFL Game Pass 12 FHD</display-name>
+    <display-name lang="es">DAZN NFL Game Pass 12 UHD</display-name>
+    <display-name lang="es">DAZN NFL Game Pass 12 720</display-name>
+    <display-name lang="es">DAZN NFL Game Pass 12 1080</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v4/onboarding-images/none/sn_wy3kluvb4efae1of0d8146c1/fill/center/top/none/100/0/0/png/image/25/g" />
+  </channel>
+  <channel id="DAZN NFL Game Pass 13">
+    <display-name lang="es">DAZN NFL Game Pass 13</display-name>
+    <display-name lang="es">DAZN NFL Game Pass 13.TV</display-name>
+    <display-name lang="es">DAZN NFL Game Pass 13 SD</display-name>
+    <display-name lang="es">DAZN NFL Game Pass 13 HD</display-name>
+    <display-name lang="es">DAZN NFL Game Pass 13 FHD</display-name>
+    <display-name lang="es">DAZN NFL Game Pass 13 UHD</display-name>
+    <display-name lang="es">DAZN NFL Game Pass 13 720</display-name>
+    <display-name lang="es">DAZN NFL Game Pass 13 1080</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v4/onboarding-images/none/sn_wy3kluvb4efae1of0d8146c1/fill/center/top/none/100/0/0/png/image/25/g" />
+  </channel>
+  <channel id="DAZN NFL Game Pass 14">
+    <display-name lang="es">DAZN NFL Game Pass 14</display-name>
+    <display-name lang="es">DAZN NFL Game Pass 14.TV</display-name>
+    <display-name lang="es">DAZN NFL Game Pass 14 SD</display-name>
+    <display-name lang="es">DAZN NFL Game Pass 14 HD</display-name>
+    <display-name lang="es">DAZN NFL Game Pass 14 FHD</display-name>
+    <display-name lang="es">DAZN NFL Game Pass 14 UHD</display-name>
+    <display-name lang="es">DAZN NFL Game Pass 14 720</display-name>
+    <display-name lang="es">DAZN NFL Game Pass 14 1080</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v4/onboarding-images/none/sn_wy3kluvb4efae1of0d8146c1/fill/center/top/none/100/0/0/png/image/25/g" />
+  </channel>
+  <channel id="DAZN NFL Game Pass 15">
+    <display-name lang="es">DAZN NFL Game Pass 15</display-name>
+    <display-name lang="es">DAZN NFL Game Pass 15.TV</display-name>
+    <display-name lang="es">DAZN NFL Game Pass 15 SD</display-name>
+    <display-name lang="es">DAZN NFL Game Pass 15 HD</display-name>
+    <display-name lang="es">DAZN NFL Game Pass 15 FHD</display-name>
+    <display-name lang="es">DAZN NFL Game Pass 15 UHD</display-name>
+    <display-name lang="es">DAZN NFL Game Pass 15 720</display-name>
+    <display-name lang="es">DAZN NFL Game Pass 15 1080</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v4/onboarding-images/none/sn_wy3kluvb4efae1of0d8146c1/fill/center/top/none/100/0/0/png/image/25/g" />
+  </channel>
+  <channel id="DAZN NFL Game Pass 16">
+    <display-name lang="es">DAZN NFL Game Pass 16</display-name>
+    <display-name lang="es">DAZN NFL Game Pass 16.TV</display-name>
+    <display-name lang="es">DAZN NFL Game Pass 16 SD</display-name>
+    <display-name lang="es">DAZN NFL Game Pass 16 HD</display-name>
+    <display-name lang="es">DAZN NFL Game Pass 16 FHD</display-name>
+    <display-name lang="es">DAZN NFL Game Pass 16 UHD</display-name>
+    <display-name lang="es">DAZN NFL Game Pass 16 720</display-name>
+    <display-name lang="es">DAZN NFL Game Pass 16 1080</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v4/onboarding-images/none/sn_wy3kluvb4efae1of0d8146c1/fill/center/top/none/100/0/0/png/image/25/g" />
+  </channel>
+  <channel id="DAZN NFL Game Pass 17">
+    <display-name lang="es">DAZN NFL Game Pass 17</display-name>
+    <display-name lang="es">DAZN NFL Game Pass 17.TV</display-name>
+    <display-name lang="es">DAZN NFL Game Pass 17 SD</display-name>
+    <display-name lang="es">DAZN NFL Game Pass 17 HD</display-name>
+    <display-name lang="es">DAZN NFL Game Pass 17 FHD</display-name>
+    <display-name lang="es">DAZN NFL Game Pass 17 UHD</display-name>
+    <display-name lang="es">DAZN NFL Game Pass 17 720</display-name>
+    <display-name lang="es">DAZN NFL Game Pass 17 1080</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v4/onboarding-images/none/sn_wy3kluvb4efae1of0d8146c1/fill/center/top/none/100/0/0/png/image/25/g" />
+  </channel>
+  <channel id="DAZN NFL Game Pass 18">
+    <display-name lang="es">DAZN NFL Game Pass 18</display-name>
+    <display-name lang="es">DAZN NFL Game Pass 18.TV</display-name>
+    <display-name lang="es">DAZN NFL Game Pass 18 SD</display-name>
+    <display-name lang="es">DAZN NFL Game Pass 18 HD</display-name>
+    <display-name lang="es">DAZN NFL Game Pass 18 FHD</display-name>
+    <display-name lang="es">DAZN NFL Game Pass 18 UHD</display-name>
+    <display-name lang="es">DAZN NFL Game Pass 18 720</display-name>
+    <display-name lang="es">DAZN NFL Game Pass 18 1080</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v4/onboarding-images/none/sn_wy3kluvb4efae1of0d8146c1/fill/center/top/none/100/0/0/png/image/25/g" />
+  </channel>
+  <channel id="DAZN NFL Game Pass 19">
+    <display-name lang="es">DAZN NFL Game Pass 19</display-name>
+    <display-name lang="es">DAZN NFL Game Pass 19.TV</display-name>
+    <display-name lang="es">DAZN NFL Game Pass 19 SD</display-name>
+    <display-name lang="es">DAZN NFL Game Pass 19 HD</display-name>
+    <display-name lang="es">DAZN NFL Game Pass 19 FHD</display-name>
+    <display-name lang="es">DAZN NFL Game Pass 19 UHD</display-name>
+    <display-name lang="es">DAZN NFL Game Pass 19 720</display-name>
+    <display-name lang="es">DAZN NFL Game Pass 19 1080</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v4/onboarding-images/none/sn_wy3kluvb4efae1of0d8146c1/fill/center/top/none/100/0/0/png/image/25/g" />
+  </channel>
+  <channel id="DAZN NFL Game Pass 2">
+    <display-name lang="es">DAZN NFL Game Pass 2</display-name>
+    <display-name lang="es">DAZN NFL Game Pass 2.TV</display-name>
+    <display-name lang="es">DAZN NFL Game Pass 2 SD</display-name>
+    <display-name lang="es">DAZN NFL Game Pass 2 HD</display-name>
+    <display-name lang="es">DAZN NFL Game Pass 2 FHD</display-name>
+    <display-name lang="es">DAZN NFL Game Pass 2 UHD</display-name>
+    <display-name lang="es">DAZN NFL Game Pass 2 720</display-name>
+    <display-name lang="es">DAZN NFL Game Pass 2 1080</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v4/onboarding-images/none/sn_wy3kluvb4efae1of0d8146c1/fill/center/top/none/100/0/0/png/image/25/g" />
+  </channel>
+  <channel id="DAZN NFL Game Pass 20">
+    <display-name lang="es">DAZN NFL Game Pass 20</display-name>
+    <display-name lang="es">DAZN NFL Game Pass 20.TV</display-name>
+    <display-name lang="es">DAZN NFL Game Pass 20 SD</display-name>
+    <display-name lang="es">DAZN NFL Game Pass 20 HD</display-name>
+    <display-name lang="es">DAZN NFL Game Pass 20 FHD</display-name>
+    <display-name lang="es">DAZN NFL Game Pass 20 UHD</display-name>
+    <display-name lang="es">DAZN NFL Game Pass 20 720</display-name>
+    <display-name lang="es">DAZN NFL Game Pass 20 1080</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v4/onboarding-images/none/sn_wy3kluvb4efae1of0d8146c1/fill/center/top/none/100/0/0/png/image/25/g" />
+  </channel>
+  <channel id="DAZN NFL Game Pass 21">
+    <display-name lang="es">DAZN NFL Game Pass 21</display-name>
+    <display-name lang="es">DAZN NFL Game Pass 21.TV</display-name>
+    <display-name lang="es">DAZN NFL Game Pass 21 SD</display-name>
+    <display-name lang="es">DAZN NFL Game Pass 21 HD</display-name>
+    <display-name lang="es">DAZN NFL Game Pass 21 FHD</display-name>
+    <display-name lang="es">DAZN NFL Game Pass 21 UHD</display-name>
+    <display-name lang="es">DAZN NFL Game Pass 21 720</display-name>
+    <display-name lang="es">DAZN NFL Game Pass 21 1080</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v4/onboarding-images/none/sn_wy3kluvb4efae1of0d8146c1/fill/center/top/none/100/0/0/png/image/25/g" />
+  </channel>
+  <channel id="DAZN NFL Game Pass 3">
+    <display-name lang="es">DAZN NFL Game Pass 3</display-name>
+    <display-name lang="es">DAZN NFL Game Pass 3.TV</display-name>
+    <display-name lang="es">DAZN NFL Game Pass 3 SD</display-name>
+    <display-name lang="es">DAZN NFL Game Pass 3 HD</display-name>
+    <display-name lang="es">DAZN NFL Game Pass 3 FHD</display-name>
+    <display-name lang="es">DAZN NFL Game Pass 3 UHD</display-name>
+    <display-name lang="es">DAZN NFL Game Pass 3 720</display-name>
+    <display-name lang="es">DAZN NFL Game Pass 3 1080</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v4/onboarding-images/none/sn_wy3kluvb4efae1of0d8146c1/fill/center/top/none/100/0/0/png/image/25/g" />
+  </channel>
+  <channel id="DAZN NFL Game Pass 4">
+    <display-name lang="es">DAZN NFL Game Pass 4</display-name>
+    <display-name lang="es">DAZN NFL Game Pass 4.TV</display-name>
+    <display-name lang="es">DAZN NFL Game Pass 4 SD</display-name>
+    <display-name lang="es">DAZN NFL Game Pass 4 HD</display-name>
+    <display-name lang="es">DAZN NFL Game Pass 4 FHD</display-name>
+    <display-name lang="es">DAZN NFL Game Pass 4 UHD</display-name>
+    <display-name lang="es">DAZN NFL Game Pass 4 720</display-name>
+    <display-name lang="es">DAZN NFL Game Pass 4 1080</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v4/onboarding-images/none/sn_wy3kluvb4efae1of0d8146c1/fill/center/top/none/100/0/0/png/image/25/g" />
+  </channel>
+  <channel id="DAZN NFL Game Pass 5">
+    <display-name lang="es">DAZN NFL Game Pass 5</display-name>
+    <display-name lang="es">DAZN NFL Game Pass 5.TV</display-name>
+    <display-name lang="es">DAZN NFL Game Pass 5 SD</display-name>
+    <display-name lang="es">DAZN NFL Game Pass 5 HD</display-name>
+    <display-name lang="es">DAZN NFL Game Pass 5 FHD</display-name>
+    <display-name lang="es">DAZN NFL Game Pass 5 UHD</display-name>
+    <display-name lang="es">DAZN NFL Game Pass 5 720</display-name>
+    <display-name lang="es">DAZN NFL Game Pass 5 1080</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v4/onboarding-images/none/sn_wy3kluvb4efae1of0d8146c1/fill/center/top/none/100/0/0/png/image/25/g" />
+  </channel>
+  <channel id="DAZN NFL Game Pass 6">
+    <display-name lang="es">DAZN NFL Game Pass 6</display-name>
+    <display-name lang="es">DAZN NFL Game Pass 6.TV</display-name>
+    <display-name lang="es">DAZN NFL Game Pass 6 SD</display-name>
+    <display-name lang="es">DAZN NFL Game Pass 6 HD</display-name>
+    <display-name lang="es">DAZN NFL Game Pass 6 FHD</display-name>
+    <display-name lang="es">DAZN NFL Game Pass 6 UHD</display-name>
+    <display-name lang="es">DAZN NFL Game Pass 6 720</display-name>
+    <display-name lang="es">DAZN NFL Game Pass 6 1080</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v4/onboarding-images/none/sn_wy3kluvb4efae1of0d8146c1/fill/center/top/none/100/0/0/png/image/25/g" />
+  </channel>
+  <channel id="DAZN NFL Game Pass 7">
+    <display-name lang="es">DAZN NFL Game Pass 7</display-name>
+    <display-name lang="es">DAZN NFL Game Pass 7.TV</display-name>
+    <display-name lang="es">DAZN NFL Game Pass 7 SD</display-name>
+    <display-name lang="es">DAZN NFL Game Pass 7 HD</display-name>
+    <display-name lang="es">DAZN NFL Game Pass 7 FHD</display-name>
+    <display-name lang="es">DAZN NFL Game Pass 7 UHD</display-name>
+    <display-name lang="es">DAZN NFL Game Pass 7 720</display-name>
+    <display-name lang="es">DAZN NFL Game Pass 7 1080</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v4/onboarding-images/none/sn_wy3kluvb4efae1of0d8146c1/fill/center/top/none/100/0/0/png/image/25/g" />
+  </channel>
+  <channel id="DAZN NFL Game Pass 8">
+    <display-name lang="es">DAZN NFL Game Pass 8</display-name>
+    <display-name lang="es">DAZN NFL Game Pass 8.TV</display-name>
+    <display-name lang="es">DAZN NFL Game Pass 8 SD</display-name>
+    <display-name lang="es">DAZN NFL Game Pass 8 HD</display-name>
+    <display-name lang="es">DAZN NFL Game Pass 8 FHD</display-name>
+    <display-name lang="es">DAZN NFL Game Pass 8 UHD</display-name>
+    <display-name lang="es">DAZN NFL Game Pass 8 720</display-name>
+    <display-name lang="es">DAZN NFL Game Pass 8 1080</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v4/onboarding-images/none/sn_wy3kluvb4efae1of0d8146c1/fill/center/top/none/100/0/0/png/image/25/g" />
+  </channel>
+  <channel id="DAZN NFL Game Pass 9">
+    <display-name lang="es">DAZN NFL Game Pass 9</display-name>
+    <display-name lang="es">DAZN NFL Game Pass 9.TV</display-name>
+    <display-name lang="es">DAZN NFL Game Pass 9 SD</display-name>
+    <display-name lang="es">DAZN NFL Game Pass 9 HD</display-name>
+    <display-name lang="es">DAZN NFL Game Pass 9 FHD</display-name>
+    <display-name lang="es">DAZN NFL Game Pass 9 UHD</display-name>
+    <display-name lang="es">DAZN NFL Game Pass 9 720</display-name>
+    <display-name lang="es">DAZN NFL Game Pass 9 1080</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v4/onboarding-images/none/sn_wy3kluvb4efae1of0d8146c1/fill/center/top/none/100/0/0/png/image/25/g" />
+  </channel>
   <channel id="VE PLUS TV">
     <display-name lang="es">VE PLUS TV</display-name>
     <display-name lang="es">VE PLUS TV.TV</display-name>
@@ -2628,6 +2991,160 @@
     <display-name lang="es">Extreme Channel 720</display-name>
     <display-name lang="es">Extreme Channel 1080</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Extreme%20Channel.png" />
+  </channel>
+  <channel id="Nós Televisión">
+    <display-name lang="es">Nós Televisión</display-name>
+    <display-name lang="es">Nós Televisión.TV</display-name>
+    <display-name lang="es">Nós Televisión SD</display-name>
+    <display-name lang="es">Nós Televisión HD</display-name>
+    <display-name lang="es">Nós Televisión FHD</display-name>
+    <display-name lang="es">Nós Televisión UHD</display-name>
+    <display-name lang="es">Nós Televisión 720</display-name>
+    <display-name lang="es">Nós Televisión 1080</display-name>
+    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/N%C3%B3s%20Televisi%C3%B3n.png" />
+  </channel>
+  <channel id="TELEVIGO">
+    <display-name lang="es">TELEVIGO</display-name>
+    <display-name lang="es">TELEVIGO.TV</display-name>
+    <display-name lang="es">TELEVIGO SD</display-name>
+    <display-name lang="es">TELEVIGO HD</display-name>
+    <display-name lang="es">TELEVIGO FHD</display-name>
+    <display-name lang="es">TELEVIGO UHD</display-name>
+    <display-name lang="es">TELEVIGO 720</display-name>
+    <display-name lang="es">TELEVIGO 1080</display-name>
+    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/TELEVIGO.png" />
+  </channel>
+  <channel id="Lolly Kids">
+    <display-name lang="es">Lolly Kids</display-name>
+    <display-name lang="es">Lolly Kids.TV</display-name>
+    <display-name lang="es">Lolly Kids SD</display-name>
+    <display-name lang="es">Lolly Kids HD</display-name>
+    <display-name lang="es">Lolly Kids FHD</display-name>
+    <display-name lang="es">Lolly Kids UHD</display-name>
+    <display-name lang="es">Lolly Kids 720</display-name>
+    <display-name lang="es">Lolly Kids 1080</display-name>
+    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Lolly%20Kids.png" />
+  </channel>
+  <channel id="VINX">
+    <display-name lang="es">VINX</display-name>
+    <display-name lang="es">VINX.TV</display-name>
+    <display-name lang="es">VINX SD</display-name>
+    <display-name lang="es">VINX HD</display-name>
+    <display-name lang="es">VINX FHD</display-name>
+    <display-name lang="es">VINX UHD</display-name>
+    <display-name lang="es">VINX 720</display-name>
+    <display-name lang="es">VINX 1080</display-name>
+    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/VINX.png" />
+  </channel>
+  <channel id="HIT TV">
+    <display-name lang="es">HIT TV</display-name>
+    <display-name lang="es">HIT TV.TV</display-name>
+    <display-name lang="es">HIT TV SD</display-name>
+    <display-name lang="es">HIT TV HD</display-name>
+    <display-name lang="es">HIT TV FHD</display-name>
+    <display-name lang="es">HIT TV UHD</display-name>
+    <display-name lang="es">HIT TV 720</display-name>
+    <display-name lang="es">HIT TV 1080</display-name>
+    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/HIT%20TV.png" />
+  </channel>
+  <channel id="MTV 80s">
+    <display-name lang="es">MTV 80s</display-name>
+    <display-name lang="es">MTV 80s.TV</display-name>
+    <display-name lang="es">MTV 80s SD</display-name>
+    <display-name lang="es">MTV 80s HD</display-name>
+    <display-name lang="es">MTV 80s FHD</display-name>
+    <display-name lang="es">MTV 80s UHD</display-name>
+    <display-name lang="es">MTV 80s 720</display-name>
+    <display-name lang="es">MTV 80s 1080</display-name>
+    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/MTV%2080s.png" />
+  </channel>
+  <channel id="MTV 90s">
+    <display-name lang="es">MTV 90s</display-name>
+    <display-name lang="es">MTV 90s.TV</display-name>
+    <display-name lang="es">MTV 90s SD</display-name>
+    <display-name lang="es">MTV 90s HD</display-name>
+    <display-name lang="es">MTV 90s FHD</display-name>
+    <display-name lang="es">MTV 90s UHD</display-name>
+    <display-name lang="es">MTV 90s 720</display-name>
+    <display-name lang="es">MTV 90s 1080</display-name>
+    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/MTV%2090s.png" />
+  </channel>
+  <channel id="MTV Hits">
+    <display-name lang="es">MTV Hits</display-name>
+    <display-name lang="es">MTV Hits.TV</display-name>
+    <display-name lang="es">MTV Hits SD</display-name>
+    <display-name lang="es">MTV Hits HD</display-name>
+    <display-name lang="es">MTV Hits FHD</display-name>
+    <display-name lang="es">MTV Hits UHD</display-name>
+    <display-name lang="es">MTV Hits 720</display-name>
+    <display-name lang="es">MTV Hits 1080</display-name>
+    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/MTV%20Hits.png" />
+  </channel>
+  <channel id="Club MTV">
+    <display-name lang="es">Club MTV</display-name>
+    <display-name lang="es">Club MTV.TV</display-name>
+    <display-name lang="es">Club MTV SD</display-name>
+    <display-name lang="es">Club MTV HD</display-name>
+    <display-name lang="es">Club MTV FHD</display-name>
+    <display-name lang="es">Club MTV UHD</display-name>
+    <display-name lang="es">Club MTV 720</display-name>
+    <display-name lang="es">Club MTV 1080</display-name>
+    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Club%20MTV.png" />
+  </channel>
+  <channel id="NickMusic">
+    <display-name lang="es">NickMusic</display-name>
+    <display-name lang="es">NickMusic.TV</display-name>
+    <display-name lang="es">NickMusic SD</display-name>
+    <display-name lang="es">NickMusic HD</display-name>
+    <display-name lang="es">NickMusic FHD</display-name>
+    <display-name lang="es">NickMusic UHD</display-name>
+    <display-name lang="es">NickMusic 720</display-name>
+    <display-name lang="es">NickMusic 1080</display-name>
+    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/NickMusic.png" />
+  </channel>
+  <channel id="Record">
+    <display-name lang="es">Record</display-name>
+    <display-name lang="es">Record.TV</display-name>
+    <display-name lang="es">Record SD</display-name>
+    <display-name lang="es">Record HD</display-name>
+    <display-name lang="es">Record FHD</display-name>
+    <display-name lang="es">Record UHD</display-name>
+    <display-name lang="es">Record 720</display-name>
+    <display-name lang="es">Record 1080</display-name>
+    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Record.png" />
+  </channel>
+  <channel id="RTP Internacional">
+    <display-name lang="es">RTP Internacional</display-name>
+    <display-name lang="es">RTP Internacional.TV</display-name>
+    <display-name lang="es">RTP Internacional SD</display-name>
+    <display-name lang="es">RTP Internacional HD</display-name>
+    <display-name lang="es">RTP Internacional FHD</display-name>
+    <display-name lang="es">RTP Internacional UHD</display-name>
+    <display-name lang="es">RTP Internacional 720</display-name>
+    <display-name lang="es">RTP Internacional 1080</display-name>
+    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/RTP%20Internacional.png" />
+  </channel>
+  <channel id="NHK WORLD">
+    <display-name lang="es">NHK WORLD</display-name>
+    <display-name lang="es">NHK WORLD.TV</display-name>
+    <display-name lang="es">NHK WORLD SD</display-name>
+    <display-name lang="es">NHK WORLD HD</display-name>
+    <display-name lang="es">NHK WORLD FHD</display-name>
+    <display-name lang="es">NHK WORLD UHD</display-name>
+    <display-name lang="es">NHK WORLD 720</display-name>
+    <display-name lang="es">NHK WORLD 1080</display-name>
+    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/NHK%20WORLD.png" />
+  </channel>
+  <channel id="PRO TV RUMANIA">
+    <display-name lang="es">PRO TV RUMANIA</display-name>
+    <display-name lang="es">PRO TV RUMANIA.TV</display-name>
+    <display-name lang="es">PRO TV RUMANIA SD</display-name>
+    <display-name lang="es">PRO TV RUMANIA HD</display-name>
+    <display-name lang="es">PRO TV RUMANIA FHD</display-name>
+    <display-name lang="es">PRO TV RUMANIA UHD</display-name>
+    <display-name lang="es">PRO TV RUMANIA 720</display-name>
+    <display-name lang="es">PRO TV RUMANIA 1080</display-name>
+    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/PRO%20TV%20RUMANIA.png" />
   </channel>
   <channel id="Playboy TV">
     <display-name lang="es">Playboy TV</display-name>
@@ -3254,7 +3771,7 @@
     <display-name lang="es">mtmad UHD</display-name>
     <display-name lang="es">mtmad 720</display-name>
     <display-name lang="es">mtmad 1080</display-name>
-    <icon src="https://img-prod-api2.mediasetplay.mediaset.it/api/images/by/v5/esp/aHR0cHM6Ly9kYW0uY2xvdWQubWVkaWFzZXQubmV0L20vM2M4MWNjYTAxMzVjZjdiNC9vcmlnaW5hbC9DaGFubmVsX2xvZ28tTXRtYWQucG5n/single/87/87@2?r=%202x&quot;%20media=&quot;(max-width:%201023px)|https://img-prod-api2.mediasetplay.mediaset.it/api/images/by/v5/esp/aHR0cHM6Ly9kYW0uY2xvdWQubWVkaWFzZXQubmV0L20vM2M4MWNjYTAxMzVjZjdiNC9vcmlnaW5hbC9DaGFubmVsX2xvZ28tTXRtYWQucG5n/single/87/87@2?r=%202x&quot;%20media=&quot;(max-width:%201023px)|https://img-prod-api2.mediasetplay.mediaset.it/api/images/by/v5/esp/aHR0cHM6Ly9kYW0uY2xvdWQubWVkaWFzZXQubmV0L20vM2M4MWNjYTAxMzVjZjdiNC9vcmlnaW5hbC9DaGFubmVsX2xvZ28tTXRtYWQucG5n/single/87/87@2?r=%202x&quot;%20media=&quot;(max-width:%201023px)|https://img-prod-api2.mediasetplay.mediaset.it/api/images/by/v5/esp/aHR0cHM6Ly9kYW0uY2xvdWQubWVkaWFzZXQubmV0L20vM2M4MWNjYTAxMzVjZjdiNC9vcmlnaW5hbC9DaGFubmVsX2xvZ28tTXRtYWQucG5n/single/87/87@2?r=%202x&quot;%20media=&quot;(max-width:%201023px)|https://img-prod-api2.mediasetplay.mediaset.it/api/images/by/v5/esp/aHR0cHM6Ly9kYW0uY2xvdWQubWVkaWFzZXQubmV0L20vM2M4MWNjYTAxMzVjZjdiNC9vcmlnaW5hbC9DaGFubmVsX2xvZ28tTXRtYWQucG5n/single/87/87@2?r=%202x&quot;%20media=&quot;(max-width:%201023px)|https://img-prod-api2.mediasetplay.mediaset.it/api/images/by/v5/esp/aHR0cHM6Ly9kYW0uY2xvdWQubWVkaWFzZXQubmV0L20vM2M4MWNjYTAxMzVjZjdiNC9vcmlnaW5hbC9DaGFubmVsX2xvZ28tTXRtYWQucG5n/single/87/87@2?r=%202x&quot;%20media=&quot;(max-width:%201023px)" />
+    <icon src="https://img-prod-api2.mediasetplay.mediaset.it/api/images/by/v5/esp/aHR0cHM6Ly9kYW0uY2xvdWQubWVkaWFzZXQubmV0L20vM2M4MWNjYTAxMzVjZjdiNC9vcmlnaW5hbC9DaGFubmVsX2xvZ28tTXRtYWQucG5n/single/87/87@2?r=%202x&quot;%20media=&quot;(max-width:%201023px)|https://img-prod-api2.mediasetplay.mediaset.it/api/images/by/v5/esp/aHR0cHM6Ly9kYW0uY2xvdWQubWVkaWFzZXQubmV0L20vM2M4MWNjYTAxMzVjZjdiNC9vcmlnaW5hbC9DaGFubmVsX2xvZ28tTXRtYWQucG5n/single/87/87@2?r=%202x&quot;%20media=&quot;(max-width:%201023px)|https://img-prod-api2.mediasetplay.mediaset.it/api/images/by/v5/esp/aHR0cHM6Ly9kYW0uY2xvdWQubWVkaWFzZXQubmV0L20vM2M4MWNjYTAxMzVjZjdiNC9vcmlnaW5hbC9DaGFubmVsX2xvZ28tTXRtYWQucG5n/single/87/87@2?r=%202x&quot;%20media=&quot;(max-width:%201023px)|https://img-prod-api2.mediasetplay.mediaset.it/api/images/by/v5/esp/aHR0cHM6Ly9kYW0uY2xvdWQubWVkaWFzZXQubmV0L20vM2M4MWNjYTAxMzVjZjdiNC9vcmlnaW5hbC9DaGFubmVsX2xvZ28tTXRtYWQucG5n/single/87/87@2?r=%202x&quot;%20media=&quot;(max-width:%201023px)|https://img-prod-api2.mediasetplay.mediaset.it/api/images/by/v5/esp/aHR0cHM6Ly9kYW0uY2xvdWQubWVkaWFzZXQubmV0L20vM2M4MWNjYTAxMzVjZjdiNC9vcmlnaW5hbC9DaGFubmVsX2xvZ28tTXRtYWQucG5n/single/87/87@2?r=%202x&quot;%20media=&quot;(max-width:%201023px)" />
   </channel>
   <channel id="Padel 24h">
     <display-name lang="es">Padel 24h</display-name>
@@ -3265,7 +3782,7 @@
     <display-name lang="es">Padel 24h UHD</display-name>
     <display-name lang="es">Padel 24h 720</display-name>
     <display-name lang="es">Padel 24h 1080</display-name>
-    <icon src="https://img-prod-api2.mediasetplay.mediaset.it/api/images/by/v5/esp/aHR0cHM6Ly9kYW0uY2xvdWQubWVkaWFzZXQubmV0L20vMTBjYWQ2OGJkNzgyMTQ2Mi9vcmlnaW5hbC9DaGFubmVsX2xvZ28tUGFkZWwyNGgucG5n/single/87/87@2?r=%202x&quot;%20media=&quot;(max-width:%201023px)|https://img-prod-api2.mediasetplay.mediaset.it/api/images/by/v5/esp/aHR0cHM6Ly9kYW0uY2xvdWQubWVkaWFzZXQubmV0L20vMTBjYWQ2OGJkNzgyMTQ2Mi9vcmlnaW5hbC9DaGFubmVsX2xvZ28tUGFkZWwyNGgucG5n/single/87/87@2?r=%202x&quot;%20media=&quot;(max-width:%201023px)|https://img-prod-api2.mediasetplay.mediaset.it/api/images/by/v5/esp/aHR0cHM6Ly9kYW0uY2xvdWQubWVkaWFzZXQubmV0L20vMTBjYWQ2OGJkNzgyMTQ2Mi9vcmlnaW5hbC9DaGFubmVsX2xvZ28tUGFkZWwyNGgucG5n/single/87/87@2?r=%202x&quot;%20media=&quot;(max-width:%201023px)|https://img-prod-api2.mediasetplay.mediaset.it/api/images/by/v5/esp/aHR0cHM6Ly9kYW0uY2xvdWQubWVkaWFzZXQubmV0L20vMTBjYWQ2OGJkNzgyMTQ2Mi9vcmlnaW5hbC9DaGFubmVsX2xvZ28tUGFkZWwyNGgucG5n/single/87/87@2?r=%202x&quot;%20media=&quot;(max-width:%201023px)|https://img-prod-api2.mediasetplay.mediaset.it/api/images/by/v5/esp/aHR0cHM6Ly9kYW0uY2xvdWQubWVkaWFzZXQubmV0L20vMTBjYWQ2OGJkNzgyMTQ2Mi9vcmlnaW5hbC9DaGFubmVsX2xvZ28tUGFkZWwyNGgucG5n/single/87/87@2?r=%202x&quot;%20media=&quot;(max-width:%201023px)|https://img-prod-api2.mediasetplay.mediaset.it/api/images/by/v5/esp/aHR0cHM6Ly9kYW0uY2xvdWQubWVkaWFzZXQubmV0L20vMTBjYWQ2OGJkNzgyMTQ2Mi9vcmlnaW5hbC9DaGFubmVsX2xvZ28tUGFkZWwyNGgucG5n/single/87/87@2?r=%202x&quot;%20media=&quot;(max-width:%201023px)" />
+    <icon src="https://img-prod-api2.mediasetplay.mediaset.it/api/images/by/v5/esp/aHR0cHM6Ly9kYW0uY2xvdWQubWVkaWFzZXQubmV0L20vMTBjYWQ2OGJkNzgyMTQ2Mi9vcmlnaW5hbC9DaGFubmVsX2xvZ28tUGFkZWwyNGgucG5n/single/87/87@2?r=%202x&quot;%20media=&quot;(max-width:%201023px)|https://img-prod-api2.mediasetplay.mediaset.it/api/images/by/v5/esp/aHR0cHM6Ly9kYW0uY2xvdWQubWVkaWFzZXQubmV0L20vMTBjYWQ2OGJkNzgyMTQ2Mi9vcmlnaW5hbC9DaGFubmVsX2xvZ28tUGFkZWwyNGgucG5n/single/87/87@2?r=%202x&quot;%20media=&quot;(max-width:%201023px)|https://img-prod-api2.mediasetplay.mediaset.it/api/images/by/v5/esp/aHR0cHM6Ly9kYW0uY2xvdWQubWVkaWFzZXQubmV0L20vMTBjYWQ2OGJkNzgyMTQ2Mi9vcmlnaW5hbC9DaGFubmVsX2xvZ28tUGFkZWwyNGgucG5n/single/87/87@2?r=%202x&quot;%20media=&quot;(max-width:%201023px)|https://img-prod-api2.mediasetplay.mediaset.it/api/images/by/v5/esp/aHR0cHM6Ly9kYW0uY2xvdWQubWVkaWFzZXQubmV0L20vMTBjYWQ2OGJkNzgyMTQ2Mi9vcmlnaW5hbC9DaGFubmVsX2xvZ28tUGFkZWwyNGgucG5n/single/87/87@2?r=%202x&quot;%20media=&quot;(max-width:%201023px)|https://img-prod-api2.mediasetplay.mediaset.it/api/images/by/v5/esp/aHR0cHM6Ly9kYW0uY2xvdWQubWVkaWFzZXQubmV0L20vMTBjYWQ2OGJkNzgyMTQ2Mi9vcmlnaW5hbC9DaGFubmVsX2xvZ28tUGFkZWwyNGgucG5n/single/87/87@2?r=%202x&quot;%20media=&quot;(max-width:%201023px)" />
   </channel>
   <channel id="Acontra+">
     <display-name lang="es">Acontra+</display-name>
@@ -4774,17 +5291,6 @@
     <display-name lang="es">1+1 International 1080</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/1+1 International.png" />
   </channel>
-  <channel id="Lolly Kids">
-    <display-name lang="es">Lolly Kids</display-name>
-    <display-name lang="es">Lolly Kids.TV</display-name>
-    <display-name lang="es">Lolly Kids SD</display-name>
-    <display-name lang="es">Lolly Kids HD</display-name>
-    <display-name lang="es">Lolly Kids FHD</display-name>
-    <display-name lang="es">Lolly Kids UHD</display-name>
-    <display-name lang="es">Lolly Kids 720</display-name>
-    <display-name lang="es">Lolly Kids 1080</display-name>
-    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Lolly%20Kids.png" />
-  </channel>
   <channel id="En Familia (Rakuten TV)">
     <display-name lang="es">En Familia (Rakuten TV)</display-name>
     <display-name lang="es">En Familia (Rakuten TV).TV</display-name>
@@ -5037,17 +5543,6 @@
     <display-name lang="es">Discovery Turbo 720</display-name>
     <display-name lang="es">Discovery Turbo 1080</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Discovery%20Turbo.png" />
-  </channel>
-  <channel id="NickMusic">
-    <display-name lang="es">NickMusic</display-name>
-    <display-name lang="es">NickMusic.TV</display-name>
-    <display-name lang="es">NickMusic SD</display-name>
-    <display-name lang="es">NickMusic HD</display-name>
-    <display-name lang="es">NickMusic FHD</display-name>
-    <display-name lang="es">NickMusic UHD</display-name>
-    <display-name lang="es">NickMusic 720</display-name>
-    <display-name lang="es">NickMusic 1080</display-name>
-    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/NickMusic.png" />
   </channel>
   <channel id="FOX SPORTS">
     <display-name lang="es">FOX SPORTS</display-name>
