@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tv generator-info-name="dobleM 06/10/2025 20:44" generator-info-url="t.me/EPG_dobleM">
+<tv generator-info-name="dobleM 07/10/2025 20:44" generator-info-url="t.me/EPG_dobleM">
   <channel id="La 1 HD">
     <display-name lang="es">La 1</display-name>
     <display-name lang="es">La 1.TV</display-name>
@@ -99,16 +99,16 @@
     <display-name lang="es">M+ Originales 1080</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Originales.png" />
   </channel>
-  <channel id="M+ San Sebastián">
-    <display-name lang="es">M+ San Sebastián</display-name>
-    <display-name lang="es">M+ San Sebastián.TV</display-name>
-    <display-name lang="es">M+ San Sebastián SD</display-name>
-    <display-name lang="es">M+ San Sebastián HD</display-name>
-    <display-name lang="es">M+ San Sebastián FHD</display-name>
-    <display-name lang="es">M+ San Sebastián UHD</display-name>
-    <display-name lang="es">M+ San Sebastián 720</display-name>
-    <display-name lang="es">M+ San Sebastián 1080</display-name>
-    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20San%20Sebasti%C3%A1n.png" />
+  <channel id="M+ Terror">
+    <display-name lang="es">M+ Terror</display-name>
+    <display-name lang="es">M+ Terror.TV</display-name>
+    <display-name lang="es">M+ Terror SD</display-name>
+    <display-name lang="es">M+ Terror HD</display-name>
+    <display-name lang="es">M+ Terror FHD</display-name>
+    <display-name lang="es">M+ Terror UHD</display-name>
+    <display-name lang="es">M+ Terror 720</display-name>
+    <display-name lang="es">M+ Terror 1080</display-name>
+    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Terror.png" />
   </channel>
   <channel id="M+ Documentales HD">
     <display-name lang="es">M+ Documentales</display-name>
@@ -121,16 +121,16 @@
     <display-name lang="es">M+ Documentales 1080</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Documentales.png" />
   </channel>
-  <channel id="M+ Cómic">
-    <display-name lang="es">M+ Cómic</display-name>
-    <display-name lang="es">M+ Cómic.TV</display-name>
-    <display-name lang="es">M+ Cómic SD</display-name>
-    <display-name lang="es">M+ Cómic HD</display-name>
-    <display-name lang="es">M+ Cómic FHD</display-name>
-    <display-name lang="es">M+ Cómic UHD</display-name>
-    <display-name lang="es">M+ Cómic 720</display-name>
-    <display-name lang="es">M+ Cómic 1080</display-name>
-    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20C%C3%B3mic.png" />
+  <channel id="M+ Romance">
+    <display-name lang="es">M+ Romance</display-name>
+    <display-name lang="es">M+ Romance.TV</display-name>
+    <display-name lang="es">M+ Romance SD</display-name>
+    <display-name lang="es">M+ Romance HD</display-name>
+    <display-name lang="es">M+ Romance FHD</display-name>
+    <display-name lang="es">M+ Romance UHD</display-name>
+    <display-name lang="es">M+ Romance 720</display-name>
+    <display-name lang="es">M+ Romance 1080</display-name>
+    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Romance.png" />
   </channel>
   <channel id="M+ Clásicos HD">
     <display-name lang="es">M+ Clásicos</display-name>
@@ -242,6 +242,17 @@
     <display-name lang="es">BBC Drama 1080</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/BBC%20Drama.png" />
   </channel>
+  <channel id="BBC Earth">
+    <display-name lang="es">BBC Earth</display-name>
+    <display-name lang="es">BBC Earth.TV</display-name>
+    <display-name lang="es">BBC Earth SD</display-name>
+    <display-name lang="es">BBC Earth HD</display-name>
+    <display-name lang="es">BBC Earth FHD</display-name>
+    <display-name lang="es">BBC Earth UHD</display-name>
+    <display-name lang="es">BBC Earth 720</display-name>
+    <display-name lang="es">BBC Earth 1080</display-name>
+    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/BBC%20Earth.png" />
+  </channel>
   <channel id="BBC Top Gear">
     <display-name lang="es">BBC Top Gear</display-name>
     <display-name lang="es">BBC Top Gear.TV</display-name>
@@ -252,6 +263,17 @@
     <display-name lang="es">BBC Top Gear 720</display-name>
     <display-name lang="es">BBC Top Gear 1080</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/BBC%20Top%20Gear.png" />
+  </channel>
+  <channel id="BBC Lifestyle">
+    <display-name lang="es">BBC Lifestyle</display-name>
+    <display-name lang="es">BBC Lifestyle.TV</display-name>
+    <display-name lang="es">BBC Lifestyle SD</display-name>
+    <display-name lang="es">BBC Lifestyle HD</display-name>
+    <display-name lang="es">BBC Lifestyle FHD</display-name>
+    <display-name lang="es">BBC Lifestyle UHD</display-name>
+    <display-name lang="es">BBC Lifestyle 720</display-name>
+    <display-name lang="es">BBC Lifestyle 1080</display-name>
+    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/BBC%20Lifestyle.png" />
   </channel>
   <channel id="Paramount Network">
     <display-name lang="es">Paramount Network</display-name>
@@ -2277,17 +2299,6 @@
     <display-name lang="es">tlnovelas 1080</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/tlnovelas.png" />
   </channel>
-  <channel id="DePelícula">
-    <display-name lang="es">DePelícula</display-name>
-    <display-name lang="es">DePelícula.TV</display-name>
-    <display-name lang="es">DePelícula SD</display-name>
-    <display-name lang="es">DePelícula HD</display-name>
-    <display-name lang="es">DePelícula FHD</display-name>
-    <display-name lang="es">DePelícula UHD</display-name>
-    <display-name lang="es">DePelícula 720</display-name>
-    <display-name lang="es">DePelícula 1080</display-name>
-    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DePel%C3%ADcula.png" />
-  </channel>
   <channel id="DejateTV">
     <display-name lang="es">DejateTV</display-name>
     <display-name lang="es">DejateTV.TV</display-name>
@@ -3650,7 +3661,7 @@
     <display-name lang="es">mtmad UHD</display-name>
     <display-name lang="es">mtmad 720</display-name>
     <display-name lang="es">mtmad 1080</display-name>
-    <icon src="https://img-prod-api2.mediasetplay.mediaset.it/api/images/by/v5/esp/aHR0cHM6Ly9kYW0uY2xvdWQubWVkaWFzZXQubmV0L20vM2M4MWNjYTAxMzVjZjdiNC9vcmlnaW5hbC9DaGFubmVsX2xvZ28tTXRtYWQucG5n/single/87/87@2?r=%202x&quot;%20media=&quot;(max-width:%201023px)" />
+    <icon src="https://img-prod-api2.mediasetplay.mediaset.it/api/images/by/v5/esp//single/87/87@2?r=%202x&quot;%20media=&quot;(max-width:%201023px)" />
   </channel>
   <channel id="Acontra+">
     <display-name lang="es">Acontra+</display-name>
