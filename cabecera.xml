@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tv generator-info-name="dobleM 09/10/2025 20:44" generator-info-url="t.me/EPG_dobleM">
+<tv generator-info-name="dobleM 10/10/2025 20:44" generator-info-url="t.me/EPG_dobleM">
   <channel id="La 1 HD">
     <display-name lang="es">La 1</display-name>
     <display-name lang="es">La 1.TV</display-name>
@@ -2288,17 +2288,6 @@
     <display-name lang="es">REKTV 1080</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/REKTV.png" />
   </channel>
-  <channel id="tlnovelas">
-    <display-name lang="es">tlnovelas</display-name>
-    <display-name lang="es">tlnovelas.TV</display-name>
-    <display-name lang="es">tlnovelas SD</display-name>
-    <display-name lang="es">tlnovelas HD</display-name>
-    <display-name lang="es">tlnovelas FHD</display-name>
-    <display-name lang="es">tlnovelas UHD</display-name>
-    <display-name lang="es">tlnovelas 720</display-name>
-    <display-name lang="es">tlnovelas 1080</display-name>
-    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/tlnovelas.png" />
-  </channel>
   <channel id="DePelícula">
     <display-name lang="es">DePelícula</display-name>
     <display-name lang="es">DePelícula.TV</display-name>
@@ -2957,6 +2946,17 @@
     <display-name lang="es">DAZN NFL Game Pass 24 UHD</display-name>
     <display-name lang="es">DAZN NFL Game Pass 24 720</display-name>
     <display-name lang="es">DAZN NFL Game Pass 24 1080</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v4/onboarding-images/none/sn_wy3kluvb4efae1of0d8146c1/fill/center/top/none/100/0/0/png/image/25/g" />
+  </channel>
+  <channel id="DAZN NFL Game Pass 25">
+    <display-name lang="es">DAZN NFL Game Pass 25</display-name>
+    <display-name lang="es">DAZN NFL Game Pass 25.TV</display-name>
+    <display-name lang="es">DAZN NFL Game Pass 25 SD</display-name>
+    <display-name lang="es">DAZN NFL Game Pass 25 HD</display-name>
+    <display-name lang="es">DAZN NFL Game Pass 25 FHD</display-name>
+    <display-name lang="es">DAZN NFL Game Pass 25 UHD</display-name>
+    <display-name lang="es">DAZN NFL Game Pass 25 720</display-name>
+    <display-name lang="es">DAZN NFL Game Pass 25 1080</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v4/onboarding-images/none/sn_wy3kluvb4efae1of0d8146c1/fill/center/top/none/100/0/0/png/image/25/g" />
   </channel>
   <channel id="DAZN NFL Game Pass 3">
