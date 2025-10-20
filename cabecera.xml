@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tv generator-info-name="dobleM 18/10/2025 20:49" generator-info-url="t.me/EPG_dobleM">
+<tv generator-info-name="dobleM 19/10/2025 20:49" generator-info-url="t.me/EPG_dobleM">
   <channel id="La 1 HD">
     <display-name lang="es">La 1</display-name>
     <display-name lang="es">La 1.TV</display-name>
@@ -2321,17 +2321,6 @@
     <display-name lang="es">DejateTV 1080</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DejateTV.png" />
   </channel>
-  <channel id="PTV Granada">
-    <display-name lang="es">PTV Granada</display-name>
-    <display-name lang="es">PTV Granada.TV</display-name>
-    <display-name lang="es">PTV Granada SD</display-name>
-    <display-name lang="es">PTV Granada HD</display-name>
-    <display-name lang="es">PTV Granada FHD</display-name>
-    <display-name lang="es">PTV Granada UHD</display-name>
-    <display-name lang="es">PTV Granada 720</display-name>
-    <display-name lang="es">PTV Granada 1080</display-name>
-    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/PTV%20Granada.png" />
-  </channel>
   <channel id="PTV Sevilla">
     <display-name lang="es">PTV Sevilla</display-name>
     <display-name lang="es">PTV Sevilla.TV</display-name>
@@ -2847,6 +2836,17 @@
     <display-name lang="es">DAZN NFL Game Pass 17 UHD</display-name>
     <display-name lang="es">DAZN NFL Game Pass 17 720</display-name>
     <display-name lang="es">DAZN NFL Game Pass 17 1080</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v4/onboarding-images/none/sn_wy3kluvb4efae1of0d8146c1/fill/center/top/none/100/0/0/png/image/25/g" />
+  </channel>
+  <channel id="DAZN NFL Game Pass 18">
+    <display-name lang="es">DAZN NFL Game Pass 18</display-name>
+    <display-name lang="es">DAZN NFL Game Pass 18.TV</display-name>
+    <display-name lang="es">DAZN NFL Game Pass 18 SD</display-name>
+    <display-name lang="es">DAZN NFL Game Pass 18 HD</display-name>
+    <display-name lang="es">DAZN NFL Game Pass 18 FHD</display-name>
+    <display-name lang="es">DAZN NFL Game Pass 18 UHD</display-name>
+    <display-name lang="es">DAZN NFL Game Pass 18 720</display-name>
+    <display-name lang="es">DAZN NFL Game Pass 18 1080</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v4/onboarding-images/none/sn_wy3kluvb4efae1of0d8146c1/fill/center/top/none/100/0/0/png/image/25/g" />
   </channel>
   <channel id="DAZN NFL Game Pass 2">
@@ -3738,7 +3738,7 @@
     <display-name lang="es">mtmad UHD</display-name>
     <display-name lang="es">mtmad 720</display-name>
     <display-name lang="es">mtmad 1080</display-name>
-    <icon src="https://img-prod-api2.mediasetplay.mediaset.it/api/images/by/v5/esp/aHR0cHM6Ly9kYW0uY2xvdWQubWVkaWFzZXQubmV0L20vNzU5MTlmNzAyZDlmNjc4OS9vcmlnaW5hbC9DaGFubmVsX2xvZ28tTXRtYWQucG5n/single/87/87@2?r=%202x&quot;%20media=&quot;(max-width:%201023px)|https://img-prod-api2.mediasetplay.mediaset.it/api/images/by/v5/esp/aHR0cHM6Ly9kYW0uY2xvdWQubWVkaWFzZXQubmV0L20vNzU5MTlmNzAyZDlmNjc4OS9vcmlnaW5hbC9DaGFubmVsX2xvZ28tTXRtYWQucG5n/single/87/87@2?r=%202x&quot;%20media=&quot;(max-width:%201023px)|https://img-prod-api2.mediasetplay.mediaset.it/api/images/by/v5/esp/aHR0cHM6Ly9kYW0uY2xvdWQubWVkaWFzZXQubmV0L20vNzU5MTlmNzAyZDlmNjc4OS9vcmlnaW5hbC9DaGFubmVsX2xvZ28tTXRtYWQucG5n/single/87/87@2?r=%202x&quot;%20media=&quot;(max-width:%201023px)" />
+    <icon src="https://img-prod-api2.mediasetplay.mediaset.it/api/images/by/v5/esp/aHR0cHM6Ly9kYW0uY2xvdWQubWVkaWFzZXQubmV0L20vNzU5MTlmNzAyZDlmNjc4OS9vcmlnaW5hbC9DaGFubmVsX2xvZ28tTXRtYWQucG5n/single/87/87@2?r=%202x&quot;%20media=&quot;(max-width:%201023px)|https://img-prod-api2.mediasetplay.mediaset.it/api/images/by/v5/esp/aHR0cHM6Ly9kYW0uY2xvdWQubWVkaWFzZXQubmV0L20vNzU5MTlmNzAyZDlmNjc4OS9vcmlnaW5hbC9DaGFubmVsX2xvZ28tTXRtYWQucG5n/single/87/87@2?r=%202x&quot;%20media=&quot;(max-width:%201023px)" />
   </channel>
   <channel id="Acontra+">
     <display-name lang="es">Acontra+</display-name>
