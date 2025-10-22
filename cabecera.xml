@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tv generator-info-name="dobleM 20/10/2025 20:49" generator-info-url="t.me/EPG_dobleM">
+<tv generator-info-name="dobleM 21/10/2025 20:48" generator-info-url="t.me/EPG_dobleM">
   <channel id="La 1 HD">
     <display-name lang="es">La 1</display-name>
     <display-name lang="es">La 1.TV</display-name>
@@ -2321,6 +2321,17 @@
     <display-name lang="es">DejateTV 1080</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DejateTV.png" />
   </channel>
+  <channel id="PTV Granada">
+    <display-name lang="es">PTV Granada</display-name>
+    <display-name lang="es">PTV Granada.TV</display-name>
+    <display-name lang="es">PTV Granada SD</display-name>
+    <display-name lang="es">PTV Granada HD</display-name>
+    <display-name lang="es">PTV Granada FHD</display-name>
+    <display-name lang="es">PTV Granada UHD</display-name>
+    <display-name lang="es">PTV Granada 720</display-name>
+    <display-name lang="es">PTV Granada 1080</display-name>
+    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/PTV%20Granada.png" />
+  </channel>
   <channel id="PTV Sevilla">
     <display-name lang="es">PTV Sevilla</display-name>
     <display-name lang="es">PTV Sevilla.TV</display-name>
@@ -2759,6 +2770,61 @@
     <display-name lang="es">DAZN NFL Game Pass 2 UHD</display-name>
     <display-name lang="es">DAZN NFL Game Pass 2 720</display-name>
     <display-name lang="es">DAZN NFL Game Pass 2 1080</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v4/onboarding-images/none/sn_wy3kluvb4efae1of0d8146c1/fill/center/top/none/100/0/0/png/image/25/g" />
+  </channel>
+  <channel id="DAZN NFL Game Pass 3">
+    <display-name lang="es">DAZN NFL Game Pass 3</display-name>
+    <display-name lang="es">DAZN NFL Game Pass 3.TV</display-name>
+    <display-name lang="es">DAZN NFL Game Pass 3 SD</display-name>
+    <display-name lang="es">DAZN NFL Game Pass 3 HD</display-name>
+    <display-name lang="es">DAZN NFL Game Pass 3 FHD</display-name>
+    <display-name lang="es">DAZN NFL Game Pass 3 UHD</display-name>
+    <display-name lang="es">DAZN NFL Game Pass 3 720</display-name>
+    <display-name lang="es">DAZN NFL Game Pass 3 1080</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v4/onboarding-images/none/sn_wy3kluvb4efae1of0d8146c1/fill/center/top/none/100/0/0/png/image/25/g" />
+  </channel>
+  <channel id="DAZN NFL Game Pass 4">
+    <display-name lang="es">DAZN NFL Game Pass 4</display-name>
+    <display-name lang="es">DAZN NFL Game Pass 4.TV</display-name>
+    <display-name lang="es">DAZN NFL Game Pass 4 SD</display-name>
+    <display-name lang="es">DAZN NFL Game Pass 4 HD</display-name>
+    <display-name lang="es">DAZN NFL Game Pass 4 FHD</display-name>
+    <display-name lang="es">DAZN NFL Game Pass 4 UHD</display-name>
+    <display-name lang="es">DAZN NFL Game Pass 4 720</display-name>
+    <display-name lang="es">DAZN NFL Game Pass 4 1080</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v4/onboarding-images/none/sn_wy3kluvb4efae1of0d8146c1/fill/center/top/none/100/0/0/png/image/25/g" />
+  </channel>
+  <channel id="DAZN NFL Game Pass 5">
+    <display-name lang="es">DAZN NFL Game Pass 5</display-name>
+    <display-name lang="es">DAZN NFL Game Pass 5.TV</display-name>
+    <display-name lang="es">DAZN NFL Game Pass 5 SD</display-name>
+    <display-name lang="es">DAZN NFL Game Pass 5 HD</display-name>
+    <display-name lang="es">DAZN NFL Game Pass 5 FHD</display-name>
+    <display-name lang="es">DAZN NFL Game Pass 5 UHD</display-name>
+    <display-name lang="es">DAZN NFL Game Pass 5 720</display-name>
+    <display-name lang="es">DAZN NFL Game Pass 5 1080</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v4/onboarding-images/none/sn_wy3kluvb4efae1of0d8146c1/fill/center/top/none/100/0/0/png/image/25/g" />
+  </channel>
+  <channel id="DAZN NFL Game Pass 6">
+    <display-name lang="es">DAZN NFL Game Pass 6</display-name>
+    <display-name lang="es">DAZN NFL Game Pass 6.TV</display-name>
+    <display-name lang="es">DAZN NFL Game Pass 6 SD</display-name>
+    <display-name lang="es">DAZN NFL Game Pass 6 HD</display-name>
+    <display-name lang="es">DAZN NFL Game Pass 6 FHD</display-name>
+    <display-name lang="es">DAZN NFL Game Pass 6 UHD</display-name>
+    <display-name lang="es">DAZN NFL Game Pass 6 720</display-name>
+    <display-name lang="es">DAZN NFL Game Pass 6 1080</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v4/onboarding-images/none/sn_wy3kluvb4efae1of0d8146c1/fill/center/top/none/100/0/0/png/image/25/g" />
+  </channel>
+  <channel id="DAZN NFL Game Pass 7">
+    <display-name lang="es">DAZN NFL Game Pass 7</display-name>
+    <display-name lang="es">DAZN NFL Game Pass 7.TV</display-name>
+    <display-name lang="es">DAZN NFL Game Pass 7 SD</display-name>
+    <display-name lang="es">DAZN NFL Game Pass 7 HD</display-name>
+    <display-name lang="es">DAZN NFL Game Pass 7 FHD</display-name>
+    <display-name lang="es">DAZN NFL Game Pass 7 UHD</display-name>
+    <display-name lang="es">DAZN NFL Game Pass 7 720</display-name>
+    <display-name lang="es">DAZN NFL Game Pass 7 1080</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v4/onboarding-images/none/sn_wy3kluvb4efae1of0d8146c1/fill/center/top/none/100/0/0/png/image/25/g" />
   </channel>
   <channel id="VE PLUS TV">
@@ -3806,94 +3872,6 @@
     <display-name lang="es">La 8 Zamora 1080</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/La%208%20Zamora.png" />
   </channel>
-  <channel id="Vallès Visió">
-    <display-name lang="es">Vallès Visió</display-name>
-    <display-name lang="es">Vallès Visió.TV</display-name>
-    <display-name lang="es">Vallès Visió SD</display-name>
-    <display-name lang="es">Vallès Visió HD</display-name>
-    <display-name lang="es">Vallès Visió FHD</display-name>
-    <display-name lang="es">Vallès Visió UHD</display-name>
-    <display-name lang="es">Vallès Visió 720</display-name>
-    <display-name lang="es">Vallès Visió 1080</display-name>
-    <icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/113f590aa4c64dba85578d063e164269/Images/16ef075877324bf1846413275a7ff5bc" />
-  </channel>
-  <channel id="tvmataró">
-    <display-name lang="es">tvmataró</display-name>
-    <display-name lang="es">tvmataró.TV</display-name>
-    <display-name lang="es">tvmataró SD</display-name>
-    <display-name lang="es">tvmataró HD</display-name>
-    <display-name lang="es">tvmataró FHD</display-name>
-    <display-name lang="es">tvmataró UHD</display-name>
-    <display-name lang="es">tvmataró 720</display-name>
-    <display-name lang="es">tvmataró 1080</display-name>
-    <icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/6a410adb06e34e1a8d6c025182126bda/Images/3450786141984304b268f9207db50bf1" />
-  </channel>
-  <channel id="Canal Reus TV">
-    <display-name lang="es">Canal Reus TV</display-name>
-    <display-name lang="es">Canal Reus TV.TV</display-name>
-    <display-name lang="es">Canal Reus TV SD</display-name>
-    <display-name lang="es">Canal Reus TV HD</display-name>
-    <display-name lang="es">Canal Reus TV FHD</display-name>
-    <display-name lang="es">Canal Reus TV UHD</display-name>
-    <display-name lang="es">Canal Reus TV 720</display-name>
-    <display-name lang="es">Canal Reus TV 1080</display-name>
-    <icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/a70fc167fb5f47f095f0a35a2174d87c/Images/ef2270b80a714e71b59919e6827ec051" />
-  </channel>
-  <channel id="TV Girona">
-    <display-name lang="es">TV Girona</display-name>
-    <display-name lang="es">TV Girona.TV</display-name>
-    <display-name lang="es">TV Girona SD</display-name>
-    <display-name lang="es">TV Girona HD</display-name>
-    <display-name lang="es">TV Girona FHD</display-name>
-    <display-name lang="es">TV Girona UHD</display-name>
-    <display-name lang="es">TV Girona 720</display-name>
-    <display-name lang="es">TV Girona 1080</display-name>
-    <icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/c1ed09e701c74922a7096204ce7f7212/Images/399a1dd20d3c4a5aad992b24d7eeb4c4" />
-  </channel>
-  <channel id="TV Berguedà">
-    <display-name lang="es">TV Berguedà</display-name>
-    <display-name lang="es">TV Berguedà.TV</display-name>
-    <display-name lang="es">TV Berguedà SD</display-name>
-    <display-name lang="es">TV Berguedà HD</display-name>
-    <display-name lang="es">TV Berguedà FHD</display-name>
-    <display-name lang="es">TV Berguedà UHD</display-name>
-    <display-name lang="es">TV Berguedà 720</display-name>
-    <display-name lang="es">TV Berguedà 1080</display-name>
-    <icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/bfcb5ca4ff69469cbc691e0c5ddc4d4b/Images/92273c48950642bc9ebdf33eae57ab77" />
-  </channel>
-  <channel id="Canal Blau">
-    <display-name lang="es">Canal Blau</display-name>
-    <display-name lang="es">Canal Blau.TV</display-name>
-    <display-name lang="es">Canal Blau SD</display-name>
-    <display-name lang="es">Canal Blau HD</display-name>
-    <display-name lang="es">Canal Blau FHD</display-name>
-    <display-name lang="es">Canal Blau UHD</display-name>
-    <display-name lang="es">Canal Blau 720</display-name>
-    <display-name lang="es">Canal Blau 1080</display-name>
-    <icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/c90cc7e06fd74f6c980a1039f80a322b/Images/4bf5cd5a7b124e96b80a8bfecc45c730" />
-  </channel>
-  <channel id="Canal Taronja Central">
-    <display-name lang="es">Canal Taronja Central</display-name>
-    <display-name lang="es">Canal Taronja Central.TV</display-name>
-    <display-name lang="es">Canal Taronja Central SD</display-name>
-    <display-name lang="es">Canal Taronja Central HD</display-name>
-    <display-name lang="es">Canal Taronja Central FHD</display-name>
-    <display-name lang="es">Canal Taronja Central UHD</display-name>
-    <display-name lang="es">Canal Taronja Central 720</display-name>
-    <display-name lang="es">Canal Taronja Central 1080</display-name>
-    <icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/2483804e1dd343a08a95864a921fdce8/Images/bf16514e0dca4106954747a84dabb40a" />
-  </channel>
-  <channel id="Canal Terres de l'Ebre">
-    <display-name lang="es">Canal Terres de l'Ebre</display-name>
-    <display-name lang="es">Canal Terres de l'Ebre.TV</display-name>
-    <display-name lang="es">Canal Terres de l'Ebre SD</display-name>
-    <display-name lang="es">Canal Terres de l'Ebre HD</display-name>
-    <display-name lang="es">Canal Terres de l'Ebre FHD</display-name>
-    <display-name lang="es">Canal Terres de l'Ebre UHD</display-name>
-    <display-name lang="es">Canal Terres de l'Ebre 720</display-name>
-    <display-name lang="es">Canal Terres de l'Ebre 1080</display-name>
-    <icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/b98fe654fe94466e80ac5902566ac4b9/Images/9f325a5f48ad43d486d9cdb3e41dde08" />
-  </channel>
   <channel id="Canal 10 Empordà">
     <display-name lang="es">Canal 10 Empordà</display-name>
     <display-name lang="es">Canal 10 Empordà.TV</display-name>
@@ -3904,17 +3882,6 @@
     <display-name lang="es">Canal 10 Empordà 720</display-name>
     <display-name lang="es">Canal 10 Empordà 1080</display-name>
     <icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/59b39e8627ac48fc918ac74868f10c52/Images/c87bb30b698f4dc9ae2fb28664d7f557" />
-  </channel>
-  <channel id="Canal21 Ebre">
-    <display-name lang="es">Canal21 Ebre</display-name>
-    <display-name lang="es">Canal21 Ebre.TV</display-name>
-    <display-name lang="es">Canal21 Ebre SD</display-name>
-    <display-name lang="es">Canal21 Ebre HD</display-name>
-    <display-name lang="es">Canal21 Ebre FHD</display-name>
-    <display-name lang="es">Canal21 Ebre UHD</display-name>
-    <display-name lang="es">Canal21 Ebre 720</display-name>
-    <display-name lang="es">Canal21 Ebre 1080</display-name>
-    <icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/db43c578923f403b866bf4a2cc432f20/Images/b8a496cd30d44312859c06cbcb58dcfb" />
   </channel>
   <channel id="EmpordaTV">
     <display-name lang="es">EmpordaTV</display-name>
@@ -3927,38 +3894,16 @@
     <display-name lang="es">EmpordaTV 1080</display-name>
     <icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/372eac7b9f6147ce9b33835dcca3fa7c/Images/6864e0b1ce6f454995af88f894038cda" />
   </channel>
-  <channel id="Lleida TV">
-    <display-name lang="es">Lleida TV</display-name>
-    <display-name lang="es">Lleida TV.TV</display-name>
-    <display-name lang="es">Lleida TV SD</display-name>
-    <display-name lang="es">Lleida TV HD</display-name>
-    <display-name lang="es">Lleida TV FHD</display-name>
-    <display-name lang="es">Lleida TV UHD</display-name>
-    <display-name lang="es">Lleida TV 720</display-name>
-    <display-name lang="es">Lleida TV 1080</display-name>
-    <icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/4717e98daf50416982f71c7db0389a14/Images/58747f9ed82342bd8472425d531d402b" />
-  </channel>
-  <channel id="Televisió de Badalona">
-    <display-name lang="es">Televisió de Badalona</display-name>
-    <display-name lang="es">Televisió de Badalona.TV</display-name>
-    <display-name lang="es">Televisió de Badalona SD</display-name>
-    <display-name lang="es">Televisió de Badalona HD</display-name>
-    <display-name lang="es">Televisió de Badalona FHD</display-name>
-    <display-name lang="es">Televisió de Badalona UHD</display-name>
-    <display-name lang="es">Televisió de Badalona 720</display-name>
-    <display-name lang="es">Televisió de Badalona 1080</display-name>
-    <icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/76678b4564d94001a89fa8ddfc78e9d8/Images/77cfcaa773c444be925aeb65ccdb4283" />
-  </channel>
-  <channel id="TV Sabadell - Vallès">
-    <display-name lang="es">TV Sabadell - Vallès</display-name>
-    <display-name lang="es">TV Sabadell - Vallès.TV</display-name>
-    <display-name lang="es">TV Sabadell - Vallès SD</display-name>
-    <display-name lang="es">TV Sabadell - Vallès HD</display-name>
-    <display-name lang="es">TV Sabadell - Vallès FHD</display-name>
-    <display-name lang="es">TV Sabadell - Vallès UHD</display-name>
-    <display-name lang="es">TV Sabadell - Vallès 720</display-name>
-    <display-name lang="es">TV Sabadell - Vallès 1080</display-name>
-    <icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/44c6758b94344e508781830ad0daa913/Images/47b0460e1aad4331afb04fa5bc5281f9" />
+  <channel id="TAC12">
+    <display-name lang="es">TAC12</display-name>
+    <display-name lang="es">TAC12.TV</display-name>
+    <display-name lang="es">TAC12 SD</display-name>
+    <display-name lang="es">TAC12 HD</display-name>
+    <display-name lang="es">TAC12 FHD</display-name>
+    <display-name lang="es">TAC12 UHD</display-name>
+    <display-name lang="es">TAC12 720</display-name>
+    <display-name lang="es">TAC12 1080</display-name>
+    <icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/35fb7e6bd71744cd920462b0d7507803/Images/11ffc0ea325540219ca78995bade2c75" />
   </channel>
   <channel id="TV Costa Brava">
     <display-name lang="es">TV Costa Brava</display-name>
@@ -3982,16 +3927,27 @@
     <display-name lang="es">Canal Terrassa 1080</display-name>
     <icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/7b1fb076dbeb487ebc107950baeaa583/Images/30706a728c58462a92dc464334a0cd9b" />
   </channel>
-  <channel id="Banyoles TV">
-    <display-name lang="es">Banyoles TV</display-name>
-    <display-name lang="es">Banyoles TV.TV</display-name>
-    <display-name lang="es">Banyoles TV SD</display-name>
-    <display-name lang="es">Banyoles TV HD</display-name>
-    <display-name lang="es">Banyoles TV FHD</display-name>
-    <display-name lang="es">Banyoles TV UHD</display-name>
-    <display-name lang="es">Banyoles TV 720</display-name>
-    <display-name lang="es">Banyoles TV 1080</display-name>
-    <icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/0f6cd8ece2b04eafb93aab503324c005/Images/6e9740ff00014dfaa3b601e1f9240ae2" />
+  <channel id="Televisió de l'Hospitalet">
+    <display-name lang="es">Televisió de l'Hospitalet</display-name>
+    <display-name lang="es">Televisió de l'Hospitalet.TV</display-name>
+    <display-name lang="es">Televisió de l'Hospitalet SD</display-name>
+    <display-name lang="es">Televisió de l'Hospitalet HD</display-name>
+    <display-name lang="es">Televisió de l'Hospitalet FHD</display-name>
+    <display-name lang="es">Televisió de l'Hospitalet UHD</display-name>
+    <display-name lang="es">Televisió de l'Hospitalet 720</display-name>
+    <display-name lang="es">Televisió de l'Hospitalet 1080</display-name>
+    <icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/4d27376306554922877e2fcde8b28d2a/Images/b3d18271aae4465290668f581fa3e20d" />
+  </channel>
+  <channel id="TV Berguedà">
+    <display-name lang="es">TV Berguedà</display-name>
+    <display-name lang="es">TV Berguedà.TV</display-name>
+    <display-name lang="es">TV Berguedà SD</display-name>
+    <display-name lang="es">TV Berguedà HD</display-name>
+    <display-name lang="es">TV Berguedà FHD</display-name>
+    <display-name lang="es">TV Berguedà UHD</display-name>
+    <display-name lang="es">TV Berguedà 720</display-name>
+    <display-name lang="es">TV Berguedà 1080</display-name>
+    <icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/bfcb5ca4ff69469cbc691e0c5ddc4d4b/Images/92273c48950642bc9ebdf33eae57ab77" />
   </channel>
   <channel id="Canal Taronja Anoia">
     <display-name lang="es">Canal Taronja Anoia</display-name>
@@ -4004,49 +3960,49 @@
     <display-name lang="es">Canal Taronja Anoia 1080</display-name>
     <icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/6b76d3a06b3e40d3aa0f180825e49c3e/Images/84251d414f3d4709beb81bba4d6bd222" />
   </channel>
-  <channel id="TAC12">
-    <display-name lang="es">TAC12</display-name>
-    <display-name lang="es">TAC12.TV</display-name>
-    <display-name lang="es">TAC12 SD</display-name>
-    <display-name lang="es">TAC12 HD</display-name>
-    <display-name lang="es">TAC12 FHD</display-name>
-    <display-name lang="es">TAC12 UHD</display-name>
-    <display-name lang="es">TAC12 720</display-name>
-    <display-name lang="es">TAC12 1080</display-name>
-    <icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/35fb7e6bd71744cd920462b0d7507803/Images/11ffc0ea325540219ca78995bade2c75" />
+  <channel id="Canal Reus TV">
+    <display-name lang="es">Canal Reus TV</display-name>
+    <display-name lang="es">Canal Reus TV.TV</display-name>
+    <display-name lang="es">Canal Reus TV SD</display-name>
+    <display-name lang="es">Canal Reus TV HD</display-name>
+    <display-name lang="es">Canal Reus TV FHD</display-name>
+    <display-name lang="es">Canal Reus TV UHD</display-name>
+    <display-name lang="es">Canal Reus TV 720</display-name>
+    <display-name lang="es">Canal Reus TV 1080</display-name>
+    <icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/a70fc167fb5f47f095f0a35a2174d87c/Images/ef2270b80a714e71b59919e6827ec051" />
   </channel>
-  <channel id="El 9 TV">
-    <display-name lang="es">El 9 TV</display-name>
-    <display-name lang="es">El 9 TV.TV</display-name>
-    <display-name lang="es">El 9 TV SD</display-name>
-    <display-name lang="es">El 9 TV HD</display-name>
-    <display-name lang="es">El 9 TV FHD</display-name>
-    <display-name lang="es">El 9 TV UHD</display-name>
-    <display-name lang="es">El 9 TV 720</display-name>
-    <display-name lang="es">El 9 TV 1080</display-name>
-    <icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/84a7b6f48af446a590975ce5de68531f/Images/6d726d26edaf4627a361676becc0801c" />
+  <channel id="Canal21 Ebre">
+    <display-name lang="es">Canal21 Ebre</display-name>
+    <display-name lang="es">Canal21 Ebre.TV</display-name>
+    <display-name lang="es">Canal21 Ebre SD</display-name>
+    <display-name lang="es">Canal21 Ebre HD</display-name>
+    <display-name lang="es">Canal21 Ebre FHD</display-name>
+    <display-name lang="es">Canal21 Ebre UHD</display-name>
+    <display-name lang="es">Canal21 Ebre 720</display-name>
+    <display-name lang="es">Canal21 Ebre 1080</display-name>
+    <icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/db43c578923f403b866bf4a2cc432f20/Images/b8a496cd30d44312859c06cbcb58dcfb" />
   </channel>
-  <channel id="Televisió de l'Hospitalet">
-    <display-name lang="es">Televisió de l'Hospitalet</display-name>
-    <display-name lang="es">Televisió de l'Hospitalet.TV</display-name>
-    <display-name lang="es">Televisió de l'Hospitalet SD</display-name>
-    <display-name lang="es">Televisió de l'Hospitalet HD</display-name>
-    <display-name lang="es">Televisió de l'Hospitalet FHD</display-name>
-    <display-name lang="es">Televisió de l'Hospitalet UHD</display-name>
-    <display-name lang="es">Televisió de l'Hospitalet 720</display-name>
-    <display-name lang="es">Televisió de l'Hospitalet 1080</display-name>
-    <icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/4d27376306554922877e2fcde8b28d2a/Images/b3d18271aae4465290668f581fa3e20d" />
+  <channel id="Canal Terres de l'Ebre">
+    <display-name lang="es">Canal Terres de l'Ebre</display-name>
+    <display-name lang="es">Canal Terres de l'Ebre.TV</display-name>
+    <display-name lang="es">Canal Terres de l'Ebre SD</display-name>
+    <display-name lang="es">Canal Terres de l'Ebre HD</display-name>
+    <display-name lang="es">Canal Terres de l'Ebre FHD</display-name>
+    <display-name lang="es">Canal Terres de l'Ebre UHD</display-name>
+    <display-name lang="es">Canal Terres de l'Ebre 720</display-name>
+    <display-name lang="es">Canal Terres de l'Ebre 1080</display-name>
+    <icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/b98fe654fe94466e80ac5902566ac4b9/Images/9f325a5f48ad43d486d9cdb3e41dde08" />
   </channel>
-  <channel id="Cugat Media">
-    <display-name lang="es">Cugat Media</display-name>
-    <display-name lang="es">Cugat Media.TV</display-name>
-    <display-name lang="es">Cugat Media SD</display-name>
-    <display-name lang="es">Cugat Media HD</display-name>
-    <display-name lang="es">Cugat Media FHD</display-name>
-    <display-name lang="es">Cugat Media UHD</display-name>
-    <display-name lang="es">Cugat Media 720</display-name>
-    <display-name lang="es">Cugat Media 1080</display-name>
-    <icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/0a7002085b31450f9c507ba8fb0bac04/Images/79be7d3777f941d38b04f864089b85e9" />
+  <channel id="TV Girona">
+    <display-name lang="es">TV Girona</display-name>
+    <display-name lang="es">TV Girona.TV</display-name>
+    <display-name lang="es">TV Girona SD</display-name>
+    <display-name lang="es">TV Girona HD</display-name>
+    <display-name lang="es">TV Girona FHD</display-name>
+    <display-name lang="es">TV Girona UHD</display-name>
+    <display-name lang="es">TV Girona 720</display-name>
+    <display-name lang="es">TV Girona 1080</display-name>
+    <icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/c1ed09e701c74922a7096204ce7f7212/Images/399a1dd20d3c4a5aad992b24d7eeb4c4" />
   </channel>
   <channel id="ETV">
     <display-name lang="es">ETV</display-name>
@@ -4059,26 +4015,27 @@
     <display-name lang="es">ETV 1080</display-name>
     <icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/5125c58d0dfd42b3b3caad16d90df701/Images/7c6e7d9644aa4468977b24f65ca6f47a" />
   </channel>
-  <channel id="Olot TV">
-    <display-name lang="es">Olot TV</display-name>
-    <display-name lang="es">Olot TV.TV</display-name>
-    <display-name lang="es">Olot TV SD</display-name>
-    <display-name lang="es">Olot TV HD</display-name>
-    <display-name lang="es">Olot TV FHD</display-name>
-    <display-name lang="es">Olot TV UHD</display-name>
-    <display-name lang="es">Olot TV 720</display-name>
-    <display-name lang="es">Olot TV 1080</display-name>
-    <icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/2ce334587a0b4fe1ae1c0fad797af300/Images/1f5bd5cdeb5d40cda734385044e1636e" />
+  <channel id="tvmataró">
+    <display-name lang="es">tvmataró</display-name>
+    <display-name lang="es">tvmataró.TV</display-name>
+    <display-name lang="es">tvmataró SD</display-name>
+    <display-name lang="es">tvmataró HD</display-name>
+    <display-name lang="es">tvmataró FHD</display-name>
+    <display-name lang="es">tvmataró UHD</display-name>
+    <display-name lang="es">tvmataró 720</display-name>
+    <display-name lang="es">tvmataró 1080</display-name>
+    <icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/6a410adb06e34e1a8d6c025182126bda/Images/3450786141984304b268f9207db50bf1" />
   </channel>
-  <channel id="Televisió del Ripollès">
-    <display-name lang="es">Televisió del Ripollès</display-name>
-    <display-name lang="es">Televisió del Ripollès.TV</display-name>
-    <display-name lang="es">Televisió del Ripollès SD</display-name>
-    <display-name lang="es">Televisió del Ripollès HD</display-name>
-    <display-name lang="es">Televisió del Ripollès FHD</display-name>
-    <display-name lang="es">Televisió del Ripollès UHD</display-name>
-    <display-name lang="es">Televisió del Ripollès 720</display-name>
-    <display-name lang="es">Televisió del Ripollès 1080</display-name>
+  <channel id="TV Sabadell - Vallès">
+    <display-name lang="es">TV Sabadell - Vallès</display-name>
+    <display-name lang="es">TV Sabadell - Vallès.TV</display-name>
+    <display-name lang="es">TV Sabadell - Vallès SD</display-name>
+    <display-name lang="es">TV Sabadell - Vallès HD</display-name>
+    <display-name lang="es">TV Sabadell - Vallès FHD</display-name>
+    <display-name lang="es">TV Sabadell - Vallès UHD</display-name>
+    <display-name lang="es">TV Sabadell - Vallès 720</display-name>
+    <display-name lang="es">TV Sabadell - Vallès 1080</display-name>
+    <icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/44c6758b94344e508781830ad0daa913/Images/47b0460e1aad4331afb04fa5bc5281f9" />
   </channel>
   <channel id="Penedès TV">
     <display-name lang="es">Penedès TV</display-name>
@@ -4090,6 +4047,116 @@
     <display-name lang="es">Penedès TV 720</display-name>
     <display-name lang="es">Penedès TV 1080</display-name>
     <icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/42a0492953bf4323aed0c46c331b597b/Images/642877d672e54ed28808633d793965d1" />
+  </channel>
+  <channel id="Televisió de Badalona">
+    <display-name lang="es">Televisió de Badalona</display-name>
+    <display-name lang="es">Televisió de Badalona.TV</display-name>
+    <display-name lang="es">Televisió de Badalona SD</display-name>
+    <display-name lang="es">Televisió de Badalona HD</display-name>
+    <display-name lang="es">Televisió de Badalona FHD</display-name>
+    <display-name lang="es">Televisió de Badalona UHD</display-name>
+    <display-name lang="es">Televisió de Badalona 720</display-name>
+    <display-name lang="es">Televisió de Badalona 1080</display-name>
+    <icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/76678b4564d94001a89fa8ddfc78e9d8/Images/77cfcaa773c444be925aeb65ccdb4283" />
+  </channel>
+  <channel id="El 9 TV">
+    <display-name lang="es">El 9 TV</display-name>
+    <display-name lang="es">El 9 TV.TV</display-name>
+    <display-name lang="es">El 9 TV SD</display-name>
+    <display-name lang="es">El 9 TV HD</display-name>
+    <display-name lang="es">El 9 TV FHD</display-name>
+    <display-name lang="es">El 9 TV UHD</display-name>
+    <display-name lang="es">El 9 TV 720</display-name>
+    <display-name lang="es">El 9 TV 1080</display-name>
+    <icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/84a7b6f48af446a590975ce5de68531f/Images/6d726d26edaf4627a361676becc0801c" />
+  </channel>
+  <channel id="Cugat Media">
+    <display-name lang="es">Cugat Media</display-name>
+    <display-name lang="es">Cugat Media.TV</display-name>
+    <display-name lang="es">Cugat Media SD</display-name>
+    <display-name lang="es">Cugat Media HD</display-name>
+    <display-name lang="es">Cugat Media FHD</display-name>
+    <display-name lang="es">Cugat Media UHD</display-name>
+    <display-name lang="es">Cugat Media 720</display-name>
+    <display-name lang="es">Cugat Media 1080</display-name>
+    <icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/0a7002085b31450f9c507ba8fb0bac04/Images/79be7d3777f941d38b04f864089b85e9" />
+  </channel>
+  <channel id="Olot TV">
+    <display-name lang="es">Olot TV</display-name>
+    <display-name lang="es">Olot TV.TV</display-name>
+    <display-name lang="es">Olot TV SD</display-name>
+    <display-name lang="es">Olot TV HD</display-name>
+    <display-name lang="es">Olot TV FHD</display-name>
+    <display-name lang="es">Olot TV UHD</display-name>
+    <display-name lang="es">Olot TV 720</display-name>
+    <display-name lang="es">Olot TV 1080</display-name>
+    <icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/2ce334587a0b4fe1ae1c0fad797af300/Images/1f5bd5cdeb5d40cda734385044e1636e" />
+  </channel>
+  <channel id="Canal Taronja Central">
+    <display-name lang="es">Canal Taronja Central</display-name>
+    <display-name lang="es">Canal Taronja Central.TV</display-name>
+    <display-name lang="es">Canal Taronja Central SD</display-name>
+    <display-name lang="es">Canal Taronja Central HD</display-name>
+    <display-name lang="es">Canal Taronja Central FHD</display-name>
+    <display-name lang="es">Canal Taronja Central UHD</display-name>
+    <display-name lang="es">Canal Taronja Central 720</display-name>
+    <display-name lang="es">Canal Taronja Central 1080</display-name>
+    <icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/2483804e1dd343a08a95864a921fdce8/Images/bf16514e0dca4106954747a84dabb40a" />
+  </channel>
+  <channel id="VOTV">
+    <display-name lang="es">VOTV</display-name>
+    <display-name lang="es">VOTV.TV</display-name>
+    <display-name lang="es">VOTV SD</display-name>
+    <display-name lang="es">VOTV HD</display-name>
+    <display-name lang="es">VOTV FHD</display-name>
+    <display-name lang="es">VOTV UHD</display-name>
+    <display-name lang="es">VOTV 720</display-name>
+    <display-name lang="es">VOTV 1080</display-name>
+    <icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/bed4a72f8c8248c3a283684eb4038f4d/Images/f3496345ca4f49e1b16c1f306ac33090" />
+  </channel>
+  <channel id="Canal Blau">
+    <display-name lang="es">Canal Blau</display-name>
+    <display-name lang="es">Canal Blau.TV</display-name>
+    <display-name lang="es">Canal Blau SD</display-name>
+    <display-name lang="es">Canal Blau HD</display-name>
+    <display-name lang="es">Canal Blau FHD</display-name>
+    <display-name lang="es">Canal Blau UHD</display-name>
+    <display-name lang="es">Canal Blau 720</display-name>
+    <display-name lang="es">Canal Blau 1080</display-name>
+    <icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/c90cc7e06fd74f6c980a1039f80a322b/Images/4bf5cd5a7b124e96b80a8bfecc45c730" />
+  </channel>
+  <channel id="Lleida TV">
+    <display-name lang="es">Lleida TV</display-name>
+    <display-name lang="es">Lleida TV.TV</display-name>
+    <display-name lang="es">Lleida TV SD</display-name>
+    <display-name lang="es">Lleida TV HD</display-name>
+    <display-name lang="es">Lleida TV FHD</display-name>
+    <display-name lang="es">Lleida TV UHD</display-name>
+    <display-name lang="es">Lleida TV 720</display-name>
+    <display-name lang="es">Lleida TV 1080</display-name>
+    <icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/4717e98daf50416982f71c7db0389a14/Images/58747f9ed82342bd8472425d531d402b" />
+  </channel>
+  <channel id="Banyoles TV">
+    <display-name lang="es">Banyoles TV</display-name>
+    <display-name lang="es">Banyoles TV.TV</display-name>
+    <display-name lang="es">Banyoles TV SD</display-name>
+    <display-name lang="es">Banyoles TV HD</display-name>
+    <display-name lang="es">Banyoles TV FHD</display-name>
+    <display-name lang="es">Banyoles TV UHD</display-name>
+    <display-name lang="es">Banyoles TV 720</display-name>
+    <display-name lang="es">Banyoles TV 1080</display-name>
+    <icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/0f6cd8ece2b04eafb93aab503324c005/Images/6e9740ff00014dfaa3b601e1f9240ae2" />
+  </channel>
+  <channel id="Vallès Visió">
+    <display-name lang="es">Vallès Visió</display-name>
+    <display-name lang="es">Vallès Visió.TV</display-name>
+    <display-name lang="es">Vallès Visió SD</display-name>
+    <display-name lang="es">Vallès Visió HD</display-name>
+    <display-name lang="es">Vallès Visió FHD</display-name>
+    <display-name lang="es">Vallès Visió UHD</display-name>
+    <display-name lang="es">Vallès Visió 720</display-name>
+    <display-name lang="es">Vallès Visió 1080</display-name>
+    <icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/113f590aa4c64dba85578d063e164269/Images/16ef075877324bf1846413275a7ff5bc" />
   </channel>
   <channel id="DARK">
     <display-name lang="es">DARK</display-name>
