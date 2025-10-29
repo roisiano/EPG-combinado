@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tv generator-info-name="dobleM 27/10/2025 20:49" generator-info-url="t.me/EPG_dobleM">
+<tv generator-info-name="dobleM 28/10/2025 20:49" generator-info-url="t.me/EPG_dobleM">
   <channel id="La 1 HD">
     <display-name lang="es">La 1</display-name>
     <display-name lang="es">La 1.TV</display-name>
@@ -2112,6 +2112,17 @@
     <display-name lang="es">LaLiga TV BAR 3 1080</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/LaLiga%20TV%20BAR%203.png" />
   </channel>
+  <channel id="Liga de Campeones BAR 2">
+    <display-name lang="es">Liga de Campeones BAR 2</display-name>
+    <display-name lang="es">Liga de Campeones BAR 2.TV</display-name>
+    <display-name lang="es">Liga de Campeones BAR 2 SD</display-name>
+    <display-name lang="es">Liga de Campeones BAR 2 HD</display-name>
+    <display-name lang="es">Liga de Campeones BAR 2 FHD</display-name>
+    <display-name lang="es">Liga de Campeones BAR 2 UHD</display-name>
+    <display-name lang="es">Liga de Campeones BAR 2 720</display-name>
+    <display-name lang="es">Liga de Campeones BAR 2 1080</display-name>
+    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Liga%20de%20Campeones%20BAR%202.png" />
+  </channel>
   <channel id="GolStadium BAR">
     <display-name lang="es">GolStadium BAR</display-name>
     <display-name lang="es">GolStadium BAR.TV</display-name>
@@ -2144,17 +2155,6 @@
     <display-name lang="es">GolStadium 720</display-name>
     <display-name lang="es">GolStadium 1080</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/GolStadium.png" />
-  </channel>
-  <channel id="Gol Classics">
-    <display-name lang="es">Gol Classics</display-name>
-    <display-name lang="es">Gol Classics.TV</display-name>
-    <display-name lang="es">Gol Classics SD</display-name>
-    <display-name lang="es">Gol Classics HD</display-name>
-    <display-name lang="es">Gol Classics FHD</display-name>
-    <display-name lang="es">Gol Classics UHD</display-name>
-    <display-name lang="es">Gol Classics 720</display-name>
-    <display-name lang="es">Gol Classics 1080</display-name>
-    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Gol%20Classics.png" />
   </channel>
   <channel id="Torolé TV">
     <display-name lang="es">Torolé TV</display-name>
@@ -2287,6 +2287,17 @@
     <display-name lang="es">tlnovelas 720</display-name>
     <display-name lang="es">tlnovelas 1080</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/tlnovelas.png" />
+  </channel>
+  <channel id="DePelícula">
+    <display-name lang="es">DePelícula</display-name>
+    <display-name lang="es">DePelícula.TV</display-name>
+    <display-name lang="es">DePelícula SD</display-name>
+    <display-name lang="es">DePelícula HD</display-name>
+    <display-name lang="es">DePelícula FHD</display-name>
+    <display-name lang="es">DePelícula UHD</display-name>
+    <display-name lang="es">DePelícula 720</display-name>
+    <display-name lang="es">DePelícula 1080</display-name>
+    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DePel%C3%ADcula.png" />
   </channel>
   <channel id="DejateTV">
     <display-name lang="es">DejateTV</display-name>
@@ -2748,6 +2759,116 @@
     <display-name lang="es">DAZN NFL Game Pass UHD</display-name>
     <display-name lang="es">DAZN NFL Game Pass 720</display-name>
     <display-name lang="es">DAZN NFL Game Pass 1080</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v4/onboarding-images/none/sn_wy3kluvb4efae1of0d8146c1/fill/center/top/none/100/0/0/png/image/25/g" />
+  </channel>
+  <channel id="DAZN NFL Game Pass 10">
+    <display-name lang="es">DAZN NFL Game Pass 10</display-name>
+    <display-name lang="es">DAZN NFL Game Pass 10.TV</display-name>
+    <display-name lang="es">DAZN NFL Game Pass 10 SD</display-name>
+    <display-name lang="es">DAZN NFL Game Pass 10 HD</display-name>
+    <display-name lang="es">DAZN NFL Game Pass 10 FHD</display-name>
+    <display-name lang="es">DAZN NFL Game Pass 10 UHD</display-name>
+    <display-name lang="es">DAZN NFL Game Pass 10 720</display-name>
+    <display-name lang="es">DAZN NFL Game Pass 10 1080</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v4/onboarding-images/none/sn_wy3kluvb4efae1of0d8146c1/fill/center/top/none/100/0/0/png/image/25/g" />
+  </channel>
+  <channel id="DAZN NFL Game Pass 11">
+    <display-name lang="es">DAZN NFL Game Pass 11</display-name>
+    <display-name lang="es">DAZN NFL Game Pass 11.TV</display-name>
+    <display-name lang="es">DAZN NFL Game Pass 11 SD</display-name>
+    <display-name lang="es">DAZN NFL Game Pass 11 HD</display-name>
+    <display-name lang="es">DAZN NFL Game Pass 11 FHD</display-name>
+    <display-name lang="es">DAZN NFL Game Pass 11 UHD</display-name>
+    <display-name lang="es">DAZN NFL Game Pass 11 720</display-name>
+    <display-name lang="es">DAZN NFL Game Pass 11 1080</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v4/onboarding-images/none/sn_wy3kluvb4efae1of0d8146c1/fill/center/top/none/100/0/0/png/image/25/g" />
+  </channel>
+  <channel id="DAZN NFL Game Pass 12">
+    <display-name lang="es">DAZN NFL Game Pass 12</display-name>
+    <display-name lang="es">DAZN NFL Game Pass 12.TV</display-name>
+    <display-name lang="es">DAZN NFL Game Pass 12 SD</display-name>
+    <display-name lang="es">DAZN NFL Game Pass 12 HD</display-name>
+    <display-name lang="es">DAZN NFL Game Pass 12 FHD</display-name>
+    <display-name lang="es">DAZN NFL Game Pass 12 UHD</display-name>
+    <display-name lang="es">DAZN NFL Game Pass 12 720</display-name>
+    <display-name lang="es">DAZN NFL Game Pass 12 1080</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v4/onboarding-images/none/sn_wy3kluvb4efae1of0d8146c1/fill/center/top/none/100/0/0/png/image/25/g" />
+  </channel>
+  <channel id="DAZN NFL Game Pass 13">
+    <display-name lang="es">DAZN NFL Game Pass 13</display-name>
+    <display-name lang="es">DAZN NFL Game Pass 13.TV</display-name>
+    <display-name lang="es">DAZN NFL Game Pass 13 SD</display-name>
+    <display-name lang="es">DAZN NFL Game Pass 13 HD</display-name>
+    <display-name lang="es">DAZN NFL Game Pass 13 FHD</display-name>
+    <display-name lang="es">DAZN NFL Game Pass 13 UHD</display-name>
+    <display-name lang="es">DAZN NFL Game Pass 13 720</display-name>
+    <display-name lang="es">DAZN NFL Game Pass 13 1080</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v4/onboarding-images/none/sn_wy3kluvb4efae1of0d8146c1/fill/center/top/none/100/0/0/png/image/25/g" />
+  </channel>
+  <channel id="DAZN NFL Game Pass 14">
+    <display-name lang="es">DAZN NFL Game Pass 14</display-name>
+    <display-name lang="es">DAZN NFL Game Pass 14.TV</display-name>
+    <display-name lang="es">DAZN NFL Game Pass 14 SD</display-name>
+    <display-name lang="es">DAZN NFL Game Pass 14 HD</display-name>
+    <display-name lang="es">DAZN NFL Game Pass 14 FHD</display-name>
+    <display-name lang="es">DAZN NFL Game Pass 14 UHD</display-name>
+    <display-name lang="es">DAZN NFL Game Pass 14 720</display-name>
+    <display-name lang="es">DAZN NFL Game Pass 14 1080</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v4/onboarding-images/none/sn_wy3kluvb4efae1of0d8146c1/fill/center/top/none/100/0/0/png/image/25/g" />
+  </channel>
+  <channel id="DAZN NFL Game Pass 15">
+    <display-name lang="es">DAZN NFL Game Pass 15</display-name>
+    <display-name lang="es">DAZN NFL Game Pass 15.TV</display-name>
+    <display-name lang="es">DAZN NFL Game Pass 15 SD</display-name>
+    <display-name lang="es">DAZN NFL Game Pass 15 HD</display-name>
+    <display-name lang="es">DAZN NFL Game Pass 15 FHD</display-name>
+    <display-name lang="es">DAZN NFL Game Pass 15 UHD</display-name>
+    <display-name lang="es">DAZN NFL Game Pass 15 720</display-name>
+    <display-name lang="es">DAZN NFL Game Pass 15 1080</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v4/onboarding-images/none/sn_wy3kluvb4efae1of0d8146c1/fill/center/top/none/100/0/0/png/image/25/g" />
+  </channel>
+  <channel id="DAZN NFL Game Pass 16">
+    <display-name lang="es">DAZN NFL Game Pass 16</display-name>
+    <display-name lang="es">DAZN NFL Game Pass 16.TV</display-name>
+    <display-name lang="es">DAZN NFL Game Pass 16 SD</display-name>
+    <display-name lang="es">DAZN NFL Game Pass 16 HD</display-name>
+    <display-name lang="es">DAZN NFL Game Pass 16 FHD</display-name>
+    <display-name lang="es">DAZN NFL Game Pass 16 UHD</display-name>
+    <display-name lang="es">DAZN NFL Game Pass 16 720</display-name>
+    <display-name lang="es">DAZN NFL Game Pass 16 1080</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v4/onboarding-images/none/sn_wy3kluvb4efae1of0d8146c1/fill/center/top/none/100/0/0/png/image/25/g" />
+  </channel>
+  <channel id="DAZN NFL Game Pass 17">
+    <display-name lang="es">DAZN NFL Game Pass 17</display-name>
+    <display-name lang="es">DAZN NFL Game Pass 17.TV</display-name>
+    <display-name lang="es">DAZN NFL Game Pass 17 SD</display-name>
+    <display-name lang="es">DAZN NFL Game Pass 17 HD</display-name>
+    <display-name lang="es">DAZN NFL Game Pass 17 FHD</display-name>
+    <display-name lang="es">DAZN NFL Game Pass 17 UHD</display-name>
+    <display-name lang="es">DAZN NFL Game Pass 17 720</display-name>
+    <display-name lang="es">DAZN NFL Game Pass 17 1080</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v4/onboarding-images/none/sn_wy3kluvb4efae1of0d8146c1/fill/center/top/none/100/0/0/png/image/25/g" />
+  </channel>
+  <channel id="DAZN NFL Game Pass 18">
+    <display-name lang="es">DAZN NFL Game Pass 18</display-name>
+    <display-name lang="es">DAZN NFL Game Pass 18.TV</display-name>
+    <display-name lang="es">DAZN NFL Game Pass 18 SD</display-name>
+    <display-name lang="es">DAZN NFL Game Pass 18 HD</display-name>
+    <display-name lang="es">DAZN NFL Game Pass 18 FHD</display-name>
+    <display-name lang="es">DAZN NFL Game Pass 18 UHD</display-name>
+    <display-name lang="es">DAZN NFL Game Pass 18 720</display-name>
+    <display-name lang="es">DAZN NFL Game Pass 18 1080</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v4/onboarding-images/none/sn_wy3kluvb4efae1of0d8146c1/fill/center/top/none/100/0/0/png/image/25/g" />
+  </channel>
+  <channel id="DAZN NFL Game Pass 19">
+    <display-name lang="es">DAZN NFL Game Pass 19</display-name>
+    <display-name lang="es">DAZN NFL Game Pass 19.TV</display-name>
+    <display-name lang="es">DAZN NFL Game Pass 19 SD</display-name>
+    <display-name lang="es">DAZN NFL Game Pass 19 HD</display-name>
+    <display-name lang="es">DAZN NFL Game Pass 19 FHD</display-name>
+    <display-name lang="es">DAZN NFL Game Pass 19 UHD</display-name>
+    <display-name lang="es">DAZN NFL Game Pass 19 720</display-name>
+    <display-name lang="es">DAZN NFL Game Pass 19 1080</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v4/onboarding-images/none/sn_wy3kluvb4efae1of0d8146c1/fill/center/top/none/100/0/0/png/image/25/g" />
   </channel>
   <channel id="DAZN NFL Game Pass 2">
@@ -3584,7 +3705,7 @@
     <display-name lang="es">Infinity En la calle UHD</display-name>
     <display-name lang="es">Infinity En la calle 720</display-name>
     <display-name lang="es">Infinity En la calle 1080</display-name>
-    <icon src="https://img-prod-api2.mediasetplay.mediaset.it/api/images/by/v5/esp/aHR0cHM6Ly9kYW0uY2xvdWQubWVkaWFzZXQubmV0L20vMTA2ZGM0N2JhNmQ1ODMyNy9vcmlnaW5hbC9DaGFubmVsLWxvZ29fSW5maW5pdHktRW4tbGEtY2FsbGUucG5n/single/87/87@2?r=%202x&quot;%20media=&quot;(max-width:%201023px)|https://img-prod-api2.mediasetplay.mediaset.it/api/images/by/v5/esp/aHR0cHM6Ly9kYW0uY2xvdWQubWVkaWFzZXQubmV0L20vMTA2ZGM0N2JhNmQ1ODMyNy9vcmlnaW5hbC9DaGFubmVsLWxvZ29fSW5maW5pdHktRW4tbGEtY2FsbGUucG5n/single/87/87@2?r=%202x&quot;%20media=&quot;(max-width:%201023px)|https://img-prod-api2.mediasetplay.mediaset.it/api/images/by/v5/esp/aHR0cHM6Ly9kYW0uY2xvdWQubWVkaWFzZXQubmV0L20vMTA2ZGM0N2JhNmQ1ODMyNy9vcmlnaW5hbC9DaGFubmVsLWxvZ29fSW5maW5pdHktRW4tbGEtY2FsbGUucG5n/single/87/87@2?r=%202x&quot;%20media=&quot;(max-width:%201023px)|https://img-prod-api2.mediasetplay.mediaset.it/api/images/by/v5/esp/aHR0cHM6Ly9kYW0uY2xvdWQubWVkaWFzZXQubmV0L20vMTA2ZGM0N2JhNmQ1ODMyNy9vcmlnaW5hbC9DaGFubmVsLWxvZ29fSW5maW5pdHktRW4tbGEtY2FsbGUucG5n/single/87/87@2?r=%202x&quot;%20media=&quot;(max-width:%201023px)" />
+    <icon src="https://img-prod-api2.mediasetplay.mediaset.it/api/images/by/v5/esp/aHR0cHM6Ly9kYW0uY2xvdWQubWVkaWFzZXQubmV0L20vMTA2ZGM0N2JhNmQ1ODMyNy9vcmlnaW5hbC9DaGFubmVsLWxvZ29fSW5maW5pdHktRW4tbGEtY2FsbGUucG5n/single/87/87@2?r=%202x&quot;%20media=&quot;(max-width:%201023px)|https://img-prod-api2.mediasetplay.mediaset.it/api/images/by/v5/esp/aHR0cHM6Ly9kYW0uY2xvdWQubWVkaWFzZXQubmV0L20vMTA2ZGM0N2JhNmQ1ODMyNy9vcmlnaW5hbC9DaGFubmVsLWxvZ29fSW5maW5pdHktRW4tbGEtY2FsbGUucG5n/single/87/87@2?r=%202x&quot;%20media=&quot;(max-width:%201023px)|https://img-prod-api2.mediasetplay.mediaset.it/api/images/by/v5/esp/aHR0cHM6Ly9kYW0uY2xvdWQubWVkaWFzZXQubmV0L20vMTA2ZGM0N2JhNmQ1ODMyNy9vcmlnaW5hbC9DaGFubmVsLWxvZ29fSW5maW5pdHktRW4tbGEtY2FsbGUucG5n/single/87/87@2?r=%202x&quot;%20media=&quot;(max-width:%201023px)|https://img-prod-api2.mediasetplay.mediaset.it/api/images/by/v5/esp/aHR0cHM6Ly9kYW0uY2xvdWQubWVkaWFzZXQubmV0L20vMTA2ZGM0N2JhNmQ1ODMyNy9vcmlnaW5hbC9DaGFubmVsLWxvZ29fSW5maW5pdHktRW4tbGEtY2FsbGUucG5n/single/87/87@2?r=%202x&quot;%20media=&quot;(max-width:%201023px)|https://img-prod-api2.mediasetplay.mediaset.it/api/images/by/v5/esp/aHR0cHM6Ly9kYW0uY2xvdWQubWVkaWFzZXQubmV0L20vMTA2ZGM0N2JhNmQ1ODMyNy9vcmlnaW5hbC9DaGFubmVsLWxvZ29fSW5maW5pdHktRW4tbGEtY2FsbGUucG5n/single/87/87@2?r=%202x&quot;%20media=&quot;(max-width:%201023px)|https://img-prod-api2.mediasetplay.mediaset.it/api/images/by/v5/esp/aHR0cHM6Ly9kYW0uY2xvdWQubWVkaWFzZXQubmV0L20vMTA2ZGM0N2JhNmQ1ODMyNy9vcmlnaW5hbC9DaGFubmVsLWxvZ29fSW5maW5pdHktRW4tbGEtY2FsbGUucG5n/single/87/87@2?r=%202x&quot;%20media=&quot;(max-width:%201023px)|https://img-prod-api2.mediasetplay.mediaset.it/api/images/by/v5/esp/aHR0cHM6Ly9kYW0uY2xvdWQubWVkaWFzZXQubmV0L20vMTA2ZGM0N2JhNmQ1ODMyNy9vcmlnaW5hbC9DaGFubmVsLWxvZ29fSW5maW5pdHktRW4tbGEtY2FsbGUucG5n/single/87/87@2?r=%202x&quot;%20media=&quot;(max-width:%201023px)" />
   </channel>
   <channel id="Infinity Viajes">
     <display-name lang="es">Infinity Viajes</display-name>
@@ -3595,7 +3716,7 @@
     <display-name lang="es">Infinity Viajes UHD</display-name>
     <display-name lang="es">Infinity Viajes 720</display-name>
     <display-name lang="es">Infinity Viajes 1080</display-name>
-    <icon src="https://img-prod-api2.mediasetplay.mediaset.it/api/images/by/v5/esp/aHR0cHM6Ly9kYW0uY2xvdWQubWVkaWFzZXQubmV0L20vMTVjMWUyNWJhZjhkNjE4MC9vcmlnaW5hbC9DaGFubmVsLWxvZ29fSW5maW5pdHktVmlhamVzLnBuZw/single/87/87@2?r=%202x&quot;%20media=&quot;(max-width:%201023px)|https://img-prod-api2.mediasetplay.mediaset.it/api/images/by/v5/esp/aHR0cHM6Ly9kYW0uY2xvdWQubWVkaWFzZXQubmV0L20vMTVjMWUyNWJhZjhkNjE4MC9vcmlnaW5hbC9DaGFubmVsLWxvZ29fSW5maW5pdHktVmlhamVzLnBuZw/single/87/87@2?r=%202x&quot;%20media=&quot;(max-width:%201023px)|https://img-prod-api2.mediasetplay.mediaset.it/api/images/by/v5/esp/aHR0cHM6Ly9kYW0uY2xvdWQubWVkaWFzZXQubmV0L20vMTVjMWUyNWJhZjhkNjE4MC9vcmlnaW5hbC9DaGFubmVsLWxvZ29fSW5maW5pdHktVmlhamVzLnBuZw/single/87/87@2?r=%202x&quot;%20media=&quot;(max-width:%201023px)|https://img-prod-api2.mediasetplay.mediaset.it/api/images/by/v5/esp/aHR0cHM6Ly9kYW0uY2xvdWQubWVkaWFzZXQubmV0L20vMTVjMWUyNWJhZjhkNjE4MC9vcmlnaW5hbC9DaGFubmVsLWxvZ29fSW5maW5pdHktVmlhamVzLnBuZw/single/87/87@2?r=%202x&quot;%20media=&quot;(max-width:%201023px)" />
+    <icon src="https://img-prod-api2.mediasetplay.mediaset.it/api/images/by/v5/esp/aHR0cHM6Ly9kYW0uY2xvdWQubWVkaWFzZXQubmV0L20vMTVjMWUyNWJhZjhkNjE4MC9vcmlnaW5hbC9DaGFubmVsLWxvZ29fSW5maW5pdHktVmlhamVzLnBuZw/single/87/87@2?r=%202x&quot;%20media=&quot;(max-width:%201023px)|https://img-prod-api2.mediasetplay.mediaset.it/api/images/by/v5/esp/aHR0cHM6Ly9kYW0uY2xvdWQubWVkaWFzZXQubmV0L20vMTVjMWUyNWJhZjhkNjE4MC9vcmlnaW5hbC9DaGFubmVsLWxvZ29fSW5maW5pdHktVmlhamVzLnBuZw/single/87/87@2?r=%202x&quot;%20media=&quot;(max-width:%201023px)|https://img-prod-api2.mediasetplay.mediaset.it/api/images/by/v5/esp/aHR0cHM6Ly9kYW0uY2xvdWQubWVkaWFzZXQubmV0L20vMTVjMWUyNWJhZjhkNjE4MC9vcmlnaW5hbC9DaGFubmVsLWxvZ29fSW5maW5pdHktVmlhamVzLnBuZw/single/87/87@2?r=%202x&quot;%20media=&quot;(max-width:%201023px)|https://img-prod-api2.mediasetplay.mediaset.it/api/images/by/v5/esp/aHR0cHM6Ly9kYW0uY2xvdWQubWVkaWFzZXQubmV0L20vMTVjMWUyNWJhZjhkNjE4MC9vcmlnaW5hbC9DaGFubmVsLWxvZ29fSW5maW5pdHktVmlhamVzLnBuZw/single/87/87@2?r=%202x&quot;%20media=&quot;(max-width:%201023px)|https://img-prod-api2.mediasetplay.mediaset.it/api/images/by/v5/esp/aHR0cHM6Ly9kYW0uY2xvdWQubWVkaWFzZXQubmV0L20vMTVjMWUyNWJhZjhkNjE4MC9vcmlnaW5hbC9DaGFubmVsLWxvZ29fSW5maW5pdHktVmlhamVzLnBuZw/single/87/87@2?r=%202x&quot;%20media=&quot;(max-width:%201023px)|https://img-prod-api2.mediasetplay.mediaset.it/api/images/by/v5/esp/aHR0cHM6Ly9kYW0uY2xvdWQubWVkaWFzZXQubmV0L20vMTVjMWUyNWJhZjhkNjE4MC9vcmlnaW5hbC9DaGFubmVsLWxvZ29fSW5maW5pdHktVmlhamVzLnBuZw/single/87/87@2?r=%202x&quot;%20media=&quot;(max-width:%201023px)|https://img-prod-api2.mediasetplay.mediaset.it/api/images/by/v5/esp/aHR0cHM6Ly9kYW0uY2xvdWQubWVkaWFzZXQubmV0L20vMTVjMWUyNWJhZjhkNjE4MC9vcmlnaW5hbC9DaGFubmVsLWxvZ29fSW5maW5pdHktVmlhamVzLnBuZw/single/87/87@2?r=%202x&quot;%20media=&quot;(max-width:%201023px)" />
   </channel>
   <channel id="Infinity Comedia">
     <display-name lang="es">Infinity Comedia</display-name>
@@ -3606,7 +3727,7 @@
     <display-name lang="es">Infinity Comedia UHD</display-name>
     <display-name lang="es">Infinity Comedia 720</display-name>
     <display-name lang="es">Infinity Comedia 1080</display-name>
-    <icon src="https://img-prod-api2.mediasetplay.mediaset.it/api/images/by/v5/esp/aHR0cHM6Ly9kYW0uY2xvdWQubWVkaWFzZXQubmV0L20vNmFhMmMyNDRhYTUzMmEyNS9vcmlnaW5hbC9DaGFubmVsLWxvZ29fSW5maW5pdHktQ29tZWRpYS5wbmc/single/87/87@2?r=%202x&quot;%20media=&quot;(max-width:%201023px)|https://img-prod-api2.mediasetplay.mediaset.it/api/images/by/v5/esp/aHR0cHM6Ly9kYW0uY2xvdWQubWVkaWFzZXQubmV0L20vNmFhMmMyNDRhYTUzMmEyNS9vcmlnaW5hbC9DaGFubmVsLWxvZ29fSW5maW5pdHktQ29tZWRpYS5wbmc/single/87/87@2?r=%202x&quot;%20media=&quot;(max-width:%201023px)|https://img-prod-api2.mediasetplay.mediaset.it/api/images/by/v5/esp/aHR0cHM6Ly9kYW0uY2xvdWQubWVkaWFzZXQubmV0L20vNmFhMmMyNDRhYTUzMmEyNS9vcmlnaW5hbC9DaGFubmVsLWxvZ29fSW5maW5pdHktQ29tZWRpYS5wbmc/single/87/87@2?r=%202x&quot;%20media=&quot;(max-width:%201023px)|https://img-prod-api2.mediasetplay.mediaset.it/api/images/by/v5/esp/aHR0cHM6Ly9kYW0uY2xvdWQubWVkaWFzZXQubmV0L20vNmFhMmMyNDRhYTUzMmEyNS9vcmlnaW5hbC9DaGFubmVsLWxvZ29fSW5maW5pdHktQ29tZWRpYS5wbmc/single/87/87@2?r=%202x&quot;%20media=&quot;(max-width:%201023px)" />
+    <icon src="https://img-prod-api2.mediasetplay.mediaset.it/api/images/by/v5/esp/aHR0cHM6Ly9kYW0uY2xvdWQubWVkaWFzZXQubmV0L20vNmFhMmMyNDRhYTUzMmEyNS9vcmlnaW5hbC9DaGFubmVsLWxvZ29fSW5maW5pdHktQ29tZWRpYS5wbmc/single/87/87@2?r=%202x&quot;%20media=&quot;(max-width:%201023px)|https://img-prod-api2.mediasetplay.mediaset.it/api/images/by/v5/esp/aHR0cHM6Ly9kYW0uY2xvdWQubWVkaWFzZXQubmV0L20vNmFhMmMyNDRhYTUzMmEyNS9vcmlnaW5hbC9DaGFubmVsLWxvZ29fSW5maW5pdHktQ29tZWRpYS5wbmc/single/87/87@2?r=%202x&quot;%20media=&quot;(max-width:%201023px)|https://img-prod-api2.mediasetplay.mediaset.it/api/images/by/v5/esp/aHR0cHM6Ly9kYW0uY2xvdWQubWVkaWFzZXQubmV0L20vNmFhMmMyNDRhYTUzMmEyNS9vcmlnaW5hbC9DaGFubmVsLWxvZ29fSW5maW5pdHktQ29tZWRpYS5wbmc/single/87/87@2?r=%202x&quot;%20media=&quot;(max-width:%201023px)|https://img-prod-api2.mediasetplay.mediaset.it/api/images/by/v5/esp/aHR0cHM6Ly9kYW0uY2xvdWQubWVkaWFzZXQubmV0L20vNmFhMmMyNDRhYTUzMmEyNS9vcmlnaW5hbC9DaGFubmVsLWxvZ29fSW5maW5pdHktQ29tZWRpYS5wbmc/single/87/87@2?r=%202x&quot;%20media=&quot;(max-width:%201023px)|https://img-prod-api2.mediasetplay.mediaset.it/api/images/by/v5/esp/aHR0cHM6Ly9kYW0uY2xvdWQubWVkaWFzZXQubmV0L20vNmFhMmMyNDRhYTUzMmEyNS9vcmlnaW5hbC9DaGFubmVsLWxvZ29fSW5maW5pdHktQ29tZWRpYS5wbmc/single/87/87@2?r=%202x&quot;%20media=&quot;(max-width:%201023px)|https://img-prod-api2.mediasetplay.mediaset.it/api/images/by/v5/esp/aHR0cHM6Ly9kYW0uY2xvdWQubWVkaWFzZXQubmV0L20vNmFhMmMyNDRhYTUzMmEyNS9vcmlnaW5hbC9DaGFubmVsLWxvZ29fSW5maW5pdHktQ29tZWRpYS5wbmc/single/87/87@2?r=%202x&quot;%20media=&quot;(max-width:%201023px)|https://img-prod-api2.mediasetplay.mediaset.it/api/images/by/v5/esp/aHR0cHM6Ly9kYW0uY2xvdWQubWVkaWFzZXQubmV0L20vNmFhMmMyNDRhYTUzMmEyNS9vcmlnaW5hbC9DaGFubmVsLWxvZ29fSW5maW5pdHktQ29tZWRpYS5wbmc/single/87/87@2?r=%202x&quot;%20media=&quot;(max-width:%201023px)" />
   </channel>
   <channel id="Infinity Top Series">
     <display-name lang="es">Infinity Top Series</display-name>
@@ -3650,7 +3771,7 @@
     <display-name lang="es">Acontra+ UHD</display-name>
     <display-name lang="es">Acontra+ 720</display-name>
     <display-name lang="es">Acontra+ 1080</display-name>
-    <icon src="https://img-prod-api2.mediasetplay.mediaset.it/api/images/by/v5/esp/aHR0cHM6Ly9kYW0uY2xvdWQubWVkaWFzZXQubmV0L20vMjA1MTA5NjQ1NTcyYjViNC9vcmlnaW5hbC9BY29udHJhLnBuZw/single/87/87@2?r=%202x&quot;%20media=&quot;(max-width:%201023px)|https://img-prod-api2.mediasetplay.mediaset.it/api/images/by/v5/esp/aHR0cHM6Ly9kYW0uY2xvdWQubWVkaWFzZXQubmV0L20vMjA1MTA5NjQ1NTcyYjViNC9vcmlnaW5hbC9BY29udHJhLnBuZw/single/87/87@2?r=%202x&quot;%20media=&quot;(max-width:%201023px)|https://img-prod-api2.mediasetplay.mediaset.it/api/images/by/v5/esp/aHR0cHM6Ly9kYW0uY2xvdWQubWVkaWFzZXQubmV0L20vMjA1MTA5NjQ1NTcyYjViNC9vcmlnaW5hbC9BY29udHJhLnBuZw/single/87/87@2?r=%202x&quot;%20media=&quot;(max-width:%201023px)|https://img-prod-api2.mediasetplay.mediaset.it/api/images/by/v5/esp/aHR0cHM6Ly9kYW0uY2xvdWQubWVkaWFzZXQubmV0L20vMjA1MTA5NjQ1NTcyYjViNC9vcmlnaW5hbC9BY29udHJhLnBuZw/single/87/87@2?r=%202x&quot;%20media=&quot;(max-width:%201023px)|https://img-prod-api2.mediasetplay.mediaset.it/api/images/by/v5/esp/aHR0cHM6Ly9kYW0uY2xvdWQubWVkaWFzZXQubmV0L20vMjA1MTA5NjQ1NTcyYjViNC9vcmlnaW5hbC9BY29udHJhLnBuZw/single/87/87@2?r=%202x&quot;%20media=&quot;(max-width:%201023px)" />
+    <icon src="https://img-prod-api2.mediasetplay.mediaset.it/api/images/by/v5/esp/aHR0cHM6Ly9kYW0uY2xvdWQubWVkaWFzZXQubmV0L20vMjA1MTA5NjQ1NTcyYjViNC9vcmlnaW5hbC9BY29udHJhLnBuZw/single/87/87@2?r=%202x&quot;%20media=&quot;(max-width:%201023px)|https://img-prod-api2.mediasetplay.mediaset.it/api/images/by/v5/esp/aHR0cHM6Ly9kYW0uY2xvdWQubWVkaWFzZXQubmV0L20vMjA1MTA5NjQ1NTcyYjViNC9vcmlnaW5hbC9BY29udHJhLnBuZw/single/87/87@2?r=%202x&quot;%20media=&quot;(max-width:%201023px)|https://img-prod-api2.mediasetplay.mediaset.it/api/images/by/v5/esp/aHR0cHM6Ly9kYW0uY2xvdWQubWVkaWFzZXQubmV0L20vMjA1MTA5NjQ1NTcyYjViNC9vcmlnaW5hbC9BY29udHJhLnBuZw/single/87/87@2?r=%202x&quot;%20media=&quot;(max-width:%201023px)|https://img-prod-api2.mediasetplay.mediaset.it/api/images/by/v5/esp/aHR0cHM6Ly9kYW0uY2xvdWQubWVkaWFzZXQubmV0L20vMjA1MTA5NjQ1NTcyYjViNC9vcmlnaW5hbC9BY29udHJhLnBuZw/single/87/87@2?r=%202x&quot;%20media=&quot;(max-width:%201023px)|https://img-prod-api2.mediasetplay.mediaset.it/api/images/by/v5/esp/aHR0cHM6Ly9kYW0uY2xvdWQubWVkaWFzZXQubmV0L20vMjA1MTA5NjQ1NTcyYjViNC9vcmlnaW5hbC9BY29udHJhLnBuZw/single/87/87@2?r=%202x&quot;%20media=&quot;(max-width:%201023px)|https://img-prod-api2.mediasetplay.mediaset.it/api/images/by/v5/esp/aHR0cHM6Ly9kYW0uY2xvdWQubWVkaWFzZXQubmV0L20vMjA1MTA5NjQ1NTcyYjViNC9vcmlnaW5hbC9BY29udHJhLnBuZw/single/87/87@2?r=%202x&quot;%20media=&quot;(max-width:%201023px)|https://img-prod-api2.mediasetplay.mediaset.it/api/images/by/v5/esp/aHR0cHM6Ly9kYW0uY2xvdWQubWVkaWFzZXQubmV0L20vMjA1MTA5NjQ1NTcyYjViNC9vcmlnaW5hbC9BY29udHJhLnBuZw/single/87/87@2?r=%202x&quot;%20media=&quot;(max-width:%201023px)" />
   </channel>
   <channel id="Fight Sports">
     <display-name lang="es"> Fight Sports</display-name>
@@ -6246,6 +6367,7 @@
     <display-name lang="es">DE | Sky Sport Austria 2 UHD</display-name>
     <display-name lang="es">DE | Sky Sport Austria 2 720</display-name>
     <display-name lang="es">DE | Sky Sport Austria 2 1080</display-name>
+    <icon src="https://www.sky.de/static/img/senderlogos_dark/729_sky_logo_skysportaustria_2-hd_tvguide.png" />
   </channel>
   <channel id="DE | Sky Sport Austria 3">
     <display-name lang="es">DE | Sky Sport Austria 3</display-name>
@@ -6256,6 +6378,7 @@
     <display-name lang="es">DE | Sky Sport Austria 3 UHD</display-name>
     <display-name lang="es">DE | Sky Sport Austria 3 720</display-name>
     <display-name lang="es">DE | Sky Sport Austria 3 1080</display-name>
+    <icon src="https://www.sky.de/static/img/senderlogos_dark/730_sky_logo_skysportaustria_3-hd_tvguide.png" />
   </channel>
   <channel id="DE | Sky Sport Austria 4">
     <display-name lang="es">DE | Sky Sport Austria 4</display-name>
@@ -6266,6 +6389,7 @@
     <display-name lang="es">DE | Sky Sport Austria 4 UHD</display-name>
     <display-name lang="es">DE | Sky Sport Austria 4 720</display-name>
     <display-name lang="es">DE | Sky Sport Austria 4 1080</display-name>
+    <icon src="https://www.sky.de/static/img/senderlogos_dark/898_sky_logo_skysportaustria_4-hd_tvguide.png" />
   </channel>
   <channel id="DE | Sky Sport Austria 5">
     <display-name lang="es">DE | Sky Sport Austria 5</display-name>
@@ -6276,6 +6400,7 @@
     <display-name lang="es">DE | Sky Sport Austria 5 UHD</display-name>
     <display-name lang="es">DE | Sky Sport Austria 5 720</display-name>
     <display-name lang="es">DE | Sky Sport Austria 5 1080</display-name>
+    <icon src="https://www.sky.de/static/img/senderlogos_dark/883_sky_logo_sky-sport-austria-5-hd_tvguide.png" />
   </channel>
   <channel id="DE | Sky Sport Austria 6">
     <display-name lang="es">DE | Sky Sport Austria 6</display-name>
@@ -6296,6 +6421,7 @@
     <display-name lang="es">DE | Sky Sport Austria 7 UHD</display-name>
     <display-name lang="es">DE | Sky Sport Austria 7 720</display-name>
     <display-name lang="es">DE | Sky Sport Austria 7 1080</display-name>
+    <icon src="https://www.sky.de/static/img/senderlogos_dark/885_sky_logo_sky-sport-austria-7-hd_tvguide.png" />
   </channel>
   <channel id="DE | Sky Sport Austria 8">
     <display-name lang="es">DE | Sky Sport Austria 8</display-name>
