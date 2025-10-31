@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tv generator-info-name="dobleM 29/10/2025 20:49" generator-info-url="t.me/EPG_dobleM">
+<tv generator-info-name="dobleM 30/10/2025 20:49" generator-info-url="t.me/EPG_dobleM">
   <channel id="La 1 HD">
     <display-name lang="es">La 1</display-name>
     <display-name lang="es">La 1.TV</display-name>
@@ -2904,6 +2904,17 @@
     <display-name lang="es">DAZN NFL Game Pass 21 1080</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v4/onboarding-images/none/sn_wy3kluvb4efae1of0d8146c1/fill/center/top/none/100/0/0/png/image/25/g" />
   </channel>
+  <channel id="DAZN NFL Game Pass 22">
+    <display-name lang="es">DAZN NFL Game Pass 22</display-name>
+    <display-name lang="es">DAZN NFL Game Pass 22.TV</display-name>
+    <display-name lang="es">DAZN NFL Game Pass 22 SD</display-name>
+    <display-name lang="es">DAZN NFL Game Pass 22 HD</display-name>
+    <display-name lang="es">DAZN NFL Game Pass 22 FHD</display-name>
+    <display-name lang="es">DAZN NFL Game Pass 22 UHD</display-name>
+    <display-name lang="es">DAZN NFL Game Pass 22 720</display-name>
+    <display-name lang="es">DAZN NFL Game Pass 22 1080</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v4/onboarding-images/none/sn_wy3kluvb4efae1of0d8146c1/fill/center/top/none/100/0/0/png/image/25/g" />
+  </channel>
   <channel id="DAZN NFL Game Pass 3">
     <display-name lang="es">DAZN NFL Game Pass 3</display-name>
     <display-name lang="es">DAZN NFL Game Pass 3.TV</display-name>
@@ -3782,7 +3793,7 @@
     <display-name lang="es">mtmad UHD</display-name>
     <display-name lang="es">mtmad 720</display-name>
     <display-name lang="es">mtmad 1080</display-name>
-    <icon src="https://img-prod-api2.mediasetplay.mediaset.it/api/images/by/v5/esp/aHR0cHM6Ly9kYW0uY2xvdWQubWVkaWFzZXQubmV0L20vNzU5MTlmNzAyZDlmNjc4OS9vcmlnaW5hbC9DaGFubmVsX2xvZ28tTXRtYWQucG5n/single/87/87@2?r=%202x&quot;%20media=&quot;(max-width:%201023px)|https://img-prod-api2.mediasetplay.mediaset.it/api/images/by/v5/esp/aHR0cHM6Ly9kYW0uY2xvdWQubWVkaWFzZXQubmV0L20vNzU5MTlmNzAyZDlmNjc4OS9vcmlnaW5hbC9DaGFubmVsX2xvZ28tTXRtYWQucG5n/single/87/87@2?r=%202x&quot;%20media=&quot;(max-width:%201023px)|https://img-prod-api2.mediasetplay.mediaset.it/api/images/by/v5/esp/aHR0cHM6Ly9kYW0uY2xvdWQubWVkaWFzZXQubmV0L20vNzU5MTlmNzAyZDlmNjc4OS9vcmlnaW5hbC9DaGFubmVsX2xvZ28tTXRtYWQucG5n/single/87/87@2?r=%202x&quot;%20media=&quot;(max-width:%201023px)|https://img-prod-api2.mediasetplay.mediaset.it/api/images/by/v5/esp/aHR0cHM6Ly9kYW0uY2xvdWQubWVkaWFzZXQubmV0L20vNzU5MTlmNzAyZDlmNjc4OS9vcmlnaW5hbC9DaGFubmVsX2xvZ28tTXRtYWQucG5n/single/87/87@2?r=%202x&quot;%20media=&quot;(max-width:%201023px)|https://img-prod-api2.mediasetplay.mediaset.it/api/images/by/v5/esp/aHR0cHM6Ly9kYW0uY2xvdWQubWVkaWFzZXQubmV0L20vNzU5MTlmNzAyZDlmNjc4OS9vcmlnaW5hbC9DaGFubmVsX2xvZ28tTXRtYWQucG5n/single/87/87@2?r=%202x&quot;%20media=&quot;(max-width:%201023px)|https://img-prod-api2.mediasetplay.mediaset.it/api/images/by/v5/esp/aHR0cHM6Ly9kYW0uY2xvdWQubWVkaWFzZXQubmV0L20vNzU5MTlmNzAyZDlmNjc4OS9vcmlnaW5hbC9DaGFubmVsX2xvZ28tTXRtYWQucG5n/single/87/87@2?r=%202x&quot;%20media=&quot;(max-width:%201023px)" />
+    <icon src="https://img-prod-api2.mediasetplay.mediaset.it/api/images/by/v5/esp/aHR0cHM6Ly9kYW0uY2xvdWQubWVkaWFzZXQubmV0L20vNzU5MTlmNzAyZDlmNjc4OS9vcmlnaW5hbC9DaGFubmVsX2xvZ28tTXRtYWQucG5n/single/87/87@2?r=%202x&quot;%20media=&quot;(max-width:%201023px)|https://img-prod-api2.mediasetplay.mediaset.it/api/images/by/v5/esp/aHR0cHM6Ly9kYW0uY2xvdWQubWVkaWFzZXQubmV0L20vNzU5MTlmNzAyZDlmNjc4OS9vcmlnaW5hbC9DaGFubmVsX2xvZ28tTXRtYWQucG5n/single/87/87@2?r=%202x&quot;%20media=&quot;(max-width:%201023px)|https://img-prod-api2.mediasetplay.mediaset.it/api/images/by/v5/esp/aHR0cHM6Ly9kYW0uY2xvdWQubWVkaWFzZXQubmV0L20vNzU5MTlmNzAyZDlmNjc4OS9vcmlnaW5hbC9DaGFubmVsX2xvZ28tTXRtYWQucG5n/single/87/87@2?r=%202x&quot;%20media=&quot;(max-width:%201023px)|https://img-prod-api2.mediasetplay.mediaset.it/api/images/by/v5/esp/aHR0cHM6Ly9kYW0uY2xvdWQubWVkaWFzZXQubmV0L20vNzU5MTlmNzAyZDlmNjc4OS9vcmlnaW5hbC9DaGFubmVsX2xvZ28tTXRtYWQucG5n/single/87/87@2?r=%202x&quot;%20media=&quot;(max-width:%201023px)|https://img-prod-api2.mediasetplay.mediaset.it/api/images/by/v5/esp/aHR0cHM6Ly9kYW0uY2xvdWQubWVkaWFzZXQubmV0L20vNzU5MTlmNzAyZDlmNjc4OS9vcmlnaW5hbC9DaGFubmVsX2xvZ28tTXRtYWQucG5n/single/87/87@2?r=%202x&quot;%20media=&quot;(max-width:%201023px)|https://img-prod-api2.mediasetplay.mediaset.it/api/images/by/v5/esp/aHR0cHM6Ly9kYW0uY2xvdWQubWVkaWFzZXQubmV0L20vNzU5MTlmNzAyZDlmNjc4OS9vcmlnaW5hbC9DaGFubmVsX2xvZ28tTXRtYWQucG5n/single/87/87@2?r=%202x&quot;%20media=&quot;(max-width:%201023px)|https://img-prod-api2.mediasetplay.mediaset.it/api/images/by/v5/esp/aHR0cHM6Ly9kYW0uY2xvdWQubWVkaWFzZXQubmV0L20vNzU5MTlmNzAyZDlmNjc4OS9vcmlnaW5hbC9DaGFubmVsX2xvZ28tTXRtYWQucG5n/single/87/87@2?r=%202x&quot;%20media=&quot;(max-width:%201023px)" />
   </channel>
   <channel id="Acontra+">
     <display-name lang="es">Acontra+</display-name>
@@ -3793,7 +3804,7 @@
     <display-name lang="es">Acontra+ UHD</display-name>
     <display-name lang="es">Acontra+ 720</display-name>
     <display-name lang="es">Acontra+ 1080</display-name>
-    <icon src="https://img-prod-api2.mediasetplay.mediaset.it/api/images/by/v5/esp/aHR0cHM6Ly9kYW0uY2xvdWQubWVkaWFzZXQubmV0L20vMjRkMTFkMzlmZWIxMGU3MS9vcmlnaW5hbC9DaGFubmVsX2xvZ28tQWNvbnRyYS0yNGgucG5n/single/87/87@2?r=%202x&quot;%20media=&quot;(max-width:%201023px)|https://img-prod-api2.mediasetplay.mediaset.it/api/images/by/v5/esp/aHR0cHM6Ly9kYW0uY2xvdWQubWVkaWFzZXQubmV0L20vMjRkMTFkMzlmZWIxMGU3MS9vcmlnaW5hbC9DaGFubmVsX2xvZ28tQWNvbnRyYS0yNGgucG5n/single/87/87@2?r=%202x&quot;%20media=&quot;(max-width:%201023px)|https://img-prod-api2.mediasetplay.mediaset.it/api/images/by/v5/esp/aHR0cHM6Ly9kYW0uY2xvdWQubWVkaWFzZXQubmV0L20vMjRkMTFkMzlmZWIxMGU3MS9vcmlnaW5hbC9DaGFubmVsX2xvZ28tQWNvbnRyYS0yNGgucG5n/single/87/87@2?r=%202x&quot;%20media=&quot;(max-width:%201023px)|https://img-prod-api2.mediasetplay.mediaset.it/api/images/by/v5/esp/aHR0cHM6Ly9kYW0uY2xvdWQubWVkaWFzZXQubmV0L20vMjRkMTFkMzlmZWIxMGU3MS9vcmlnaW5hbC9DaGFubmVsX2xvZ28tQWNvbnRyYS0yNGgucG5n/single/87/87@2?r=%202x&quot;%20media=&quot;(max-width:%201023px)|https://img-prod-api2.mediasetplay.mediaset.it/api/images/by/v5/esp/aHR0cHM6Ly9kYW0uY2xvdWQubWVkaWFzZXQubmV0L20vMjRkMTFkMzlmZWIxMGU3MS9vcmlnaW5hbC9DaGFubmVsX2xvZ28tQWNvbnRyYS0yNGgucG5n/single/87/87@2?r=%202x&quot;%20media=&quot;(max-width:%201023px)|https://img-prod-api2.mediasetplay.mediaset.it/api/images/by/v5/esp/aHR0cHM6Ly9kYW0uY2xvdWQubWVkaWFzZXQubmV0L20vMjRkMTFkMzlmZWIxMGU3MS9vcmlnaW5hbC9DaGFubmVsX2xvZ28tQWNvbnRyYS0yNGgucG5n/single/87/87@2?r=%202x&quot;%20media=&quot;(max-width:%201023px)" />
+    <icon src="https://img-prod-api2.mediasetplay.mediaset.it/api/images/by/v5/esp/aHR0cHM6Ly9kYW0uY2xvdWQubWVkaWFzZXQubmV0L20vMjRkMTFkMzlmZWIxMGU3MS9vcmlnaW5hbC9DaGFubmVsX2xvZ28tQWNvbnRyYS0yNGgucG5n/single/87/87@2?r=%202x&quot;%20media=&quot;(max-width:%201023px)|https://img-prod-api2.mediasetplay.mediaset.it/api/images/by/v5/esp/aHR0cHM6Ly9kYW0uY2xvdWQubWVkaWFzZXQubmV0L20vMjRkMTFkMzlmZWIxMGU3MS9vcmlnaW5hbC9DaGFubmVsX2xvZ28tQWNvbnRyYS0yNGgucG5n/single/87/87@2?r=%202x&quot;%20media=&quot;(max-width:%201023px)|https://img-prod-api2.mediasetplay.mediaset.it/api/images/by/v5/esp/aHR0cHM6Ly9kYW0uY2xvdWQubWVkaWFzZXQubmV0L20vMjRkMTFkMzlmZWIxMGU3MS9vcmlnaW5hbC9DaGFubmVsX2xvZ28tQWNvbnRyYS0yNGgucG5n/single/87/87@2?r=%202x&quot;%20media=&quot;(max-width:%201023px)|https://img-prod-api2.mediasetplay.mediaset.it/api/images/by/v5/esp/aHR0cHM6Ly9kYW0uY2xvdWQubWVkaWFzZXQubmV0L20vMjRkMTFkMzlmZWIxMGU3MS9vcmlnaW5hbC9DaGFubmVsX2xvZ28tQWNvbnRyYS0yNGgucG5n/single/87/87@2?r=%202x&quot;%20media=&quot;(max-width:%201023px)|https://img-prod-api2.mediasetplay.mediaset.it/api/images/by/v5/esp/aHR0cHM6Ly9kYW0uY2xvdWQubWVkaWFzZXQubmV0L20vMjRkMTFkMzlmZWIxMGU3MS9vcmlnaW5hbC9DaGFubmVsX2xvZ28tQWNvbnRyYS0yNGgucG5n/single/87/87@2?r=%202x&quot;%20media=&quot;(max-width:%201023px)|https://img-prod-api2.mediasetplay.mediaset.it/api/images/by/v5/esp/aHR0cHM6Ly9kYW0uY2xvdWQubWVkaWFzZXQubmV0L20vMjRkMTFkMzlmZWIxMGU3MS9vcmlnaW5hbC9DaGFubmVsX2xvZ28tQWNvbnRyYS0yNGgucG5n/single/87/87@2?r=%202x&quot;%20media=&quot;(max-width:%201023px)|https://img-prod-api2.mediasetplay.mediaset.it/api/images/by/v5/esp/aHR0cHM6Ly9kYW0uY2xvdWQubWVkaWFzZXQubmV0L20vMjRkMTFkMzlmZWIxMGU3MS9vcmlnaW5hbC9DaGFubmVsX2xvZ28tQWNvbnRyYS0yNGgucG5n/single/87/87@2?r=%202x&quot;%20media=&quot;(max-width:%201023px)" />
   </channel>
   <channel id="Fight Sports">
     <display-name lang="es"> Fight Sports</display-name>
@@ -4708,6 +4719,17 @@
     <display-name lang="es">8madrid TV 1080</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/8madrid%20TV.png" />
   </channel>
+  <channel id="TVR Rioja">
+    <display-name lang="es">TVR Rioja</display-name>
+    <display-name lang="es">TVR Rioja.TV</display-name>
+    <display-name lang="es">TVR Rioja SD</display-name>
+    <display-name lang="es">TVR Rioja HD</display-name>
+    <display-name lang="es">TVR Rioja FHD</display-name>
+    <display-name lang="es">TVR Rioja UHD</display-name>
+    <display-name lang="es">TVR Rioja 720</display-name>
+    <display-name lang="es">TVR Rioja 1080</display-name>
+    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/TVR%20Rioja.png" />
+  </channel>
   <channel id="Popular TV Cantabria">
     <display-name lang="es">Popular TV Cantabria</display-name>
     <display-name lang="es">Popular TV Cantabria.TV</display-name>
@@ -4751,17 +4773,6 @@
     <display-name lang="es">Elche 7 TV 720</display-name>
     <display-name lang="es">Elche 7 TV 1080</display-name>
     <icon src="https://elche7tv.es/wp-content/uploads/2023/08/Web-Retina-Logo-Upload-544-%C3%97-180-px.png" />
-  </channel>
-  <channel id="TVR Rioja">
-    <display-name lang="es">TVR Rioja</display-name>
-    <display-name lang="es">TVR Rioja.TV</display-name>
-    <display-name lang="es">TVR Rioja SD</display-name>
-    <display-name lang="es">TVR Rioja HD</display-name>
-    <display-name lang="es">TVR Rioja FHD</display-name>
-    <display-name lang="es">TVR Rioja UHD</display-name>
-    <display-name lang="es">TVR Rioja 720</display-name>
-    <display-name lang="es">TVR Rioja 1080</display-name>
-    <icon src="https://www.lavanguardia.com/television/programacion-tv/images/channels/479.png" />
   </channel>
   <channel id="Play Melilla">
     <display-name lang="es">Play Melilla</display-name>
