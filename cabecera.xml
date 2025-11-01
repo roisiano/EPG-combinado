@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tv generator-info-name="dobleM 30/10/2025 20:49" generator-info-url="t.me/EPG_dobleM">
+<tv generator-info-name="dobleM 31/10/2025 20:48" generator-info-url="t.me/EPG_dobleM">
   <channel id="La 1 HD">
     <display-name lang="es">La 1</display-name>
     <display-name lang="es">La 1.TV</display-name>
@@ -2750,248 +2750,6 @@
     <display-name lang="es">DAZN MotoGP 1080</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v4/onboarding-images/none/sn_2e554vbpw7g0ykhl0rziuabxl/fill/center/top/none/100/0/0/png/image/25/g" />
   </channel>
-  <channel id="DAZN NFL Game Pass">
-    <display-name lang="es">DAZN NFL Game Pass</display-name>
-    <display-name lang="es">DAZN NFL Game Pass.TV</display-name>
-    <display-name lang="es">DAZN NFL Game Pass SD</display-name>
-    <display-name lang="es">DAZN NFL Game Pass HD</display-name>
-    <display-name lang="es">DAZN NFL Game Pass FHD</display-name>
-    <display-name lang="es">DAZN NFL Game Pass UHD</display-name>
-    <display-name lang="es">DAZN NFL Game Pass 720</display-name>
-    <display-name lang="es">DAZN NFL Game Pass 1080</display-name>
-    <icon src="https://image.discovery.indazn.com/eu/v4/onboarding-images/none/sn_wy3kluvb4efae1of0d8146c1/fill/center/top/none/100/0/0/png/image/25/g" />
-  </channel>
-  <channel id="DAZN NFL Game Pass 10">
-    <display-name lang="es">DAZN NFL Game Pass 10</display-name>
-    <display-name lang="es">DAZN NFL Game Pass 10.TV</display-name>
-    <display-name lang="es">DAZN NFL Game Pass 10 SD</display-name>
-    <display-name lang="es">DAZN NFL Game Pass 10 HD</display-name>
-    <display-name lang="es">DAZN NFL Game Pass 10 FHD</display-name>
-    <display-name lang="es">DAZN NFL Game Pass 10 UHD</display-name>
-    <display-name lang="es">DAZN NFL Game Pass 10 720</display-name>
-    <display-name lang="es">DAZN NFL Game Pass 10 1080</display-name>
-    <icon src="https://image.discovery.indazn.com/eu/v4/onboarding-images/none/sn_wy3kluvb4efae1of0d8146c1/fill/center/top/none/100/0/0/png/image/25/g" />
-  </channel>
-  <channel id="DAZN NFL Game Pass 11">
-    <display-name lang="es">DAZN NFL Game Pass 11</display-name>
-    <display-name lang="es">DAZN NFL Game Pass 11.TV</display-name>
-    <display-name lang="es">DAZN NFL Game Pass 11 SD</display-name>
-    <display-name lang="es">DAZN NFL Game Pass 11 HD</display-name>
-    <display-name lang="es">DAZN NFL Game Pass 11 FHD</display-name>
-    <display-name lang="es">DAZN NFL Game Pass 11 UHD</display-name>
-    <display-name lang="es">DAZN NFL Game Pass 11 720</display-name>
-    <display-name lang="es">DAZN NFL Game Pass 11 1080</display-name>
-    <icon src="https://image.discovery.indazn.com/eu/v4/onboarding-images/none/sn_wy3kluvb4efae1of0d8146c1/fill/center/top/none/100/0/0/png/image/25/g" />
-  </channel>
-  <channel id="DAZN NFL Game Pass 12">
-    <display-name lang="es">DAZN NFL Game Pass 12</display-name>
-    <display-name lang="es">DAZN NFL Game Pass 12.TV</display-name>
-    <display-name lang="es">DAZN NFL Game Pass 12 SD</display-name>
-    <display-name lang="es">DAZN NFL Game Pass 12 HD</display-name>
-    <display-name lang="es">DAZN NFL Game Pass 12 FHD</display-name>
-    <display-name lang="es">DAZN NFL Game Pass 12 UHD</display-name>
-    <display-name lang="es">DAZN NFL Game Pass 12 720</display-name>
-    <display-name lang="es">DAZN NFL Game Pass 12 1080</display-name>
-    <icon src="https://image.discovery.indazn.com/eu/v4/onboarding-images/none/sn_wy3kluvb4efae1of0d8146c1/fill/center/top/none/100/0/0/png/image/25/g" />
-  </channel>
-  <channel id="DAZN NFL Game Pass 13">
-    <display-name lang="es">DAZN NFL Game Pass 13</display-name>
-    <display-name lang="es">DAZN NFL Game Pass 13.TV</display-name>
-    <display-name lang="es">DAZN NFL Game Pass 13 SD</display-name>
-    <display-name lang="es">DAZN NFL Game Pass 13 HD</display-name>
-    <display-name lang="es">DAZN NFL Game Pass 13 FHD</display-name>
-    <display-name lang="es">DAZN NFL Game Pass 13 UHD</display-name>
-    <display-name lang="es">DAZN NFL Game Pass 13 720</display-name>
-    <display-name lang="es">DAZN NFL Game Pass 13 1080</display-name>
-    <icon src="https://image.discovery.indazn.com/eu/v4/onboarding-images/none/sn_wy3kluvb4efae1of0d8146c1/fill/center/top/none/100/0/0/png/image/25/g" />
-  </channel>
-  <channel id="DAZN NFL Game Pass 14">
-    <display-name lang="es">DAZN NFL Game Pass 14</display-name>
-    <display-name lang="es">DAZN NFL Game Pass 14.TV</display-name>
-    <display-name lang="es">DAZN NFL Game Pass 14 SD</display-name>
-    <display-name lang="es">DAZN NFL Game Pass 14 HD</display-name>
-    <display-name lang="es">DAZN NFL Game Pass 14 FHD</display-name>
-    <display-name lang="es">DAZN NFL Game Pass 14 UHD</display-name>
-    <display-name lang="es">DAZN NFL Game Pass 14 720</display-name>
-    <display-name lang="es">DAZN NFL Game Pass 14 1080</display-name>
-    <icon src="https://image.discovery.indazn.com/eu/v4/onboarding-images/none/sn_wy3kluvb4efae1of0d8146c1/fill/center/top/none/100/0/0/png/image/25/g" />
-  </channel>
-  <channel id="DAZN NFL Game Pass 15">
-    <display-name lang="es">DAZN NFL Game Pass 15</display-name>
-    <display-name lang="es">DAZN NFL Game Pass 15.TV</display-name>
-    <display-name lang="es">DAZN NFL Game Pass 15 SD</display-name>
-    <display-name lang="es">DAZN NFL Game Pass 15 HD</display-name>
-    <display-name lang="es">DAZN NFL Game Pass 15 FHD</display-name>
-    <display-name lang="es">DAZN NFL Game Pass 15 UHD</display-name>
-    <display-name lang="es">DAZN NFL Game Pass 15 720</display-name>
-    <display-name lang="es">DAZN NFL Game Pass 15 1080</display-name>
-    <icon src="https://image.discovery.indazn.com/eu/v4/onboarding-images/none/sn_wy3kluvb4efae1of0d8146c1/fill/center/top/none/100/0/0/png/image/25/g" />
-  </channel>
-  <channel id="DAZN NFL Game Pass 16">
-    <display-name lang="es">DAZN NFL Game Pass 16</display-name>
-    <display-name lang="es">DAZN NFL Game Pass 16.TV</display-name>
-    <display-name lang="es">DAZN NFL Game Pass 16 SD</display-name>
-    <display-name lang="es">DAZN NFL Game Pass 16 HD</display-name>
-    <display-name lang="es">DAZN NFL Game Pass 16 FHD</display-name>
-    <display-name lang="es">DAZN NFL Game Pass 16 UHD</display-name>
-    <display-name lang="es">DAZN NFL Game Pass 16 720</display-name>
-    <display-name lang="es">DAZN NFL Game Pass 16 1080</display-name>
-    <icon src="https://image.discovery.indazn.com/eu/v4/onboarding-images/none/sn_wy3kluvb4efae1of0d8146c1/fill/center/top/none/100/0/0/png/image/25/g" />
-  </channel>
-  <channel id="DAZN NFL Game Pass 17">
-    <display-name lang="es">DAZN NFL Game Pass 17</display-name>
-    <display-name lang="es">DAZN NFL Game Pass 17.TV</display-name>
-    <display-name lang="es">DAZN NFL Game Pass 17 SD</display-name>
-    <display-name lang="es">DAZN NFL Game Pass 17 HD</display-name>
-    <display-name lang="es">DAZN NFL Game Pass 17 FHD</display-name>
-    <display-name lang="es">DAZN NFL Game Pass 17 UHD</display-name>
-    <display-name lang="es">DAZN NFL Game Pass 17 720</display-name>
-    <display-name lang="es">DAZN NFL Game Pass 17 1080</display-name>
-    <icon src="https://image.discovery.indazn.com/eu/v4/onboarding-images/none/sn_wy3kluvb4efae1of0d8146c1/fill/center/top/none/100/0/0/png/image/25/g" />
-  </channel>
-  <channel id="DAZN NFL Game Pass 18">
-    <display-name lang="es">DAZN NFL Game Pass 18</display-name>
-    <display-name lang="es">DAZN NFL Game Pass 18.TV</display-name>
-    <display-name lang="es">DAZN NFL Game Pass 18 SD</display-name>
-    <display-name lang="es">DAZN NFL Game Pass 18 HD</display-name>
-    <display-name lang="es">DAZN NFL Game Pass 18 FHD</display-name>
-    <display-name lang="es">DAZN NFL Game Pass 18 UHD</display-name>
-    <display-name lang="es">DAZN NFL Game Pass 18 720</display-name>
-    <display-name lang="es">DAZN NFL Game Pass 18 1080</display-name>
-    <icon src="https://image.discovery.indazn.com/eu/v4/onboarding-images/none/sn_wy3kluvb4efae1of0d8146c1/fill/center/top/none/100/0/0/png/image/25/g" />
-  </channel>
-  <channel id="DAZN NFL Game Pass 19">
-    <display-name lang="es">DAZN NFL Game Pass 19</display-name>
-    <display-name lang="es">DAZN NFL Game Pass 19.TV</display-name>
-    <display-name lang="es">DAZN NFL Game Pass 19 SD</display-name>
-    <display-name lang="es">DAZN NFL Game Pass 19 HD</display-name>
-    <display-name lang="es">DAZN NFL Game Pass 19 FHD</display-name>
-    <display-name lang="es">DAZN NFL Game Pass 19 UHD</display-name>
-    <display-name lang="es">DAZN NFL Game Pass 19 720</display-name>
-    <display-name lang="es">DAZN NFL Game Pass 19 1080</display-name>
-    <icon src="https://image.discovery.indazn.com/eu/v4/onboarding-images/none/sn_wy3kluvb4efae1of0d8146c1/fill/center/top/none/100/0/0/png/image/25/g" />
-  </channel>
-  <channel id="DAZN NFL Game Pass 2">
-    <display-name lang="es">DAZN NFL Game Pass 2</display-name>
-    <display-name lang="es">DAZN NFL Game Pass 2.TV</display-name>
-    <display-name lang="es">DAZN NFL Game Pass 2 SD</display-name>
-    <display-name lang="es">DAZN NFL Game Pass 2 HD</display-name>
-    <display-name lang="es">DAZN NFL Game Pass 2 FHD</display-name>
-    <display-name lang="es">DAZN NFL Game Pass 2 UHD</display-name>
-    <display-name lang="es">DAZN NFL Game Pass 2 720</display-name>
-    <display-name lang="es">DAZN NFL Game Pass 2 1080</display-name>
-    <icon src="https://image.discovery.indazn.com/eu/v4/onboarding-images/none/sn_wy3kluvb4efae1of0d8146c1/fill/center/top/none/100/0/0/png/image/25/g" />
-  </channel>
-  <channel id="DAZN NFL Game Pass 20">
-    <display-name lang="es">DAZN NFL Game Pass 20</display-name>
-    <display-name lang="es">DAZN NFL Game Pass 20.TV</display-name>
-    <display-name lang="es">DAZN NFL Game Pass 20 SD</display-name>
-    <display-name lang="es">DAZN NFL Game Pass 20 HD</display-name>
-    <display-name lang="es">DAZN NFL Game Pass 20 FHD</display-name>
-    <display-name lang="es">DAZN NFL Game Pass 20 UHD</display-name>
-    <display-name lang="es">DAZN NFL Game Pass 20 720</display-name>
-    <display-name lang="es">DAZN NFL Game Pass 20 1080</display-name>
-    <icon src="https://image.discovery.indazn.com/eu/v4/onboarding-images/none/sn_wy3kluvb4efae1of0d8146c1/fill/center/top/none/100/0/0/png/image/25/g" />
-  </channel>
-  <channel id="DAZN NFL Game Pass 21">
-    <display-name lang="es">DAZN NFL Game Pass 21</display-name>
-    <display-name lang="es">DAZN NFL Game Pass 21.TV</display-name>
-    <display-name lang="es">DAZN NFL Game Pass 21 SD</display-name>
-    <display-name lang="es">DAZN NFL Game Pass 21 HD</display-name>
-    <display-name lang="es">DAZN NFL Game Pass 21 FHD</display-name>
-    <display-name lang="es">DAZN NFL Game Pass 21 UHD</display-name>
-    <display-name lang="es">DAZN NFL Game Pass 21 720</display-name>
-    <display-name lang="es">DAZN NFL Game Pass 21 1080</display-name>
-    <icon src="https://image.discovery.indazn.com/eu/v4/onboarding-images/none/sn_wy3kluvb4efae1of0d8146c1/fill/center/top/none/100/0/0/png/image/25/g" />
-  </channel>
-  <channel id="DAZN NFL Game Pass 22">
-    <display-name lang="es">DAZN NFL Game Pass 22</display-name>
-    <display-name lang="es">DAZN NFL Game Pass 22.TV</display-name>
-    <display-name lang="es">DAZN NFL Game Pass 22 SD</display-name>
-    <display-name lang="es">DAZN NFL Game Pass 22 HD</display-name>
-    <display-name lang="es">DAZN NFL Game Pass 22 FHD</display-name>
-    <display-name lang="es">DAZN NFL Game Pass 22 UHD</display-name>
-    <display-name lang="es">DAZN NFL Game Pass 22 720</display-name>
-    <display-name lang="es">DAZN NFL Game Pass 22 1080</display-name>
-    <icon src="https://image.discovery.indazn.com/eu/v4/onboarding-images/none/sn_wy3kluvb4efae1of0d8146c1/fill/center/top/none/100/0/0/png/image/25/g" />
-  </channel>
-  <channel id="DAZN NFL Game Pass 3">
-    <display-name lang="es">DAZN NFL Game Pass 3</display-name>
-    <display-name lang="es">DAZN NFL Game Pass 3.TV</display-name>
-    <display-name lang="es">DAZN NFL Game Pass 3 SD</display-name>
-    <display-name lang="es">DAZN NFL Game Pass 3 HD</display-name>
-    <display-name lang="es">DAZN NFL Game Pass 3 FHD</display-name>
-    <display-name lang="es">DAZN NFL Game Pass 3 UHD</display-name>
-    <display-name lang="es">DAZN NFL Game Pass 3 720</display-name>
-    <display-name lang="es">DAZN NFL Game Pass 3 1080</display-name>
-    <icon src="https://image.discovery.indazn.com/eu/v4/onboarding-images/none/sn_wy3kluvb4efae1of0d8146c1/fill/center/top/none/100/0/0/png/image/25/g" />
-  </channel>
-  <channel id="DAZN NFL Game Pass 4">
-    <display-name lang="es">DAZN NFL Game Pass 4</display-name>
-    <display-name lang="es">DAZN NFL Game Pass 4.TV</display-name>
-    <display-name lang="es">DAZN NFL Game Pass 4 SD</display-name>
-    <display-name lang="es">DAZN NFL Game Pass 4 HD</display-name>
-    <display-name lang="es">DAZN NFL Game Pass 4 FHD</display-name>
-    <display-name lang="es">DAZN NFL Game Pass 4 UHD</display-name>
-    <display-name lang="es">DAZN NFL Game Pass 4 720</display-name>
-    <display-name lang="es">DAZN NFL Game Pass 4 1080</display-name>
-    <icon src="https://image.discovery.indazn.com/eu/v4/onboarding-images/none/sn_wy3kluvb4efae1of0d8146c1/fill/center/top/none/100/0/0/png/image/25/g" />
-  </channel>
-  <channel id="DAZN NFL Game Pass 5">
-    <display-name lang="es">DAZN NFL Game Pass 5</display-name>
-    <display-name lang="es">DAZN NFL Game Pass 5.TV</display-name>
-    <display-name lang="es">DAZN NFL Game Pass 5 SD</display-name>
-    <display-name lang="es">DAZN NFL Game Pass 5 HD</display-name>
-    <display-name lang="es">DAZN NFL Game Pass 5 FHD</display-name>
-    <display-name lang="es">DAZN NFL Game Pass 5 UHD</display-name>
-    <display-name lang="es">DAZN NFL Game Pass 5 720</display-name>
-    <display-name lang="es">DAZN NFL Game Pass 5 1080</display-name>
-    <icon src="https://image.discovery.indazn.com/eu/v4/onboarding-images/none/sn_wy3kluvb4efae1of0d8146c1/fill/center/top/none/100/0/0/png/image/25/g" />
-  </channel>
-  <channel id="DAZN NFL Game Pass 6">
-    <display-name lang="es">DAZN NFL Game Pass 6</display-name>
-    <display-name lang="es">DAZN NFL Game Pass 6.TV</display-name>
-    <display-name lang="es">DAZN NFL Game Pass 6 SD</display-name>
-    <display-name lang="es">DAZN NFL Game Pass 6 HD</display-name>
-    <display-name lang="es">DAZN NFL Game Pass 6 FHD</display-name>
-    <display-name lang="es">DAZN NFL Game Pass 6 UHD</display-name>
-    <display-name lang="es">DAZN NFL Game Pass 6 720</display-name>
-    <display-name lang="es">DAZN NFL Game Pass 6 1080</display-name>
-    <icon src="https://image.discovery.indazn.com/eu/v4/onboarding-images/none/sn_wy3kluvb4efae1of0d8146c1/fill/center/top/none/100/0/0/png/image/25/g" />
-  </channel>
-  <channel id="DAZN NFL Game Pass 7">
-    <display-name lang="es">DAZN NFL Game Pass 7</display-name>
-    <display-name lang="es">DAZN NFL Game Pass 7.TV</display-name>
-    <display-name lang="es">DAZN NFL Game Pass 7 SD</display-name>
-    <display-name lang="es">DAZN NFL Game Pass 7 HD</display-name>
-    <display-name lang="es">DAZN NFL Game Pass 7 FHD</display-name>
-    <display-name lang="es">DAZN NFL Game Pass 7 UHD</display-name>
-    <display-name lang="es">DAZN NFL Game Pass 7 720</display-name>
-    <display-name lang="es">DAZN NFL Game Pass 7 1080</display-name>
-    <icon src="https://image.discovery.indazn.com/eu/v4/onboarding-images/none/sn_wy3kluvb4efae1of0d8146c1/fill/center/top/none/100/0/0/png/image/25/g" />
-  </channel>
-  <channel id="DAZN NFL Game Pass 8">
-    <display-name lang="es">DAZN NFL Game Pass 8</display-name>
-    <display-name lang="es">DAZN NFL Game Pass 8.TV</display-name>
-    <display-name lang="es">DAZN NFL Game Pass 8 SD</display-name>
-    <display-name lang="es">DAZN NFL Game Pass 8 HD</display-name>
-    <display-name lang="es">DAZN NFL Game Pass 8 FHD</display-name>
-    <display-name lang="es">DAZN NFL Game Pass 8 UHD</display-name>
-    <display-name lang="es">DAZN NFL Game Pass 8 720</display-name>
-    <display-name lang="es">DAZN NFL Game Pass 8 1080</display-name>
-    <icon src="https://image.discovery.indazn.com/eu/v4/onboarding-images/none/sn_wy3kluvb4efae1of0d8146c1/fill/center/top/none/100/0/0/png/image/25/g" />
-  </channel>
-  <channel id="DAZN NFL Game Pass 9">
-    <display-name lang="es">DAZN NFL Game Pass 9</display-name>
-    <display-name lang="es">DAZN NFL Game Pass 9.TV</display-name>
-    <display-name lang="es">DAZN NFL Game Pass 9 SD</display-name>
-    <display-name lang="es">DAZN NFL Game Pass 9 HD</display-name>
-    <display-name lang="es">DAZN NFL Game Pass 9 FHD</display-name>
-    <display-name lang="es">DAZN NFL Game Pass 9 UHD</display-name>
-    <display-name lang="es">DAZN NFL Game Pass 9 720</display-name>
-    <display-name lang="es">DAZN NFL Game Pass 9 1080</display-name>
-    <icon src="https://image.discovery.indazn.com/eu/v4/onboarding-images/none/sn_wy3kluvb4efae1of0d8146c1/fill/center/top/none/100/0/0/png/image/25/g" />
-  </channel>
   <channel id="VE PLUS TV">
     <display-name lang="es">VE PLUS TV</display-name>
     <display-name lang="es">VE PLUS TV.TV</display-name>
@@ -3804,7 +3562,7 @@
     <display-name lang="es">Acontra+ UHD</display-name>
     <display-name lang="es">Acontra+ 720</display-name>
     <display-name lang="es">Acontra+ 1080</display-name>
-    <icon src="https://img-prod-api2.mediasetplay.mediaset.it/api/images/by/v5/esp/aHR0cHM6Ly9kYW0uY2xvdWQubWVkaWFzZXQubmV0L20vMjRkMTFkMzlmZWIxMGU3MS9vcmlnaW5hbC9DaGFubmVsX2xvZ28tQWNvbnRyYS0yNGgucG5n/single/87/87@2?r=%202x&quot;%20media=&quot;(max-width:%201023px)|https://img-prod-api2.mediasetplay.mediaset.it/api/images/by/v5/esp/aHR0cHM6Ly9kYW0uY2xvdWQubWVkaWFzZXQubmV0L20vMjRkMTFkMzlmZWIxMGU3MS9vcmlnaW5hbC9DaGFubmVsX2xvZ28tQWNvbnRyYS0yNGgucG5n/single/87/87@2?r=%202x&quot;%20media=&quot;(max-width:%201023px)|https://img-prod-api2.mediasetplay.mediaset.it/api/images/by/v5/esp/aHR0cHM6Ly9kYW0uY2xvdWQubWVkaWFzZXQubmV0L20vMjRkMTFkMzlmZWIxMGU3MS9vcmlnaW5hbC9DaGFubmVsX2xvZ28tQWNvbnRyYS0yNGgucG5n/single/87/87@2?r=%202x&quot;%20media=&quot;(max-width:%201023px)|https://img-prod-api2.mediasetplay.mediaset.it/api/images/by/v5/esp/aHR0cHM6Ly9kYW0uY2xvdWQubWVkaWFzZXQubmV0L20vMjRkMTFkMzlmZWIxMGU3MS9vcmlnaW5hbC9DaGFubmVsX2xvZ28tQWNvbnRyYS0yNGgucG5n/single/87/87@2?r=%202x&quot;%20media=&quot;(max-width:%201023px)|https://img-prod-api2.mediasetplay.mediaset.it/api/images/by/v5/esp/aHR0cHM6Ly9kYW0uY2xvdWQubWVkaWFzZXQubmV0L20vMjRkMTFkMzlmZWIxMGU3MS9vcmlnaW5hbC9DaGFubmVsX2xvZ28tQWNvbnRyYS0yNGgucG5n/single/87/87@2?r=%202x&quot;%20media=&quot;(max-width:%201023px)|https://img-prod-api2.mediasetplay.mediaset.it/api/images/by/v5/esp/aHR0cHM6Ly9kYW0uY2xvdWQubWVkaWFzZXQubmV0L20vMjRkMTFkMzlmZWIxMGU3MS9vcmlnaW5hbC9DaGFubmVsX2xvZ28tQWNvbnRyYS0yNGgucG5n/single/87/87@2?r=%202x&quot;%20media=&quot;(max-width:%201023px)|https://img-prod-api2.mediasetplay.mediaset.it/api/images/by/v5/esp/aHR0cHM6Ly9kYW0uY2xvdWQubWVkaWFzZXQubmV0L20vMjRkMTFkMzlmZWIxMGU3MS9vcmlnaW5hbC9DaGFubmVsX2xvZ28tQWNvbnRyYS0yNGgucG5n/single/87/87@2?r=%202x&quot;%20media=&quot;(max-width:%201023px)" />
+    <icon src="https://img-prod-api2.mediasetplay.mediaset.it/api/images/by/v5/esp/aHR0cHM6Ly9kYW0uY2xvdWQubWVkaWFzZXQubmV0L20vNDE4YjhiNjhlOTljZjI3Mi9vcmlnaW5hbC9DaGFubmVsX2xvZ28tQWNvbnRyYS0yNGgucG5n/single/87/87@2?r=%202x&quot;%20media=&quot;(max-width:%201023px)|https://img-prod-api2.mediasetplay.mediaset.it/api/images/by/v5/esp/aHR0cHM6Ly9kYW0uY2xvdWQubWVkaWFzZXQubmV0L20vNDE4YjhiNjhlOTljZjI3Mi9vcmlnaW5hbC9DaGFubmVsX2xvZ28tQWNvbnRyYS0yNGgucG5n/single/87/87@2?r=%202x&quot;%20media=&quot;(max-width:%201023px)|https://img-prod-api2.mediasetplay.mediaset.it/api/images/by/v5/esp/aHR0cHM6Ly9kYW0uY2xvdWQubWVkaWFzZXQubmV0L20vNDE4YjhiNjhlOTljZjI3Mi9vcmlnaW5hbC9DaGFubmVsX2xvZ28tQWNvbnRyYS0yNGgucG5n/single/87/87@2?r=%202x&quot;%20media=&quot;(max-width:%201023px)|https://img-prod-api2.mediasetplay.mediaset.it/api/images/by/v5/esp/aHR0cHM6Ly9kYW0uY2xvdWQubWVkaWFzZXQubmV0L20vNDE4YjhiNjhlOTljZjI3Mi9vcmlnaW5hbC9DaGFubmVsX2xvZ28tQWNvbnRyYS0yNGgucG5n/single/87/87@2?r=%202x&quot;%20media=&quot;(max-width:%201023px)|https://img-prod-api2.mediasetplay.mediaset.it/api/images/by/v5/esp/aHR0cHM6Ly9kYW0uY2xvdWQubWVkaWFzZXQubmV0L20vNDE4YjhiNjhlOTljZjI3Mi9vcmlnaW5hbC9DaGFubmVsX2xvZ28tQWNvbnRyYS0yNGgucG5n/single/87/87@2?r=%202x&quot;%20media=&quot;(max-width:%201023px)|https://img-prod-api2.mediasetplay.mediaset.it/api/images/by/v5/esp/aHR0cHM6Ly9kYW0uY2xvdWQubWVkaWFzZXQubmV0L20vNDE4YjhiNjhlOTljZjI3Mi9vcmlnaW5hbC9DaGFubmVsX2xvZ28tQWNvbnRyYS0yNGgucG5n/single/87/87@2?r=%202x&quot;%20media=&quot;(max-width:%201023px)|https://img-prod-api2.mediasetplay.mediaset.it/api/images/by/v5/esp/aHR0cHM6Ly9kYW0uY2xvdWQubWVkaWFzZXQubmV0L20vNDE4YjhiNjhlOTljZjI3Mi9vcmlnaW5hbC9DaGFubmVsX2xvZ28tQWNvbnRyYS0yNGgucG5n/single/87/87@2?r=%202x&quot;%20media=&quot;(max-width:%201023px)" />
   </channel>
   <channel id="Fight Sports">
     <display-name lang="es"> Fight Sports</display-name>
@@ -5311,7 +5069,7 @@
     <display-name lang="es">En Familia (Rakuten TV) UHD</display-name>
     <display-name lang="es">En Familia (Rakuten TV) 720</display-name>
     <display-name lang="es">En Familia (Rakuten TV) 1080</display-name>
-    <icon src="https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork-negative/97145f2b-1d06-42dd-b10f-485e7b456895.png" />
+    <icon src="https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork-negative/8b0a19ef-9b8b-4a55-a8eb-6a06f756beac.png" />
   </channel>
   <channel id="Todo Crimen (Rakuten TV)">
     <display-name lang="es">Todo Crimen (Rakuten TV)</display-name>
@@ -6444,6 +6202,7 @@
     <display-name lang="es">DE | Sky Sport Austria 6 UHD</display-name>
     <display-name lang="es">DE | Sky Sport Austria 6 720</display-name>
     <display-name lang="es">DE | Sky Sport Austria 6 1080</display-name>
+    <icon src="https://www.sky.de/static/img/senderlogos_dark/884_sky_logo_sky-sport-austria-6-hd_tvguide.png" />
   </channel>
   <channel id="DE | Sky Sport Austria 7">
     <display-name lang="es">DE | Sky Sport Austria 7</display-name>
@@ -6465,6 +6224,7 @@
     <display-name lang="es">DE | Sky Sport Austria 8 UHD</display-name>
     <display-name lang="es">DE | Sky Sport Austria 8 720</display-name>
     <display-name lang="es">DE | Sky Sport Austria 8 1080</display-name>
+    <icon src="https://www.sky.de/static/img/senderlogos_dark/928_sky_logo_sky-sport-austria-8-hd_tvguide.png" />
   </channel>
   <channel id="DE | Das Erste">
     <display-name lang="es">DE | Das Erste</display-name>
