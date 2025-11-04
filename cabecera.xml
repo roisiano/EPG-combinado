@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tv generator-info-name="dobleM 02/11/2025 20:48" generator-info-url="t.me/EPG_dobleM">
+<tv generator-info-name="dobleM 03/11/2025 20:48" generator-info-url="t.me/EPG_dobleM">
   <channel id="La 1 HD">
     <display-name lang="es">La 1</display-name>
     <display-name lang="es">La 1.TV</display-name>
@@ -5102,7 +5102,7 @@
     <display-name lang="es">Thrillers (Rakuten TV) UHD</display-name>
     <display-name lang="es">Thrillers (Rakuten TV) 720</display-name>
     <display-name lang="es">Thrillers (Rakuten TV) 1080</display-name>
-    <icon src="https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork-negative/52e33383-ecf1-4818-8f93-b20deb3b597e.png" />
+    <icon src="https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork-negative/5728a608-5527-4d19-a4cc-18ca9f019688.png" />
   </channel>
   <channel id="MyTime Movie Network (Rakuten TV)">
     <display-name lang="es">MyTime Movie Network (Rakuten TV)</display-name>
