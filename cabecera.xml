@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tv generator-info-name="dobleM 08/11/2025 20:48" generator-info-url="t.me/EPG_dobleM">
+<tv generator-info-name="dobleM 09/11/2025 20:48" generator-info-url="t.me/EPG_dobleM">
   <channel id="La 1 HD">
     <display-name lang="es">La 1</display-name>
     <display-name lang="es">La 1.TV</display-name>
@@ -4433,171 +4433,6 @@
     <display-name lang="es">RunTime Familia 1080</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/RunTime%20Familia.png" />
   </channel>
-  <channel id="Onetoro">
-    <display-name lang="es">Onetoro</display-name>
-    <display-name lang="es">Onetoro.TV</display-name>
-    <display-name lang="es">Onetoro SD</display-name>
-    <display-name lang="es">Onetoro HD</display-name>
-    <display-name lang="es">Onetoro FHD</display-name>
-    <display-name lang="es">Onetoro UHD</display-name>
-    <display-name lang="es">Onetoro 720</display-name>
-    <display-name lang="es">Onetoro 1080</display-name>
-    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Onetoro.png" />
-  </channel>
-  <channel id="Alacantí TV">
-    <display-name lang="es">Alacantí TV</display-name>
-    <display-name lang="es">Alacantí TV.TV</display-name>
-    <display-name lang="es">Alacantí TV SD</display-name>
-    <display-name lang="es">Alacantí TV HD</display-name>
-    <display-name lang="es">Alacantí TV FHD</display-name>
-    <display-name lang="es">Alacantí TV UHD</display-name>
-    <display-name lang="es">Alacantí TV 720</display-name>
-    <display-name lang="es">Alacantí TV 1080</display-name>
-    <icon src="https://alacantitv.com/wp-content/uploads/2024/03/logo-alacantitv-programacion.jpg" />
-  </channel>
-  <channel id="Onda Cádiz TV">
-    <display-name lang="es">Onda Cádiz TV</display-name>
-    <display-name lang="es">Onda Cádiz TV.TV</display-name>
-    <display-name lang="es">Onda Cádiz TV SD</display-name>
-    <display-name lang="es">Onda Cádiz TV HD</display-name>
-    <display-name lang="es">Onda Cádiz TV FHD</display-name>
-    <display-name lang="es">Onda Cádiz TV UHD</display-name>
-    <display-name lang="es">Onda Cádiz TV 720</display-name>
-    <display-name lang="es">Onda Cádiz TV 1080</display-name>
-    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Onda%20C%C3%A1diz%20TV.png" />
-  </channel>
-  <channel id="8madrid TV">
-    <display-name lang="es">8madrid TV</display-name>
-    <display-name lang="es">8madrid TV.TV</display-name>
-    <display-name lang="es">8madrid TV SD</display-name>
-    <display-name lang="es">8madrid TV HD</display-name>
-    <display-name lang="es">8madrid TV FHD</display-name>
-    <display-name lang="es">8madrid TV UHD</display-name>
-    <display-name lang="es">8madrid TV 720</display-name>
-    <display-name lang="es">8madrid TV 1080</display-name>
-    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/8madrid%20TV.png" />
-  </channel>
-  <channel id="TVR Rioja">
-    <display-name lang="es">TVR Rioja</display-name>
-    <display-name lang="es">TVR Rioja.TV</display-name>
-    <display-name lang="es">TVR Rioja SD</display-name>
-    <display-name lang="es">TVR Rioja HD</display-name>
-    <display-name lang="es">TVR Rioja FHD</display-name>
-    <display-name lang="es">TVR Rioja UHD</display-name>
-    <display-name lang="es">TVR Rioja 720</display-name>
-    <display-name lang="es">TVR Rioja 1080</display-name>
-    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/TVR%20Rioja.png" />
-  </channel>
-  <channel id="Popular TV Cantabria">
-    <display-name lang="es">Popular TV Cantabria</display-name>
-    <display-name lang="es">Popular TV Cantabria.TV</display-name>
-    <display-name lang="es">Popular TV Cantabria SD</display-name>
-    <display-name lang="es">Popular TV Cantabria HD</display-name>
-    <display-name lang="es">Popular TV Cantabria FHD</display-name>
-    <display-name lang="es">Popular TV Cantabria UHD</display-name>
-    <display-name lang="es">Popular TV Cantabria 720</display-name>
-    <display-name lang="es">Popular TV Cantabria 1080</display-name>
-    <icon src="https://populartvcantabria.com/wp-content/uploads/2022/10/cropped-logo-popular-horizontal-300x125.png" />
-  </channel>
-  <channel id="interalmería TV">
-    <display-name lang="es">interalmería TV</display-name>
-    <display-name lang="es">interalmería TV.TV</display-name>
-    <display-name lang="es">interalmería TV SD</display-name>
-    <display-name lang="es">interalmería TV HD</display-name>
-    <display-name lang="es">interalmería TV FHD</display-name>
-    <display-name lang="es">interalmería TV UHD</display-name>
-    <display-name lang="es">interalmería TV 720</display-name>
-    <display-name lang="es">interalmería TV 1080</display-name>
-    <icon src="https://www.interalmeria.tv/wp-content/uploads/2019/01/iatv-mosca.png?x96146" />
-  </channel>
-  <channel id="Huelva TV">
-    <display-name lang="es">Huelva TV</display-name>
-    <display-name lang="es">Huelva TV.TV</display-name>
-    <display-name lang="es">Huelva TV SD</display-name>
-    <display-name lang="es">Huelva TV HD</display-name>
-    <display-name lang="es">Huelva TV FHD</display-name>
-    <display-name lang="es">Huelva TV UHD</display-name>
-    <display-name lang="es">Huelva TV 720</display-name>
-    <display-name lang="es">Huelva TV 1080</display-name>
-    <icon src="https://huelvatv.com/wp-content/uploads/2024/11/70_Huelva_TV_Logotipo_AZUL.png" />
-  </channel>
-  <channel id="Elche 7 TV">
-    <display-name lang="es">Elche 7 TV</display-name>
-    <display-name lang="es">Elche 7 TV.TV</display-name>
-    <display-name lang="es">Elche 7 TV SD</display-name>
-    <display-name lang="es">Elche 7 TV HD</display-name>
-    <display-name lang="es">Elche 7 TV FHD</display-name>
-    <display-name lang="es">Elche 7 TV UHD</display-name>
-    <display-name lang="es">Elche 7 TV 720</display-name>
-    <display-name lang="es">Elche 7 TV 1080</display-name>
-    <icon src="https://elche7tv.es/wp-content/uploads/2023/08/Web-Retina-Logo-Upload-544-%C3%97-180-px.png" />
-  </channel>
-  <channel id="Play Melilla">
-    <display-name lang="es">Play Melilla</display-name>
-    <display-name lang="es">Play Melilla.TV</display-name>
-    <display-name lang="es">Play Melilla SD</display-name>
-    <display-name lang="es">Play Melilla HD</display-name>
-    <display-name lang="es">Play Melilla FHD</display-name>
-    <display-name lang="es">Play Melilla UHD</display-name>
-    <display-name lang="es">Play Melilla 720</display-name>
-    <display-name lang="es">Play Melilla 1080</display-name>
-    <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Play_Melilla.svg/512px-Play_Melilla.svg.png" />
-  </channel>
-  <channel id="Libertad Digital TV">
-    <display-name lang="es">Libertad Digital TV</display-name>
-    <display-name lang="es">Libertad Digital TV.TV</display-name>
-    <display-name lang="es">Libertad Digital TV SD</display-name>
-    <display-name lang="es">Libertad Digital TV HD</display-name>
-    <display-name lang="es">Libertad Digital TV FHD</display-name>
-    <display-name lang="es">Libertad Digital TV UHD</display-name>
-    <display-name lang="es">Libertad Digital TV 720</display-name>
-    <display-name lang="es">Libertad Digital TV 1080</display-name>
-    <icon src="https://yt3.googleusercontent.com/ytc/AIdro_mJBwGvGJx9rJx7Fyo19zzImyR7p9O2WXRS1uPaSMoP6HE=s900-c-k-c0x00ffffff-no-rj" />
-  </channel>
-  <channel id="Imás TV">
-    <display-name lang="es">Imás TV</display-name>
-    <display-name lang="es">Imás TV.TV</display-name>
-    <display-name lang="es">Imás TV SD</display-name>
-    <display-name lang="es">Imás TV HD</display-name>
-    <display-name lang="es">Imás TV FHD</display-name>
-    <display-name lang="es">Imás TV UHD</display-name>
-    <display-name lang="es">Imás TV 720</display-name>
-    <display-name lang="es">Imás TV 1080</display-name>
-    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Im%C3%A1s%20TV.png" />
-  </channel>
-  <channel id="Punt 3">
-    <display-name lang="es">Punt 3</display-name>
-    <display-name lang="es">Punt 3.TV</display-name>
-    <display-name lang="es">Punt 3 SD</display-name>
-    <display-name lang="es">Punt 3 HD</display-name>
-    <display-name lang="es">Punt 3 FHD</display-name>
-    <display-name lang="es">Punt 3 UHD</display-name>
-    <display-name lang="es">Punt 3 720</display-name>
-    <display-name lang="es">Punt 3 1080</display-name>
-    <icon src="https://www.punt3.es/android-icon-192x192.png" />
-  </channel>
-  <channel id="Distrito TV">
-    <display-name lang="es">Distrito TV</display-name>
-    <display-name lang="es">Distrito TV.TV</display-name>
-    <display-name lang="es">Distrito TV SD</display-name>
-    <display-name lang="es">Distrito TV HD</display-name>
-    <display-name lang="es">Distrito TV FHD</display-name>
-    <display-name lang="es">Distrito TV UHD</display-name>
-    <display-name lang="es">Distrito TV 720</display-name>
-    <display-name lang="es">Distrito TV 1080</display-name>
-    <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/LOGO_DISTRITO_TV.png/598px-LOGO_DISTRITO_TV.png" />
-  </channel>
-  <channel id="ATV Andorra Televisión">
-    <display-name lang="es">ATV Andorra Televisión</display-name>
-    <display-name lang="es">ATV Andorra Televisión.TV</display-name>
-    <display-name lang="es">ATV Andorra Televisión SD</display-name>
-    <display-name lang="es">ATV Andorra Televisión HD</display-name>
-    <display-name lang="es">ATV Andorra Televisión FHD</display-name>
-    <display-name lang="es">ATV Andorra Televisión UHD</display-name>
-    <display-name lang="es">ATV Andorra Televisión 720</display-name>
-    <display-name lang="es">ATV Andorra Televisión 1080</display-name>
-    <icon src="https://upload.wikimedia.org/wikipedia/commons/3/32/Logo_Andorra_Televisi%C3%B3.png" />
-  </channel>
   <channel id="TRACE Sports Stars">
     <display-name lang="es">TRACE Sports Stars</display-name>
     <display-name lang="es">TRACE Sports Stars.TV</display-name>
@@ -6750,6 +6585,116 @@
     <display-name lang="es">DE | Sky Sport 10 720</display-name>
     <display-name lang="es">DE | Sky Sport 10 1080</display-name>
     <icon src="http://ngiss.t-online.de/cm1s/media/25751836767f9282d88d99e61c38a1529b0616d3.png" />
+  </channel>
+  <channel id="Onetoro">
+    <display-name lang="es">Onetoro</display-name>
+    <display-name lang="es">Onetoro.TV</display-name>
+    <display-name lang="es">Onetoro SD</display-name>
+    <display-name lang="es">Onetoro HD</display-name>
+    <display-name lang="es">Onetoro FHD</display-name>
+    <display-name lang="es">Onetoro UHD</display-name>
+    <display-name lang="es">Onetoro 720</display-name>
+    <display-name lang="es">Onetoro 1080</display-name>
+    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Onetoro.png" />
+  </channel>
+  <channel id="Alacantí TV">
+    <display-name lang="es">Alacantí TV</display-name>
+    <display-name lang="es">Alacantí TV.TV</display-name>
+    <display-name lang="es">Alacantí TV SD</display-name>
+    <display-name lang="es">Alacantí TV HD</display-name>
+    <display-name lang="es">Alacantí TV FHD</display-name>
+    <display-name lang="es">Alacantí TV UHD</display-name>
+    <display-name lang="es">Alacantí TV 720</display-name>
+    <display-name lang="es">Alacantí TV 1080</display-name>
+    <icon src="https://alacantitv.com/wp-content/uploads/2024/03/logo-alacantitv-programacion.jpg" />
+  </channel>
+  <channel id="Onda Cádiz TV">
+    <display-name lang="es">Onda Cádiz TV</display-name>
+    <display-name lang="es">Onda Cádiz TV.TV</display-name>
+    <display-name lang="es">Onda Cádiz TV SD</display-name>
+    <display-name lang="es">Onda Cádiz TV HD</display-name>
+    <display-name lang="es">Onda Cádiz TV FHD</display-name>
+    <display-name lang="es">Onda Cádiz TV UHD</display-name>
+    <display-name lang="es">Onda Cádiz TV 720</display-name>
+    <display-name lang="es">Onda Cádiz TV 1080</display-name>
+    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Onda%20C%C3%A1diz%20TV.png" />
+  </channel>
+  <channel id="8madrid TV">
+    <display-name lang="es">8madrid TV</display-name>
+    <display-name lang="es">8madrid TV.TV</display-name>
+    <display-name lang="es">8madrid TV SD</display-name>
+    <display-name lang="es">8madrid TV HD</display-name>
+    <display-name lang="es">8madrid TV FHD</display-name>
+    <display-name lang="es">8madrid TV UHD</display-name>
+    <display-name lang="es">8madrid TV 720</display-name>
+    <display-name lang="es">8madrid TV 1080</display-name>
+    <icon src="https://www.tvguia.es/sites/default/files/logo/8madrid-tv.png" />
+  </channel>
+  <channel id="TVR Rioja">
+    <display-name lang="es">TVR Rioja</display-name>
+    <display-name lang="es">TVR Rioja.TV</display-name>
+    <display-name lang="es">TVR Rioja SD</display-name>
+    <display-name lang="es">TVR Rioja HD</display-name>
+    <display-name lang="es">TVR Rioja FHD</display-name>
+    <display-name lang="es">TVR Rioja UHD</display-name>
+    <display-name lang="es">TVR Rioja 720</display-name>
+    <display-name lang="es">TVR Rioja 1080</display-name>
+    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/TVR%20Rioja.png" />
+  </channel>
+  <channel id="Popular TV Cantabria">
+    <display-name lang="es">Popular TV Cantabria</display-name>
+    <display-name lang="es">Popular TV Cantabria.TV</display-name>
+    <display-name lang="es">Popular TV Cantabria SD</display-name>
+    <display-name lang="es">Popular TV Cantabria HD</display-name>
+    <display-name lang="es">Popular TV Cantabria FHD</display-name>
+    <display-name lang="es">Popular TV Cantabria UHD</display-name>
+    <display-name lang="es">Popular TV Cantabria 720</display-name>
+    <display-name lang="es">Popular TV Cantabria 1080</display-name>
+    <icon src="https://populartvcantabria.com/wp-content/uploads/2022/10/cropped-logo-popular-horizontal-300x125.png" />
+  </channel>
+  <channel id="interalmería TV">
+    <display-name lang="es">interalmería TV</display-name>
+    <display-name lang="es">interalmería TV.TV</display-name>
+    <display-name lang="es">interalmería TV SD</display-name>
+    <display-name lang="es">interalmería TV HD</display-name>
+    <display-name lang="es">interalmería TV FHD</display-name>
+    <display-name lang="es">interalmería TV UHD</display-name>
+    <display-name lang="es">interalmería TV 720</display-name>
+    <display-name lang="es">interalmería TV 1080</display-name>
+    <icon src="https://www.interalmeria.tv/wp-content/uploads/2019/01/iatv-mosca.png?x96146" />
+  </channel>
+  <channel id="Huelva TV">
+    <display-name lang="es">Huelva TV</display-name>
+    <display-name lang="es">Huelva TV.TV</display-name>
+    <display-name lang="es">Huelva TV SD</display-name>
+    <display-name lang="es">Huelva TV HD</display-name>
+    <display-name lang="es">Huelva TV FHD</display-name>
+    <display-name lang="es">Huelva TV UHD</display-name>
+    <display-name lang="es">Huelva TV 720</display-name>
+    <display-name lang="es">Huelva TV 1080</display-name>
+    <icon src="https://huelvatv.com/wp-content/uploads/2024/11/70_Huelva_TV_Logotipo_AZUL.png" />
+  </channel>
+  <channel id="Elche 7 TV">
+    <display-name lang="es">Elche 7 TV</display-name>
+    <display-name lang="es">Elche 7 TV.TV</display-name>
+    <display-name lang="es">Elche 7 TV SD</display-name>
+    <display-name lang="es">Elche 7 TV HD</display-name>
+    <display-name lang="es">Elche 7 TV FHD</display-name>
+    <display-name lang="es">Elche 7 TV UHD</display-name>
+    <display-name lang="es">Elche 7 TV 720</display-name>
+    <display-name lang="es">Elche 7 TV 1080</display-name>
+    <icon src="https://elche7tv.es/wp-content/uploads/2023/08/Web-Retina-Logo-Upload-544-%C3%97-180-px.png" />
+  </channel>
+  <channel id="Play Melilla">
+    <display-name lang="es">Play Melilla</display-name>
+    <display-name lang="es">Play Melilla.TV</display-name>
+    <display-name lang="es">Play Melilla SD</display-name>
+    <display-name lang="es">Play Melilla HD</display-name>
+    <display-name lang="es">Play Melilla FHD</display-name>
+    <display-name lang="es">Play Melilla UHD</display-name>
+    <display-name lang="es">Play Melilla 720</display-name>
+    <display-name lang="es">Play Melilla 1080</display-name>
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Play_Melilla.svg/512px-Play_Melilla.svg.png" />
   </channel>
   <channel id="UK | Premier Sports 1">
     <display-name lang="es">UK | Premier Sports 1</display-name>
