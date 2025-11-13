@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tv generator-info-name="dobleM 11/11/2025 21:39" generator-info-url="t.me/EPG_dobleM">
+<tv generator-info-name="dobleM 12/11/2025 20:44" generator-info-url="t.me/EPG_dobleM">
   <channel id="La 1 HD">
     <display-name lang="es">La 1</display-name>
     <display-name lang="es">La 1.TV</display-name>
@@ -121,16 +121,16 @@
     <display-name lang="es">M+ Documentales 1080</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Documentales.png" />
   </channel>
-  <channel id="M+ Romance">
-    <display-name lang="es">M+ Romance</display-name>
-    <display-name lang="es">M+ Romance.TV</display-name>
-    <display-name lang="es">M+ Romance SD</display-name>
-    <display-name lang="es">M+ Romance HD</display-name>
-    <display-name lang="es">M+ Romance FHD</display-name>
-    <display-name lang="es">M+ Romance UHD</display-name>
-    <display-name lang="es">M+ Romance 720</display-name>
-    <display-name lang="es">M+ Romance 1080</display-name>
-    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Romance.png" />
+  <channel id="M+ En juego">
+    <display-name lang="es">M+ En juego</display-name>
+    <display-name lang="es">M+ En juego.TV</display-name>
+    <display-name lang="es">M+ En juego SD</display-name>
+    <display-name lang="es">M+ En juego HD</display-name>
+    <display-name lang="es">M+ En juego FHD</display-name>
+    <display-name lang="es">M+ En juego UHD</display-name>
+    <display-name lang="es">M+ En juego 720</display-name>
+    <display-name lang="es">M+ En juego 1080</display-name>
+    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20En%20juego.png" />
   </channel>
   <channel id="M+ Clásicos HD">
     <display-name lang="es">M+ Clásicos</display-name>
@@ -1892,16 +1892,16 @@
     <display-name lang="es">DAZN LaLiga 5 1080</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20LaLiga%205.png" />
   </channel>
-  <channel id="Movistar Plus+ 2 HD">
-    <display-name lang="es">Movistar Plus+ 2</display-name>
-    <display-name lang="es">Movistar Plus+ 2.TV</display-name>
-    <display-name lang="es">Movistar Plus+ 2 SD</display-name>
-    <display-name lang="es">Movistar Plus+ 2 HD</display-name>
-    <display-name lang="es">Movistar Plus+ 2 FHD</display-name>
-    <display-name lang="es">Movistar Plus+ 2 UHD</display-name>
-    <display-name lang="es">Movistar Plus+ 2 720</display-name>
-    <display-name lang="es">Movistar Plus+ 2 1080</display-name>
-    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Movistar%20Plus%2B%202.png" />
+  <channel id="M+ Vamos 2">
+    <display-name lang="es">M+ Vamos 2</display-name>
+    <display-name lang="es">M+ Vamos 2.TV</display-name>
+    <display-name lang="es">M+ Vamos 2 SD</display-name>
+    <display-name lang="es">M+ Vamos 2 HD</display-name>
+    <display-name lang="es">M+ Vamos 2 FHD</display-name>
+    <display-name lang="es">M+ Vamos 2 UHD</display-name>
+    <display-name lang="es">M+ Vamos 2 720</display-name>
+    <display-name lang="es">M+ Vamos 2 1080</display-name>
+    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Vamos%202.png" />
   </channel>
   <channel id="LaLiga TV Hypermotion 3">
     <display-name lang="es">LaLiga TV Hypermotion 3</display-name>
@@ -2111,6 +2111,94 @@
     <display-name lang="es">LaLiga TV BAR 3 720</display-name>
     <display-name lang="es">LaLiga TV BAR 3 1080</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/LaLiga%20TV%20BAR%203.png" />
+  </channel>
+  <channel id="Sony One Shark Tank">
+    <display-name>Sony One Shark Tank</display-name>
+    <display-name>Sony One Shark Tank.TV</display-name>
+    <display-name>Sony One Shark Tank SD</display-name>
+    <display-name>Sony One Shark Tank HD</display-name>
+    <display-name>Sony One Shark Tank FHD</display-name>
+    <display-name>Sony One Shark Tank UHD</display-name>
+    <display-name>Sony One Shark Tank 720</display-name>
+    <display-name>Sony One Shark Tank 1080</display-name>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES300004C9_20241106T142325SQUARE.png" />
+  </channel>
+  <channel id="Sony One Series Thriller">
+    <display-name>Sony One Series Thriller</display-name>
+    <display-name>Sony One Series Thriller.TV</display-name>
+    <display-name>Sony One Series Thriller SD</display-name>
+    <display-name>Sony One Series Thriller HD</display-name>
+    <display-name>Sony One Series Thriller FHD</display-name>
+    <display-name>Sony One Series Thriller UHD</display-name>
+    <display-name>Sony One Series Thriller 720</display-name>
+    <display-name>Sony One Series Thriller 1080</display-name>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES300002Y6_20241106T142251SQUARE.png" />
+  </channel>
+  <channel id="Sony One Éxitos">
+    <display-name>Sony One Éxitos</display-name>
+    <display-name>Sony One Éxitos.TV</display-name>
+    <display-name>Sony One Éxitos SD</display-name>
+    <display-name>Sony One Éxitos HD</display-name>
+    <display-name>Sony One Éxitos FHD</display-name>
+    <display-name>Sony One Éxitos UHD</display-name>
+    <display-name>Sony One Éxitos 720</display-name>
+    <display-name>Sony One Éxitos 1080</display-name>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES300003D4_20241022T051059SQUARE.png" />
+  </channel>
+  <channel id="Sony One The Blacklist">
+    <display-name>Sony One The Blacklist</display-name>
+    <display-name>Sony One The Blacklist.TV</display-name>
+    <display-name>Sony One The Blacklist SD</display-name>
+    <display-name>Sony One The Blacklist HD</display-name>
+    <display-name>Sony One The Blacklist FHD</display-name>
+    <display-name>Sony One The Blacklist UHD</display-name>
+    <display-name>Sony One The Blacklist 720</display-name>
+    <display-name>Sony One The Blacklist 1080</display-name>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES300005EL_20241022T115805SQUARE.png" />
+  </channel>
+  <channel id="Sony One Series Comedia">
+    <display-name>Sony One Series Comedia</display-name>
+    <display-name>Sony One Series Comedia.TV</display-name>
+    <display-name>Sony One Series Comedia SD</display-name>
+    <display-name>Sony One Series Comedia HD</display-name>
+    <display-name>Sony One Series Comedia FHD</display-name>
+    <display-name>Sony One Series Comedia UHD</display-name>
+    <display-name>Sony One Series Comedia 720</display-name>
+    <display-name>Sony One Series Comedia 1080</display-name>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES30000145_20241106T142322SQUARE.png" />
+  </channel>
+  <channel id="Sony One Hits Comedia">
+    <display-name>Sony One Hits Comedia</display-name>
+    <display-name>Sony One Hits Comedia.TV</display-name>
+    <display-name>Sony One Hits Comedia SD</display-name>
+    <display-name>Sony One Hits Comedia HD</display-name>
+    <display-name>Sony One Hits Comedia FHD</display-name>
+    <display-name>Sony One Hits Comedia UHD</display-name>
+    <display-name>Sony One Hits Comedia 720</display-name>
+    <display-name>Sony One Hits Comedia 1080</display-name>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES300007KS_20251111T011949SQUARE.png" />
+  </channel>
+  <channel id="Sony One Hits Acción">
+    <display-name>Sony One Hits Acción</display-name>
+    <display-name>Sony One Hits Acción.TV</display-name>
+    <display-name>Sony One Hits Acción SD</display-name>
+    <display-name>Sony One Hits Acción HD</display-name>
+    <display-name>Sony One Hits Acción FHD</display-name>
+    <display-name>Sony One Hits Acción UHD</display-name>
+    <display-name>Sony One Hits Acción 720</display-name>
+    <display-name>Sony One Hits Acción 1080</display-name>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES300006QJ_20251111T011921SQUARE.png" />
+  </channel>
+  <channel id="Mr Bean Animated">
+    <display-name>Mr Bean Animated</display-name>
+    <display-name>Mr Bean Animated.TV</display-name>
+    <display-name>Mr Bean Animated SD</display-name>
+    <display-name>Mr Bean Animated HD</display-name>
+    <display-name>Mr Bean Animated FHD</display-name>
+    <display-name>Mr Bean Animated UHD</display-name>
+    <display-name>Mr Bean Animated 720</display-name>
+    <display-name>Mr Bean Animated 1080</display-name>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES900001SH_20250923T011557SQUARE.png" />
   </channel>
   <channel id="GolStadium BAR">
     <display-name lang="es">GolStadium BAR</display-name>
@@ -4673,7 +4761,6 @@
     <display-name lang="es">M6 UHD</display-name>
     <display-name lang="es">M6 720</display-name>
     <display-name lang="es">M6 1080</display-name>
-    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M6.png" />
   </channel>
   <channel id="Gulli">
     <display-name lang="es">Gulli</display-name>
@@ -4684,7 +4771,6 @@
     <display-name lang="es">Gulli UHD</display-name>
     <display-name lang="es">Gulli 720</display-name>
     <display-name lang="es">Gulli 1080</display-name>
-    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Gulli.png" />
   </channel>
   <channel id="Tennis Channel">
     <display-name lang="es">Tennis Channel</display-name>
@@ -4695,7 +4781,6 @@
     <display-name lang="es">Tennis Channel UHD</display-name>
     <display-name lang="es">Tennis Channel 720</display-name>
     <display-name lang="es">Tennis Channel 1080</display-name>
-    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Tennis%20Channel.png" />
   </channel>
   <channel id="MyPadel TV">
     <display-name lang="es">MyPadel TV</display-name>
@@ -4706,7 +4791,6 @@
     <display-name lang="es">MyPadel TV UHD</display-name>
     <display-name lang="es">MyPadel TV 720</display-name>
     <display-name lang="es">MyPadel TV 1080</display-name>
-    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/MyPadel%20TV.png" />
   </channel>
   <channel id="NatureTime">
     <display-name lang="es">NatureTime</display-name>
@@ -4717,7 +4801,6 @@
     <display-name lang="es">NatureTime UHD</display-name>
     <display-name lang="es">NatureTime 720</display-name>
     <display-name lang="es">NatureTime 1080</display-name>
-    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/NatureTime.png" />
   </channel>
   <channel id="Toon Goggles">
     <display-name lang="es">Toon Goggles</display-name>
@@ -4728,7 +4811,6 @@
     <display-name lang="es">Toon Goggles UHD</display-name>
     <display-name lang="es">Toon Goggles 720</display-name>
     <display-name lang="es">Toon Goggles 1080</display-name>
-    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Toon%20Goggles.png" />
   </channel>
   <channel id="Gametoon">
     <display-name lang="es">Gametoon</display-name>
@@ -4739,7 +4821,6 @@
     <display-name lang="es">Gametoon UHD</display-name>
     <display-name lang="es">Gametoon 720</display-name>
     <display-name lang="es">Gametoon 1080</display-name>
-    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Gametoon.png" />
   </channel>
   <channel id="Vivir con gatos">
     <display-name lang="es">Vivir con gatos</display-name>
@@ -4750,7 +4831,6 @@
     <display-name lang="es">Vivir con gatos UHD</display-name>
     <display-name lang="es">Vivir con gatos 720</display-name>
     <display-name lang="es">Vivir con gatos 1080</display-name>
-    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Vivir%20con%20gatos.png" />
   </channel>
   <channel id="Vivir con perros">
     <display-name lang="es">Vivir con perros</display-name>
@@ -4761,7 +4841,6 @@
     <display-name lang="es">Vivir con perros UHD</display-name>
     <display-name lang="es">Vivir con perros 720</display-name>
     <display-name lang="es">Vivir con perros 1080</display-name>
-    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Vivir%20con%20perros.png" />
   </channel>
   <channel id="Anime Visión">
     <display-name lang="es">Anime Visión</display-name>
@@ -4772,7 +4851,6 @@
     <display-name lang="es">Anime Visión UHD</display-name>
     <display-name lang="es">Anime Visión 720</display-name>
     <display-name lang="es">Anime Visión 1080</display-name>
-    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Anime%20Visi%C3%B3n.png" />
   </channel>
   <channel id="Anime Visión Classics">
     <display-name lang="es">Anime Visión Classics</display-name>
@@ -4783,7 +4861,6 @@
     <display-name lang="es">Anime Visión Classics UHD</display-name>
     <display-name lang="es">Anime Visión Classics 720</display-name>
     <display-name lang="es">Anime Visión Classics 1080</display-name>
-    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Anime%20Visi%C3%B3n%20Classics.png" />
   </channel>
   <channel id="Flamenco Auditorio">
     <display-name lang="es">Flamenco Auditorio</display-name>
@@ -4794,7 +4871,6 @@
     <display-name lang="es">Flamenco Auditorio UHD</display-name>
     <display-name lang="es">Flamenco Auditorio 720</display-name>
     <display-name lang="es">Flamenco Auditorio 1080</display-name>
-    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Flamenco%20Auditorio.png" />
   </channel>
   <channel id="Sangre Fría">
     <display-name lang="es">Sangre Fría</display-name>
@@ -4805,7 +4881,6 @@
     <display-name lang="es">Sangre Fría UHD</display-name>
     <display-name lang="es">Sangre Fría 720</display-name>
     <display-name lang="es">Sangre Fría 1080</display-name>
-    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Sangre%20Fr%C3%ADa.png" />
   </channel>
   <channel id="Love the Planet">
     <display-name lang="es">Love the Planet</display-name>
@@ -4816,7 +4891,6 @@
     <display-name lang="es">Love the Planet UHD</display-name>
     <display-name lang="es">Love the Planet 720</display-name>
     <display-name lang="es">Love the Planet 1080</display-name>
-    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Love%20the%20Planet.png" />
   </channel>
   <channel id="Love Wine">
     <display-name lang="es">Love Wine</display-name>
@@ -4827,7 +4901,6 @@
     <display-name lang="es">Love Wine UHD</display-name>
     <display-name lang="es">Love Wine 720</display-name>
     <display-name lang="es">Love Wine 1080</display-name>
-    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Love%20Wine.png" />
   </channel>
   <channel id="Historia y Vida">
     <display-name lang="es">Historia y Vida</display-name>
@@ -4838,7 +4911,6 @@
     <display-name lang="es">Historia y Vida UHD</display-name>
     <display-name lang="es">Historia y Vida 720</display-name>
     <display-name lang="es">Historia y Vida 1080</display-name>
-    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Historia%20y%20Vida.png" />
   </channel>
   <channel id="Moto ADV">
     <display-name lang="es">Moto ADV</display-name>
@@ -4849,7 +4921,6 @@
     <display-name lang="es">Moto ADV UHD</display-name>
     <display-name lang="es">Moto ADV 720</display-name>
     <display-name lang="es">Moto ADV 1080</display-name>
-    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Moto%20ADV.png" />
   </channel>
   <channel id="8madrid TV">
     <display-name lang="es">8madrid TV</display-name>
@@ -5324,6 +5395,369 @@
     <display-name lang="es">MTV Classic 1080</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/MTV%20Classic.png" />
   </channel>
+  <channel id="FR | ARTE">
+    <display-name lang="es">FR | ARTE</display-name>
+    <display-name lang="es">FR | ARTE.TV</display-name>
+    <display-name lang="es">FR | ARTE SD</display-name>
+    <display-name lang="es">FR | ARTE HD</display-name>
+    <display-name lang="es">FR | ARTE FHD</display-name>
+    <display-name lang="es">FR | ARTE UHD</display-name>
+    <display-name lang="es">FR | ARTE 720</display-name>
+    <display-name lang="es">FR | ARTE 1080</display-name>
+    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/ARTE.png" />
+  </channel>
+  <channel id="FR | FRANCE 24">
+    <display-name lang="es">FR | FRANCE 24</display-name>
+    <display-name lang="es">FR | FRANCE 24.TV</display-name>
+    <display-name lang="es">FR | FRANCE 24 SD</display-name>
+    <display-name lang="es">FR | FRANCE 24 HD</display-name>
+    <display-name lang="es">FR | FRANCE 24 FHD</display-name>
+    <display-name lang="es">FR | FRANCE 24 UHD</display-name>
+    <display-name lang="es">FR | FRANCE 24 720</display-name>
+    <display-name lang="es">FR | FRANCE 24 1080</display-name>
+    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/FRANCE%2024.png" />
+  </channel>
+  <channel id="FR | I24 NEWS">
+    <display-name lang="es">FR | I24 NEWS</display-name>
+    <display-name lang="es">FR | I24 NEWS.TV</display-name>
+    <display-name lang="es">FR | I24 NEWS SD</display-name>
+    <display-name lang="es">FR | I24 NEWS HD</display-name>
+    <display-name lang="es">FR | I24 NEWS FHD</display-name>
+    <display-name lang="es">FR | I24 NEWS UHD</display-name>
+    <display-name lang="es">FR | I24 NEWS 720</display-name>
+    <display-name lang="es">FR | I24 NEWS 1080</display-name>
+    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/I24%20NEWS.png" />
+  </channel>
+  <channel id="FR | MTV">
+    <display-name lang="es">FR | MTV</display-name>
+    <display-name lang="es">FR | MTV.TV</display-name>
+    <display-name lang="es">FR | MTV SD</display-name>
+    <display-name lang="es">FR | MTV HD</display-name>
+    <display-name lang="es">FR | MTV FHD</display-name>
+    <display-name lang="es">FR | MTV UHD</display-name>
+    <display-name lang="es">FR | MTV 720</display-name>
+    <display-name lang="es">FR | MTV 1080</display-name>
+    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/MTV.png" />
+  </channel>
+  <channel id="FR | INFOSPORT+">
+    <display-name lang="es">FR | INFOSPORT+</display-name>
+    <display-name lang="es">FR | INFOSPORT+.TV</display-name>
+    <display-name lang="es">FR | INFOSPORT+ SD</display-name>
+    <display-name lang="es">FR | INFOSPORT+ HD</display-name>
+    <display-name lang="es">FR | INFOSPORT+ FHD</display-name>
+    <display-name lang="es">FR | INFOSPORT+ UHD</display-name>
+    <display-name lang="es">FR | INFOSPORT+ 720</display-name>
+    <display-name lang="es">FR | INFOSPORT+ 1080</display-name>
+    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/INFOSPORT%2B.png" />
+  </channel>
+  <channel id="FR | L`ÉQUIPE">
+    <display-name lang="es">FR | L`ÉQUIPE</display-name>
+    <display-name lang="es">FR | L`ÉQUIPE.TV</display-name>
+    <display-name lang="es">FR | L`ÉQUIPE SD</display-name>
+    <display-name lang="es">FR | L`ÉQUIPE HD</display-name>
+    <display-name lang="es">FR | L`ÉQUIPE FHD</display-name>
+    <display-name lang="es">FR | L`ÉQUIPE UHD</display-name>
+    <display-name lang="es">FR | L`ÉQUIPE 720</display-name>
+    <display-name lang="es">FR | L`ÉQUIPE 1080</display-name>
+    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/L%60%C3%89QUIPE.png" />
+  </channel>
+  <channel id="FR | beIN SPORTS 1">
+    <display-name lang="es">FR | beIN SPORTS 1</display-name>
+    <display-name lang="es">FR | beIN SPORTS 1.TV</display-name>
+    <display-name lang="es">FR | beIN SPORTS 1 SD</display-name>
+    <display-name lang="es">FR | beIN SPORTS 1 HD</display-name>
+    <display-name lang="es">FR | beIN SPORTS 1 FHD</display-name>
+    <display-name lang="es">FR | beIN SPORTS 1 UHD</display-name>
+    <display-name lang="es">FR | beIN SPORTS 1 720</display-name>
+    <display-name lang="es">FR | beIN SPORTS 1 1080</display-name>
+    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/beIN%20SPORTS%201.png" />
+  </channel>
+  <channel id="FR | beIN SPORTS 2">
+    <display-name lang="es">FR | beIN SPORTS 2</display-name>
+    <display-name lang="es">FR | beIN SPORTS 2.TV</display-name>
+    <display-name lang="es">FR | beIN SPORTS 2 SD</display-name>
+    <display-name lang="es">FR | beIN SPORTS 2 HD</display-name>
+    <display-name lang="es">FR | beIN SPORTS 2 FHD</display-name>
+    <display-name lang="es">FR | beIN SPORTS 2 UHD</display-name>
+    <display-name lang="es">FR | beIN SPORTS 2 720</display-name>
+    <display-name lang="es">FR | beIN SPORTS 2 1080</display-name>
+    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/beIN%20SPORTS%202.png" />
+  </channel>
+  <channel id="FR | beIN SPORTS 3">
+    <display-name lang="es">FR | beIN SPORTS 3</display-name>
+    <display-name lang="es">FR | beIN SPORTS 3.TV</display-name>
+    <display-name lang="es">FR | beIN SPORTS 3 SD</display-name>
+    <display-name lang="es">FR | beIN SPORTS 3 HD</display-name>
+    <display-name lang="es">FR | beIN SPORTS 3 FHD</display-name>
+    <display-name lang="es">FR | beIN SPORTS 3 UHD</display-name>
+    <display-name lang="es">FR | beIN SPORTS 3 720</display-name>
+    <display-name lang="es">FR | beIN SPORTS 3 1080</display-name>
+    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/beIN%20SPORTS%203.png" />
+  </channel>
+  <channel id="FR | beIN SPORTS MAX 4">
+    <display-name lang="es">FR | beIN SPORTS MAX 4</display-name>
+    <display-name lang="es">FR | beIN SPORTS MAX 4.TV</display-name>
+    <display-name lang="es">FR | beIN SPORTS MAX 4 SD</display-name>
+    <display-name lang="es">FR | beIN SPORTS MAX 4 HD</display-name>
+    <display-name lang="es">FR | beIN SPORTS MAX 4 FHD</display-name>
+    <display-name lang="es">FR | beIN SPORTS MAX 4 UHD</display-name>
+    <display-name lang="es">FR | beIN SPORTS MAX 4 720</display-name>
+    <display-name lang="es">FR | beIN SPORTS MAX 4 1080</display-name>
+    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/beIN%20SPORTS%20MAX%204.png" />
+  </channel>
+  <channel id="FR | beIN SPORTS MAX 5">
+    <display-name lang="es">FR | beIN SPORTS MAX 5</display-name>
+    <display-name lang="es">FR | beIN SPORTS MAX 5.TV</display-name>
+    <display-name lang="es">FR | beIN SPORTS MAX 5 SD</display-name>
+    <display-name lang="es">FR | beIN SPORTS MAX 5 HD</display-name>
+    <display-name lang="es">FR | beIN SPORTS MAX 5 FHD</display-name>
+    <display-name lang="es">FR | beIN SPORTS MAX 5 UHD</display-name>
+    <display-name lang="es">FR | beIN SPORTS MAX 5 720</display-name>
+    <display-name lang="es">FR | beIN SPORTS MAX 5 1080</display-name>
+    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/beIN%20SPORTS%20MAX%205.png" />
+  </channel>
+  <channel id="FR | beIN SPORTS MAX 6">
+    <display-name lang="es">FR | beIN SPORTS MAX 6</display-name>
+    <display-name lang="es">FR | beIN SPORTS MAX 6.TV</display-name>
+    <display-name lang="es">FR | beIN SPORTS MAX 6 SD</display-name>
+    <display-name lang="es">FR | beIN SPORTS MAX 6 HD</display-name>
+    <display-name lang="es">FR | beIN SPORTS MAX 6 FHD</display-name>
+    <display-name lang="es">FR | beIN SPORTS MAX 6 UHD</display-name>
+    <display-name lang="es">FR | beIN SPORTS MAX 6 720</display-name>
+    <display-name lang="es">FR | beIN SPORTS MAX 6 1080</display-name>
+    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/beIN%20SPORTS%20MAX%206.png" />
+  </channel>
+  <channel id="FR | beIN SPORTS MAX 7">
+    <display-name lang="es">FR | beIN SPORTS MAX 7</display-name>
+    <display-name lang="es">FR | beIN SPORTS MAX 7.TV</display-name>
+    <display-name lang="es">FR | beIN SPORTS MAX 7 SD</display-name>
+    <display-name lang="es">FR | beIN SPORTS MAX 7 HD</display-name>
+    <display-name lang="es">FR | beIN SPORTS MAX 7 FHD</display-name>
+    <display-name lang="es">FR | beIN SPORTS MAX 7 UHD</display-name>
+    <display-name lang="es">FR | beIN SPORTS MAX 7 720</display-name>
+    <display-name lang="es">FR | beIN SPORTS MAX 7 1080</display-name>
+    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/beIN%20SPORTS%20MAX%207.png" />
+  </channel>
+  <channel id="FR | beIN SPORTS MAX 8">
+    <display-name lang="es">FR | beIN SPORTS MAX 8</display-name>
+    <display-name lang="es">FR | beIN SPORTS MAX 8.TV</display-name>
+    <display-name lang="es">FR | beIN SPORTS MAX 8 SD</display-name>
+    <display-name lang="es">FR | beIN SPORTS MAX 8 HD</display-name>
+    <display-name lang="es">FR | beIN SPORTS MAX 8 FHD</display-name>
+    <display-name lang="es">FR | beIN SPORTS MAX 8 UHD</display-name>
+    <display-name lang="es">FR | beIN SPORTS MAX 8 720</display-name>
+    <display-name lang="es">FR | beIN SPORTS MAX 8 1080</display-name>
+    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/beIN%20SPORTS%20MAX%208.png" />
+  </channel>
+  <channel id="FR | beIN SPORTS MAX 9">
+    <display-name lang="es">FR | beIN SPORTS MAX 9</display-name>
+    <display-name lang="es">FR | beIN SPORTS MAX 9.TV</display-name>
+    <display-name lang="es">FR | beIN SPORTS MAX 9 SD</display-name>
+    <display-name lang="es">FR | beIN SPORTS MAX 9 HD</display-name>
+    <display-name lang="es">FR | beIN SPORTS MAX 9 FHD</display-name>
+    <display-name lang="es">FR | beIN SPORTS MAX 9 UHD</display-name>
+    <display-name lang="es">FR | beIN SPORTS MAX 9 720</display-name>
+    <display-name lang="es">FR | beIN SPORTS MAX 9 1080</display-name>
+    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/beIN%20SPORTS%20MAX%209.png" />
+  </channel>
+  <channel id="FR | beIN SPORTS MAX 10">
+    <display-name lang="es">FR | beIN SPORTS MAX 10</display-name>
+    <display-name lang="es">FR | beIN SPORTS MAX 10.TV</display-name>
+    <display-name lang="es">FR | beIN SPORTS MAX 10 SD</display-name>
+    <display-name lang="es">FR | beIN SPORTS MAX 10 HD</display-name>
+    <display-name lang="es">FR | beIN SPORTS MAX 10 FHD</display-name>
+    <display-name lang="es">FR | beIN SPORTS MAX 10 UHD</display-name>
+    <display-name lang="es">FR | beIN SPORTS MAX 10 720</display-name>
+    <display-name lang="es">FR | beIN SPORTS MAX 10 1080</display-name>
+    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/beIN%20SPORTS%20MAX%2010.png" />
+  </channel>
+  <channel id="FR | CANAL+ Sport">
+    <display-name lang="es">FR | CANAL+ Sport</display-name>
+    <display-name lang="es">FR | CANAL+ Sport.TV</display-name>
+    <display-name lang="es">FR | CANAL+ Sport SD</display-name>
+    <display-name lang="es">FR | CANAL+ Sport HD</display-name>
+    <display-name lang="es">FR | CANAL+ Sport FHD</display-name>
+    <display-name lang="es">FR | CANAL+ Sport UHD</display-name>
+    <display-name lang="es">FR | CANAL+ Sport 720</display-name>
+    <display-name lang="es">FR | CANAL+ Sport 1080</display-name>
+    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/CANAL%2B%20Sport.png" />
+  </channel>
+  <channel id="FR | CANAL+ Premier League">
+    <display-name lang="es">FR | CANAL+ Premier League</display-name>
+    <display-name lang="es">FR | CANAL+ Premier League.TV</display-name>
+    <display-name lang="es">FR | CANAL+ Premier League SD</display-name>
+    <display-name lang="es">FR | CANAL+ Premier League HD</display-name>
+    <display-name lang="es">FR | CANAL+ Premier League FHD</display-name>
+    <display-name lang="es">FR | CANAL+ Premier League UHD</display-name>
+    <display-name lang="es">FR | CANAL+ Premier League 720</display-name>
+    <display-name lang="es">FR | CANAL+ Premier League 1080</display-name>
+    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/CANAL%2B%20Premier%20League.png" />
+  </channel>
+  <channel id="FR | DAZN 1">
+    <display-name lang="es">FR | DAZN 1</display-name>
+    <display-name lang="es">FR | DAZN 1.TV</display-name>
+    <display-name lang="es">FR | DAZN 1 SD</display-name>
+    <display-name lang="es">FR | DAZN 1 HD</display-name>
+    <display-name lang="es">FR | DAZN 1 FHD</display-name>
+    <display-name lang="es">FR | DAZN 1 UHD</display-name>
+    <display-name lang="es">FR | DAZN 1 720</display-name>
+    <display-name lang="es">FR | DAZN 1 1080</display-name>
+    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%201.png" />
+  </channel>
+  <channel id="FR | DAZN 2">
+    <display-name lang="es">FR | DAZN 2</display-name>
+    <display-name lang="es">FR | DAZN 2.TV</display-name>
+    <display-name lang="es">FR | DAZN 2 SD</display-name>
+    <display-name lang="es">FR | DAZN 2 HD</display-name>
+    <display-name lang="es">FR | DAZN 2 FHD</display-name>
+    <display-name lang="es">FR | DAZN 2 UHD</display-name>
+    <display-name lang="es">FR | DAZN 2 720</display-name>
+    <display-name lang="es">FR | DAZN 2 1080</display-name>
+    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%202.png" />
+  </channel>
+  <channel id="FR | DAZN 3">
+    <display-name lang="es">FR | DAZN 3</display-name>
+    <display-name lang="es">FR | DAZN 3.TV</display-name>
+    <display-name lang="es">FR | DAZN 3 SD</display-name>
+    <display-name lang="es">FR | DAZN 3 HD</display-name>
+    <display-name lang="es">FR | DAZN 3 FHD</display-name>
+    <display-name lang="es">FR | DAZN 3 UHD</display-name>
+    <display-name lang="es">FR | DAZN 3 720</display-name>
+    <display-name lang="es">FR | DAZN 3 1080</display-name>
+    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%203.png" />
+  </channel>
+  <channel id="FR | DAZN 4">
+    <display-name lang="es">FR | DAZN 4</display-name>
+    <display-name lang="es">FR | DAZN 4.TV</display-name>
+    <display-name lang="es">FR | DAZN 4 SD</display-name>
+    <display-name lang="es">FR | DAZN 4 HD</display-name>
+    <display-name lang="es">FR | DAZN 4 FHD</display-name>
+    <display-name lang="es">FR | DAZN 4 UHD</display-name>
+    <display-name lang="es">FR | DAZN 4 720</display-name>
+    <display-name lang="es">FR | DAZN 4 1080</display-name>
+    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%204.png" />
+  </channel>
+  <channel id="FR | DAZN 5">
+    <display-name lang="es">FR | DAZN 5</display-name>
+    <display-name lang="es">FR | DAZN 5.TV</display-name>
+    <display-name lang="es">FR | DAZN 5 SD</display-name>
+    <display-name lang="es">FR | DAZN 5 HD</display-name>
+    <display-name lang="es">FR | DAZN 5 FHD</display-name>
+    <display-name lang="es">FR | DAZN 5 UHD</display-name>
+    <display-name lang="es">FR | DAZN 5 720</display-name>
+    <display-name lang="es">FR | DAZN 5 1080</display-name>
+    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%205.png" />
+  </channel>
+  <channel id="FR | Eurosport 1">
+    <display-name lang="es">FR | Eurosport 1</display-name>
+    <display-name lang="es">FR | Eurosport 1.TV</display-name>
+    <display-name lang="es">FR | Eurosport 1 SD</display-name>
+    <display-name lang="es">FR | Eurosport 1 HD</display-name>
+    <display-name lang="es">FR | Eurosport 1 FHD</display-name>
+    <display-name lang="es">FR | Eurosport 1 UHD</display-name>
+    <display-name lang="es">FR | Eurosport 1 720</display-name>
+    <display-name lang="es">FR | Eurosport 1 1080</display-name>
+    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Eurosport%201.png" />
+  </channel>
+  <channel id="FR | Eurosport 2">
+    <display-name lang="es">FR | Eurosport 2</display-name>
+    <display-name lang="es">FR | Eurosport 2.TV</display-name>
+    <display-name lang="es">FR | Eurosport 2 SD</display-name>
+    <display-name lang="es">FR | Eurosport 2 HD</display-name>
+    <display-name lang="es">FR | Eurosport 2 FHD</display-name>
+    <display-name lang="es">FR | Eurosport 2 UHD</display-name>
+    <display-name lang="es">FR | Eurosport 2 720</display-name>
+    <display-name lang="es">FR | Eurosport 2 1080</display-name>
+    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Eurosport%202.png" />
+  </channel>
+  <channel id="FR | Eurosport 360 1">
+    <display-name lang="es">FR | Eurosport 360 1</display-name>
+    <display-name lang="es">FR | Eurosport 360 1.TV</display-name>
+    <display-name lang="es">FR | Eurosport 360 1 SD</display-name>
+    <display-name lang="es">FR | Eurosport 360 1 HD</display-name>
+    <display-name lang="es">FR | Eurosport 360 1 FHD</display-name>
+    <display-name lang="es">FR | Eurosport 360 1 UHD</display-name>
+    <display-name lang="es">FR | Eurosport 360 1 720</display-name>
+    <display-name lang="es">FR | Eurosport 360 1 1080</display-name>
+    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Eurosport%20360%201.png" />
+  </channel>
+  <channel id="FR | Eurosport 360 2">
+    <display-name lang="es">FR | Eurosport 360 2</display-name>
+    <display-name lang="es">FR | Eurosport 360 2.TV</display-name>
+    <display-name lang="es">FR | Eurosport 360 2 SD</display-name>
+    <display-name lang="es">FR | Eurosport 360 2 HD</display-name>
+    <display-name lang="es">FR | Eurosport 360 2 FHD</display-name>
+    <display-name lang="es">FR | Eurosport 360 2 UHD</display-name>
+    <display-name lang="es">FR | Eurosport 360 2 720</display-name>
+    <display-name lang="es">FR | Eurosport 360 2 1080</display-name>
+    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Eurosport%20360%202.png" />
+  </channel>
+  <channel id="FR | Eurosport 360 3">
+    <display-name lang="es">FR | Eurosport 360 3</display-name>
+    <display-name lang="es">FR | Eurosport 360 3.TV</display-name>
+    <display-name lang="es">FR | Eurosport 360 3 SD</display-name>
+    <display-name lang="es">FR | Eurosport 360 3 HD</display-name>
+    <display-name lang="es">FR | Eurosport 360 3 FHD</display-name>
+    <display-name lang="es">FR | Eurosport 360 3 UHD</display-name>
+    <display-name lang="es">FR | Eurosport 360 3 720</display-name>
+    <display-name lang="es">FR | Eurosport 360 3 1080</display-name>
+    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Eurosport%20360%203.png" />
+  </channel>
+  <channel id="FR | Eurosport 360 4">
+    <display-name lang="es">FR | Eurosport 360 4</display-name>
+    <display-name lang="es">FR | Eurosport 360 4.TV</display-name>
+    <display-name lang="es">FR | Eurosport 360 4 SD</display-name>
+    <display-name lang="es">FR | Eurosport 360 4 HD</display-name>
+    <display-name lang="es">FR | Eurosport 360 4 FHD</display-name>
+    <display-name lang="es">FR | Eurosport 360 4 UHD</display-name>
+    <display-name lang="es">FR | Eurosport 360 4 720</display-name>
+    <display-name lang="es">FR | Eurosport 360 4 1080</display-name>
+    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Eurosport%20360%204.png" />
+  </channel>
+  <channel id="FR | Eurosport 360 5">
+    <display-name lang="es">FR | Eurosport 360 5</display-name>
+    <display-name lang="es">FR | Eurosport 360 5.TV</display-name>
+    <display-name lang="es">FR | Eurosport 360 5 SD</display-name>
+    <display-name lang="es">FR | Eurosport 360 5 HD</display-name>
+    <display-name lang="es">FR | Eurosport 360 5 FHD</display-name>
+    <display-name lang="es">FR | Eurosport 360 5 UHD</display-name>
+    <display-name lang="es">FR | Eurosport 360 5 720</display-name>
+    <display-name lang="es">FR | Eurosport 360 5 1080</display-name>
+    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Eurosport%20360%205.png" />
+  </channel>
+  <channel id="FR | Eurosport 360 6">
+    <display-name lang="es">FR | Eurosport 360 6</display-name>
+    <display-name lang="es">FR | Eurosport 360 6.TV</display-name>
+    <display-name lang="es">FR | Eurosport 360 6 SD</display-name>
+    <display-name lang="es">FR | Eurosport 360 6 HD</display-name>
+    <display-name lang="es">FR | Eurosport 360 6 FHD</display-name>
+    <display-name lang="es">FR | Eurosport 360 6 UHD</display-name>
+    <display-name lang="es">FR | Eurosport 360 6 720</display-name>
+    <display-name lang="es">FR | Eurosport 360 6 1080</display-name>
+    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Eurosport%20360%206.png" />
+  </channel>
+  <channel id="FR | Eurosport 360 7">
+    <display-name lang="es">FR | Eurosport 360 7</display-name>
+    <display-name lang="es">FR | Eurosport 360 7.TV</display-name>
+    <display-name lang="es">FR | Eurosport 360 7 SD</display-name>
+    <display-name lang="es">FR | Eurosport 360 7 HD</display-name>
+    <display-name lang="es">FR | Eurosport 360 7 FHD</display-name>
+    <display-name lang="es">FR | Eurosport 360 7 UHD</display-name>
+    <display-name lang="es">FR | Eurosport 360 7 720</display-name>
+    <display-name lang="es">FR | Eurosport 360 7 1080</display-name>
+    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Eurosport%20360%207.png" />
+  </channel>
+  <channel id="FR | Eurosport 360 8">
+    <display-name lang="es">FR | Eurosport 360 8</display-name>
+    <display-name lang="es">FR | Eurosport 360 8.TV</display-name>
+    <display-name lang="es">FR | Eurosport 360 8 SD</display-name>
+    <display-name lang="es">FR | Eurosport 360 8 HD</display-name>
+    <display-name lang="es">FR | Eurosport 360 8 FHD</display-name>
+    <display-name lang="es">FR | Eurosport 360 8 UHD</display-name>
+    <display-name lang="es">FR | Eurosport 360 8 720</display-name>
+    <display-name lang="es">FR | Eurosport 360 8 1080</display-name>
+    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Eurosport%20360%208.png" />
+  </channel>
   <channel id="Libertad Digital TV">
     <display-name lang="es">Libertad Digital TV</display-name>
     <display-name lang="es">Libertad Digital TV.TV</display-name>
@@ -5620,346 +6054,6 @@
     <display-name lang="es">PT | Sporting TV 720</display-name>
     <display-name lang="es">PT | Sporting TV 1080</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Sporting%20TV.png" />
-  </channel>
-  <channel id="FR | ARTE">
-    <display-name lang="es">FR | ARTE</display-name>
-    <display-name lang="es">FR | ARTE.TV</display-name>
-    <display-name lang="es">FR | ARTE SD</display-name>
-    <display-name lang="es">FR | ARTE HD</display-name>
-    <display-name lang="es">FR | ARTE FHD</display-name>
-    <display-name lang="es">FR | ARTE UHD</display-name>
-    <display-name lang="es">FR | ARTE 720</display-name>
-    <display-name lang="es">FR | ARTE 1080</display-name>
-    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/ARTE.png" />
-  </channel>
-  <channel id="FR | FRANCE 24">
-    <display-name lang="es">FR | FRANCE 24</display-name>
-    <display-name lang="es">FR | FRANCE 24.TV</display-name>
-    <display-name lang="es">FR | FRANCE 24 SD</display-name>
-    <display-name lang="es">FR | FRANCE 24 HD</display-name>
-    <display-name lang="es">FR | FRANCE 24 FHD</display-name>
-    <display-name lang="es">FR | FRANCE 24 UHD</display-name>
-    <display-name lang="es">FR | FRANCE 24 720</display-name>
-    <display-name lang="es">FR | FRANCE 24 1080</display-name>
-    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/FRANCE%2024.png" />
-  </channel>
-  <channel id="FR | I24 NEWS">
-    <display-name lang="es">FR | I24 NEWS</display-name>
-    <display-name lang="es">FR | I24 NEWS.TV</display-name>
-    <display-name lang="es">FR | I24 NEWS SD</display-name>
-    <display-name lang="es">FR | I24 NEWS HD</display-name>
-    <display-name lang="es">FR | I24 NEWS FHD</display-name>
-    <display-name lang="es">FR | I24 NEWS UHD</display-name>
-    <display-name lang="es">FR | I24 NEWS 720</display-name>
-    <display-name lang="es">FR | I24 NEWS 1080</display-name>
-    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/I24%20NEWS.png" />
-  </channel>
-  <channel id="FR | MTV">
-    <display-name lang="es">FR | MTV</display-name>
-    <display-name lang="es">FR | MTV.TV</display-name>
-    <display-name lang="es">FR | MTV SD</display-name>
-    <display-name lang="es">FR | MTV HD</display-name>
-    <display-name lang="es">FR | MTV FHD</display-name>
-    <display-name lang="es">FR | MTV UHD</display-name>
-    <display-name lang="es">FR | MTV 720</display-name>
-    <display-name lang="es">FR | MTV 1080</display-name>
-    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/MTV.png" />
-  </channel>
-  <channel id="FR | INFOSPORT+">
-    <display-name lang="es">FR | INFOSPORT+</display-name>
-    <display-name lang="es">FR | INFOSPORT+.TV</display-name>
-    <display-name lang="es">FR | INFOSPORT+ SD</display-name>
-    <display-name lang="es">FR | INFOSPORT+ HD</display-name>
-    <display-name lang="es">FR | INFOSPORT+ FHD</display-name>
-    <display-name lang="es">FR | INFOSPORT+ UHD</display-name>
-    <display-name lang="es">FR | INFOSPORT+ 720</display-name>
-    <display-name lang="es">FR | INFOSPORT+ 1080</display-name>
-    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/INFOSPORT%2B.png" />
-  </channel>
-  <channel id="FR | L`ÉQUIPE">
-    <display-name lang="es">FR | L`ÉQUIPE</display-name>
-    <display-name lang="es">FR | L`ÉQUIPE.TV</display-name>
-    <display-name lang="es">FR | L`ÉQUIPE SD</display-name>
-    <display-name lang="es">FR | L`ÉQUIPE HD</display-name>
-    <display-name lang="es">FR | L`ÉQUIPE FHD</display-name>
-    <display-name lang="es">FR | L`ÉQUIPE UHD</display-name>
-    <display-name lang="es">FR | L`ÉQUIPE 720</display-name>
-    <display-name lang="es">FR | L`ÉQUIPE 1080</display-name>
-    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/L%60%C3%89QUIPE.png" />
-  </channel>
-  <channel id="FR | beIN SPORTS 1">
-    <display-name lang="es">FR | beIN SPORTS 1</display-name>
-    <display-name lang="es">FR | beIN SPORTS 1.TV</display-name>
-    <display-name lang="es">FR | beIN SPORTS 1 SD</display-name>
-    <display-name lang="es">FR | beIN SPORTS 1 HD</display-name>
-    <display-name lang="es">FR | beIN SPORTS 1 FHD</display-name>
-    <display-name lang="es">FR | beIN SPORTS 1 UHD</display-name>
-    <display-name lang="es">FR | beIN SPORTS 1 720</display-name>
-    <display-name lang="es">FR | beIN SPORTS 1 1080</display-name>
-    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/beIN%20SPORTS%201.png" />
-  </channel>
-  <channel id="FR | beIN SPORTS 2">
-    <display-name lang="es">FR | beIN SPORTS 2</display-name>
-    <display-name lang="es">FR | beIN SPORTS 2.TV</display-name>
-    <display-name lang="es">FR | beIN SPORTS 2 SD</display-name>
-    <display-name lang="es">FR | beIN SPORTS 2 HD</display-name>
-    <display-name lang="es">FR | beIN SPORTS 2 FHD</display-name>
-    <display-name lang="es">FR | beIN SPORTS 2 UHD</display-name>
-    <display-name lang="es">FR | beIN SPORTS 2 720</display-name>
-    <display-name lang="es">FR | beIN SPORTS 2 1080</display-name>
-    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/beIN%20SPORTS%202.png" />
-  </channel>
-  <channel id="FR | beIN SPORTS 3">
-    <display-name lang="es">FR | beIN SPORTS 3</display-name>
-    <display-name lang="es">FR | beIN SPORTS 3.TV</display-name>
-    <display-name lang="es">FR | beIN SPORTS 3 SD</display-name>
-    <display-name lang="es">FR | beIN SPORTS 3 HD</display-name>
-    <display-name lang="es">FR | beIN SPORTS 3 FHD</display-name>
-    <display-name lang="es">FR | beIN SPORTS 3 UHD</display-name>
-    <display-name lang="es">FR | beIN SPORTS 3 720</display-name>
-    <display-name lang="es">FR | beIN SPORTS 3 1080</display-name>
-    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/beIN%20SPORTS%203.png" />
-  </channel>
-  <channel id="FR | beIN SPORTS MAX 4">
-    <display-name lang="es">FR | beIN SPORTS MAX 4</display-name>
-    <display-name lang="es">FR | beIN SPORTS MAX 4.TV</display-name>
-    <display-name lang="es">FR | beIN SPORTS MAX 4 SD</display-name>
-    <display-name lang="es">FR | beIN SPORTS MAX 4 HD</display-name>
-    <display-name lang="es">FR | beIN SPORTS MAX 4 FHD</display-name>
-    <display-name lang="es">FR | beIN SPORTS MAX 4 UHD</display-name>
-    <display-name lang="es">FR | beIN SPORTS MAX 4 720</display-name>
-    <display-name lang="es">FR | beIN SPORTS MAX 4 1080</display-name>
-    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/beIN%20SPORTS%20MAX%204.png" />
-  </channel>
-  <channel id="FR | beIN SPORTS MAX 5">
-    <display-name lang="es">FR | beIN SPORTS MAX 5</display-name>
-    <display-name lang="es">FR | beIN SPORTS MAX 5.TV</display-name>
-    <display-name lang="es">FR | beIN SPORTS MAX 5 SD</display-name>
-    <display-name lang="es">FR | beIN SPORTS MAX 5 HD</display-name>
-    <display-name lang="es">FR | beIN SPORTS MAX 5 FHD</display-name>
-    <display-name lang="es">FR | beIN SPORTS MAX 5 UHD</display-name>
-    <display-name lang="es">FR | beIN SPORTS MAX 5 720</display-name>
-    <display-name lang="es">FR | beIN SPORTS MAX 5 1080</display-name>
-  </channel>
-  <channel id="FR | beIN SPORTS MAX 6">
-    <display-name lang="es">FR | beIN SPORTS MAX 6</display-name>
-    <display-name lang="es">FR | beIN SPORTS MAX 6.TV</display-name>
-    <display-name lang="es">FR | beIN SPORTS MAX 6 SD</display-name>
-    <display-name lang="es">FR | beIN SPORTS MAX 6 HD</display-name>
-    <display-name lang="es">FR | beIN SPORTS MAX 6 FHD</display-name>
-    <display-name lang="es">FR | beIN SPORTS MAX 6 UHD</display-name>
-    <display-name lang="es">FR | beIN SPORTS MAX 6 720</display-name>
-    <display-name lang="es">FR | beIN SPORTS MAX 6 1080</display-name>
-  </channel>
-  <channel id="FR | beIN SPORTS MAX 7">
-    <display-name lang="es">FR | beIN SPORTS MAX 7</display-name>
-    <display-name lang="es">FR | beIN SPORTS MAX 7.TV</display-name>
-    <display-name lang="es">FR | beIN SPORTS MAX 7 SD</display-name>
-    <display-name lang="es">FR | beIN SPORTS MAX 7 HD</display-name>
-    <display-name lang="es">FR | beIN SPORTS MAX 7 FHD</display-name>
-    <display-name lang="es">FR | beIN SPORTS MAX 7 UHD</display-name>
-    <display-name lang="es">FR | beIN SPORTS MAX 7 720</display-name>
-    <display-name lang="es">FR | beIN SPORTS MAX 7 1080</display-name>
-  </channel>
-  <channel id="FR | beIN SPORTS MAX 8">
-    <display-name lang="es">FR | beIN SPORTS MAX 8</display-name>
-    <display-name lang="es">FR | beIN SPORTS MAX 8.TV</display-name>
-    <display-name lang="es">FR | beIN SPORTS MAX 8 SD</display-name>
-    <display-name lang="es">FR | beIN SPORTS MAX 8 HD</display-name>
-    <display-name lang="es">FR | beIN SPORTS MAX 8 FHD</display-name>
-    <display-name lang="es">FR | beIN SPORTS MAX 8 UHD</display-name>
-    <display-name lang="es">FR | beIN SPORTS MAX 8 720</display-name>
-    <display-name lang="es">FR | beIN SPORTS MAX 8 1080</display-name>
-  </channel>
-  <channel id="FR | beIN SPORTS MAX 9">
-    <display-name lang="es">FR | beIN SPORTS MAX 9</display-name>
-    <display-name lang="es">FR | beIN SPORTS MAX 9.TV</display-name>
-    <display-name lang="es">FR | beIN SPORTS MAX 9 SD</display-name>
-    <display-name lang="es">FR | beIN SPORTS MAX 9 HD</display-name>
-    <display-name lang="es">FR | beIN SPORTS MAX 9 FHD</display-name>
-    <display-name lang="es">FR | beIN SPORTS MAX 9 UHD</display-name>
-    <display-name lang="es">FR | beIN SPORTS MAX 9 720</display-name>
-    <display-name lang="es">FR | beIN SPORTS MAX 9 1080</display-name>
-  </channel>
-  <channel id="FR | beIN SPORTS MAX 10">
-    <display-name lang="es">FR | beIN SPORTS MAX 10</display-name>
-    <display-name lang="es">FR | beIN SPORTS MAX 10.TV</display-name>
-    <display-name lang="es">FR | beIN SPORTS MAX 10 SD</display-name>
-    <display-name lang="es">FR | beIN SPORTS MAX 10 HD</display-name>
-    <display-name lang="es">FR | beIN SPORTS MAX 10 FHD</display-name>
-    <display-name lang="es">FR | beIN SPORTS MAX 10 UHD</display-name>
-    <display-name lang="es">FR | beIN SPORTS MAX 10 720</display-name>
-    <display-name lang="es">FR | beIN SPORTS MAX 10 1080</display-name>
-  </channel>
-  <channel id="FR | CANAL+ Sport">
-    <display-name lang="es">FR | CANAL+ Sport</display-name>
-    <display-name lang="es">FR | CANAL+ Sport.TV</display-name>
-    <display-name lang="es">FR | CANAL+ Sport SD</display-name>
-    <display-name lang="es">FR | CANAL+ Sport HD</display-name>
-    <display-name lang="es">FR | CANAL+ Sport FHD</display-name>
-    <display-name lang="es">FR | CANAL+ Sport UHD</display-name>
-    <display-name lang="es">FR | CANAL+ Sport 720</display-name>
-    <display-name lang="es">FR | CANAL+ Sport 1080</display-name>
-  </channel>
-  <channel id="FR | CANAL+ Premier League">
-    <display-name lang="es">FR | CANAL+ Premier League</display-name>
-    <display-name lang="es">FR | CANAL+ Premier League.TV</display-name>
-    <display-name lang="es">FR | CANAL+ Premier League SD</display-name>
-    <display-name lang="es">FR | CANAL+ Premier League HD</display-name>
-    <display-name lang="es">FR | CANAL+ Premier League FHD</display-name>
-    <display-name lang="es">FR | CANAL+ Premier League UHD</display-name>
-    <display-name lang="es">FR | CANAL+ Premier League 720</display-name>
-    <display-name lang="es">FR | CANAL+ Premier League 1080</display-name>
-  </channel>
-  <channel id="FR | DAZN 1">
-    <display-name lang="es">FR | DAZN 1</display-name>
-    <display-name lang="es">FR | DAZN 1.TV</display-name>
-    <display-name lang="es">FR | DAZN 1 SD</display-name>
-    <display-name lang="es">FR | DAZN 1 HD</display-name>
-    <display-name lang="es">FR | DAZN 1 FHD</display-name>
-    <display-name lang="es">FR | DAZN 1 UHD</display-name>
-    <display-name lang="es">FR | DAZN 1 720</display-name>
-    <display-name lang="es">FR | DAZN 1 1080</display-name>
-  </channel>
-  <channel id="FR | DAZN 2">
-    <display-name lang="es">FR | DAZN 2</display-name>
-    <display-name lang="es">FR | DAZN 2.TV</display-name>
-    <display-name lang="es">FR | DAZN 2 SD</display-name>
-    <display-name lang="es">FR | DAZN 2 HD</display-name>
-    <display-name lang="es">FR | DAZN 2 FHD</display-name>
-    <display-name lang="es">FR | DAZN 2 UHD</display-name>
-    <display-name lang="es">FR | DAZN 2 720</display-name>
-    <display-name lang="es">FR | DAZN 2 1080</display-name>
-  </channel>
-  <channel id="FR | DAZN 3">
-    <display-name lang="es">FR | DAZN 3</display-name>
-    <display-name lang="es">FR | DAZN 3.TV</display-name>
-    <display-name lang="es">FR | DAZN 3 SD</display-name>
-    <display-name lang="es">FR | DAZN 3 HD</display-name>
-    <display-name lang="es">FR | DAZN 3 FHD</display-name>
-    <display-name lang="es">FR | DAZN 3 UHD</display-name>
-    <display-name lang="es">FR | DAZN 3 720</display-name>
-    <display-name lang="es">FR | DAZN 3 1080</display-name>
-  </channel>
-  <channel id="FR | DAZN 4">
-    <display-name lang="es">FR | DAZN 4</display-name>
-    <display-name lang="es">FR | DAZN 4.TV</display-name>
-    <display-name lang="es">FR | DAZN 4 SD</display-name>
-    <display-name lang="es">FR | DAZN 4 HD</display-name>
-    <display-name lang="es">FR | DAZN 4 FHD</display-name>
-    <display-name lang="es">FR | DAZN 4 UHD</display-name>
-    <display-name lang="es">FR | DAZN 4 720</display-name>
-    <display-name lang="es">FR | DAZN 4 1080</display-name>
-  </channel>
-  <channel id="FR | DAZN 5">
-    <display-name lang="es">FR | DAZN 5</display-name>
-    <display-name lang="es">FR | DAZN 5.TV</display-name>
-    <display-name lang="es">FR | DAZN 5 SD</display-name>
-    <display-name lang="es">FR | DAZN 5 HD</display-name>
-    <display-name lang="es">FR | DAZN 5 FHD</display-name>
-    <display-name lang="es">FR | DAZN 5 UHD</display-name>
-    <display-name lang="es">FR | DAZN 5 720</display-name>
-    <display-name lang="es">FR | DAZN 5 1080</display-name>
-  </channel>
-  <channel id="FR | Eurosport 1">
-    <display-name lang="es">FR | Eurosport 1</display-name>
-    <display-name lang="es">FR | Eurosport 1.TV</display-name>
-    <display-name lang="es">FR | Eurosport 1 SD</display-name>
-    <display-name lang="es">FR | Eurosport 1 HD</display-name>
-    <display-name lang="es">FR | Eurosport 1 FHD</display-name>
-    <display-name lang="es">FR | Eurosport 1 UHD</display-name>
-    <display-name lang="es">FR | Eurosport 1 720</display-name>
-    <display-name lang="es">FR | Eurosport 1 1080</display-name>
-  </channel>
-  <channel id="FR | Eurosport 2">
-    <display-name lang="es">FR | Eurosport 2</display-name>
-    <display-name lang="es">FR | Eurosport 2.TV</display-name>
-    <display-name lang="es">FR | Eurosport 2 SD</display-name>
-    <display-name lang="es">FR | Eurosport 2 HD</display-name>
-    <display-name lang="es">FR | Eurosport 2 FHD</display-name>
-    <display-name lang="es">FR | Eurosport 2 UHD</display-name>
-    <display-name lang="es">FR | Eurosport 2 720</display-name>
-    <display-name lang="es">FR | Eurosport 2 1080</display-name>
-  </channel>
-  <channel id="FR | Eurosport 360 1">
-    <display-name lang="es">FR | Eurosport 360 1</display-name>
-    <display-name lang="es">FR | Eurosport 360 1.TV</display-name>
-    <display-name lang="es">FR | Eurosport 360 1 SD</display-name>
-    <display-name lang="es">FR | Eurosport 360 1 HD</display-name>
-    <display-name lang="es">FR | Eurosport 360 1 FHD</display-name>
-    <display-name lang="es">FR | Eurosport 360 1 UHD</display-name>
-    <display-name lang="es">FR | Eurosport 360 1 720</display-name>
-    <display-name lang="es">FR | Eurosport 360 1 1080</display-name>
-  </channel>
-  <channel id="FR | Eurosport 360 2">
-    <display-name lang="es">FR | Eurosport 360 2</display-name>
-    <display-name lang="es">FR | Eurosport 360 2.TV</display-name>
-    <display-name lang="es">FR | Eurosport 360 2 SD</display-name>
-    <display-name lang="es">FR | Eurosport 360 2 HD</display-name>
-    <display-name lang="es">FR | Eurosport 360 2 FHD</display-name>
-    <display-name lang="es">FR | Eurosport 360 2 UHD</display-name>
-    <display-name lang="es">FR | Eurosport 360 2 720</display-name>
-    <display-name lang="es">FR | Eurosport 360 2 1080</display-name>
-  </channel>
-  <channel id="FR | Eurosport 360 3">
-    <display-name lang="es">FR | Eurosport 360 3</display-name>
-    <display-name lang="es">FR | Eurosport 360 3.TV</display-name>
-    <display-name lang="es">FR | Eurosport 360 3 SD</display-name>
-    <display-name lang="es">FR | Eurosport 360 3 HD</display-name>
-    <display-name lang="es">FR | Eurosport 360 3 FHD</display-name>
-    <display-name lang="es">FR | Eurosport 360 3 UHD</display-name>
-    <display-name lang="es">FR | Eurosport 360 3 720</display-name>
-    <display-name lang="es">FR | Eurosport 360 3 1080</display-name>
-  </channel>
-  <channel id="FR | Eurosport 360 4">
-    <display-name lang="es">FR | Eurosport 360 4</display-name>
-    <display-name lang="es">FR | Eurosport 360 4.TV</display-name>
-    <display-name lang="es">FR | Eurosport 360 4 SD</display-name>
-    <display-name lang="es">FR | Eurosport 360 4 HD</display-name>
-    <display-name lang="es">FR | Eurosport 360 4 FHD</display-name>
-    <display-name lang="es">FR | Eurosport 360 4 UHD</display-name>
-    <display-name lang="es">FR | Eurosport 360 4 720</display-name>
-    <display-name lang="es">FR | Eurosport 360 4 1080</display-name>
-  </channel>
-  <channel id="FR | Eurosport 360 5">
-    <display-name lang="es">FR | Eurosport 360 5</display-name>
-    <display-name lang="es">FR | Eurosport 360 5.TV</display-name>
-    <display-name lang="es">FR | Eurosport 360 5 SD</display-name>
-    <display-name lang="es">FR | Eurosport 360 5 HD</display-name>
-    <display-name lang="es">FR | Eurosport 360 5 FHD</display-name>
-    <display-name lang="es">FR | Eurosport 360 5 UHD</display-name>
-    <display-name lang="es">FR | Eurosport 360 5 720</display-name>
-    <display-name lang="es">FR | Eurosport 360 5 1080</display-name>
-  </channel>
-  <channel id="FR | Eurosport 360 6">
-    <display-name lang="es">FR | Eurosport 360 6</display-name>
-    <display-name lang="es">FR | Eurosport 360 6.TV</display-name>
-    <display-name lang="es">FR | Eurosport 360 6 SD</display-name>
-    <display-name lang="es">FR | Eurosport 360 6 HD</display-name>
-    <display-name lang="es">FR | Eurosport 360 6 FHD</display-name>
-    <display-name lang="es">FR | Eurosport 360 6 UHD</display-name>
-    <display-name lang="es">FR | Eurosport 360 6 720</display-name>
-    <display-name lang="es">FR | Eurosport 360 6 1080</display-name>
-  </channel>
-  <channel id="FR | Eurosport 360 7">
-    <display-name lang="es">FR | Eurosport 360 7</display-name>
-    <display-name lang="es">FR | Eurosport 360 7.TV</display-name>
-    <display-name lang="es">FR | Eurosport 360 7 SD</display-name>
-    <display-name lang="es">FR | Eurosport 360 7 HD</display-name>
-    <display-name lang="es">FR | Eurosport 360 7 FHD</display-name>
-    <display-name lang="es">FR | Eurosport 360 7 UHD</display-name>
-    <display-name lang="es">FR | Eurosport 360 7 720</display-name>
-    <display-name lang="es">FR | Eurosport 360 7 1080</display-name>
-  </channel>
-  <channel id="FR | Eurosport 360 8">
-    <display-name lang="es">FR | Eurosport 360 8</display-name>
-    <display-name lang="es">FR | Eurosport 360 8.TV</display-name>
-    <display-name lang="es">FR | Eurosport 360 8 SD</display-name>
-    <display-name lang="es">FR | Eurosport 360 8 HD</display-name>
-    <display-name lang="es">FR | Eurosport 360 8 FHD</display-name>
-    <display-name lang="es">FR | Eurosport 360 8 UHD</display-name>
-    <display-name lang="es">FR | Eurosport 360 8 720</display-name>
-    <display-name lang="es">FR | Eurosport 360 8 1080</display-name>
   </channel>
   <channel id="DE | TRT Türk HD">
     <display-name lang="es">DE | TRT Türk</display-name>
