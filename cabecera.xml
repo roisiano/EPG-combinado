@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tv generator-info-name="dobleM 18/11/2025 20:47" generator-info-url="t.me/EPG_dobleM">
+<tv generator-info-name="dobleM 19/11/2025 20:47" generator-info-url="t.me/EPG_dobleM">
   <channel id="La 1 HD">
     <display-name>La 1</display-name>
     <display-name>La 1.TV</display-name>
@@ -2496,6 +2496,28 @@
     <display-name>NFL Network 720</display-name>
     <display-name>NFL Network 1080</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/NFL%20Network.png" />
+  </channel>
+  <channel id="Red Bull TV">
+    <display-name>Red Bull TV</display-name>
+    <display-name>Red Bull TV.TV</display-name>
+    <display-name>Red Bull TV SD</display-name>
+    <display-name>Red Bull TV HD</display-name>
+    <display-name>Red Bull TV FHD</display-name>
+    <display-name>Red Bull TV UHD</display-name>
+    <display-name>Red Bull TV 720</display-name>
+    <display-name>Red Bull TV 1080</display-name>
+    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Red%20Bull%20TV.png" />
+  </channel>
+  <channel id="Unbeaten">
+    <display-name>Unbeaten</display-name>
+    <display-name>Unbeaten.TV</display-name>
+    <display-name>Unbeaten SD</display-name>
+    <display-name>Unbeaten HD</display-name>
+    <display-name>Unbeaten FHD</display-name>
+    <display-name>Unbeaten UHD</display-name>
+    <display-name>Unbeaten 720</display-name>
+    <display-name>Unbeaten 1080</display-name>
+    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Unbeaten.png" />
   </channel>
   <channel id="Motorvision TV">
     <display-name>Motorvision TV</display-name>
