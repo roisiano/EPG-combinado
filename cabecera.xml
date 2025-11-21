@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tv generator-info-name="dobleM 19/11/2025 20:47" generator-info-url="t.me/EPG_dobleM">
+<tv generator-info-name="dobleM 20/11/2025 20:47" generator-info-url="t.me/EPG_dobleM">
   <channel id="La 1 HD">
     <display-name>La 1</display-name>
     <display-name>La 1.TV</display-name>
@@ -4982,6 +4982,7 @@
     <display-name>8madrid TV 720</display-name>
     <display-name>8madrid TV 1080</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/8madrid%20TV.png" />
+    <url>_·_"https://media.themoviedb.org/t/p/w533_and_h300_bestv2/smAVaGvIAEY8ow7EZHXXwUH54SO.jpg"_·_</url>
   </channel>
   <channel id="Sky News International">
     <display-name>Sky News International</display-name>
