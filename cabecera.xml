@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tv generator-info-name="dobleM 27/11/2025 20:47" generator-info-url="t.me/EPG_dobleM">
+<tv generator-info-name="dobleM 28/11/2025 20:47" generator-info-url="t.me/EPG_dobleM">
   <channel id="La 1 HD">
     <display-name>La 1</display-name>
     <display-name>La 1.TV</display-name>
@@ -2409,17 +2409,6 @@
     <display-name>tlnovelas 1080</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/tlnovelas.png" />
   </channel>
-  <channel id="DePelícula">
-    <display-name>DePelícula</display-name>
-    <display-name>DePelícula.TV</display-name>
-    <display-name>DePelícula SD</display-name>
-    <display-name>DePelícula HD</display-name>
-    <display-name>DePelícula FHD</display-name>
-    <display-name>DePelícula UHD</display-name>
-    <display-name>DePelícula 720</display-name>
-    <display-name>DePelícula 1080</display-name>
-    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DePel%C3%ADcula.png" />
-  </channel>
   <channel id="DejateTV">
     <display-name>DejateTV</display-name>
     <display-name>DejateTV.TV</display-name>
@@ -4112,7 +4101,6 @@
     <display-name>Canal Taronja Central UHD</display-name>
     <display-name>Canal Taronja Central 720</display-name>
     <display-name>Canal Taronja Central 1080</display-name>
-    <icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/2483804e1dd343a08a95864a921fdce8/Images/bf16514e0dca4106954747a84dabb40a" />
   </channel>
   <channel id="VOTV">
     <display-name>VOTV</display-name>
@@ -4123,7 +4111,6 @@
     <display-name>VOTV UHD</display-name>
     <display-name>VOTV 720</display-name>
     <display-name>VOTV 1080</display-name>
-    <icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/bed4a72f8c8248c3a283684eb4038f4d/Images/f3496345ca4f49e1b16c1f306ac33090" />
   </channel>
   <channel id="Canal Blau">
     <display-name>Canal Blau</display-name>
@@ -4134,7 +4121,6 @@
     <display-name>Canal Blau UHD</display-name>
     <display-name>Canal Blau 720</display-name>
     <display-name>Canal Blau 1080</display-name>
-    <icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/c90cc7e06fd74f6c980a1039f80a322b/Images/4bf5cd5a7b124e96b80a8bfecc45c730" />
   </channel>
   <channel id="Lleida TV">
     <display-name>Lleida TV</display-name>
@@ -4145,7 +4131,6 @@
     <display-name>Lleida TV UHD</display-name>
     <display-name>Lleida TV 720</display-name>
     <display-name>Lleida TV 1080</display-name>
-    <icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/4717e98daf50416982f71c7db0389a14/Images/58747f9ed82342bd8472425d531d402b" />
   </channel>
   <channel id="Banyoles TV">
     <display-name>Banyoles TV</display-name>
@@ -4156,7 +4141,6 @@
     <display-name>Banyoles TV UHD</display-name>
     <display-name>Banyoles TV 720</display-name>
     <display-name>Banyoles TV 1080</display-name>
-    <icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/0f6cd8ece2b04eafb93aab503324c005/Images/6e9740ff00014dfaa3b601e1f9240ae2" />
   </channel>
   <channel id="Vallès Visió">
     <display-name>Vallès Visió</display-name>
@@ -4167,7 +4151,6 @@
     <display-name>Vallès Visió UHD</display-name>
     <display-name>Vallès Visió 720</display-name>
     <display-name>Vallès Visió 1080</display-name>
-    <icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/113f590aa4c64dba85578d063e164269/Images/16ef075877324bf1846413275a7ff5bc" />
   </channel>
   <channel id="DARK">
     <display-name>DARK</display-name>
@@ -6180,7 +6163,6 @@
     <display-name>DE | Sky Sport Austria 5 UHD</display-name>
     <display-name>DE | Sky Sport Austria 5 720</display-name>
     <display-name>DE | Sky Sport Austria 5 1080</display-name>
-    <icon src="https://www.sky.de/static/img/senderlogos_dark/883_sky_logo_sky-sport-austria-5-hd_tvguide.png" />
   </channel>
   <channel id="DE | Sky Sport Austria 6">
     <display-name>DE | Sky Sport Austria 6</display-name>
@@ -6191,7 +6173,6 @@
     <display-name>DE | Sky Sport Austria 6 UHD</display-name>
     <display-name>DE | Sky Sport Austria 6 720</display-name>
     <display-name>DE | Sky Sport Austria 6 1080</display-name>
-    <icon src="https://www.sky.de/static/img/senderlogos_dark/884_sky_logo_sky-sport-austria-6-hd_tvguide.png" />
   </channel>
   <channel id="DE | Sky Sport Austria 7">
     <display-name>DE | Sky Sport Austria 7</display-name>
@@ -6202,7 +6183,6 @@
     <display-name>DE | Sky Sport Austria 7 UHD</display-name>
     <display-name>DE | Sky Sport Austria 7 720</display-name>
     <display-name>DE | Sky Sport Austria 7 1080</display-name>
-    <icon src="https://www.sky.de/static/img/senderlogos_dark/885_sky_logo_sky-sport-austria-7-hd_tvguide.png" />
   </channel>
   <channel id="DE | Sky Sport Austria 8">
     <display-name>DE | Sky Sport Austria 8</display-name>
@@ -6213,7 +6193,6 @@
     <display-name>DE | Sky Sport Austria 8 UHD</display-name>
     <display-name>DE | Sky Sport Austria 8 720</display-name>
     <display-name>DE | Sky Sport Austria 8 1080</display-name>
-    <icon src="https://www.sky.de/static/img/senderlogos_dark/928_sky_logo_sky-sport-austria-8-hd_tvguide.png" />
   </channel>
   <channel id="DE | Das Erste">
     <display-name>DE | Das Erste</display-name>
