@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tv generator-info-name="dobleM 28/11/2025 20:47" generator-info-url="t.me/EPG_dobleM">
+<tv generator-info-name="dobleM 29/11/2025 20:47" generator-info-url="t.me/EPG_dobleM">
   <channel id="La 1 HD">
     <display-name>La 1</display-name>
     <display-name>La 1.TV</display-name>
@@ -2409,6 +2409,17 @@
     <display-name>tlnovelas 1080</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/tlnovelas.png" />
   </channel>
+  <channel id="DePelícula">
+    <display-name>DePelícula</display-name>
+    <display-name>DePelícula.TV</display-name>
+    <display-name>DePelícula SD</display-name>
+    <display-name>DePelícula HD</display-name>
+    <display-name>DePelícula FHD</display-name>
+    <display-name>DePelícula UHD</display-name>
+    <display-name>DePelícula 720</display-name>
+    <display-name>DePelícula 1080</display-name>
+    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DePel%C3%ADcula.png" />
+  </channel>
   <channel id="DejateTV">
     <display-name>DejateTV</display-name>
     <display-name>DejateTV.TV</display-name>
@@ -4101,6 +4112,7 @@
     <display-name>Canal Taronja Central UHD</display-name>
     <display-name>Canal Taronja Central 720</display-name>
     <display-name>Canal Taronja Central 1080</display-name>
+    <icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/2483804e1dd343a08a95864a921fdce8/Images/bf16514e0dca4106954747a84dabb40a" />
   </channel>
   <channel id="VOTV">
     <display-name>VOTV</display-name>
@@ -4111,6 +4123,7 @@
     <display-name>VOTV UHD</display-name>
     <display-name>VOTV 720</display-name>
     <display-name>VOTV 1080</display-name>
+    <icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/bed4a72f8c8248c3a283684eb4038f4d/Images/f3496345ca4f49e1b16c1f306ac33090" />
   </channel>
   <channel id="Canal Blau">
     <display-name>Canal Blau</display-name>
@@ -4121,6 +4134,7 @@
     <display-name>Canal Blau UHD</display-name>
     <display-name>Canal Blau 720</display-name>
     <display-name>Canal Blau 1080</display-name>
+    <icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/c90cc7e06fd74f6c980a1039f80a322b/Images/4bf5cd5a7b124e96b80a8bfecc45c730" />
   </channel>
   <channel id="Lleida TV">
     <display-name>Lleida TV</display-name>
@@ -4131,6 +4145,7 @@
     <display-name>Lleida TV UHD</display-name>
     <display-name>Lleida TV 720</display-name>
     <display-name>Lleida TV 1080</display-name>
+    <icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/4717e98daf50416982f71c7db0389a14/Images/58747f9ed82342bd8472425d531d402b" />
   </channel>
   <channel id="Banyoles TV">
     <display-name>Banyoles TV</display-name>
@@ -4141,6 +4156,7 @@
     <display-name>Banyoles TV UHD</display-name>
     <display-name>Banyoles TV 720</display-name>
     <display-name>Banyoles TV 1080</display-name>
+    <icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/0f6cd8ece2b04eafb93aab503324c005/Images/6e9740ff00014dfaa3b601e1f9240ae2" />
   </channel>
   <channel id="Vallès Visió">
     <display-name>Vallès Visió</display-name>
@@ -4151,6 +4167,7 @@
     <display-name>Vallès Visió UHD</display-name>
     <display-name>Vallès Visió 720</display-name>
     <display-name>Vallès Visió 1080</display-name>
+    <icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/113f590aa4c64dba85578d063e164269/Images/16ef075877324bf1846413275a7ff5bc" />
   </channel>
   <channel id="DARK">
     <display-name>DARK</display-name>
@@ -4711,7 +4728,6 @@
     <display-name>Pro TV UHD</display-name>
     <display-name>Pro TV 720</display-name>
     <display-name>Pro TV 1080</display-name>
-    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Pro%20TV.png" />
   </channel>
   <channel id="Caracol TV">
     <display-name>Caracol TV</display-name>
@@ -4722,7 +4738,6 @@
     <display-name>Caracol TV UHD</display-name>
     <display-name>Caracol TV 720</display-name>
     <display-name>Caracol TV 1080</display-name>
-    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Caracol%20TV.png" />
   </channel>
   <channel id="France 2">
     <display-name>France 2</display-name>
@@ -4733,7 +4748,6 @@
     <display-name>France 2 UHD</display-name>
     <display-name>France 2 720</display-name>
     <display-name>France 2 1080</display-name>
-    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/France%202.png" />
   </channel>
   <channel id="France 5">
     <display-name>France 5</display-name>
@@ -4744,7 +4758,6 @@
     <display-name>France 5 UHD</display-name>
     <display-name>France 5 720</display-name>
     <display-name>France 5 1080</display-name>
-    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/France%205.png" />
   </channel>
   <channel id="M6">
     <display-name>M6</display-name>
@@ -4755,7 +4768,6 @@
     <display-name>M6 UHD</display-name>
     <display-name>M6 720</display-name>
     <display-name>M6 1080</display-name>
-    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M6.png" />
   </channel>
   <channel id="Gulli">
     <display-name>Gulli</display-name>
@@ -4766,7 +4778,6 @@
     <display-name>Gulli UHD</display-name>
     <display-name>Gulli 720</display-name>
     <display-name>Gulli 1080</display-name>
-    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Gulli.png" />
   </channel>
   <channel id="Tennis Channel">
     <display-name>Tennis Channel</display-name>
@@ -4777,7 +4788,6 @@
     <display-name>Tennis Channel UHD</display-name>
     <display-name>Tennis Channel 720</display-name>
     <display-name>Tennis Channel 1080</display-name>
-    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Tennis%20Channel.png" />
   </channel>
   <channel id="MyPadel TV">
     <display-name>MyPadel TV</display-name>
@@ -4788,7 +4798,6 @@
     <display-name>MyPadel TV UHD</display-name>
     <display-name>MyPadel TV 720</display-name>
     <display-name>MyPadel TV 1080</display-name>
-    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/MyPadel%20TV.png" />
   </channel>
   <channel id="NatureTime">
     <display-name>NatureTime</display-name>
@@ -4799,7 +4808,6 @@
     <display-name>NatureTime UHD</display-name>
     <display-name>NatureTime 720</display-name>
     <display-name>NatureTime 1080</display-name>
-    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/NatureTime.png" />
   </channel>
   <channel id="Toon Goggles">
     <display-name>Toon Goggles</display-name>
@@ -4810,7 +4818,6 @@
     <display-name>Toon Goggles UHD</display-name>
     <display-name>Toon Goggles 720</display-name>
     <display-name>Toon Goggles 1080</display-name>
-    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Toon%20Goggles.png" />
   </channel>
   <channel id="Gametoon">
     <display-name>Gametoon</display-name>
@@ -4821,7 +4828,6 @@
     <display-name>Gametoon UHD</display-name>
     <display-name>Gametoon 720</display-name>
     <display-name>Gametoon 1080</display-name>
-    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Gametoon.png" />
   </channel>
   <channel id="Vivir con gatos">
     <display-name>Vivir con gatos</display-name>
@@ -4832,7 +4838,6 @@
     <display-name>Vivir con gatos UHD</display-name>
     <display-name>Vivir con gatos 720</display-name>
     <display-name>Vivir con gatos 1080</display-name>
-    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Vivir%20con%20gatos.png" />
   </channel>
   <channel id="Vivir con perros">
     <display-name>Vivir con perros</display-name>
@@ -4843,7 +4848,6 @@
     <display-name>Vivir con perros UHD</display-name>
     <display-name>Vivir con perros 720</display-name>
     <display-name>Vivir con perros 1080</display-name>
-    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Vivir%20con%20perros.png" />
   </channel>
   <channel id="Anime Visión">
     <display-name>Anime Visión</display-name>
@@ -4854,7 +4858,6 @@
     <display-name>Anime Visión UHD</display-name>
     <display-name>Anime Visión 720</display-name>
     <display-name>Anime Visión 1080</display-name>
-    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Anime%20Visi%C3%B3n.png" />
   </channel>
   <channel id="Anime Visión Classics">
     <display-name>Anime Visión Classics</display-name>
@@ -4865,7 +4868,6 @@
     <display-name>Anime Visión Classics UHD</display-name>
     <display-name>Anime Visión Classics 720</display-name>
     <display-name>Anime Visión Classics 1080</display-name>
-    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Anime%20Visi%C3%B3n%20Classics.png" />
   </channel>
   <channel id="Flamenco Auditorio">
     <display-name>Flamenco Auditorio</display-name>
@@ -4876,7 +4878,6 @@
     <display-name>Flamenco Auditorio UHD</display-name>
     <display-name>Flamenco Auditorio 720</display-name>
     <display-name>Flamenco Auditorio 1080</display-name>
-    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Flamenco%20Auditorio.png" />
   </channel>
   <channel id="Sangre Fría">
     <display-name>Sangre Fría</display-name>
@@ -4887,7 +4888,6 @@
     <display-name>Sangre Fría UHD</display-name>
     <display-name>Sangre Fría 720</display-name>
     <display-name>Sangre Fría 1080</display-name>
-    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Sangre%20Fr%C3%ADa.png" />
   </channel>
   <channel id="Love the Planet">
     <display-name>Love the Planet</display-name>
@@ -4898,7 +4898,6 @@
     <display-name>Love the Planet UHD</display-name>
     <display-name>Love the Planet 720</display-name>
     <display-name>Love the Planet 1080</display-name>
-    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Love%20the%20Planet.png" />
   </channel>
   <channel id="Love Wine">
     <display-name>Love Wine</display-name>
@@ -4909,7 +4908,6 @@
     <display-name>Love Wine UHD</display-name>
     <display-name>Love Wine 720</display-name>
     <display-name>Love Wine 1080</display-name>
-    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Love%20Wine.png" />
   </channel>
   <channel id="Historia y Vida">
     <display-name>Historia y Vida</display-name>
@@ -4920,7 +4918,6 @@
     <display-name>Historia y Vida UHD</display-name>
     <display-name>Historia y Vida 720</display-name>
     <display-name>Historia y Vida 1080</display-name>
-    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Historia%20y%20Vida.png" />
   </channel>
   <channel id="Moto ADV">
     <display-name>Moto ADV</display-name>
@@ -4931,7 +4928,6 @@
     <display-name>Moto ADV UHD</display-name>
     <display-name>Moto ADV 720</display-name>
     <display-name>Moto ADV 1080</display-name>
-    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Moto%20ADV.png" />
   </channel>
   <channel id="8madrid TV">
     <display-name>8madrid TV</display-name>
