@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tv generator-info-name="dobleM 01/12/2025 20:47" generator-info-url="t.me/EPG_dobleM">
+<tv generator-info-name="dobleM 02/12/2025 20:47" generator-info-url="t.me/EPG_dobleM">
   <channel id="La 1 HD">
     <display-name>La 1</display-name>
     <display-name>La 1.TV</display-name>
@@ -99,16 +99,16 @@
     <display-name>M+ Originales 1080</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Originales.png" />
   </channel>
-  <channel id="M+ Nicolas Cage">
-    <display-name>M+ Nicolas Cage</display-name>
-    <display-name>M+ Nicolas Cage.TV</display-name>
-    <display-name>M+ Nicolas Cage SD</display-name>
-    <display-name>M+ Nicolas Cage HD</display-name>
-    <display-name>M+ Nicolas Cage FHD</display-name>
-    <display-name>M+ Nicolas Cage UHD</display-name>
-    <display-name>M+ Nicolas Cage 720</display-name>
-    <display-name>M+ Nicolas Cage 1080</display-name>
-    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Nicolas%20Cage.png" />
+  <channel id="M+ Navidad">
+    <display-name>M+ Navidad</display-name>
+    <display-name>M+ Navidad.TV</display-name>
+    <display-name>M+ Navidad SD</display-name>
+    <display-name>M+ Navidad HD</display-name>
+    <display-name>M+ Navidad FHD</display-name>
+    <display-name>M+ Navidad UHD</display-name>
+    <display-name>M+ Navidad 720</display-name>
+    <display-name>M+ Navidad 1080</display-name>
+    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Navidad.png" />
   </channel>
   <channel id="M+ Documentales HD">
     <display-name>M+ Documentales</display-name>
@@ -219,6 +219,28 @@
     <display-name>M+ PopUp 2 720</display-name>
     <display-name>M+ PopUp 2 1080</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20PopUp%202.png" />
+  </channel>
+  <channel id="Canal FlixOlé 1">
+    <display-name>Canal FlixOlé 1</display-name>
+    <display-name>Canal FlixOlé 1.TV</display-name>
+    <display-name>Canal FlixOlé 1 SD</display-name>
+    <display-name>Canal FlixOlé 1 HD</display-name>
+    <display-name>Canal FlixOlé 1 FHD</display-name>
+    <display-name>Canal FlixOlé 1 UHD</display-name>
+    <display-name>Canal FlixOlé 1 720</display-name>
+    <display-name>Canal FlixOlé 1 1080</display-name>
+    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Canal%20FlixOl%C3%A9%201.png" />
+  </channel>
+  <channel id="Canal FlixOlé 2">
+    <display-name>Canal FlixOlé 2</display-name>
+    <display-name>Canal FlixOlé 2.TV</display-name>
+    <display-name>Canal FlixOlé 2 SD</display-name>
+    <display-name>Canal FlixOlé 2 HD</display-name>
+    <display-name>Canal FlixOlé 2 FHD</display-name>
+    <display-name>Canal FlixOlé 2 UHD</display-name>
+    <display-name>Canal FlixOlé 2 720</display-name>
+    <display-name>Canal FlixOlé 2 1080</display-name>
+    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Canal%20FlixOl%C3%A9%202.png" />
   </channel>
   <channel id="TCM HD">
     <display-name>TCM</display-name>
@@ -4301,17 +4323,6 @@
     <display-name>SELEKT 1080</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/SELEKT.png" />
   </channel>
-  <channel id="Festival 4K">
-    <display-name>Festival 4K</display-name>
-    <display-name>Festival 4K.TV</display-name>
-    <display-name>Festival 4K SD</display-name>
-    <display-name>Festival 4K HD</display-name>
-    <display-name>Festival 4K FHD</display-name>
-    <display-name>Festival 4K UHD</display-name>
-    <display-name>Festival 4K 720</display-name>
-    <display-name>Festival 4K 1080</display-name>
-    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Festival%204K.png" />
-  </channel>
   <channel id="Veo7">
     <display-name>Veo7</display-name>
     <display-name>Veo7.TV</display-name>
@@ -4399,6 +4410,72 @@
     <display-name>Betis TV 720</display-name>
     <display-name>Betis TV 1080</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Betis%20TV.png" />
+  </channel>
+  <channel id="DAZN Baloncesto">
+    <display-name>DAZN Baloncesto</display-name>
+    <display-name>DAZN Baloncesto.TV</display-name>
+    <display-name>DAZN Baloncesto SD</display-name>
+    <display-name>DAZN Baloncesto HD</display-name>
+    <display-name>DAZN Baloncesto FHD</display-name>
+    <display-name>DAZN Baloncesto UHD</display-name>
+    <display-name>DAZN Baloncesto 720</display-name>
+    <display-name>DAZN Baloncesto 1080</display-name>
+    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20Baloncesto.png" />
+  </channel>
+  <channel id="DAZN Baloncesto 2">
+    <display-name>DAZN Baloncesto 2</display-name>
+    <display-name>DAZN Baloncesto 2.TV</display-name>
+    <display-name>DAZN Baloncesto 2 SD</display-name>
+    <display-name>DAZN Baloncesto 2 HD</display-name>
+    <display-name>DAZN Baloncesto 2 FHD</display-name>
+    <display-name>DAZN Baloncesto 2 UHD</display-name>
+    <display-name>DAZN Baloncesto 2 720</display-name>
+    <display-name>DAZN Baloncesto 2 1080</display-name>
+    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20Baloncesto%202.png" />
+  </channel>
+  <channel id="DAZN Baloncesto 3">
+    <display-name>DAZN Baloncesto 3</display-name>
+    <display-name>DAZN Baloncesto 3.TV</display-name>
+    <display-name>DAZN Baloncesto 3 SD</display-name>
+    <display-name>DAZN Baloncesto 3 HD</display-name>
+    <display-name>DAZN Baloncesto 3 FHD</display-name>
+    <display-name>DAZN Baloncesto 3 UHD</display-name>
+    <display-name>DAZN Baloncesto 3 720</display-name>
+    <display-name>DAZN Baloncesto 3 1080</display-name>
+    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20Baloncesto%203.png" />
+  </channel>
+  <channel id="Rugby Challenge Spain">
+    <display-name>Rugby Challenge Spain</display-name>
+    <display-name>Rugby Challenge Spain.TV</display-name>
+    <display-name>Rugby Challenge Spain SD</display-name>
+    <display-name>Rugby Challenge Spain HD</display-name>
+    <display-name>Rugby Challenge Spain FHD</display-name>
+    <display-name>Rugby Challenge Spain UHD</display-name>
+    <display-name>Rugby Challenge Spain 720</display-name>
+    <display-name>Rugby Challenge Spain 1080</display-name>
+    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Rugby%20Challenge%20Spain.png" />
+  </channel>
+  <channel id="MMA TV">
+    <display-name>MMA TV</display-name>
+    <display-name>MMA TV.TV</display-name>
+    <display-name>MMA TV SD</display-name>
+    <display-name>MMA TV HD</display-name>
+    <display-name>MMA TV FHD</display-name>
+    <display-name>MMA TV UHD</display-name>
+    <display-name>MMA TV 720</display-name>
+    <display-name>MMA TV 1080</display-name>
+    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/MMA%20TV.png" />
+  </channel>
+  <channel id="Gol Classics">
+    <display-name>Gol Classics</display-name>
+    <display-name>Gol Classics.TV</display-name>
+    <display-name>Gol Classics SD</display-name>
+    <display-name>Gol Classics HD</display-name>
+    <display-name>Gol Classics FHD</display-name>
+    <display-name>Gol Classics UHD</display-name>
+    <display-name>Gol Classics 720</display-name>
+    <display-name>Gol Classics 1080</display-name>
+    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Gol%20Classics.png" />
   </channel>
   <channel id="Runtime Thriller-Terror">
     <display-name>Runtime Thriller-Terror</display-name>
@@ -6125,6 +6202,7 @@
     <display-name>DE | Sky Sport Austria 2 UHD</display-name>
     <display-name>DE | Sky Sport Austria 2 720</display-name>
     <display-name>DE | Sky Sport Austria 2 1080</display-name>
+    <icon src="https://www.sky.de/static/img/senderlogos_dark/729_sky_logo_skysportaustria_2-hd_tvguide.png" />
   </channel>
   <channel id="DE | Sky Sport Austria 3">
     <display-name>DE | Sky Sport Austria 3</display-name>
@@ -6135,6 +6213,7 @@
     <display-name>DE | Sky Sport Austria 3 UHD</display-name>
     <display-name>DE | Sky Sport Austria 3 720</display-name>
     <display-name>DE | Sky Sport Austria 3 1080</display-name>
+    <icon src="https://www.sky.de/static/img/senderlogos_dark/730_sky_logo_skysportaustria_3-hd_tvguide.png" />
   </channel>
   <channel id="DE | Sky Sport Austria 4">
     <display-name>DE | Sky Sport Austria 4</display-name>
@@ -6145,6 +6224,7 @@
     <display-name>DE | Sky Sport Austria 4 UHD</display-name>
     <display-name>DE | Sky Sport Austria 4 720</display-name>
     <display-name>DE | Sky Sport Austria 4 1080</display-name>
+    <icon src="https://www.sky.de/static/img/senderlogos_dark/898_sky_logo_skysportaustria_4-hd_tvguide.png" />
   </channel>
   <channel id="DE | Sky Sport Austria 5">
     <display-name>DE | Sky Sport Austria 5</display-name>
