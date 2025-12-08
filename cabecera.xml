@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tv generator-info-name="dobleM 06/12/2025 20:47" generator-info-url="t.me/EPG_dobleM">
+<tv generator-info-name="dobleM 07/12/2025 20:47" generator-info-url="t.me/EPG_dobleM">
 	<channel id="La 1 HD">
 		<display-name>La 1</display-name>
 		<display-name>La 1.TV</display-name>
@@ -2496,17 +2496,6 @@
 		<display-name>PTV Linares 720</display-name>
 		<display-name>PTV Linares 1080</display-name>
 		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/PTV%20Linares.png" />
-	</channel>
-	<channel id="PTV Málaga">
-		<display-name>PTV Málaga</display-name>
-		<display-name>PTV Málaga.TV</display-name>
-		<display-name>PTV Málaga SD</display-name>
-		<display-name>PTV Málaga HD</display-name>
-		<display-name>PTV Málaga FHD</display-name>
-		<display-name>PTV Málaga UHD</display-name>
-		<display-name>PTV Málaga 720</display-name>
-		<display-name>PTV Málaga 1080</display-name>
-		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/PTV%20M%C3%A1laga.png" />
 	</channel>
 	<channel id="NFL Network">
 		<display-name>NFL Network</display-name>
@@ -5092,6 +5081,7 @@
 		<display-name>Todo Crimen (Rakuten TV) 720</display-name>
 		<display-name>Todo Crimen (Rakuten TV) 1080</display-name>
 		<icon src="https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork-negative/8fb33036-37c7-478c-930f-f8f6230a5c32.png" />
+		<icon src="https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork-negative/e058d349-db97-4c0b-a9dd-477147a1d473.png" />
 		<icon src="https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork-negative/e058d349-db97-4c0b-a9dd-477147a1d473.png" />
 	</channel>
 	<channel id="Crimen (Rakuten TV)">
