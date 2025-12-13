@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tv generator-info-name="dobleM 11/12/2025 20:47" generator-info-url="t.me/EPG_dobleM">
+<tv generator-info-name="dobleM 12/12/2025 20:47" generator-info-url="t.me/EPG_dobleM">
 	<channel id="La 1 HD">
 		<display-name>La 1</display-name>
 		<display-name>La 1.TV</display-name>
@@ -2474,17 +2474,6 @@
 		<display-name>PTV Sevilla 720</display-name>
 		<display-name>PTV Sevilla 1080</display-name>
 		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/PTV%20Sevilla.png" />
-	</channel>
-	<channel id="PTV Córdoba">
-		<display-name>PTV Córdoba</display-name>
-		<display-name>PTV Córdoba.TV</display-name>
-		<display-name>PTV Córdoba SD</display-name>
-		<display-name>PTV Córdoba HD</display-name>
-		<display-name>PTV Córdoba FHD</display-name>
-		<display-name>PTV Córdoba UHD</display-name>
-		<display-name>PTV Córdoba 720</display-name>
-		<display-name>PTV Córdoba 1080</display-name>
-		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/PTV%20C%C3%B3rdoba.png" />
 	</channel>
 	<channel id="PTV Linares">
 		<display-name>PTV Linares</display-name>
@@ -6268,7 +6257,6 @@
 		<display-name>DE | Sky Sport Austria 6 UHD</display-name>
 		<display-name>DE | Sky Sport Austria 6 720</display-name>
 		<display-name>DE | Sky Sport Austria 6 1080</display-name>
-		<icon src="https://www.sky.de/static/img/senderlogos_dark/884_sky_logo_sky-sport-austria-6-hd_tvguide.png" />
 	</channel>
 	<channel id="DE | Sky Sport Austria 7">
 		<display-name>DE | Sky Sport Austria 7</display-name>
@@ -6279,7 +6267,6 @@
 		<display-name>DE | Sky Sport Austria 7 UHD</display-name>
 		<display-name>DE | Sky Sport Austria 7 720</display-name>
 		<display-name>DE | Sky Sport Austria 7 1080</display-name>
-		<icon src="https://www.sky.de/static/img/senderlogos_dark/885_sky_logo_sky-sport-austria-7-hd_tvguide.png" />
 	</channel>
 	<channel id="DE | Sky Sport Austria 8">
 		<display-name>DE | Sky Sport Austria 8</display-name>
@@ -6290,7 +6277,6 @@
 		<display-name>DE | Sky Sport Austria 8 UHD</display-name>
 		<display-name>DE | Sky Sport Austria 8 720</display-name>
 		<display-name>DE | Sky Sport Austria 8 1080</display-name>
-		<icon src="https://www.sky.de/static/img/senderlogos_dark/928_sky_logo_sky-sport-austria-8-hd_tvguide.png" />
 	</channel>
 	<channel id="DE | Das Erste">
 		<display-name>DE | Das Erste</display-name>
