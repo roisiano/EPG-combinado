@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tv generator-info-name="dobleM 13/12/2025 20:47" generator-info-url="t.me/EPG_dobleM">
+<tv generator-info-name="dobleM 14/12/2025 20:47" generator-info-url="t.me/EPG_dobleM">
 	<channel id="La 1 HD">
 		<display-name>La 1</display-name>
 		<display-name>La 1.TV</display-name>
@@ -6257,6 +6257,7 @@
 		<display-name>DE | Sky Sport Austria 6 UHD</display-name>
 		<display-name>DE | Sky Sport Austria 6 720</display-name>
 		<display-name>DE | Sky Sport Austria 6 1080</display-name>
+		<icon src="https://www.sky.de/static/img/senderlogos_dark/884_sky_logo_sky-sport-austria-6-hd_tvguide.png" />
 	</channel>
 	<channel id="DE | Sky Sport Austria 7">
 		<display-name>DE | Sky Sport Austria 7</display-name>
@@ -6267,6 +6268,7 @@
 		<display-name>DE | Sky Sport Austria 7 UHD</display-name>
 		<display-name>DE | Sky Sport Austria 7 720</display-name>
 		<display-name>DE | Sky Sport Austria 7 1080</display-name>
+		<icon src="https://www.sky.de/static/img/senderlogos_dark/885_sky_logo_sky-sport-austria-7-hd_tvguide.png" />
 	</channel>
 	<channel id="DE | Sky Sport Austria 8">
 		<display-name>DE | Sky Sport Austria 8</display-name>
@@ -6277,6 +6279,7 @@
 		<display-name>DE | Sky Sport Austria 8 UHD</display-name>
 		<display-name>DE | Sky Sport Austria 8 720</display-name>
 		<display-name>DE | Sky Sport Austria 8 1080</display-name>
+		<icon src="https://www.sky.de/static/img/senderlogos_dark/928_sky_logo_sky-sport-austria-8-hd_tvguide.png" />
 	</channel>
 	<channel id="DE | Das Erste">
 		<display-name>DE | Das Erste</display-name>
