@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tv generator-info-name="dobleM 20/12/2025 20:47" generator-info-url="t.me/EPG_dobleM">
+<tv generator-info-name="dobleM 21/12/2025 20:47" generator-info-url="t.me/EPG_dobleM">
 	<channel id="La 1 HD">
 		<display-name>La 1</display-name>
 		<display-name>La 1.TV</display-name>
@@ -2585,17 +2585,6 @@
 		<display-name>PTV Sevilla 1080</display-name>
 		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/PTV%20Sevilla.png" />
 	</channel>
-	<channel id="PTV Córdoba">
-		<display-name>PTV Córdoba</display-name>
-		<display-name>PTV Córdoba.TV</display-name>
-		<display-name>PTV Córdoba SD</display-name>
-		<display-name>PTV Córdoba HD</display-name>
-		<display-name>PTV Córdoba FHD</display-name>
-		<display-name>PTV Córdoba UHD</display-name>
-		<display-name>PTV Córdoba 720</display-name>
-		<display-name>PTV Córdoba 1080</display-name>
-		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/PTV%20C%C3%B3rdoba.png" />
-	</channel>
 	<channel id="PTV Linares">
 		<display-name>PTV Linares</display-name>
 		<display-name>PTV Linares.TV</display-name>
@@ -5114,6 +5103,7 @@
 		<display-name>8madrid TV 720</display-name>
 		<display-name>8madrid TV 1080</display-name>
 		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/8madrid%20TV.png" />
+		<url>_·_"https://media.themoviedb.org/t/p/w533_and_h300_face/bstpGxSusREE4ry09qt33TIrDjG.jpg"_·_</url>
 	</channel>
 	<channel id="Sky News International">
 		<display-name>Sky News International</display-name>
@@ -5169,6 +5159,7 @@
 		<display-name>Todo Crimen (Rakuten TV) 720</display-name>
 		<display-name>Todo Crimen (Rakuten TV) 1080</display-name>
 		<icon src="https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork-negative/8fb33036-37c7-478c-930f-f8f6230a5c32.png" />
+		<icon src="https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork-negative/e058d349-db97-4c0b-a9dd-477147a1d473.png" />
 		<icon src="https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork-negative/e058d349-db97-4c0b-a9dd-477147a1d473.png" />
 	</channel>
 	<channel id="Crimen (Rakuten TV)">
@@ -6312,7 +6303,6 @@
 		<display-name>DE | Sky Sport Austria 3 UHD</display-name>
 		<display-name>DE | Sky Sport Austria 3 720</display-name>
 		<display-name>DE | Sky Sport Austria 3 1080</display-name>
-		<icon src="https://www.sky.de/static/img/senderlogos_dark/730_sky_logo_skysportaustria_3-hd_tvguide.png" />
 	</channel>
 	<channel id="DE | Sky Sport Austria 4">
 		<display-name>DE | Sky Sport Austria 4</display-name>
