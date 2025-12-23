@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tv generator-info-name="dobleM 21/12/2025 20:47" generator-info-url="t.me/EPG_dobleM">
+<tv generator-info-name="dobleM 22/12/2025 20:47" generator-info-url="t.me/EPG_dobleM">
 	<channel id="La 1 HD">
 		<display-name>La 1</display-name>
 		<display-name>La 1.TV</display-name>
@@ -121,16 +121,17 @@
 		<display-name>M+ Documentales 1080</display-name>
 		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Documentales.png" />
 	</channel>
-	<channel id="M+ En juego">
-		<display-name>M+ En juego</display-name>
-		<display-name>M+ En juego.TV</display-name>
-		<display-name>M+ En juego SD</display-name>
-		<display-name>M+ En juego HD</display-name>
-		<display-name>M+ En juego FHD</display-name>
-		<display-name>M+ En juego UHD</display-name>
-		<display-name>M+ En juego 720</display-name>
-		<display-name>M+ En juego 1080</display-name>
-		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20En%20juego.png" />
+	<channel id="M+ BBC Earth">
+		<display-name>M+ BBC Earth</display-name>
+		<display-name>M+ BBC Earth.TV</display-name>
+		<display-name>M+ BBC Earth SD</display-name>
+		<display-name>M+ BBC Earth HD</display-name>
+		<display-name>M+ BBC Earth FHD</display-name>
+		<display-name>M+ BBC Earth UHD</display-name>
+		<display-name>M+ BBC Earth 720</display-name>
+		<display-name>M+ BBC Earth 1080</display-name>
+		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20BBC%20Earth.png" />
+		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/BBC%20Earth.png" />
 	</channel>
 	<channel id="M+ Clásicos HD">
 		<display-name>M+ Clásicos</display-name>
@@ -273,7 +274,6 @@
 		<display-name>BBC Earth UHD</display-name>
 		<display-name>BBC Earth 720</display-name>
 		<display-name>BBC Earth 1080</display-name>
-		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/BBC%20Earth.png" />
 	</channel>
 	<channel id="BBC Top Gear">
 		<display-name>BBC Top Gear</display-name>
@@ -5103,7 +5103,6 @@
 		<display-name>8madrid TV 720</display-name>
 		<display-name>8madrid TV 1080</display-name>
 		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/8madrid%20TV.png" />
-		<url>_·_"https://media.themoviedb.org/t/p/w533_and_h300_face/bstpGxSusREE4ry09qt33TIrDjG.jpg"_·_</url>
 	</channel>
 	<channel id="Sky News International">
 		<display-name>Sky News International</display-name>
@@ -5159,7 +5158,6 @@
 		<display-name>Todo Crimen (Rakuten TV) 720</display-name>
 		<display-name>Todo Crimen (Rakuten TV) 1080</display-name>
 		<icon src="https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork-negative/8fb33036-37c7-478c-930f-f8f6230a5c32.png" />
-		<icon src="https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork-negative/e058d349-db97-4c0b-a9dd-477147a1d473.png" />
 		<icon src="https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork-negative/e058d349-db97-4c0b-a9dd-477147a1d473.png" />
 	</channel>
 	<channel id="Crimen (Rakuten TV)">
@@ -6292,7 +6290,6 @@
 		<display-name>DE | Sky Sport Austria 2 UHD</display-name>
 		<display-name>DE | Sky Sport Austria 2 720</display-name>
 		<display-name>DE | Sky Sport Austria 2 1080</display-name>
-		<icon src="https://www.sky.de/static/img/senderlogos_dark/729_sky_logo_skysportaustria_2-hd_tvguide.png" />
 	</channel>
 	<channel id="DE | Sky Sport Austria 3">
 		<display-name>DE | Sky Sport Austria 3</display-name>
