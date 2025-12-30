@@ -8,54 +8,41 @@ if len(sys.argv) < 3:
 input_file = sys.argv[1]
 output_file = sys.argv[2]
 
-print("Cargando XML original...")
+print("Reconstruyendo XML con parser tolerante...")
+
 parser = etree.XMLParser(recover=True, huge_tree=True)
 
-try:
-    tree = etree.parse(input_file, parser)
-except Exception as e:
-    print("❌ Error cargando el XML:", e)
-    sys.exit(1)
+# Leer XML como stream
+context = etree.iterparse(input_file, events=("end",), recover=True, huge_tree=True)
 
-root = tree.getroot()
-
-print("Analizando <programme> uno por uno...")
-
-clean_programmes = []
-removed = 0
-
-for programme in root.findall("programme"):
-    try:
-        # Intentar serializar el nodo para detectar errores internos
-        etree.tostring(programme)
-        clean_programmes.append(programme)
-    except Exception as e:
-        removed += 1
-        print(f"⚠️ Eliminado <programme> corrupto: {e}")
-
-print(f"Programas eliminados: {removed}")
-
-print("Reconstruyendo XML limpio...")
-
-# Crear nuevo root <tv>
 new_root = etree.Element("tv")
+channels = []
+programmes = []
 
-# Copiar todos los nodos que NO son <programme> (ej: <channel>)
-for child in root:
-    if child.tag != "programme":
-        new_root.append(child)
+for event, elem in context:
+    if elem.tag == "channel":
+        channels.append(elem)
+    elif elem.tag == "programme":
+        try:
+            etree.tostring(elem)
+            programmes.append(elem)
+        except:
+            print("⚠️ Eliminado programme corrupto")
+    elem.clear()
 
-# Añadir solo los programas válidos
-for p in clean_programmes:
+print(f"Canales cargados: {len(channels)}")
+print(f"Programas válidos: {len(programmes)}")
+
+# Reconstruir XML limpio
+for c in channels:
+    new_root.append(c)
+
+for p in programmes:
     new_root.append(p)
 
-# Guardar XML limpio
 tree = etree.ElementTree(new_root)
 tree.write(output_file, encoding="utf-8", xml_declaration=True)
 
-print("Archivo reparado generado:", output_file)
-
-# Validación final
 print("Validando XML final...")
 
 try:
@@ -64,3 +51,4 @@ try:
 except Exception as e:
     print("❌ XML inválido:", e)
     sys.exit(1)
+
