@@ -1,0 +1,44 @@
+name: Validar EPG
+
+on:
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+
+jobs:
+  validate-epg:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Instalar dependencias
+        run: sudo apt-get update && sudo apt-get install -y gzip xmllint
+
+      - name: Descargar EPG desde GitHub RAW
+        run: |
+          curl -L "https://raw.githubusercontent.com/roisiano/EPG-combinado/refs/heads/main/EPGunido.xml.gz" -o EPGunido.xml.gz
+
+      - name: Descomprimir EPG
+        run: |
+          gunzip -f EPGunido.xml.gz
+
+      - name: Validar XML (xmllint)
+        run: |
+          echo "Validando XML..."
+          xmllint --noout EPGunido.xml || exit 1
+
+      - name: Buscar errores de star-rating
+        run: |
+          echo "Buscando star-rating inválidos..."
+          grep -n "</star-rating>" -n EPGunido.xml | head -n 20 || true
+
+      - name: Buscar star-rating sin <value>
+        run: |
+          echo "Buscando star-rating sin <value>..."
+          grep -n "<star-rating" EPGunido.xml | grep -v "<value>" | head -n 20 || true
+
+      - name: Resultado final
+        run: echo "Validación completada."
