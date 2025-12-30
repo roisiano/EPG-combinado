@@ -1,6 +1,8 @@
 name: Limpiar EPG con sed
 
 on:
+  schedule:
+    - cron: '2 2 * * *' # Ejecutar a las 02:02 AM (hora española)
   workflow_dispatch:
 
 jobs:
