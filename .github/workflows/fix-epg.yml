@@ -33,7 +33,7 @@ jobs:
 
       - name: Validar XML reparado
         run: |
-          xmllint --noout EPGunido-fixed.xml
+          /usr/bin/xmllint --noout EPGunido-fixed.xml
 
       - name: Comprimir archivo reparado
         run: |
