@@ -1,6 +1,8 @@
 name: Promocionar EPG reparado
 
 on:
+  schedule:
+    - cron: '2 3 * * *' # Ejecutar a las 03:02 AM (hora española)
   workflow_dispatch:
 
 jobs:
