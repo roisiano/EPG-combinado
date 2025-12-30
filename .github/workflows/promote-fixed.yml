@@ -1,0 +1,24 @@
+name: Promocionar EPG reparado
+
+on:
+  workflow_dispatch:
+
+jobs:
+  promote-epg:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Sustituir EPGunido.xml.gz por EPGunido-fixed.xml.gz
+        run: |
+          cp EPGunido-fixed.xml.gz EPGunido.xml.gz
+
+      - name: Subir archivo actualizado
+        run: |
+          git config --global user.name "github-actions"
+          git config --global user.email "github-actions@github.com"
+          git add EPGunido.xml.gz
+          git commit -m "Promocionado EPGunido-fixed.xml.gz como EPGunido.xml.gz"
+          git push
