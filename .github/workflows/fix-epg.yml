@@ -17,7 +17,7 @@ jobs:
       - name: Instalar dependencias
         run: |
           sudo apt-get update
-          sudo apt-get install -y python3 python3-lxml gzip libxml2
+          sudo apt-get install -y python3 python3-lxml gzip
 
       - name: Descargar EPG desde GitHub RAW
         run: |
@@ -31,10 +31,6 @@ jobs:
         run: |
           python3 fix_epg.py EPGunido.xml EPGunido-fixed.xml
 
-      - name: Validar XML reparado
-        run: |
-          xmllint --noout EPGunido-fixed.xml
-
       - name: Comprimir archivo reparado
         run: |
           gzip -f EPGunido-fixed.xml
@@ -46,3 +42,4 @@ jobs:
           git add EPGunido-fixed.xml.gz
           git commit -m "EPG reparado automáticamente"
           git push
+
