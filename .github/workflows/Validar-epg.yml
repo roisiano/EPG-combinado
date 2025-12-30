@@ -1,4 +1,4 @@
-name: Detectar y reparar EPG
+name: Limpiar EPG con sed
 
 on:
   workflow_dispatch:
@@ -7,64 +7,36 @@ on:
       - main
 
 jobs:
-  fix-epg:
+  clean-epg:
     runs-on: ubuntu-latest
 
     steps:
       - name: Checkout repo
         uses: actions/checkout@v4
 
-      - name: Instalar dependencias
-        run: |
-          sudo apt-get update
-          sudo apt-get install -y gzip libxml2-utils
-
-      - name: Descargar EPG desde GitHub RAW
+      - name: Descargar EPG original
         run: |
           curl -L "https://raw.githubusercontent.com/roisiano/EPG-combinado/refs/heads/main/EPGunido.xml.gz" -o EPGunido.xml.gz
 
-      - name: Descomprimir EPG
+      - name: Descomprimir
         run: |
           gunzip -f EPGunido.xml.gz
 
-      - name: Reparar EPG automáticamente
+      - name: Eliminar líneas con <category>
         run: |
-          echo "Corrigiendo EPG..."
-          cp EPGunido.xml EPGunido-fixed.xml
+          sed '/<category>/d' EPGunido.xml > EPGunido-fixed.xml
 
-          # 1. Eliminar <value>TP</value> ilegales dentro de <category>
-          sed -i 's/<value>TP<\/value>//g' EPGunido-fixed.xml
-
-          # 2. Cerrar <category> abiertos sin cierre
-          sed -i 's/<category\(.*\)>[^<]*$/<category\1>TP<\/category>/g' EPGunido-fixed.xml
-
-          # 3. Eliminar <category> corruptos con nodos hijos ilegales
-          sed -i '/<category/,/<\/category>/ s/<[^>]*>//g' EPGunido-fixed.xml
-
-          # 4. Normalizar star-rating sin <value>
-          sed -i 's/<star-rating[^>]*>/&<value>0<\/value>/g' EPGunido-fixed.xml
-
-          # 5. Eliminar star-rating autocerrados
-          sed -i 's/<star-rating[^>]*\/>//g' EPGunido-fixed.xml
-
-          # 6. Eliminar star-rating con texto directo
-          sed -i 's/<star-rating[^>]*>[0-9.]*<\/star-rating>//g' EPGunido-fixed.xml
-
-      - name: Validar XML reparado
-        run: |
-          echo "Validando XML reparado..."
-          xmllint --noout EPGunido-fixed.xml
-
-      - name: Comprimir archivo reparado
+      - name: Comprimir archivo final
         run: |
           gzip -f EPGunido-fixed.xml
 
-      - name: Commit del archivo reparado
+      - name: Subir archivo reparado
         run: |
           git config --global user.name "github-actions"
           git config --global user.email "github-actions@github.com"
           git add EPGunido-fixed.xml.gz
-          git commit -m "EPG reparado automáticamente"
+          git commit -m "EPG limpiado con sed (eliminadas líneas <category>)"
           git push
+
 
 
