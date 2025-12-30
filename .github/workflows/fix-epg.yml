@@ -17,7 +17,7 @@ jobs:
       - name: Instalar dependencias
         run: |
           sudo apt-get update
-          sudo apt-get install -y python3 python3-lxml gzip
+          sudo apt-get install -y python3 python3-lxml gzip libxml2
 
       - name: Descargar EPG desde GitHub RAW
         run: |
@@ -33,7 +33,7 @@ jobs:
 
       - name: Validar XML reparado
         run: |
-          /usr/bin/xmllint --noout EPGunido-fixed.xml
+          xmllint --noout EPGunido-fixed.xml
 
       - name: Comprimir archivo reparado
         run: |
