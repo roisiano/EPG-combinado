@@ -1,4 +1,4 @@
-name: Validar EPG
+name: Detectar y reparar EPG
 
 on:
   workflow_dispatch:
@@ -7,7 +7,7 @@ on:
       - main
 
 jobs:
-  validate-epg:
+  fix-epg:
     runs-on: ubuntu-latest
 
     steps:
@@ -21,62 +21,50 @@ jobs:
 
       - name: Descargar EPG desde GitHub RAW
         run: |
-          echo "Descargando EPG..."
           curl -L "https://raw.githubusercontent.com/roisiano/EPG-combinado/refs/heads/main/EPGunido.xml.gz" -o EPGunido.xml.gz
 
       - name: Descomprimir EPG
         run: |
-          echo "Descomprimiendo..."
           gunzip -f EPGunido.xml.gz
 
-      - name: Validar XML con xmllint
-        id: validate
+      - name: Reparar EPG automáticamente
         run: |
-          echo "Validando XML..."
-          xmllint --noout EPGunido.xml 2> xmllint.log || true
+          echo "Corrigiendo EPG..."
+          cp EPGunido.xml EPGunido-fixed.xml
 
-          if grep -q "error" xmllint.log; then
-            echo "❌ Se detectaron errores en el XML"
-            cat xmllint.log
-            exit 1
-          else
-            echo "✔️ XML válido"
-          fi
+          # 1. Eliminar <value>TP</value> ilegales dentro de <category>
+          sed -i 's/<value>TP<\/value>//g' EPGunido-fixed.xml
 
-      - name: Mostrar errores detectados por xmllint
-        if: failure()
+          # 2. Cerrar <category> abiertos sin cierre
+          sed -i 's/<category\(.*\)>[^<]*$/<category\1>TP<\/category>/g' EPGunido-fixed.xml
+
+          # 3. Eliminar <category> corruptos con nodos hijos ilegales
+          sed -i '/<category/,/<\/category>/ s/<[^>]*>//g' EPGunido-fixed.xml
+
+          # 4. Normalizar star-rating sin <value>
+          sed -i 's/<star-rating[^>]*>/&<value>0<\/value>/g' EPGunido-fixed.xml
+
+          # 5. Eliminar star-rating autocerrados
+          sed -i 's/<star-rating[^>]*\/>//g' EPGunido-fixed.xml
+
+          # 6. Eliminar star-rating con texto directo
+          sed -i 's/<star-rating[^>]*>[0-9.]*<\/star-rating>//g' EPGunido-fixed.xml
+
+      - name: Validar XML reparado
         run: |
-          echo "Mostrando errores detectados..."
-          cat xmllint.log
+          echo "Validando XML reparado..."
+          xmllint --noout EPGunido-fixed.xml
 
-      - name: Extraer número de línea del primer error
-        if: failure()
-        id: extract_line
+      - name: Comprimir archivo reparado
         run: |
-          LINE=$(grep -oP 'EPGunido.xml:\K[0-9]+' xmllint.log | head -n 1)
-          echo "linea=$LINE" >> $GITHUB_OUTPUT
-          echo "Primer error en la línea: $LINE"
+          gzip -f EPGunido-fixed.xml
 
-      - name: Mostrar bloque alrededor del error
-        if: failure()
+      - name: Commit del archivo reparado
         run: |
-          START=$(( ${{ steps.extract_line.outputs.linea }} - 20 ))
-          END=$(( ${{ steps.extract_line.outputs.linea }} + 20 ))
-          echo "Mostrando líneas $START a $END..."
-          sed -n "${START},${END}p" EPGunido.xml
+          git config --global user.name "github-actions"
+          git config --global user.email "github-actions@github.com"
+          git add EPGunido-fixed.xml.gz
+          git commit -m "EPG reparado automáticamente"
+          git push
 
-      - name: Buscar category sospechosos
-        if: failure()
-        run: |
-          echo "Buscando <category> sospechosos..."
-          grep -n "<category" EPGunido.xml | head -n 50 || true
-
-      - name: Buscar star-rating sospechosos
-        if: failure()
-        run: |
-          echo "Buscando <star-rating> sospechosos..."
-          grep -n "<star-rating" EPGunido.xml | head -n 50 || true
-
-      - name: Finalizado
-        run: echo "Proceso completado."
 
