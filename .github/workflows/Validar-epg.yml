@@ -2,9 +2,6 @@ name: Limpiar EPG con sed
 
 on:
   workflow_dispatch:
-  push:
-    branches:
-      - main
 
 jobs:
   clean-epg:
@@ -37,6 +34,5 @@ jobs:
           git add EPGunido-fixed.xml.gz
           git commit -m "EPG limpiado con sed (eliminadas líneas <category>)"
           git push
-
 
 
