@@ -15,30 +15,68 @@ jobs:
         uses: actions/checkout@v4
 
       - name: Instalar dependencias
-        run: sudo apt-get update && sudo apt-get install -y gzip libxml2-utils
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y gzip libxml2-utils
 
       - name: Descargar EPG desde GitHub RAW
         run: |
+          echo "Descargando EPG..."
           curl -L "https://raw.githubusercontent.com/roisiano/EPG-combinado/refs/heads/main/EPGunido.xml.gz" -o EPGunido.xml.gz
 
       - name: Descomprimir EPG
         run: |
+          echo "Descomprimiendo..."
           gunzip -f EPGunido.xml.gz
 
-      - name: Validar XML (xmllint)
+      - name: Validar XML con xmllint
+        id: validate
         run: |
           echo "Validando XML..."
-          xmllint --noout EPGunido.xml || exit 1
+          xmllint --noout EPGunido.xml 2> xmllint.log || true
 
-      - name: Buscar errores de star-rating
+          if grep -q "error" xmllint.log; then
+            echo "❌ Se detectaron errores en el XML"
+            cat xmllint.log
+            exit 1
+          else
+            echo "✔️ XML válido"
+          fi
+
+      - name: Mostrar errores detectados por xmllint
+        if: failure()
         run: |
-          echo "Buscando star-rating inválidos..."
-          grep -n "</star-rating>" -n EPGunido.xml | head -n 20 || true
+          echo "Mostrando errores detectados..."
+          cat xmllint.log
 
-      - name: Buscar star-rating sin <value>
+      - name: Extraer número de línea del primer error
+        if: failure()
+        id: extract_line
         run: |
-          echo "Buscando star-rating sin <value>..."
-          grep -n "<star-rating" EPGunido.xml | grep -v "<value>" | head -n 20 || true
+          LINE=$(grep -oP 'EPGunido.xml:\K[0-9]+' xmllint.log | head -n 1)
+          echo "linea=$LINE" >> $GITHUB_OUTPUT
+          echo "Primer error en la línea: $LINE"
 
-      - name: Resultado final
-        run: echo "Validación completada."
+      - name: Mostrar bloque alrededor del error
+        if: failure()
+        run: |
+          START=$(( ${{ steps.extract_line.outputs.linea }} - 20 ))
+          END=$(( ${{ steps.extract_line.outputs.linea }} + 20 ))
+          echo "Mostrando líneas $START a $END..."
+          sed -n "${START},${END}p" EPGunido.xml
+
+      - name: Buscar category sospechosos
+        if: failure()
+        run: |
+          echo "Buscando <category> sospechosos..."
+          grep -n "<category" EPGunido.xml | head -n 50 || true
+
+      - name: Buscar star-rating sospechosos
+        if: failure()
+        run: |
+          echo "Buscando <star-rating> sospechosos..."
+          grep -n "<star-rating" EPGunido.xml | head -n 50 || true
+
+      - name: Finalizado
+        run: echo "Proceso completado."
+
