@@ -1,0 +1,48 @@
+name: Detectar y reparar EPG
+
+on:
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+
+jobs:
+  fix-epg:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Instalar dependencias
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y python3 python3-lxml gzip
+
+      - name: Descargar EPG desde GitHub RAW
+        run: |
+          curl -L "https://raw.githubusercontent.com/roisiano/EPG-combinado/refs/heads/main/EPGunido.xml.gz" -o EPGunido.xml.gz
+
+      - name: Descomprimir EPG
+        run: |
+          gunzip -f EPGunido.xml.gz
+
+      - name: Ejecutar reparación automática
+        run: |
+          python3 fix_epg.py EPGunido.xml EPGunido-fixed.xml
+
+      - name: Validar XML reparado
+        run: |
+          xmllint --noout EPGunido-fixed.xml
+
+      - name: Comprimir archivo reparado
+        run: |
+          gzip -f EPGunido-fixed.xml
+
+      - name: Commit del archivo reparado
+        run: |
+          git config --global user.name "github-actions"
+          git config --global user.email "github-actions@github.com"
+          git add EPGunido-fixed.xml.gz
+          git commit -m "EPG reparado automáticamente"
+          git push
