@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tv generator-info-name="dobleM 09/01/2026 20:47" generator-info-url="t.me/EPG_dobleM">
+<tv generator-info-name="dobleM 10/01/2026 20:47" generator-info-url="t.me/EPG_dobleM">
 	<channel id="La 1 HD">
 		<display-name>La 1</display-name>
 		<display-name>La 1.TV</display-name>
@@ -4035,6 +4035,7 @@
 		<display-name>Canal Taronja Anoia UHD</display-name>
 		<display-name>Canal Taronja Anoia 720</display-name>
 		<display-name>Canal Taronja Anoia 1080</display-name>
+		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/6b76d3a06b3e40d3aa0f180825e49c3e/Images/84251d414f3d4709beb81bba4d6bd222" />
 	</channel>
 	<channel id="Canal Reus TV">
 		<display-name>Canal Reus TV</display-name>
