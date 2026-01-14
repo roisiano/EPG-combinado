@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tv generator-info-name="dobleM 12/01/2026 20:47" generator-info-url="t.me/EPG_dobleM">
+<tv generator-info-name="dobleM 13/01/2026 20:47" generator-info-url="t.me/EPG_dobleM">
 	<channel id="La 1 HD">
 		<display-name>La 1</display-name>
 		<display-name>La 1.TV</display-name>
@@ -99,16 +99,16 @@
 		<display-name>M+ Originales 1080</display-name>
 		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Originales.png" />
 	</channel>
-	<channel id="M+ Navidad">
-		<display-name>M+ Navidad</display-name>
-		<display-name>M+ Navidad.TV</display-name>
-		<display-name>M+ Navidad SD</display-name>
-		<display-name>M+ Navidad HD</display-name>
-		<display-name>M+ Navidad FHD</display-name>
-		<display-name>M+ Navidad UHD</display-name>
-		<display-name>M+ Navidad 720</display-name>
-		<display-name>M+ Navidad 1080</display-name>
-		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Navidad.png" />
+	<channel id="M+ Tierra Media">
+		<display-name>M+ Tierra Media</display-name>
+		<display-name>M+ Tierra Media.TV</display-name>
+		<display-name>M+ Tierra Media SD</display-name>
+		<display-name>M+ Tierra Media HD</display-name>
+		<display-name>M+ Tierra Media FHD</display-name>
+		<display-name>M+ Tierra Media UHD</display-name>
+		<display-name>M+ Tierra Media 720</display-name>
+		<display-name>M+ Tierra Media 1080</display-name>
+		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Tierra%20Media.png" />
 	</channel>
 	<channel id="M+ Documentales HD">
 		<display-name>M+ Documentales</display-name>
@@ -121,17 +121,16 @@
 		<display-name>M+ Documentales 1080</display-name>
 		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Documentales.png" />
 	</channel>
-	<channel id="M+ BBC Earth">
-		<display-name>M+ BBC Earth</display-name>
-		<display-name>M+ BBC Earth.TV</display-name>
-		<display-name>M+ BBC Earth SD</display-name>
-		<display-name>M+ BBC Earth HD</display-name>
-		<display-name>M+ BBC Earth FHD</display-name>
-		<display-name>M+ BBC Earth UHD</display-name>
-		<display-name>M+ BBC Earth 720</display-name>
-		<display-name>M+ BBC Earth 1080</display-name>
-		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20BBC%20Earth.png" />
-		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/BBC%20Earth.png" />
+	<channel id="M+ Cine bélico">
+		<display-name>M+ Cine bélico</display-name>
+		<display-name>M+ Cine bélico.TV</display-name>
+		<display-name>M+ Cine bélico SD</display-name>
+		<display-name>M+ Cine bélico HD</display-name>
+		<display-name>M+ Cine bélico FHD</display-name>
+		<display-name>M+ Cine bélico UHD</display-name>
+		<display-name>M+ Cine bélico 720</display-name>
+		<display-name>M+ Cine bélico 1080</display-name>
+		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Cine%20b%C3%A9lico.png" />
 	</channel>
 	<channel id="M+ Clásicos HD">
 		<display-name>M+ Clásicos</display-name>
@@ -274,6 +273,7 @@
 		<display-name>BBC Earth UHD</display-name>
 		<display-name>BBC Earth 720</display-name>
 		<display-name>BBC Earth 1080</display-name>
+		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/BBC%20Earth.png" />
 	</channel>
 	<channel id="BBC Top Gear">
 		<display-name>BBC Top Gear</display-name>
@@ -2563,6 +2563,17 @@
 		<display-name>PTV Sevilla 1080</display-name>
 		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/PTV%20Sevilla.png" />
 	</channel>
+	<channel id="PTV Córdoba">
+		<display-name>PTV Córdoba</display-name>
+		<display-name>PTV Córdoba.TV</display-name>
+		<display-name>PTV Córdoba SD</display-name>
+		<display-name>PTV Córdoba HD</display-name>
+		<display-name>PTV Córdoba FHD</display-name>
+		<display-name>PTV Córdoba UHD</display-name>
+		<display-name>PTV Córdoba 720</display-name>
+		<display-name>PTV Córdoba 1080</display-name>
+		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/PTV%20C%C3%B3rdoba.png" />
+	</channel>
 	<channel id="PTV Linares">
 		<display-name>PTV Linares</display-name>
 		<display-name>PTV Linares.TV</display-name>
@@ -4805,6 +4816,7 @@
 		<display-name>Pro TV UHD</display-name>
 		<display-name>Pro TV 720</display-name>
 		<display-name>Pro TV 1080</display-name>
+		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Pro%20TV.png" />
 	</channel>
 	<channel id="Caracol TV">
 		<display-name>Caracol TV</display-name>
@@ -4815,6 +4827,7 @@
 		<display-name>Caracol TV UHD</display-name>
 		<display-name>Caracol TV 720</display-name>
 		<display-name>Caracol TV 1080</display-name>
+		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Caracol%20TV.png" />
 	</channel>
 	<channel id="France 2">
 		<display-name>France 2</display-name>
@@ -4825,6 +4838,7 @@
 		<display-name>France 2 UHD</display-name>
 		<display-name>France 2 720</display-name>
 		<display-name>France 2 1080</display-name>
+		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/France%202.png" />
 	</channel>
 	<channel id="France 5">
 		<display-name>France 5</display-name>
@@ -4835,6 +4849,7 @@
 		<display-name>France 5 UHD</display-name>
 		<display-name>France 5 720</display-name>
 		<display-name>France 5 1080</display-name>
+		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/France%205.png" />
 	</channel>
 	<channel id="M6">
 		<display-name>M6</display-name>
@@ -4845,6 +4860,7 @@
 		<display-name>M6 UHD</display-name>
 		<display-name>M6 720</display-name>
 		<display-name>M6 1080</display-name>
+		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M6.png" />
 	</channel>
 	<channel id="Gulli">
 		<display-name>Gulli</display-name>
@@ -4855,6 +4871,7 @@
 		<display-name>Gulli UHD</display-name>
 		<display-name>Gulli 720</display-name>
 		<display-name>Gulli 1080</display-name>
+		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Gulli.png" />
 	</channel>
 	<channel id="Tennis Channel">
 		<display-name>Tennis Channel</display-name>
@@ -4865,6 +4882,7 @@
 		<display-name>Tennis Channel UHD</display-name>
 		<display-name>Tennis Channel 720</display-name>
 		<display-name>Tennis Channel 1080</display-name>
+		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Tennis%20Channel.png" />
 	</channel>
 	<channel id="MyPadel TV">
 		<display-name>MyPadel TV</display-name>
@@ -4875,6 +4893,7 @@
 		<display-name>MyPadel TV UHD</display-name>
 		<display-name>MyPadel TV 720</display-name>
 		<display-name>MyPadel TV 1080</display-name>
+		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/MyPadel%20TV.png" />
 	</channel>
 	<channel id="NatureTime">
 		<display-name>NatureTime</display-name>
@@ -4885,6 +4904,7 @@
 		<display-name>NatureTime UHD</display-name>
 		<display-name>NatureTime 720</display-name>
 		<display-name>NatureTime 1080</display-name>
+		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/NatureTime.png" />
 	</channel>
 	<channel id="Toon Goggles">
 		<display-name>Toon Goggles</display-name>
@@ -4895,6 +4915,7 @@
 		<display-name>Toon Goggles UHD</display-name>
 		<display-name>Toon Goggles 720</display-name>
 		<display-name>Toon Goggles 1080</display-name>
+		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Toon%20Goggles.png" />
 	</channel>
 	<channel id="Gametoon">
 		<display-name>Gametoon</display-name>
@@ -4905,6 +4926,7 @@
 		<display-name>Gametoon UHD</display-name>
 		<display-name>Gametoon 720</display-name>
 		<display-name>Gametoon 1080</display-name>
+		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Gametoon.png" />
 	</channel>
 	<channel id="Vivir con gatos">
 		<display-name>Vivir con gatos</display-name>
@@ -4915,6 +4937,7 @@
 		<display-name>Vivir con gatos UHD</display-name>
 		<display-name>Vivir con gatos 720</display-name>
 		<display-name>Vivir con gatos 1080</display-name>
+		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Vivir%20con%20gatos.png" />
 	</channel>
 	<channel id="Vivir con perros">
 		<display-name>Vivir con perros</display-name>
@@ -4925,6 +4948,7 @@
 		<display-name>Vivir con perros UHD</display-name>
 		<display-name>Vivir con perros 720</display-name>
 		<display-name>Vivir con perros 1080</display-name>
+		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Vivir%20con%20perros.png" />
 	</channel>
 	<channel id="Anime Visión">
 		<display-name>Anime Visión</display-name>
@@ -4935,6 +4959,7 @@
 		<display-name>Anime Visión UHD</display-name>
 		<display-name>Anime Visión 720</display-name>
 		<display-name>Anime Visión 1080</display-name>
+		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Anime%20Visi%C3%B3n.png" />
 	</channel>
 	<channel id="Anime Visión Classics">
 		<display-name>Anime Visión Classics</display-name>
@@ -4945,6 +4970,7 @@
 		<display-name>Anime Visión Classics UHD</display-name>
 		<display-name>Anime Visión Classics 720</display-name>
 		<display-name>Anime Visión Classics 1080</display-name>
+		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Anime%20Visi%C3%B3n%20Classics.png" />
 	</channel>
 	<channel id="Flamenco Auditorio">
 		<display-name>Flamenco Auditorio</display-name>
@@ -4955,6 +4981,7 @@
 		<display-name>Flamenco Auditorio UHD</display-name>
 		<display-name>Flamenco Auditorio 720</display-name>
 		<display-name>Flamenco Auditorio 1080</display-name>
+		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Flamenco%20Auditorio.png" />
 	</channel>
 	<channel id="Sangre Fría">
 		<display-name>Sangre Fría</display-name>
@@ -4965,6 +4992,7 @@
 		<display-name>Sangre Fría UHD</display-name>
 		<display-name>Sangre Fría 720</display-name>
 		<display-name>Sangre Fría 1080</display-name>
+		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Sangre%20Fr%C3%ADa.png" />
 	</channel>
 	<channel id="Love the Planet">
 		<display-name>Love the Planet</display-name>
@@ -4975,6 +5003,7 @@
 		<display-name>Love the Planet UHD</display-name>
 		<display-name>Love the Planet 720</display-name>
 		<display-name>Love the Planet 1080</display-name>
+		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Love%20the%20Planet.png" />
 	</channel>
 	<channel id="Love Wine">
 		<display-name>Love Wine</display-name>
@@ -4985,6 +5014,7 @@
 		<display-name>Love Wine UHD</display-name>
 		<display-name>Love Wine 720</display-name>
 		<display-name>Love Wine 1080</display-name>
+		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Love%20Wine.png" />
 	</channel>
 	<channel id="Historia y Vida">
 		<display-name>Historia y Vida</display-name>
@@ -4995,6 +5025,7 @@
 		<display-name>Historia y Vida UHD</display-name>
 		<display-name>Historia y Vida 720</display-name>
 		<display-name>Historia y Vida 1080</display-name>
+		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Historia%20y%20Vida.png" />
 	</channel>
 	<channel id="Moto ADV">
 		<display-name>Moto ADV</display-name>
@@ -5005,6 +5036,7 @@
 		<display-name>Moto ADV UHD</display-name>
 		<display-name>Moto ADV 720</display-name>
 		<display-name>Moto ADV 1080</display-name>
+		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Moto%20ADV.png" />
 	</channel>
 	<channel id="8madrid TV">
 		<display-name>8madrid TV</display-name>
@@ -6284,7 +6316,6 @@
 		<display-name>DE | Das Erste UHD</display-name>
 		<display-name>DE | Das Erste 720</display-name>
 		<display-name>DE | Das Erste 1080</display-name>
-		<icon src="http://ngiss.t-online.de/cm1s/media/cf416cc96a575e40e35f43c05d829efdb176bc35.png" />
 	</channel>
 	<channel id="DE | ZDF">
 		<display-name>DE | ZDF</display-name>
@@ -6295,7 +6326,6 @@
 		<display-name>DE | ZDF UHD</display-name>
 		<display-name>DE | ZDF 720</display-name>
 		<display-name>DE | ZDF 1080</display-name>
-		<icon src="http://ngiss.t-online.de/cm1s/media/e19130e25f23d70df7f85807c6ddc1c8d62109f5.png" />
 	</channel>
 	<channel id="DE | RTL">
 		<display-name>DE | RTL</display-name>
@@ -6306,7 +6336,6 @@
 		<display-name>DE | RTL UHD</display-name>
 		<display-name>DE | RTL 720</display-name>
 		<display-name>DE | RTL 1080</display-name>
-		<icon src="http://ngiss.t-online.de/cm1s/media/9837608c7cfa66c854354b00e53992f6861bcd1a.png" />
 	</channel>
 	<channel id="DE | KiKA">
 		<display-name>DE | KiKA</display-name>
@@ -6317,7 +6346,6 @@
 		<display-name>DE | KiKA UHD</display-name>
 		<display-name>DE | KiKA 720</display-name>
 		<display-name>DE | KiKA 1080</display-name>
-		<icon src="http://ngiss.t-online.de/cm1s/media/2f0ff7b44c615c4de521878f52a67bc204e90ccc.png" />
 	</channel>
 	<channel id="DE | MTV">
 		<display-name>DE | MTV</display-name>
@@ -6328,7 +6356,6 @@
 		<display-name>DE | MTV UHD</display-name>
 		<display-name>DE | MTV 720</display-name>
 		<display-name>DE | MTV 1080</display-name>
-		<icon src="http://ngiss.t-online.de/cm1s/media/168b11e1cd29dad018263863ebd1ba3085694b39.png" />
 	</channel>
 	<channel id="DE | ARTE">
 		<display-name>DE | ARTE</display-name>
@@ -6339,7 +6366,6 @@
 		<display-name>DE | ARTE UHD</display-name>
 		<display-name>DE | ARTE 720</display-name>
 		<display-name>DE | ARTE 1080</display-name>
-		<icon src="http://ngiss.t-online.de/cm1s/media/8421f189118991ab7b5d1bb1a749cf8eca1b0501.png" />
 	</channel>
 	<channel id="DE | QVC">
 		<display-name>DE | QVC</display-name>
@@ -6350,7 +6376,6 @@
 		<display-name>DE | QVC UHD</display-name>
 		<display-name>DE | QVC 720</display-name>
 		<display-name>DE | QVC 1080</display-name>
-		<icon src="http://ngiss.t-online.de/cm1s/media/fd01d35d5c28a955c3e7e62a65d1018feb3b8317.png" />
 	</channel>
 	<channel id="DE | More Than Sports TV">
 		<display-name>DE | More Than Sports TV</display-name>
@@ -6361,7 +6386,6 @@
 		<display-name>DE | More Than Sports TV UHD</display-name>
 		<display-name>DE | More Than Sports TV 720</display-name>
 		<display-name>DE | More Than Sports TV 1080</display-name>
-		<icon src="http://ngiss.t-online.de/cm1s/media/c6e18e3771201a6b8ff041c2836eb241497af0ea.png" />
 	</channel>
 	<channel id="DE | MS Sport">
 		<display-name>DE | MS Sport</display-name>
@@ -6372,7 +6396,6 @@
 		<display-name>DE | MS Sport UHD</display-name>
 		<display-name>DE | MS Sport 720</display-name>
 		<display-name>DE | MS Sport 1080</display-name>
-		<icon src="http://ngiss.t-online.de/cm1s/media/a208c66966241315ecf746853baca8b3d5ca5ab5.png" />
 	</channel>
 	<channel id="DE | Eurosport 1">
 		<display-name>DE | Eurosport 1</display-name>
@@ -6383,7 +6406,6 @@
 		<display-name>DE | Eurosport 1 UHD</display-name>
 		<display-name>DE | Eurosport 1 720</display-name>
 		<display-name>DE | Eurosport 1 1080</display-name>
-		<icon src="http://ngiss.t-online.de/cm1s/media/78c2b996afeb3ce1579cf2b322ee15216020b0b6.png" />
 	</channel>
 	<channel id="DE | Eurosport 2">
 		<display-name>DE | Eurosport 2</display-name>
@@ -6394,7 +6416,6 @@
 		<display-name>DE | Eurosport 2 UHD</display-name>
 		<display-name>DE | Eurosport 2 720</display-name>
 		<display-name>DE | Eurosport 2 1080</display-name>
-		<icon src="http://ngiss.t-online.de/cm1s/media/2e93193d3564e9ceba2faf1a89427e489b5d981a.png" />
 	</channel>
 	<channel id="DE | Red Bull TV">
 		<display-name>DE | Red Bull TV</display-name>
@@ -6405,7 +6426,6 @@
 		<display-name>DE | Red Bull TV UHD</display-name>
 		<display-name>DE | Red Bull TV 720</display-name>
 		<display-name>DE | Red Bull TV 1080</display-name>
-		<icon src="http://ngiss.t-online.de/cm1s/media/e1ea5bb2bb473472a8123ce8cc0079f60454c390.png" />
 	</channel>
 	<channel id="DE | Red Bull TV Motorsport">
 		<display-name>DE | Red Bull TV Motorsport</display-name>
@@ -6416,7 +6436,6 @@
 		<display-name>DE | Red Bull TV Motorsport UHD</display-name>
 		<display-name>DE | Red Bull TV Motorsport 720</display-name>
 		<display-name>DE | Red Bull TV Motorsport 1080</display-name>
-		<icon src="http://ngiss.t-online.de/cm1s/media/4b9636542ae8a6af85d6a8c9f71cf11893001dc2.jpeg" />
 	</channel>
 	<channel id="DE | SPORT1">
 		<display-name>DE | SPORT1</display-name>
@@ -6427,7 +6446,6 @@
 		<display-name>DE | SPORT1 UHD</display-name>
 		<display-name>DE | SPORT1 720</display-name>
 		<display-name>DE | SPORT1 1080</display-name>
-		<icon src="http://ngiss.t-online.de/cm1s/media/94977337f9f8820fc5258cc186f803a581286245.png" />
 	</channel>
 	<channel id="DE | Motorvision+">
 		<display-name>DE | Motorvision+</display-name>
@@ -6438,7 +6456,6 @@
 		<display-name>DE | Motorvision+ UHD</display-name>
 		<display-name>DE | Motorvision+ 720</display-name>
 		<display-name>DE | Motorvision+ 1080</display-name>
-		<icon src="http://ngiss.t-online.de/cm1s/media/c106fe8ef548c796be95ef4d6e17d7718e8f765e.png" />
 	</channel>
 	<channel id="DE | eSportsONE">
 		<display-name>DE | eSportsONE</display-name>
@@ -6449,7 +6466,6 @@
 		<display-name>DE | eSportsONE UHD</display-name>
 		<display-name>DE | eSportsONE 720</display-name>
 		<display-name>DE | eSportsONE 1080</display-name>
-		<icon src="http://ngiss.t-online.de/cm1s/media/d9eaa902b52b78517f3b47ab210111b9d37a7fa7.png" />
 	</channel>
 	<channel id="DE | MagentaSport">
 		<display-name>DE | MagentaSport</display-name>
@@ -6460,7 +6476,6 @@
 		<display-name>DE | MagentaSport UHD</display-name>
 		<display-name>DE | MagentaSport 720</display-name>
 		<display-name>DE | MagentaSport 1080</display-name>
-		<icon src="http://ngiss.t-online.de/cm1s/media/ac4a4a48299d42f6ee414227a1e3e25da23a3abd.png" />
 	</channel>
 	<channel id="DE | SPORTDIGITAL FUSSBALL">
 		<display-name>DE | SPORTDIGITAL FUSSBALL</display-name>
@@ -6471,7 +6486,6 @@
 		<display-name>DE | SPORTDIGITAL FUSSBALL UHD</display-name>
 		<display-name>DE | SPORTDIGITAL FUSSBALL 720</display-name>
 		<display-name>DE | SPORTDIGITAL FUSSBALL 1080</display-name>
-		<icon src="http://ngiss.t-online.de/cm1s/media/58639959eb7241ee5cc8dbf96122c1f73ec809a9.png" />
 	</channel>
 	<channel id="DE | Sportdigital1+">
 		<display-name>DE | Sportdigital1+</display-name>
@@ -6482,7 +6496,6 @@
 		<display-name>DE | Sportdigital1+ UHD</display-name>
 		<display-name>DE | Sportdigital1+ 720</display-name>
 		<display-name>DE | Sportdigital1+ 1080</display-name>
-		<icon src="http://ngiss.t-online.de/cm1s/media/1387e929a8dc564c1b47249c58db2087ae0fc93b.png" />
 	</channel>
 	<channel id="DE | Sky Sport Kompakt 1">
 		<display-name>DE | Sky Sport Kompakt 1</display-name>
@@ -6493,7 +6506,6 @@
 		<display-name>DE | Sky Sport Kompakt 1 UHD</display-name>
 		<display-name>DE | Sky Sport Kompakt 1 720</display-name>
 		<display-name>DE | Sky Sport Kompakt 1 1080</display-name>
-		<icon src="http://ngiss.t-online.de/cm1s/media/50dd32f0f42a79c4b5379b499412f381564764e3.png" />
 	</channel>
 	<channel id="DE | Sky Sport News">
 		<display-name>DE | Sky Sport News</display-name>
@@ -6504,7 +6516,6 @@
 		<display-name>DE | Sky Sport News UHD</display-name>
 		<display-name>DE | Sky Sport News 720</display-name>
 		<display-name>DE | Sky Sport News 1080</display-name>
-		<icon src="http://ngiss.t-online.de/cm1s/media/2498751ec7f984ac0d80376e61d8322492d69b83.png" />
 	</channel>
 	<channel id="DE | Sky Sport Top Event">
 		<display-name>DE | Sky Sport Top Event</display-name>
@@ -6515,7 +6526,6 @@
 		<display-name>DE | Sky Sport Top Event UHD</display-name>
 		<display-name>DE | Sky Sport Top Event 720</display-name>
 		<display-name>DE | Sky Sport Top Event 1080</display-name>
-		<icon src="http://ngiss.t-online.de/cm1s/media/577040e2d47ce20ce71f0985bd447e2f328542fd.png" />
 	</channel>
 	<channel id="DE | Sky Sport Bundesliga">
 		<display-name>DE | Sky Sport Bundesliga</display-name>
@@ -6526,7 +6536,6 @@
 		<display-name>DE | Sky Sport Bundesliga UHD</display-name>
 		<display-name>DE | Sky Sport Bundesliga 720</display-name>
 		<display-name>DE | Sky Sport Bundesliga 1080</display-name>
-		<icon src="http://ngiss.t-online.de/cm1s/media/e05bdb7a982d1d570cf99d19ad357d5572e477eb.png" />
 	</channel>
 	<channel id="DE | Sky Sport F1">
 		<display-name>DE | Sky Sport F1</display-name>
@@ -6537,7 +6546,6 @@
 		<display-name>DE | Sky Sport F1 UHD</display-name>
 		<display-name>DE | Sky Sport F1 720</display-name>
 		<display-name>DE | Sky Sport F1 1080</display-name>
-		<icon src="http://ngiss.t-online.de/cm1s/media/5e262f2be1a0530c07327d65e867d74b524fac03.png" />
 	</channel>
 	<channel id="DE | Sky Sport Premier League">
 		<display-name>DE | Sky Sport Premier League</display-name>
@@ -6548,7 +6556,6 @@
 		<display-name>DE | Sky Sport Premier League UHD</display-name>
 		<display-name>DE | Sky Sport Premier League 720</display-name>
 		<display-name>DE | Sky Sport Premier League 1080</display-name>
-		<icon src="http://ngiss.t-online.de/cm1s/media/7cf51fbd8edfb9a32257339ecb7ad0f8eee8b989.png" />
 	</channel>
 	<channel id="DE | Sky Sport Mix">
 		<display-name>DE | Sky Sport Mix</display-name>
@@ -6559,7 +6566,6 @@
 		<display-name>DE | Sky Sport Mix UHD</display-name>
 		<display-name>DE | Sky Sport Mix 720</display-name>
 		<display-name>DE | Sky Sport Mix 1080</display-name>
-		<icon src="http://ngiss.t-online.de/cm1s/media/ed2e5bdbaddbfbb84f40d2980fd9bf4022a5a1b9.png" />
 	</channel>
 	<channel id="DE | Sky Sport Tennis">
 		<display-name>DE | Sky Sport Tennis</display-name>
@@ -6570,7 +6576,6 @@
 		<display-name>DE | Sky Sport Tennis UHD</display-name>
 		<display-name>DE | Sky Sport Tennis 720</display-name>
 		<display-name>DE | Sky Sport Tennis 1080</display-name>
-		<icon src="http://ngiss.t-online.de/cm1s/media/2b8c1e691bf3f12b2ca1d01fe233ebf4871d8808.png" />
 	</channel>
 	<channel id="DE | Sky Sport Golf">
 		<display-name>DE | Sky Sport Golf</display-name>
@@ -6581,7 +6586,6 @@
 		<display-name>DE | Sky Sport Golf UHD</display-name>
 		<display-name>DE | Sky Sport Golf 720</display-name>
 		<display-name>DE | Sky Sport Golf 1080</display-name>
-		<icon src="http://ngiss.t-online.de/cm1s/media/4522d64c5b2b9fd8ed24d3cd9e03d918dc32037d.png" />
 	</channel>
 	<channel id="DE | Sky Sport Bundesliga 1">
 		<display-name>DE | Sky Sport Bundesliga 1</display-name>
@@ -6592,7 +6596,6 @@
 		<display-name>DE | Sky Sport Bundesliga 1 UHD</display-name>
 		<display-name>DE | Sky Sport Bundesliga 1 720</display-name>
 		<display-name>DE | Sky Sport Bundesliga 1 1080</display-name>
-		<icon src="http://ngiss.t-online.de/cm1s/media/315f4e1d7ae0ed6a576cc85574c6e195f2820925.png" />
 	</channel>
 	<channel id="DE | Sky Sport Bundesliga 2">
 		<display-name>DE | Sky Sport Bundesliga 2</display-name>
@@ -6603,7 +6606,6 @@
 		<display-name>DE | Sky Sport Bundesliga 2 UHD</display-name>
 		<display-name>DE | Sky Sport Bundesliga 2 720</display-name>
 		<display-name>DE | Sky Sport Bundesliga 2 1080</display-name>
-		<icon src="http://ngiss.t-online.de/cm1s/media/54fdfb49171a1da7210ccf22d8f8af24934365e1.png" />
 	</channel>
 	<channel id="DE | Sky Sport Bundesliga 3">
 		<display-name>DE | Sky Sport Bundesliga 3</display-name>
@@ -6614,7 +6616,6 @@
 		<display-name>DE | Sky Sport Bundesliga 3 UHD</display-name>
 		<display-name>DE | Sky Sport Bundesliga 3 720</display-name>
 		<display-name>DE | Sky Sport Bundesliga 3 1080</display-name>
-		<icon src="http://ngiss.t-online.de/cm1s/media/b7604a3db1310d4a4fb83fffb15debe55d41dbf7.png" />
 	</channel>
 	<channel id="DE | Sky Sport Bundesliga 4">
 		<display-name>DE | Sky Sport Bundesliga 4</display-name>
@@ -6625,7 +6626,6 @@
 		<display-name>DE | Sky Sport Bundesliga 4 UHD</display-name>
 		<display-name>DE | Sky Sport Bundesliga 4 720</display-name>
 		<display-name>DE | Sky Sport Bundesliga 4 1080</display-name>
-		<icon src="http://ngiss.t-online.de/cm1s/media/ab1f8d87c8f74b510387c81c0a89aa004006ee60.png" />
 	</channel>
 	<channel id="DE | Sky Sport Bundesliga 5">
 		<display-name>DE | Sky Sport Bundesliga 5</display-name>
@@ -6636,7 +6636,6 @@
 		<display-name>DE | Sky Sport Bundesliga 5 UHD</display-name>
 		<display-name>DE | Sky Sport Bundesliga 5 720</display-name>
 		<display-name>DE | Sky Sport Bundesliga 5 1080</display-name>
-		<icon src="http://ngiss.t-online.de/cm1s/media/9fbf9f911b60bb7c0bbfceaf6b0506cadf63cc02.png" />
 	</channel>
 	<channel id="DE | Sky Sport Bundesliga 6">
 		<display-name>DE | Sky Sport Bundesliga 6</display-name>
@@ -6647,7 +6646,6 @@
 		<display-name>DE | Sky Sport Bundesliga 6 UHD</display-name>
 		<display-name>DE | Sky Sport Bundesliga 6 720</display-name>
 		<display-name>DE | Sky Sport Bundesliga 6 1080</display-name>
-		<icon src="http://ngiss.t-online.de/cm1s/media/1f8dc21b9fce64499d61956f407ab5a72cb78ed0.png" />
 	</channel>
 	<channel id="DE | Sky Sport Bundesliga 7">
 		<display-name>DE | Sky Sport Bundesliga 7</display-name>
@@ -6658,7 +6656,6 @@
 		<display-name>DE | Sky Sport Bundesliga 7 UHD</display-name>
 		<display-name>DE | Sky Sport Bundesliga 7 720</display-name>
 		<display-name>DE | Sky Sport Bundesliga 7 1080</display-name>
-		<icon src="http://ngiss.t-online.de/cm1s/media/ec53727b223a2c6b129c78e2b06c7f45cce4659a.png" />
 	</channel>
 	<channel id="DE | Sky Sport Bundesliga 8">
 		<display-name>DE | Sky Sport Bundesliga 8</display-name>
@@ -6669,7 +6666,6 @@
 		<display-name>DE | Sky Sport Bundesliga 8 UHD</display-name>
 		<display-name>DE | Sky Sport Bundesliga 8 720</display-name>
 		<display-name>DE | Sky Sport Bundesliga 8 1080</display-name>
-		<icon src="http://ngiss.t-online.de/cm1s/media/d997f9be46160f7c3db14cbdc3cf2b48fc6eb274.png" />
 	</channel>
 	<channel id="DE | Sky Sport Bundesliga 9">
 		<display-name>DE | Sky Sport Bundesliga 9</display-name>
@@ -6680,7 +6676,6 @@
 		<display-name>DE | Sky Sport Bundesliga 9 UHD</display-name>
 		<display-name>DE | Sky Sport Bundesliga 9 720</display-name>
 		<display-name>DE | Sky Sport Bundesliga 9 1080</display-name>
-		<icon src="http://ngiss.t-online.de/cm1s/media/e48399d331a672785f16f1011054a01cd52413df.png" />
 	</channel>
 	<channel id="DE | Sky Sport Bundesliga 10">
 		<display-name>DE | Sky Sport Bundesliga 10</display-name>
@@ -6691,7 +6686,6 @@
 		<display-name>DE | Sky Sport Bundesliga 10 UHD</display-name>
 		<display-name>DE | Sky Sport Bundesliga 10 720</display-name>
 		<display-name>DE | Sky Sport Bundesliga 10 1080</display-name>
-		<icon src="http://ngiss.t-online.de/cm1s/media/d00d089e311ba581066027cff70935778efaf201.png" />
 	</channel>
 	<channel id="DE | Sky Sport 1">
 		<display-name>DE | Sky Sport 1</display-name>
@@ -6702,7 +6696,6 @@
 		<display-name>DE | Sky Sport 1 UHD</display-name>
 		<display-name>DE | Sky Sport 1 720</display-name>
 		<display-name>DE | Sky Sport 1 1080</display-name>
-		<icon src="http://ngiss.t-online.de/cm1s/media/bfca3bcb13981de2a46b970f3167110e0f3c5a83.png" />
 	</channel>
 	<channel id="DE | Sky Sport 2">
 		<display-name>DE | Sky Sport 2</display-name>
@@ -6713,7 +6706,6 @@
 		<display-name>DE | Sky Sport 2 UHD</display-name>
 		<display-name>DE | Sky Sport 2 720</display-name>
 		<display-name>DE | Sky Sport 2 1080</display-name>
-		<icon src="http://ngiss.t-online.de/cm1s/media/c330c871a2f15660efbf06c917fc6af8606874c7.png" />
 	</channel>
 	<channel id="DE | Sky Sport 3">
 		<display-name>DE | Sky Sport 3</display-name>
@@ -6724,7 +6716,6 @@
 		<display-name>DE | Sky Sport 3 UHD</display-name>
 		<display-name>DE | Sky Sport 3 720</display-name>
 		<display-name>DE | Sky Sport 3 1080</display-name>
-		<icon src="http://ngiss.t-online.de/cm1s/media/f3093734389bd620327880348d7974ba38d4c4d3.png" />
 	</channel>
 	<channel id="DE | Sky Sport 4">
 		<display-name>DE | Sky Sport 4</display-name>
@@ -6735,7 +6726,6 @@
 		<display-name>DE | Sky Sport 4 UHD</display-name>
 		<display-name>DE | Sky Sport 4 720</display-name>
 		<display-name>DE | Sky Sport 4 1080</display-name>
-		<icon src="http://ngiss.t-online.de/cm1s/media/c6a8dbde2b6d4afa5961586d6317f0cc86ddc6e9.png" />
 	</channel>
 	<channel id="DE | Sky Sport 5">
 		<display-name>DE | Sky Sport 5</display-name>
@@ -6746,7 +6736,6 @@
 		<display-name>DE | Sky Sport 5 UHD</display-name>
 		<display-name>DE | Sky Sport 5 720</display-name>
 		<display-name>DE | Sky Sport 5 1080</display-name>
-		<icon src="http://ngiss.t-online.de/cm1s/media/cda082d3267802e1bd0721e6a64850b2920ac427.png" />
 	</channel>
 	<channel id="DE | Sky Sport 6">
 		<display-name>DE | Sky Sport 6</display-name>
@@ -6757,7 +6746,6 @@
 		<display-name>DE | Sky Sport 6 UHD</display-name>
 		<display-name>DE | Sky Sport 6 720</display-name>
 		<display-name>DE | Sky Sport 6 1080</display-name>
-		<icon src="http://ngiss.t-online.de/cm1s/media/acc2e098dc86b8c85a1bbfa5f6311b5978603e1c.png" />
 	</channel>
 	<channel id="DE | Sky Sport 7">
 		<display-name>DE | Sky Sport 7</display-name>
@@ -6768,7 +6756,6 @@
 		<display-name>DE | Sky Sport 7 UHD</display-name>
 		<display-name>DE | Sky Sport 7 720</display-name>
 		<display-name>DE | Sky Sport 7 1080</display-name>
-		<icon src="http://ngiss.t-online.de/cm1s/media/3957d066cf0f424aabd67e0d677737ff0c2b524c.png" />
 	</channel>
 	<channel id="DE | Sky Sport 8">
 		<display-name>DE | Sky Sport 8</display-name>
@@ -6779,7 +6766,6 @@
 		<display-name>DE | Sky Sport 8 UHD</display-name>
 		<display-name>DE | Sky Sport 8 720</display-name>
 		<display-name>DE | Sky Sport 8 1080</display-name>
-		<icon src="http://ngiss.t-online.de/cm1s/media/27bc8c5ac71da92955eb4952145b305d6d1813d5.png" />
 	</channel>
 	<channel id="DE | Sky Sport 9">
 		<display-name>DE | Sky Sport 9</display-name>
@@ -6790,7 +6776,6 @@
 		<display-name>DE | Sky Sport 9 UHD</display-name>
 		<display-name>DE | Sky Sport 9 720</display-name>
 		<display-name>DE | Sky Sport 9 1080</display-name>
-		<icon src="http://ngiss.t-online.de/cm1s/media/2b19683849d2f29ba98a944a4489a09625603b14.png" />
 	</channel>
 	<channel id="DE | Sky Sport 10">
 		<display-name>DE | Sky Sport 10</display-name>
@@ -6801,7 +6786,6 @@
 		<display-name>DE | Sky Sport 10 UHD</display-name>
 		<display-name>DE | Sky Sport 10 720</display-name>
 		<display-name>DE | Sky Sport 10 1080</display-name>
-		<icon src="http://ngiss.t-online.de/cm1s/media/25751836767f9282d88d99e61c38a1529b0616d3.png" />
 	</channel>
 	<channel id="Onetoro">
 		<display-name>Onetoro</display-name>
