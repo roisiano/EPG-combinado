@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tv generator-info-name="dobleM 27/01/2026 20:47" generator-info-url="t.me/EPG_dobleM">
+<tv generator-info-name="dobleM 28/01/2026 20:47" generator-info-url="t.me/EPG_dobleM">
 	<channel id="La 1 HD">
 		<display-name>La 1</display-name>
 		<display-name>La 1.TV</display-name>
@@ -2387,17 +2387,6 @@
 		<display-name>DAZN F1 BAR 1080</display-name>
 		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20F1%20BAR.png" />
 	</channel>
-	<channel id="Gol Classics">
-		<display-name>Gol Classics</display-name>
-		<display-name>Gol Classics.TV</display-name>
-		<display-name>Gol Classics SD</display-name>
-		<display-name>Gol Classics HD</display-name>
-		<display-name>Gol Classics FHD</display-name>
-		<display-name>Gol Classics UHD</display-name>
-		<display-name>Gol Classics 720</display-name>
-		<display-name>Gol Classics 1080</display-name>
-		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Gol%20Classics.png" />
-	</channel>
 	<channel id="GolStadium">
 		<display-name>GolStadium</display-name>
 		<display-name>GolStadium.TV</display-name>
@@ -2408,6 +2397,17 @@
 		<display-name>GolStadium 720</display-name>
 		<display-name>GolStadium 1080</display-name>
 		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/GolStadium.png" />
+	</channel>
+	<channel id="Gol Classics">
+		<display-name>Gol Classics</display-name>
+		<display-name>Gol Classics.TV</display-name>
+		<display-name>Gol Classics SD</display-name>
+		<display-name>Gol Classics HD</display-name>
+		<display-name>Gol Classics FHD</display-name>
+		<display-name>Gol Classics UHD</display-name>
+		<display-name>Gol Classics 720</display-name>
+		<display-name>Gol Classics 1080</display-name>
+		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Gol%20Classics.png" />
 	</channel>
 	<channel id="Torolé TV">
 		<display-name>Torolé TV</display-name>
@@ -2585,6 +2585,17 @@
 		<display-name>PTV Sevilla 1080</display-name>
 		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/PTV%20Sevilla.png" />
 	</channel>
+	<channel id="PTV Córdoba">
+		<display-name>PTV Córdoba</display-name>
+		<display-name>PTV Córdoba.TV</display-name>
+		<display-name>PTV Córdoba SD</display-name>
+		<display-name>PTV Córdoba HD</display-name>
+		<display-name>PTV Córdoba FHD</display-name>
+		<display-name>PTV Córdoba UHD</display-name>
+		<display-name>PTV Córdoba 720</display-name>
+		<display-name>PTV Córdoba 1080</display-name>
+		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/PTV%20C%C3%B3rdoba.png" />
+	</channel>
 	<channel id="PTV Linares">
 		<display-name>PTV Linares</display-name>
 		<display-name>PTV Linares.TV</display-name>
@@ -2639,39 +2650,6 @@
 		<display-name>Unbeaten 720</display-name>
 		<display-name>Unbeaten 1080</display-name>
 		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Unbeaten.png" />
-	</channel>
-	<channel id="PowerSports World">
-		<display-name>PowerSports World</display-name>
-		<display-name>PowerSports World.TV</display-name>
-		<display-name>PowerSports World SD</display-name>
-		<display-name>PowerSports World HD</display-name>
-		<display-name>PowerSports World FHD</display-name>
-		<display-name>PowerSports World UHD</display-name>
-		<display-name>PowerSports World 720</display-name>
-		<display-name>PowerSports World 1080</display-name>
-		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/PowerSports%20World.png" />
-	</channel>
-	<channel id="PLL Network">
-		<display-name>PLL Network</display-name>
-		<display-name>PLL Network.TV</display-name>
-		<display-name>PLL Network SD</display-name>
-		<display-name>PLL Network HD</display-name>
-		<display-name>PLL Network FHD</display-name>
-		<display-name>PLL Network UHD</display-name>
-		<display-name>PLL Network 720</display-name>
-		<display-name>PLL Network 1080</display-name>
-		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/PLL%20Network.png" />
-	</channel>
-	<channel id="Billiard TV">
-		<display-name>Billiard TV</display-name>
-		<display-name>Billiard TV.TV</display-name>
-		<display-name>Billiard TV SD</display-name>
-		<display-name>Billiard TV HD</display-name>
-		<display-name>Billiard TV FHD</display-name>
-		<display-name>Billiard TV UHD</display-name>
-		<display-name>Billiard TV 720</display-name>
-		<display-name>Billiard TV 1080</display-name>
-		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Billiard%20TV.png" />
 	</channel>
 	<channel id="DAZN Bundesliga">
 		<display-name>DAZN Bundesliga</display-name>
@@ -6727,6 +6705,7 @@
 		<display-name>DE | Sky Sport 6 UHD</display-name>
 		<display-name>DE | Sky Sport 6 720</display-name>
 		<display-name>DE | Sky Sport 6 1080</display-name>
+		<icon src="https://www.sky.de/static/img/senderlogos_dark/135_sky_logo_skysporthd8_tvguide.png" />
 	</channel>
 	<channel id="DE | Sky Sport 7">
 		<display-name>DE | Sky Sport 7</display-name>
