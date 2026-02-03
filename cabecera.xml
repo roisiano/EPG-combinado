@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tv generator-info-name="dobleM 01/02/2026 20:47" generator-info-url="t.me/EPG_dobleM">
+<tv generator-info-name="dobleM 02/02/2026 20:47" generator-info-url="t.me/EPG_dobleM">
 	<channel id="La 1 HD">
 		<display-name>La 1</display-name>
 		<display-name>La 1.TV</display-name>
@@ -2387,17 +2387,6 @@
 		<display-name>DAZN F1 BAR 1080</display-name>
 		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20F1%20BAR.png" />
 	</channel>
-	<channel id="GolStadium">
-		<display-name>GolStadium</display-name>
-		<display-name>GolStadium.TV</display-name>
-		<display-name>GolStadium SD</display-name>
-		<display-name>GolStadium HD</display-name>
-		<display-name>GolStadium FHD</display-name>
-		<display-name>GolStadium UHD</display-name>
-		<display-name>GolStadium 720</display-name>
-		<display-name>GolStadium 1080</display-name>
-		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/GolStadium.png" />
-	</channel>
 	<channel id="Gol Classics">
 		<display-name>Gol Classics</display-name>
 		<display-name>Gol Classics.TV</display-name>
@@ -2408,6 +2397,17 @@
 		<display-name>Gol Classics 720</display-name>
 		<display-name>Gol Classics 1080</display-name>
 		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Gol%20Classics.png" />
+	</channel>
+	<channel id="GolStadium">
+		<display-name>GolStadium</display-name>
+		<display-name>GolStadium.TV</display-name>
+		<display-name>GolStadium SD</display-name>
+		<display-name>GolStadium HD</display-name>
+		<display-name>GolStadium FHD</display-name>
+		<display-name>GolStadium UHD</display-name>
+		<display-name>GolStadium 720</display-name>
+		<display-name>GolStadium 1080</display-name>
+		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/GolStadium.png" />
 	</channel>
 	<channel id="Torolé TV">
 		<display-name>Torolé TV</display-name>
@@ -6444,6 +6444,7 @@
 		<display-name>DE | Sky Sport Austria 2 UHD</display-name>
 		<display-name>DE | Sky Sport Austria 2 720</display-name>
 		<display-name>DE | Sky Sport Austria 2 1080</display-name>
+		<icon src="https://www.sky.de/static/img/senderlogos_dark/729_sky_logo_skysportaustria_2-hd_tvguide.png" />
 	</channel>
 	<channel id="DE | Sky Sport Austria 3">
 		<display-name>DE | Sky Sport Austria 3</display-name>
@@ -6703,7 +6704,6 @@
 		<display-name>DE | Sky Sport 8 UHD</display-name>
 		<display-name>DE | Sky Sport 8 720</display-name>
 		<display-name>DE | Sky Sport 8 1080</display-name>
-		<icon src="https://www.sky.de/static/img/senderlogos_dark/137_sky_logo_skysporthd10_tvguide.png" />
 	</channel>
 	<channel id="DE | Sky Sport 9">
 		<display-name>DE | Sky Sport 9</display-name>
