@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tv generator-info-name="dobleM 07/02/2026 20:47" generator-info-url="t.me/EPG_dobleM">
+<tv generator-info-name="dobleM 08/02/2026 20:47" generator-info-url="t.me/EPG_dobleM">
 	<channel id="La 1 HD">
 		<display-name>La 1</display-name>
 		<display-name>La 1.TV</display-name>
@@ -6594,7 +6594,6 @@
 		<display-name>DE | Sky Sport Bundesliga 6 UHD</display-name>
 		<display-name>DE | Sky Sport Bundesliga 6 720</display-name>
 		<display-name>DE | Sky Sport Bundesliga 6 1080</display-name>
-		<icon src="https://www.sky.de/static/img/senderlogos_dark/124_sky_logo_skybundesligahd7_tvguide.png" />
 	</channel>
 	<channel id="DE | Sky Sport Bundesliga 7">
 		<display-name>DE | Sky Sport Bundesliga 7</display-name>
@@ -6605,7 +6604,6 @@
 		<display-name>DE | Sky Sport Bundesliga 7 UHD</display-name>
 		<display-name>DE | Sky Sport Bundesliga 7 720</display-name>
 		<display-name>DE | Sky Sport Bundesliga 7 1080</display-name>
-		<icon src="https://www.sky.de/static/img/senderlogos_dark/125_sky_logo_skybundesligahd8_tvguide.png" />
 	</channel>
 	<channel id="DE | Sky Sport Bundesliga 8">
 		<display-name>DE | Sky Sport Bundesliga 8</display-name>
@@ -6723,7 +6721,6 @@
 		<display-name>DE | Sky Sport 8 UHD</display-name>
 		<display-name>DE | Sky Sport 8 720</display-name>
 		<display-name>DE | Sky Sport 8 1080</display-name>
-		<icon src="https://www.sky.de/static/img/senderlogos_dark/137_sky_logo_skysporthd10_tvguide.png" />
 	</channel>
 	<channel id="DE | Sky Sport 9">
 		<display-name>DE | Sky Sport 9</display-name>
@@ -6734,7 +6731,6 @@
 		<display-name>DE | Sky Sport 9 UHD</display-name>
 		<display-name>DE | Sky Sport 9 720</display-name>
 		<display-name>DE | Sky Sport 9 1080</display-name>
-		<icon src="https://www.sky.de/static/img/senderlogos_dark/138_sky_logo_skysporthd11_tvguide.png" />
 	</channel>
 	<channel id="DE | Sky Sport 10">
 		<display-name>DE | Sky Sport 10</display-name>
@@ -6845,16 +6841,16 @@
 		<display-name>Elche 7 TV 1080</display-name>
 		<icon src="https://elche7tv.es/wp-content/uploads/2023/08/Web-Retina-Logo-Upload-544-%C3%97-180-px.png" />
 	</channel>
-	<channel id="Play Melilla">
-		<display-name>Play Melilla</display-name>
-		<display-name>Play Melilla.TV</display-name>
-		<display-name>Play Melilla SD</display-name>
-		<display-name>Play Melilla HD</display-name>
-		<display-name>Play Melilla FHD</display-name>
-		<display-name>Play Melilla UHD</display-name>
-		<display-name>Play Melilla 720</display-name>
-		<display-name>Play Melilla 1080</display-name>
-		<icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Play_Melilla.svg/512px-Play_Melilla.svg.png" />
+	<channel id="TV Melilla">
+		<display-name>TV Melilla</display-name>
+		<display-name>TV Melilla.TV</display-name>
+		<display-name>TV Melilla SD</display-name>
+		<display-name>TV Melilla HD</display-name>
+		<display-name>TV Melilla FHD</display-name>
+		<display-name>TV Melilla UHD</display-name>
+		<display-name>TV Melilla 720</display-name>
+		<display-name>TV Melilla 1080</display-name>
+		<icon src="https://th.bing.com/th/id/OIP.lq_9H8H5nXXUHfAoNQJJnQHaHa?w=80&amp;h=80&amp;c=1&amp;bgcl=f47899&amp;r=0&amp;o=7&amp;dpr=1.1&amp;pid=ImgRC&amp;rm=3" />
 	</channel>
 	<channel id="UK | Premier Sports 1">
 		<display-name>UK | Premier Sports 1</display-name>
