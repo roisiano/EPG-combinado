@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tv generator-info-name="dobleM 14/02/2026 20:47" generator-info-url="t.me/EPG_dobleM">
+<tv generator-info-name="dobleM 15/02/2026 20:47" generator-info-url="t.me/EPG_dobleM">
 	<channel id="La 1 HD">
 		<display-name>La 1</display-name>
 		<display-name>La 1.TV</display-name>
@@ -2387,17 +2387,6 @@
 		<display-name>DAZN F1 BAR 1080</display-name>
 		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20F1%20BAR.png" />
 	</channel>
-	<channel id="Gol Classics">
-		<display-name>Gol Classics</display-name>
-		<display-name>Gol Classics.TV</display-name>
-		<display-name>Gol Classics SD</display-name>
-		<display-name>Gol Classics HD</display-name>
-		<display-name>Gol Classics FHD</display-name>
-		<display-name>Gol Classics UHD</display-name>
-		<display-name>Gol Classics 720</display-name>
-		<display-name>Gol Classics 1080</display-name>
-		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Gol%20Classics.png" />
-	</channel>
 	<channel id="GolStadium">
 		<display-name>GolStadium</display-name>
 		<display-name>GolStadium.TV</display-name>
@@ -2408,6 +2397,17 @@
 		<display-name>GolStadium 720</display-name>
 		<display-name>GolStadium 1080</display-name>
 		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/GolStadium.png" />
+	</channel>
+	<channel id="Gol Classics">
+		<display-name>Gol Classics</display-name>
+		<display-name>Gol Classics.TV</display-name>
+		<display-name>Gol Classics SD</display-name>
+		<display-name>Gol Classics HD</display-name>
+		<display-name>Gol Classics FHD</display-name>
+		<display-name>Gol Classics UHD</display-name>
+		<display-name>Gol Classics 720</display-name>
+		<display-name>Gol Classics 1080</display-name>
+		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Gol%20Classics.png" />
 	</channel>
 	<channel id="Torolé TV">
 		<display-name>Torolé TV</display-name>
@@ -6577,4 +6577,333 @@
 		<display-name>TV Melilla 720</display-name>
 		<display-name>TV Melilla 1080</display-name>
 		<icon src="https://th.bing.com/th/id/OIP.lq_9H8H5nXXUHfAoNQJJnQHaHa?w=80&amp;h=80&amp;c=1&amp;bgcl=f47899&amp;r=0&amp;o=7&amp;dpr=1.1&amp;pid=ImgRC&amp;rm=3" />
+	</channel>
+	<channel id="UK | TNT Sports 1">
+		<display-name>UK | TNT Sports 1</display-name>
+		<display-name>UK | TNT Sports 1.TV</display-name>
+		<display-name>UK | TNT Sports 1 SD</display-name>
+		<display-name>UK | TNT Sports 1 HD</display-name>
+		<display-name>UK | TNT Sports 1 FHD</display-name>
+		<display-name>UK | TNT Sports 1 UHD</display-name>
+		<display-name>UK | TNT Sports 1 720</display-name>
+		<display-name>UK | TNT Sports 1 1080</display-name>
+		<icon src="https://tv.assets.pressassociation.io/d45290f3-96f2-53d3-b83f-bd875c745f83.png" />
+	</channel>
+	<channel id="UK | TNT Sports 2">
+		<display-name>UK | TNT Sports 2</display-name>
+		<display-name>UK | TNT Sports 2.TV</display-name>
+		<display-name>UK | TNT Sports 2 SD</display-name>
+		<display-name>UK | TNT Sports 2 HD</display-name>
+		<display-name>UK | TNT Sports 2 FHD</display-name>
+		<display-name>UK | TNT Sports 2 UHD</display-name>
+		<display-name>UK | TNT Sports 2 720</display-name>
+		<display-name>UK | TNT Sports 2 1080</display-name>
+		<icon src="https://tv.assets.pressassociation.io/1fda8663-f68a-5cc4-afd0-0e846e2ba265.png" />
+	</channel>
+	<channel id="UK | TNT Sports 3">
+		<display-name>UK | TNT Sports 3</display-name>
+		<display-name>UK | TNT Sports 3.TV</display-name>
+		<display-name>UK | TNT Sports 3 SD</display-name>
+		<display-name>UK | TNT Sports 3 HD</display-name>
+		<display-name>UK | TNT Sports 3 FHD</display-name>
+		<display-name>UK | TNT Sports 3 UHD</display-name>
+		<display-name>UK | TNT Sports 3 720</display-name>
+		<display-name>UK | TNT Sports 3 1080</display-name>
+		<icon src="https://tv.assets.pressassociation.io/04f0dc31-ed4e-5a13-98cc-32e612a3fcc6.png" />
+	</channel>
+	<channel id="UK | TNT Sports 4">
+		<display-name>UK | TNT Sports 4</display-name>
+		<display-name>UK | TNT Sports 4.TV</display-name>
+		<display-name>UK | TNT Sports 4 SD</display-name>
+		<display-name>UK | TNT Sports 4 HD</display-name>
+		<display-name>UK | TNT Sports 4 FHD</display-name>
+		<display-name>UK | TNT Sports 4 UHD</display-name>
+		<display-name>UK | TNT Sports 4 720</display-name>
+		<display-name>UK | TNT Sports 4 1080</display-name>
+		<icon src="https://tv.assets.pressassociation.io/e98a3304-0e26-5eed-bc55-071e69a15bf8.png" />
+	</channel>
+	<channel id="UK | TNT Sports 5">
+		<display-name>UK | TNT Sports 5</display-name>
+		<display-name>UK | TNT Sports 5.TV</display-name>
+		<display-name>UK | TNT Sports 5 SD</display-name>
+		<display-name>UK | TNT Sports 5 HD</display-name>
+		<display-name>UK | TNT Sports 5 FHD</display-name>
+		<display-name>UK | TNT Sports 5 UHD</display-name>
+		<display-name>UK | TNT Sports 5 720</display-name>
+		<display-name>UK | TNT Sports 5 1080</display-name>
+		<icon src="https://tv.assets.pressassociation.io/f25e3499-4757-57ac-90e7-cba823730841.png" />
+	</channel>
+	<channel id="UK | TNT Sports 6">
+		<display-name>UK | TNT Sports 6</display-name>
+		<display-name>UK | TNT Sports 6.TV</display-name>
+		<display-name>UK | TNT Sports 6 SD</display-name>
+		<display-name>UK | TNT Sports 6 HD</display-name>
+		<display-name>UK | TNT Sports 6 FHD</display-name>
+		<display-name>UK | TNT Sports 6 UHD</display-name>
+		<display-name>UK | TNT Sports 6 720</display-name>
+		<display-name>UK | TNT Sports 6 1080</display-name>
+		<icon src="https://tv.assets.pressassociation.io/7abae184-fb1b-503d-ab61-8224033369d5.png" />
+	</channel>
+	<channel id="UK | TNT Sports 7">
+		<display-name>UK | TNT Sports 7</display-name>
+		<display-name>UK | TNT Sports 7.TV</display-name>
+		<display-name>UK | TNT Sports 7 SD</display-name>
+		<display-name>UK | TNT Sports 7 HD</display-name>
+		<display-name>UK | TNT Sports 7 FHD</display-name>
+		<display-name>UK | TNT Sports 7 UHD</display-name>
+		<display-name>UK | TNT Sports 7 720</display-name>
+		<display-name>UK | TNT Sports 7 1080</display-name>
+		<icon src="https://tv.assets.pressassociation.io/4cf81897-6401-5a6c-9be7-9263e998624b.png" />
+	</channel>
+	<channel id="UK | TNT Sports 8">
+		<display-name>UK | TNT Sports 8</display-name>
+		<display-name>UK | TNT Sports 8.TV</display-name>
+		<display-name>UK | TNT Sports 8 SD</display-name>
+		<display-name>UK | TNT Sports 8 HD</display-name>
+		<display-name>UK | TNT Sports 8 FHD</display-name>
+		<display-name>UK | TNT Sports 8 UHD</display-name>
+		<display-name>UK | TNT Sports 8 720</display-name>
+		<display-name>UK | TNT Sports 8 1080</display-name>
+		<icon src="https://tv.assets.pressassociation.io/382831b2-cb0a-5219-a63f-a83e7dfbc685.png" />
+	</channel>
+	<channel id="UK | TNT Sports 9">
+		<display-name>UK | TNT Sports 9</display-name>
+		<display-name>UK | TNT Sports 9.TV</display-name>
+		<display-name>UK | TNT Sports 9 SD</display-name>
+		<display-name>UK | TNT Sports 9 HD</display-name>
+		<display-name>UK | TNT Sports 9 FHD</display-name>
+		<display-name>UK | TNT Sports 9 UHD</display-name>
+		<display-name>UK | TNT Sports 9 720</display-name>
+		<display-name>UK | TNT Sports 9 1080</display-name>
+		<icon src="https://tv.assets.pressassociation.io/e6316497-ea1a-5653-b78a-3debe2047a6f.png" />
+	</channel>
+	<channel id="UK | TNT Sports 10">
+		<display-name>UK | TNT Sports 10</display-name>
+		<display-name>UK | TNT Sports 10.TV</display-name>
+		<display-name>UK | TNT Sports 10 SD</display-name>
+		<display-name>UK | TNT Sports 10 HD</display-name>
+		<display-name>UK | TNT Sports 10 FHD</display-name>
+		<display-name>UK | TNT Sports 10 UHD</display-name>
+		<display-name>UK | TNT Sports 10 720</display-name>
+		<display-name>UK | TNT Sports 10 1080</display-name>
+		<icon src="https://tv.assets.pressassociation.io/b029d431-7c1f-51f5-8ba1-44c4b4cbf729.png" />
+	</channel>
+	<channel id="UK | TNT Sports Box Office">
+		<display-name>UK | TNT Sports Box Office</display-name>
+		<display-name>UK | TNT Sports Box Office.TV</display-name>
+		<display-name>UK | TNT Sports Box Office SD</display-name>
+		<display-name>UK | TNT Sports Box Office HD</display-name>
+		<display-name>UK | TNT Sports Box Office FHD</display-name>
+		<display-name>UK | TNT Sports Box Office UHD</display-name>
+		<display-name>UK | TNT Sports Box Office 720</display-name>
+		<display-name>UK | TNT Sports Box Office 1080</display-name>
+		<icon src="https://tv.assets.pressassociation.io/0e736662-ebac-5fa5-9a38-f79e5f91e0a2.png" />
+	</channel>
+	<channel id="UK | TNT Sports Box Office 2">
+		<display-name>UK | TNT Sports Box Office 2</display-name>
+		<display-name>UK | TNT Sports Box Office 2.TV</display-name>
+		<display-name>UK | TNT Sports Box Office 2 SD</display-name>
+		<display-name>UK | TNT Sports Box Office 2 HD</display-name>
+		<display-name>UK | TNT Sports Box Office 2 FHD</display-name>
+		<display-name>UK | TNT Sports Box Office 2 UHD</display-name>
+		<display-name>UK | TNT Sports Box Office 2 720</display-name>
+		<display-name>UK | TNT Sports Box Office 2 1080</display-name>
+		<icon src="https://tv.assets.pressassociation.io/a5a4c54e-969e-5fd2-96bc-bae1e24edc90.png" />
+	</channel>
+	<channel id="UK | TNT Sports Ultimate">
+		<display-name>UK | TNT Sports Ultimate</display-name>
+		<display-name>UK | TNT Sports Ultimate.TV</display-name>
+		<display-name>UK | TNT Sports Ultimate SD</display-name>
+		<display-name>UK | TNT Sports Ultimate HD</display-name>
+		<display-name>UK | TNT Sports Ultimate FHD</display-name>
+		<display-name>UK | TNT Sports Ultimate UHD</display-name>
+		<display-name>UK | TNT Sports Ultimate 720</display-name>
+		<display-name>UK | TNT Sports Ultimate 1080</display-name>
+		<icon src="https://tv.assets.pressassociation.io/89a98873-d91f-5165-a45f-9771712801ac.png" />
+	</channel>
+	<channel id="UK | Sky Sports +">
+		<display-name>UK | Sky Sports +</display-name>
+		<display-name>UK | Sky Sports +.TV</display-name>
+		<display-name>UK | Sky Sports + SD</display-name>
+		<display-name>UK | Sky Sports + HD</display-name>
+		<display-name>UK | Sky Sports + FHD</display-name>
+		<display-name>UK | Sky Sports + UHD</display-name>
+		<display-name>UK | Sky Sports + 720</display-name>
+		<display-name>UK | Sky Sports + 1080</display-name>
+		<icon src="https://tv.assets.pressassociation.io/1dd4d5ed-fb04-579c-b723-e4280cc33ba2.png" />
+	</channel>
+	<channel id="UK | Sky Sports Box Office">
+		<display-name>UK | Sky Sports Box Office</display-name>
+		<display-name>UK | Sky Sports Box Office.TV</display-name>
+		<display-name>UK | Sky Sports Box Office SD</display-name>
+		<display-name>UK | Sky Sports Box Office HD</display-name>
+		<display-name>UK | Sky Sports Box Office FHD</display-name>
+		<display-name>UK | Sky Sports Box Office UHD</display-name>
+		<display-name>UK | Sky Sports Box Office 720</display-name>
+		<display-name>UK | Sky Sports Box Office 1080</display-name>
+		<icon src="https://tv.assets.pressassociation.io/f7077ab2-6f28-5dc7-8206-fc32ef274852.png" />
+	</channel>
+	<channel id="UK | Sky Sports Cricket">
+		<display-name>UK | Sky Sports Cricket</display-name>
+		<display-name>UK | Sky Sports Cricket.TV</display-name>
+		<display-name>UK | Sky Sports Cricket SD</display-name>
+		<display-name>UK | Sky Sports Cricket HD</display-name>
+		<display-name>UK | Sky Sports Cricket FHD</display-name>
+		<display-name>UK | Sky Sports Cricket UHD</display-name>
+		<display-name>UK | Sky Sports Cricket 720</display-name>
+		<display-name>UK | Sky Sports Cricket 1080</display-name>
+		<icon src="https://tv.assets.pressassociation.io/601dc218-6777-5f55-8114-952600e39012.png" />
+	</channel>
+	<channel id="UK | Sky Sports F1">
+		<display-name>UK | Sky Sports F1</display-name>
+		<display-name>UK | Sky Sports F1.TV</display-name>
+		<display-name>UK | Sky Sports F1 SD</display-name>
+		<display-name>UK | Sky Sports F1 HD</display-name>
+		<display-name>UK | Sky Sports F1 FHD</display-name>
+		<display-name>UK | Sky Sports F1 UHD</display-name>
+		<display-name>UK | Sky Sports F1 720</display-name>
+		<display-name>UK | Sky Sports F1 1080</display-name>
+		<icon src="https://tv.assets.pressassociation.io/4c7d96e4-15e9-5653-a309-51cd84aaa98d.png" />
+	</channel>
+	<channel id="UK | Sky Sports Football">
+		<display-name>UK | Sky Sports Football</display-name>
+		<display-name>UK | Sky Sports Football.TV</display-name>
+		<display-name>UK | Sky Sports Football SD</display-name>
+		<display-name>UK | Sky Sports Football HD</display-name>
+		<display-name>UK | Sky Sports Football FHD</display-name>
+		<display-name>UK | Sky Sports Football UHD</display-name>
+		<display-name>UK | Sky Sports Football 720</display-name>
+		<display-name>UK | Sky Sports Football 1080</display-name>
+		<icon src="https://tv.assets.pressassociation.io/6a276699-37b7-5c60-aac2-c2e900d81b08.png" />
+	</channel>
+	<channel id="UK | Sky Sports Golf">
+		<display-name>UK | Sky Sports Golf</display-name>
+		<display-name>UK | Sky Sports Golf.TV</display-name>
+		<display-name>UK | Sky Sports Golf SD</display-name>
+		<display-name>UK | Sky Sports Golf HD</display-name>
+		<display-name>UK | Sky Sports Golf FHD</display-name>
+		<display-name>UK | Sky Sports Golf UHD</display-name>
+		<display-name>UK | Sky Sports Golf 720</display-name>
+		<display-name>UK | Sky Sports Golf 1080</display-name>
+		<icon src="https://tv.assets.pressassociation.io/97cbd895-f816-5d62-8e77-bbd1e3f73352.png" />
+	</channel>
+	<channel id="UK | Sky Sports Main Event">
+		<display-name>UK | Sky Sports Main Event</display-name>
+		<display-name>UK | Sky Sports Main Event.TV</display-name>
+		<display-name>UK | Sky Sports Main Event SD</display-name>
+		<display-name>UK | Sky Sports Main Event HD</display-name>
+		<display-name>UK | Sky Sports Main Event FHD</display-name>
+		<display-name>UK | Sky Sports Main Event UHD</display-name>
+		<display-name>UK | Sky Sports Main Event 720</display-name>
+		<display-name>UK | Sky Sports Main Event 1080</display-name>
+		<icon src="https://tv.assets.pressassociation.io/c7d9e6a2-3351-52a5-b4e2-4befae5d8591.png" />
+	</channel>
+	<channel id="UK | Sky Sports Mix">
+		<display-name>UK | Sky Sports Mix</display-name>
+		<display-name>UK | Sky Sports Mix.TV</display-name>
+		<display-name>UK | Sky Sports Mix SD</display-name>
+		<display-name>UK | Sky Sports Mix HD</display-name>
+		<display-name>UK | Sky Sports Mix FHD</display-name>
+		<display-name>UK | Sky Sports Mix UHD</display-name>
+		<display-name>UK | Sky Sports Mix 720</display-name>
+		<display-name>UK | Sky Sports Mix 1080</display-name>
+		<icon src="https://tv.assets.pressassociation.io/2d33bfc8-a9d1-556f-a4f6-d2139c447b93.png" />
+	</channel>
+	<channel id="UK | Sky Sports News">
+		<display-name>UK | Sky Sports News</display-name>
+		<display-name>UK | Sky Sports News.TV</display-name>
+		<display-name>UK | Sky Sports News SD</display-name>
+		<display-name>UK | Sky Sports News HD</display-name>
+		<display-name>UK | Sky Sports News FHD</display-name>
+		<display-name>UK | Sky Sports News UHD</display-name>
+		<display-name>UK | Sky Sports News 720</display-name>
+		<display-name>UK | Sky Sports News 1080</display-name>
+		<icon src="https://tv.assets.pressassociation.io/0a56d5bd-07eb-5a70-b405-b88ed6c07702.png" />
+	</channel>
+	<channel id="UK | Sky Sports NFL">
+		<display-name>UK | Sky Sports NFL</display-name>
+		<display-name>UK | Sky Sports NFL.TV</display-name>
+		<display-name>UK | Sky Sports NFL SD</display-name>
+		<display-name>UK | Sky Sports NFL HD</display-name>
+		<display-name>UK | Sky Sports NFL FHD</display-name>
+		<display-name>UK | Sky Sports NFL UHD</display-name>
+		<display-name>UK | Sky Sports NFL 720</display-name>
+		<display-name>UK | Sky Sports NFL 1080</display-name>
+	</channel>
+	<channel id="UK | Sky Sports Premier League">
+		<display-name>UK | Sky Sports Premier League</display-name>
+		<display-name>UK | Sky Sports Premier League.TV</display-name>
+		<display-name>UK | Sky Sports Premier League SD</display-name>
+		<display-name>UK | Sky Sports Premier League HD</display-name>
+		<display-name>UK | Sky Sports Premier League FHD</display-name>
+		<display-name>UK | Sky Sports Premier League UHD</display-name>
+		<display-name>UK | Sky Sports Premier League 720</display-name>
+		<display-name>UK | Sky Sports Premier League 1080</display-name>
+		<icon src="https://tv.assets.pressassociation.io/f5053a63-3227-5a31-a2b7-8be1b692aeed.png" />
+	</channel>
+	<channel id="UK | Sky Sports Premier League ROI">
+		<display-name>UK | Sky Sports Premier League ROI</display-name>
+		<display-name>UK | Sky Sports Premier League ROI.TV</display-name>
+		<display-name>UK | Sky Sports Premier League ROI SD</display-name>
+		<display-name>UK | Sky Sports Premier League ROI HD</display-name>
+		<display-name>UK | Sky Sports Premier League ROI FHD</display-name>
+		<display-name>UK | Sky Sports Premier League ROI UHD</display-name>
+		<display-name>UK | Sky Sports Premier League ROI 720</display-name>
+		<display-name>UK | Sky Sports Premier League ROI 1080</display-name>
+		<icon src="https://tv.assets.pressassociation.io/fc95f290-910a-5e8c-93cf-2df325a3fa53.png" />
+	</channel>
+	<channel id="UK | Sky Sports Racing">
+		<display-name>UK | Sky Sports Racing</display-name>
+		<display-name>UK | Sky Sports Racing.TV</display-name>
+		<display-name>UK | Sky Sports Racing SD</display-name>
+		<display-name>UK | Sky Sports Racing HD</display-name>
+		<display-name>UK | Sky Sports Racing FHD</display-name>
+		<display-name>UK | Sky Sports Racing UHD</display-name>
+		<display-name>UK | Sky Sports Racing 720</display-name>
+		<display-name>UK | Sky Sports Racing 1080</display-name>
+		<icon src="https://tv.assets.pressassociation.io/6f006562-ca88-5f32-a458-5212d0636355.png" />
+	</channel>
+	<channel id="UK | Sky Sports Tennis">
+		<display-name>UK | Sky Sports Tennis</display-name>
+		<display-name>UK | Sky Sports Tennis.TV</display-name>
+		<display-name>UK | Sky Sports Tennis SD</display-name>
+		<display-name>UK | Sky Sports Tennis HD</display-name>
+		<display-name>UK | Sky Sports Tennis FHD</display-name>
+		<display-name>UK | Sky Sports Tennis UHD</display-name>
+		<display-name>UK | Sky Sports Tennis 720</display-name>
+		<display-name>UK | Sky Sports Tennis 1080</display-name>
+		<icon src="https://tv.assets.pressassociation.io/35260b24-70bc-53e9-b15a-58d64063e4ff.png" />
+	</channel>
+	<channel id="UK | Premier Sports 1">
+		<display-name>UK | Premier Sports 1</display-name>
+		<display-name>UK | Premier Sports 1.TV</display-name>
+		<display-name>UK | Premier Sports 1 SD</display-name>
+		<display-name>UK | Premier Sports 1 HD</display-name>
+		<display-name>UK | Premier Sports 1 FHD</display-name>
+		<display-name>UK | Premier Sports 1 UHD</display-name>
+		<display-name>UK | Premier Sports 1 720</display-name>
+		<display-name>UK | Premier Sports 1 1080</display-name>
+		<icon src="https://tv.assets.pressassociation.io/c45c421e-6415-5530-a3ae-9667368d1422.png" />
+	</channel>
+	<channel id="UK | Premier Sports 1 ROI">
+		<display-name>UK | Premier Sports 1 ROI</display-name>
+		<display-name>UK | Premier Sports 1 ROI.TV</display-name>
+		<display-name>UK | Premier Sports 1 ROI SD</display-name>
+		<display-name>UK | Premier Sports 1 ROI HD</display-name>
+		<display-name>UK | Premier Sports 1 ROI FHD</display-name>
+		<display-name>UK | Premier Sports 1 ROI UHD</display-name>
+		<display-name>UK | Premier Sports 1 ROI 720</display-name>
+		<display-name>UK | Premier Sports 1 ROI 1080</display-name>
+		<icon src="https://tv.assets.pressassociation.io/efd15b54-5dc8-5bd1-b3cb-d120d1bbb7b5.png" />
+	</channel>
+	<channel id="UK | Premier Sports 2">
+		<display-name>UK | Premier Sports 2</display-name>
+		<display-name>UK | Premier Sports 2.TV</display-name>
+		<display-name>UK | Premier Sports 2 SD</display-name>
+		<display-name>UK | Premier Sports 2 HD</display-name>
+		<display-name>UK | Premier Sports 2 FHD</display-name>
+		<display-name>UK | Premier Sports 2 UHD</display-name>
+		<display-name>UK | Premier Sports 2 720</display-name>
+		<display-name>UK | Premier Sports 2 1080</display-name>
+		<icon src="https://tv.assets.pressassociation.io/97139609-e267-5916-87df-8548c24b534e.png" />
 	</channel>
