@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tv generator-info-name="dobleM 25/02/2026 20:47" generator-info-url="t.me/EPG_dobleM">
+<tv generator-info-name="dobleM 26/02/2026 20:47" generator-info-url="t.me/EPG_dobleM">
 	<channel id="La 1 HD">
 		<display-name>La 1</display-name>
 		<display-name>La 1.TV</display-name>
@@ -3432,17 +3432,6 @@
 		<display-name>La Moderna 1080</display-name>
 		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/La%20Moderna.png" />
 	</channel>
-	<channel id="Benidorm Fest">
-		<display-name>Benidorm Fest</display-name>
-		<display-name>Benidorm Fest.TV</display-name>
-		<display-name>Benidorm Fest SD</display-name>
-		<display-name>Benidorm Fest HD</display-name>
-		<display-name>Benidorm Fest FHD</display-name>
-		<display-name>Benidorm Fest UHD</display-name>
-		<display-name>Benidorm Fest 720</display-name>
-		<display-name>Benidorm Fest 1080</display-name>
-		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Benidorm%20Fest.png" />
-	</channel>
 	<channel id="La Revuelta">
 		<display-name>La Revuelta</display-name>
 		<display-name>La Revuelta.TV</display-name>
@@ -5113,6 +5102,7 @@
 		<display-name>1+1 International UHD</display-name>
 		<display-name>1+1 International 720</display-name>
 		<display-name>1+1 International 1080</display-name>
+		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/1+1 International.png" />
 	</channel>
 	<channel id="100% Navidad (Rakuten TV)">
 		<display-name>100% Navidad (Rakuten TV)</display-name>
@@ -5123,6 +5113,7 @@
 		<display-name>100% Navidad (Rakuten TV) UHD</display-name>
 		<display-name>100% Navidad (Rakuten TV) 720</display-name>
 		<display-name>100% Navidad (Rakuten TV) 1080</display-name>
+		<icon src="https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork-negative/33827624-56e3-464f-8763-9e634babe552.png" />
 	</channel>
 	<channel id="Todo Crimen (Rakuten TV)">
 		<display-name>Todo Crimen (Rakuten TV)</display-name>
@@ -5133,6 +5124,8 @@
 		<display-name>Todo Crimen (Rakuten TV) UHD</display-name>
 		<display-name>Todo Crimen (Rakuten TV) 720</display-name>
 		<display-name>Todo Crimen (Rakuten TV) 1080</display-name>
+		<icon src="https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork-negative/8fb33036-37c7-478c-930f-f8f6230a5c32.png" />
+		<icon src="https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork-negative/e058d349-db97-4c0b-a9dd-477147a1d473.png" />
 	</channel>
 	<channel id="Crimen (Rakuten TV)">
 		<display-name>Crimen (Rakuten TV)</display-name>
@@ -5153,6 +5146,7 @@
 		<display-name>Thrillers (Rakuten TV) UHD</display-name>
 		<display-name>Thrillers (Rakuten TV) 720</display-name>
 		<display-name>Thrillers (Rakuten TV) 1080</display-name>
+		<icon src="https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork-negative/5728a608-5527-4d19-a4cc-18ca9f019688.png" />
 	</channel>
 	<channel id="MyTime Movie Network (Rakuten TV)">
 		<display-name>MyTime Movie Network (Rakuten TV)</display-name>
@@ -5163,6 +5157,7 @@
 		<display-name>MyTime Movie Network (Rakuten TV) UHD</display-name>
 		<display-name>MyTime Movie Network (Rakuten TV) 720</display-name>
 		<display-name>MyTime Movie Network (Rakuten TV) 1080</display-name>
+		<icon src="https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork_negative/d3b1e728-ef8e-4dc6-b2ee-dd668a44bae4-mytime-movie-network-1643366410.png" />
 	</channel>
 	<channel id="Cine Español (Rakuten TV)">
 		<display-name>Cine Español (Rakuten TV)</display-name>
@@ -5173,6 +5168,7 @@
 		<display-name>Cine Español (Rakuten TV) UHD</display-name>
 		<display-name>Cine Español (Rakuten TV) 720</display-name>
 		<display-name>Cine Español (Rakuten TV) 1080</display-name>
+		<icon src="https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork-negative/2da65634-f27e-48f9-8f3b-a03bd31cbade.png" />
 	</channel>
 	<channel id="Películas Románticas (Rakuten TV)">
 		<display-name>Películas Románticas (Rakuten TV)</display-name>
@@ -5183,6 +5179,7 @@
 		<display-name>Películas Románticas (Rakuten TV) UHD</display-name>
 		<display-name>Películas Románticas (Rakuten TV) 720</display-name>
 		<display-name>Películas Románticas (Rakuten TV) 1080</display-name>
+		<icon src="https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork-negative/6a3d067c-8cb2-4581-84e1-f284ee948e3a.png" />
 	</channel>
 	<channel id="Dramas (Rakuten TV)">
 		<display-name>Dramas (Rakuten TV)</display-name>
@@ -5193,6 +5190,7 @@
 		<display-name>Dramas (Rakuten TV) UHD</display-name>
 		<display-name>Dramas (Rakuten TV) 720</display-name>
 		<display-name>Dramas (Rakuten TV) 1080</display-name>
+		<icon src="https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork-negative/ee3c242a-398d-4d9e-9a79-c8c6427278c0.png" />
 	</channel>
 	<channel id="Comedias (Rakuten TV)">
 		<display-name>Comedias (Rakuten TV)</display-name>
@@ -5203,6 +5201,7 @@
 		<display-name>Comedias (Rakuten TV) UHD</display-name>
 		<display-name>Comedias (Rakuten TV) 720</display-name>
 		<display-name>Comedias (Rakuten TV) 1080</display-name>
+		<icon src="https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork-negative/14c7b74d-cd73-4791-98f2-f6e097cce068.png" />
 	</channel>
 	<channel id="Acción (Rakuten TV)">
 		<display-name>Acción (Rakuten TV)</display-name>
@@ -5213,6 +5212,7 @@
 		<display-name>Acción (Rakuten TV) UHD</display-name>
 		<display-name>Acción (Rakuten TV) 720</display-name>
 		<display-name>Acción (Rakuten TV) 1080</display-name>
+		<icon src="https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork-negative/6b4cf5b7-bb4d-439a-9779-f83fd1bde012.png" />
 	</channel>
 	<channel id="Pelis Top (Rakuten TV)">
 		<display-name>Pelis Top (Rakuten TV)</display-name>
@@ -5223,6 +5223,7 @@
 		<display-name>Pelis Top (Rakuten TV) UHD</display-name>
 		<display-name>Pelis Top (Rakuten TV) 720</display-name>
 		<display-name>Pelis Top (Rakuten TV) 1080</display-name>
+		<icon src="https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork-negative/82ae4be3-2514-4733-9f9d-89545d4e2ef4.png" />
 	</channel>
 	<channel id="Red Bull TV (Rakuten TV)">
 		<display-name>Red Bull TV (Rakuten TV)</display-name>
@@ -5233,6 +5234,7 @@
 		<display-name>Red Bull TV (Rakuten TV) UHD</display-name>
 		<display-name>Red Bull TV (Rakuten TV) 720</display-name>
 		<display-name>Red Bull TV (Rakuten TV) 1080</display-name>
+		<icon src="https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork-negative/b03ad405-231f-44f4-90ea-5fdacaf2a06c.png" />
 	</channel>
 	<channel id="FIFA+">
 		<display-name>FIFA+</display-name>
@@ -5243,6 +5245,7 @@
 		<display-name>FIFA+ UHD</display-name>
 		<display-name>FIFA+ 720</display-name>
 		<display-name>FIFA+ 1080</display-name>
+		<icon src="https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork-negative/e2bc4647-5158-44b1-a14e-6b541ed03997.png" />
 	</channel>
 	<channel id="DSPORTS">
 		<display-name>DSPORTS</display-name>
@@ -5253,6 +5256,7 @@
 		<display-name>DSPORTS UHD</display-name>
 		<display-name>DSPORTS 720</display-name>
 		<display-name>DSPORTS 1080</display-name>
+		<icon src="https://dsports-widgets.tbxnet.com/assets/images/channels/1610.png" />
 	</channel>
 	<channel id="DSPORTS 2">
 		<display-name>DSPORTS 2</display-name>
@@ -5263,6 +5267,7 @@
 		<display-name>DSPORTS 2 UHD</display-name>
 		<display-name>DSPORTS 2 720</display-name>
 		<display-name>DSPORTS 2 1080</display-name>
+		<icon src="https://dsports-widgets.tbxnet.com/assets/images/channels/1612.png" />
 	</channel>
 	<channel id="DSPORTS+">
 		<display-name>DSPORTS+</display-name>
@@ -5273,6 +5278,7 @@
 		<display-name>DSPORTS+ UHD</display-name>
 		<display-name>DSPORTS+ 720</display-name>
 		<display-name>DSPORTS+ 1080</display-name>
+		<icon src="https://dsports-widgets.tbxnet.com/assets/images/channels/1613.png" />
 	</channel>
 	<channel id="DSPORTS Fight">
 		<display-name>DSPORTS Fight</display-name>
@@ -5283,6 +5289,7 @@
 		<display-name>DSPORTS Fight UHD</display-name>
 		<display-name>DSPORTS Fight 720</display-name>
 		<display-name>DSPORTS Fight 1080</display-name>
+		<icon src="https://dsports-widgets.tbxnet.com/assets/images/channels/1615.png" />
 	</channel>
 	<channel id="beIN SPORTS en español">
 		<display-name>beIN SPORTS en español</display-name>
@@ -5293,6 +5300,7 @@
 		<display-name>beIN SPORTS en español UHD</display-name>
 		<display-name>beIN SPORTS en español 720</display-name>
 		<display-name>beIN SPORTS en español 1080</display-name>
+		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/beIN%20SPORTS%20en%20espa%C3%B1ol.png" />
 	</channel>
 	<channel id="beIN SPORTS XTRA ñ">
 		<display-name>beIN SPORTS XTRA ñ</display-name>
@@ -5303,6 +5311,7 @@
 		<display-name>beIN SPORTS XTRA ñ UHD</display-name>
 		<display-name>beIN SPORTS XTRA ñ 720</display-name>
 		<display-name>beIN SPORTS XTRA ñ 1080</display-name>
+		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/beIN%20SPORTS%20XTRA%20%C3%B1.png" />
 	</channel>
 	<channel id="CNN en Español">
 		<display-name>CNN en Español</display-name>
@@ -5313,6 +5322,7 @@
 		<display-name>CNN en Español UHD</display-name>
 		<display-name>CNN en Español 720</display-name>
 		<display-name>CNN en Español 1080</display-name>
+		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/CNN%20en%20Espa%C3%B1ol.png" />
 	</channel>
 	<channel id="Concert Channel">
 		<display-name>Concert Channel</display-name>
@@ -5323,6 +5333,7 @@
 		<display-name>Concert Channel UHD</display-name>
 		<display-name>Concert Channel 720</display-name>
 		<display-name>Concert Channel 1080</display-name>
+		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Concert%20Channel.png" />
 	</channel>
 	<channel id="Star TVE HD">
 		<display-name>Star TVE</display-name>
@@ -5333,6 +5344,7 @@
 		<display-name>Star TVE UHD</display-name>
 		<display-name>Star TVE 720</display-name>
 		<display-name>Star TVE 1080</display-name>
+		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Star%20TVE.png" />
 	</channel>
 	<channel id="Discovery Turbo">
 		<display-name>Discovery Turbo</display-name>
@@ -5343,6 +5355,7 @@
 		<display-name>Discovery Turbo UHD</display-name>
 		<display-name>Discovery Turbo 720</display-name>
 		<display-name>Discovery Turbo 1080</display-name>
+		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Discovery%20Turbo.png" />
 	</channel>
 	<channel id="FOX SPORTS">
 		<display-name>FOX SPORTS</display-name>
@@ -5353,6 +5366,7 @@
 		<display-name>FOX SPORTS UHD</display-name>
 		<display-name>FOX SPORTS 720</display-name>
 		<display-name>FOX SPORTS 1080</display-name>
+		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/FOX%20SPORTS.png" />
 	</channel>
 	<channel id="FOX SPORTS 2">
 		<display-name>FOX SPORTS 2</display-name>
@@ -5363,6 +5377,7 @@
 		<display-name>FOX SPORTS 2 UHD</display-name>
 		<display-name>FOX SPORTS 2 720</display-name>
 		<display-name>FOX SPORTS 2 1080</display-name>
+		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/FOX%20SPORTS%202.png" />
 	</channel>
 	<channel id="FOX SPORTS 3">
 		<display-name>FOX SPORTS 3</display-name>
@@ -5373,6 +5388,7 @@
 		<display-name>FOX SPORTS 3 UHD</display-name>
 		<display-name>FOX SPORTS 3 720</display-name>
 		<display-name>FOX SPORTS 3 1080</display-name>
+		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/FOX%20SPORTS%203.png" />
 	</channel>
 	<channel id="ESPN">
 		<display-name>ESPN</display-name>
@@ -5383,6 +5399,7 @@
 		<display-name>ESPN UHD</display-name>
 		<display-name>ESPN 720</display-name>
 		<display-name>ESPN 1080</display-name>
+		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/ESPN.png" />
 	</channel>
 	<channel id="ESPN 2">
 		<display-name>ESPN 2</display-name>
@@ -5393,6 +5410,7 @@
 		<display-name>ESPN 2 UHD</display-name>
 		<display-name>ESPN 2 720</display-name>
 		<display-name>ESPN 2 1080</display-name>
+		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/ESPN%202.png" />
 	</channel>
 	<channel id="ESPN 3">
 		<display-name>ESPN 3</display-name>
@@ -5403,6 +5421,7 @@
 		<display-name>ESPN 3 UHD</display-name>
 		<display-name>ESPN 3 720</display-name>
 		<display-name>ESPN 3 1080</display-name>
+		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/ESPN%203.png" />
 	</channel>
 	<channel id="ESPN 4">
 		<display-name>ESPN 4</display-name>
@@ -5413,6 +5432,7 @@
 		<display-name>ESPN 4 UHD</display-name>
 		<display-name>ESPN 4 720</display-name>
 		<display-name>ESPN 4 1080</display-name>
+		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/ESPN%204.png" />
 	</channel>
 	<channel id="ESPN Deportes">
 		<display-name>ESPN Deportes</display-name>
@@ -5423,6 +5443,7 @@
 		<display-name>ESPN Deportes UHD</display-name>
 		<display-name>ESPN Deportes 720</display-name>
 		<display-name>ESPN Deportes 1080</display-name>
+		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/ESPN%20Deportes.png" />
 	</channel>
 	<channel id="ESPN International">
 		<display-name>ESPN International</display-name>
@@ -5433,6 +5454,7 @@
 		<display-name>ESPN International UHD</display-name>
 		<display-name>ESPN International 720</display-name>
 		<display-name>ESPN International 1080</display-name>
+		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/ESPN%20International.png" />
 	</channel>
 	<channel id="TyC Sports">
 		<display-name>TyC Sports</display-name>
@@ -5443,6 +5465,7 @@
 		<display-name>TyC Sports UHD</display-name>
 		<display-name>TyC Sports 720</display-name>
 		<display-name>TyC Sports 1080</display-name>
+		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/TyC%20Sports.png" />
 	</channel>
 	<channel id="TUDN (Estados Unidos)">
 		<display-name>TUDN (Estados Unidos)</display-name>
@@ -5453,6 +5476,7 @@
 		<display-name>TUDN (Estados Unidos) UHD</display-name>
 		<display-name>TUDN (Estados Unidos) 720</display-name>
 		<display-name>TUDN (Estados Unidos) 1080</display-name>
+		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/TUDN%20(Estados%20Unidos).png" />
 	</channel>
 	<channel id="TUDN (México)">
 		<display-name>TUDN (México)</display-name>
@@ -5463,6 +5487,7 @@
 		<display-name>TUDN (México) UHD</display-name>
 		<display-name>TUDN (México) 720</display-name>
 		<display-name>TUDN (México) 1080</display-name>
+		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/TUDN%20(M%C3%A9xico).png" />
 	</channel>
 	<channel id="Sky Sports 16">
 		<display-name>Sky Sports 16</display-name>
@@ -5473,6 +5498,7 @@
 		<display-name>Sky Sports 16 UHD</display-name>
 		<display-name>Sky Sports 16 720</display-name>
 		<display-name>Sky Sports 16 1080</display-name>
+		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Sky%20Sports%2016.png" />
 	</channel>
 	<channel id="Atrescine">
 		<display-name>Atrescine</display-name>
@@ -5483,6 +5509,7 @@
 		<display-name>Atrescine UHD</display-name>
 		<display-name>Atrescine 720</display-name>
 		<display-name>Atrescine 1080</display-name>
+		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Atrescine.png" />
 	</channel>
 	<channel id="Vivid TV">
 		<display-name>Vivid TV</display-name>
@@ -5493,6 +5520,7 @@
 		<display-name>Vivid TV UHD</display-name>
 		<display-name>Vivid TV 720</display-name>
 		<display-name>Vivid TV 1080</display-name>
+		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Vivid%20TV.png" />
 	</channel>
 	<channel id="MTV Classic">
 		<display-name>MTV Classic</display-name>
@@ -5503,6 +5531,7 @@
 		<display-name>MTV Classic UHD</display-name>
 		<display-name>MTV Classic 720</display-name>
 		<display-name>MTV Classic 1080</display-name>
+		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/MTV%20Classic.png" />
 	</channel>
 	<channel id="FR · France 24">
 		<display-name>FR · France 24</display-name>
@@ -6913,7 +6942,7 @@
 		<display-name>UK | Sky Sports + UHD</display-name>
 		<display-name>UK | Sky Sports + 720</display-name>
 		<display-name>UK | Sky Sports + 1080</display-name>
-		<icon src="https://tv.assets.pressassociation.io/1dd4d5ed-fb04-579c-b723-e4280cc33ba2.png" />
+		<icon src="https://tv.assets.pressassociation.io/d55ab11f-7aca-5e2b-b620-bf147b49744c.png" />
 	</channel>
 	<channel id="UK | Sky Sports Box Office">
 		<display-name>UK | Sky Sports Box Office</display-name>
@@ -6924,7 +6953,7 @@
 		<display-name>UK | Sky Sports Box Office UHD</display-name>
 		<display-name>UK | Sky Sports Box Office 720</display-name>
 		<display-name>UK | Sky Sports Box Office 1080</display-name>
-		<icon src="https://tv.assets.pressassociation.io/f7077ab2-6f28-5dc7-8206-fc32ef274852.png" />
+		<icon src="https://tv.assets.pressassociation.io/6e71065b-8581-50f3-9c0f-1a7533943b89.png" />
 	</channel>
 	<channel id="UK | Sky Sports Cricket">
 		<display-name>UK | Sky Sports Cricket</display-name>
@@ -6935,7 +6964,7 @@
 		<display-name>UK | Sky Sports Cricket UHD</display-name>
 		<display-name>UK | Sky Sports Cricket 720</display-name>
 		<display-name>UK | Sky Sports Cricket 1080</display-name>
-		<icon src="https://tv.assets.pressassociation.io/601dc218-6777-5f55-8114-952600e39012.png" />
+		<icon src="https://tv.assets.pressassociation.io/a7d89d33-c1ac-5323-9c3e-aa9a0c7aa367.png" />
 	</channel>
 	<channel id="UK | Sky Sports F1">
 		<display-name>UK | Sky Sports F1</display-name>
@@ -6946,7 +6975,7 @@
 		<display-name>UK | Sky Sports F1 UHD</display-name>
 		<display-name>UK | Sky Sports F1 720</display-name>
 		<display-name>UK | Sky Sports F1 1080</display-name>
-		<icon src="https://tv.assets.pressassociation.io/4c7d96e4-15e9-5653-a309-51cd84aaa98d.png" />
+		<icon src="https://tv.assets.pressassociation.io/697b9b06-530b-5dd9-a4c7-1947e2ab93d7.png" />
 	</channel>
 	<channel id="UK | Sky Sports Football">
 		<display-name>UK | Sky Sports Football</display-name>
@@ -6957,7 +6986,7 @@
 		<display-name>UK | Sky Sports Football UHD</display-name>
 		<display-name>UK | Sky Sports Football 720</display-name>
 		<display-name>UK | Sky Sports Football 1080</display-name>
-		<icon src="https://tv.assets.pressassociation.io/6a276699-37b7-5c60-aac2-c2e900d81b08.png" />
+		<icon src="https://tv.assets.pressassociation.io/c7c1f241-4754-502b-aa34-24fc98aba436.png" />
 	</channel>
 	<channel id="UK | Sky Sports Golf">
 		<display-name>UK | Sky Sports Golf</display-name>
@@ -6968,7 +6997,7 @@
 		<display-name>UK | Sky Sports Golf UHD</display-name>
 		<display-name>UK | Sky Sports Golf 720</display-name>
 		<display-name>UK | Sky Sports Golf 1080</display-name>
-		<icon src="https://tv.assets.pressassociation.io/97cbd895-f816-5d62-8e77-bbd1e3f73352.png" />
+		<icon src="https://tv.assets.pressassociation.io/5230aba5-7ffd-572f-8fc4-954cca4d17ea.png" />
 	</channel>
 	<channel id="UK | Sky Sports Main Event">
 		<display-name>UK | Sky Sports Main Event</display-name>
@@ -6979,7 +7008,7 @@
 		<display-name>UK | Sky Sports Main Event UHD</display-name>
 		<display-name>UK | Sky Sports Main Event 720</display-name>
 		<display-name>UK | Sky Sports Main Event 1080</display-name>
-		<icon src="https://tv.assets.pressassociation.io/c7d9e6a2-3351-52a5-b4e2-4befae5d8591.png" />
+		<icon src="https://tv.assets.pressassociation.io/4a35f45e-79c6-5da0-b2fb-c9192eb9f24b.png" />
 	</channel>
 	<channel id="UK | Sky Sports Mix">
 		<display-name>UK | Sky Sports Mix</display-name>
@@ -6990,7 +7019,7 @@
 		<display-name>UK | Sky Sports Mix UHD</display-name>
 		<display-name>UK | Sky Sports Mix 720</display-name>
 		<display-name>UK | Sky Sports Mix 1080</display-name>
-		<icon src="https://tv.assets.pressassociation.io/2d33bfc8-a9d1-556f-a4f6-d2139c447b93.png" />
+		<icon src="https://tv.assets.pressassociation.io/a0c9f65a-78c6-596f-ab7a-be6af03a0e2b.png" />
 	</channel>
 	<channel id="UK | Sky Sports News">
 		<display-name>UK | Sky Sports News</display-name>
@@ -7001,7 +7030,7 @@
 		<display-name>UK | Sky Sports News UHD</display-name>
 		<display-name>UK | Sky Sports News 720</display-name>
 		<display-name>UK | Sky Sports News 1080</display-name>
-		<icon src="https://tv.assets.pressassociation.io/0a56d5bd-07eb-5a70-b405-b88ed6c07702.png" />
+		<icon src="https://tv.assets.pressassociation.io/76876ed9-173a-57bb-b745-bc0d9b6c462d.png" />
 	</channel>
 	<channel id="UK | Sky Sports Premier League">
 		<display-name>UK | Sky Sports Premier League</display-name>
@@ -7012,7 +7041,7 @@
 		<display-name>UK | Sky Sports Premier League UHD</display-name>
 		<display-name>UK | Sky Sports Premier League 720</display-name>
 		<display-name>UK | Sky Sports Premier League 1080</display-name>
-		<icon src="https://tv.assets.pressassociation.io/f5053a63-3227-5a31-a2b7-8be1b692aeed.png" />
+		<icon src="https://tv.assets.pressassociation.io/2a51b9ff-b27d-53dc-be74-aac95ecd291e.png" />
 	</channel>
 	<channel id="UK | Sky Sports Premier League ROI">
 		<display-name>UK | Sky Sports Premier League ROI</display-name>
@@ -7023,7 +7052,7 @@
 		<display-name>UK | Sky Sports Premier League ROI UHD</display-name>
 		<display-name>UK | Sky Sports Premier League ROI 720</display-name>
 		<display-name>UK | Sky Sports Premier League ROI 1080</display-name>
-		<icon src="https://tv.assets.pressassociation.io/fc95f290-910a-5e8c-93cf-2df325a3fa53.png" />
+		<icon src="https://tv.assets.pressassociation.io/010be2d3-d23d-5b8f-80fa-3fed47cf6fa2.png" />
 	</channel>
 	<channel id="UK | Sky Sports Racing">
 		<display-name>UK | Sky Sports Racing</display-name>
@@ -7034,7 +7063,7 @@
 		<display-name>UK | Sky Sports Racing UHD</display-name>
 		<display-name>UK | Sky Sports Racing 720</display-name>
 		<display-name>UK | Sky Sports Racing 1080</display-name>
-		<icon src="https://tv.assets.pressassociation.io/6f006562-ca88-5f32-a458-5212d0636355.png" />
+		<icon src="https://tv.assets.pressassociation.io/20a18ded-2b5c-5c1b-9a7b-9092b49435f8.png" />
 	</channel>
 	<channel id="UK | Sky Sports Tennis">
 		<display-name>UK | Sky Sports Tennis</display-name>
@@ -7045,7 +7074,7 @@
 		<display-name>UK | Sky Sports Tennis UHD</display-name>
 		<display-name>UK | Sky Sports Tennis 720</display-name>
 		<display-name>UK | Sky Sports Tennis 1080</display-name>
-		<icon src="https://tv.assets.pressassociation.io/35260b24-70bc-53e9-b15a-58d64063e4ff.png" />
+		<icon src="https://tv.assets.pressassociation.io/a6b31bb1-ca01-5178-9d69-9bee48a27748.png" />
 	</channel>
 	<channel id="UK | Premier Sports 1">
 		<display-name>UK | Premier Sports 1</display-name>
