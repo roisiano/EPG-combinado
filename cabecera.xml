@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tv generator-info-name="dobleM 28/02/2026 20:47" generator-info-url="t.me/EPG_dobleM">
+<tv generator-info-name="dobleM 01/03/2026 20:47" generator-info-url="t.me/EPG_dobleM">
 	<channel id="La 1 HD">
 		<display-name>La 1</display-name>
 		<display-name>La 1.TV</display-name>
@@ -1562,6 +1562,17 @@
 		<display-name>DAZN F1 1080</display-name>
 		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20F1.png" />
 	</channel>
+	<channel id="DAZN MotoGP">
+		<display-name>DAZN MotoGP</display-name>
+		<display-name>DAZN MotoGP.TV</display-name>
+		<display-name>DAZN MotoGP SD</display-name>
+		<display-name>DAZN MotoGP HD</display-name>
+		<display-name>DAZN MotoGP FHD</display-name>
+		<display-name>DAZN MotoGP UHD</display-name>
+		<display-name>DAZN MotoGP 720</display-name>
+		<display-name>DAZN MotoGP 1080</display-name>
+		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20MotoGP.png" />
+	</channel>
 	<channel id="DAZN 1 HD">
 		<display-name>DAZN 1</display-name>
 		<display-name>DAZN 1.TV</display-name>
@@ -2145,258 +2156,291 @@
 		<display-name>DAZN Baloncesto 3 1080</display-name>
 		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20Baloncesto%203.png" />
 	</channel>
-	<channel id="DAZN Moto GP">
-		<display-name>DAZN Moto GP</display-name>
-		<display-name>DAZN Moto GP.TV</display-name>
-		<display-name>DAZN Moto GP SD</display-name>
-		<display-name>DAZN Moto GP HD</display-name>
-		<display-name>DAZN Moto GP FHD</display-name>
-		<display-name>DAZN Moto GP UHD</display-name>
-		<display-name>DAZN Moto GP 720</display-name>
-		<display-name>DAZN Moto GP 1080</display-name>
-		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20Moto%20GP.png" />
+	<channel id="Squirrel TV">
+		<display-name>Squirrel TV</display-name>
+		<display-name>Squirrel TV.TV</display-name>
+		<display-name>Squirrel TV SD</display-name>
+		<display-name>Squirrel TV HD</display-name>
+		<display-name>Squirrel TV FHD</display-name>
+		<display-name>Squirrel TV UHD</display-name>
+		<display-name>Squirrel TV 720</display-name>
+		<display-name>Squirrel TV 1080</display-name>
+		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Squirrel%20TV.png" />
 	</channel>
-	<channel id="Sony One Shark Tank">
-		<display-name>Sony One Shark Tank</display-name>
-		<display-name>Sony One Shark Tank.TV</display-name>
-		<display-name>Sony One Shark Tank SD</display-name>
-		<display-name>Sony One Shark Tank HD</display-name>
-		<display-name>Sony One Shark Tank FHD</display-name>
-		<display-name>Sony One Shark Tank UHD</display-name>
-		<display-name>Sony One Shark Tank 720</display-name>
-		<display-name>Sony One Shark Tank 1080</display-name>
-		<icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES300004C9_20241106T142325SQUARE.png" />
+	<channel id="Squirrel 2">
+		<display-name>Squirrel 2</display-name>
+		<display-name>Squirrel 2.TV</display-name>
+		<display-name>Squirrel 2 SD</display-name>
+		<display-name>Squirrel 2 HD</display-name>
+		<display-name>Squirrel 2 FHD</display-name>
+		<display-name>Squirrel 2 UHD</display-name>
+		<display-name>Squirrel 2 720</display-name>
+		<display-name>Squirrel 2 1080</display-name>
+		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Squirrel%202.png" />
 	</channel>
-	<channel id="Sony One Series Thriller">
-		<display-name>Sony One Series Thriller</display-name>
-		<display-name>Sony One Series Thriller.TV</display-name>
-		<display-name>Sony One Series Thriller SD</display-name>
-		<display-name>Sony One Series Thriller HD</display-name>
-		<display-name>Sony One Series Thriller FHD</display-name>
-		<display-name>Sony One Series Thriller UHD</display-name>
-		<display-name>Sony One Series Thriller 720</display-name>
-		<display-name>Sony One Series Thriller 1080</display-name>
-		<icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES300002Y6_20241106T142251SQUARE.png" />
+	<channel id="DARK">
+		<display-name>DARK</display-name>
+		<display-name>DARK.TV</display-name>
+		<display-name>DARK SD</display-name>
+		<display-name>DARK HD</display-name>
+		<display-name>DARK FHD</display-name>
+		<display-name>DARK UHD</display-name>
+		<display-name>DARK 720</display-name>
+		<display-name>DARK 1080</display-name>
+		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DARK.png" />
 	</channel>
-	<channel id="Sony One Éxitos">
-		<display-name>Sony One Éxitos</display-name>
-		<display-name>Sony One Éxitos.TV</display-name>
-		<display-name>Sony One Éxitos SD</display-name>
-		<display-name>Sony One Éxitos HD</display-name>
-		<display-name>Sony One Éxitos FHD</display-name>
-		<display-name>Sony One Éxitos UHD</display-name>
-		<display-name>Sony One Éxitos 720</display-name>
-		<display-name>Sony One Éxitos 1080</display-name>
-		<icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES300003D4_20241022T051059SQUARE.png" />
+	<channel id="AMC HD">
+		<display-name>AMC</display-name>
+		<display-name>AMC.TV</display-name>
+		<display-name>AMC SD</display-name>
+		<display-name>AMC HD</display-name>
+		<display-name>AMC FHD</display-name>
+		<display-name>AMC UHD</display-name>
+		<display-name>AMC 720</display-name>
+		<display-name>AMC 1080</display-name>
+		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/AMC.png" />
 	</channel>
-	<channel id="Sony One The Blacklist">
-		<display-name>Sony One The Blacklist</display-name>
-		<display-name>Sony One The Blacklist.TV</display-name>
-		<display-name>Sony One The Blacklist SD</display-name>
-		<display-name>Sony One The Blacklist HD</display-name>
-		<display-name>Sony One The Blacklist FHD</display-name>
-		<display-name>Sony One The Blacklist UHD</display-name>
-		<display-name>Sony One The Blacklist 720</display-name>
-		<display-name>Sony One The Blacklist 1080</display-name>
-		<icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES300005EL_20241022T115805SQUARE.png" />
+	<channel id="AMC Break">
+		<display-name>AMC Break</display-name>
+		<display-name>AMC Break.TV</display-name>
+		<display-name>AMC Break SD</display-name>
+		<display-name>AMC Break HD</display-name>
+		<display-name>AMC Break FHD</display-name>
+		<display-name>AMC Break UHD</display-name>
+		<display-name>AMC Break 720</display-name>
+		<display-name>AMC Break 1080</display-name>
+		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/AMC%20Break.png" />
 	</channel>
-	<channel id="Sony One Series Comedia">
-		<display-name>Sony One Series Comedia</display-name>
-		<display-name>Sony One Series Comedia.TV</display-name>
-		<display-name>Sony One Series Comedia SD</display-name>
-		<display-name>Sony One Series Comedia HD</display-name>
-		<display-name>Sony One Series Comedia FHD</display-name>
-		<display-name>Sony One Series Comedia UHD</display-name>
-		<display-name>Sony One Series Comedia 720</display-name>
-		<display-name>Sony One Series Comedia 1080</display-name>
-		<icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES30000145_20241106T142322SQUARE.png" />
+	<channel id="AMC Crime">
+		<display-name>AMC Crime</display-name>
+		<display-name>AMC Crime.TV</display-name>
+		<display-name>AMC Crime SD</display-name>
+		<display-name>AMC Crime HD</display-name>
+		<display-name>AMC Crime FHD</display-name>
+		<display-name>AMC Crime UHD</display-name>
+		<display-name>AMC Crime 720</display-name>
+		<display-name>AMC Crime 1080</display-name>
+		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/AMC%20Crime.png" />
 	</channel>
-	<channel id="Sony One Hits Comedia">
-		<display-name>Sony One Hits Comedia</display-name>
-		<display-name>Sony One Hits Comedia.TV</display-name>
-		<display-name>Sony One Hits Comedia SD</display-name>
-		<display-name>Sony One Hits Comedia HD</display-name>
-		<display-name>Sony One Hits Comedia FHD</display-name>
-		<display-name>Sony One Hits Comedia UHD</display-name>
-		<display-name>Sony One Hits Comedia 720</display-name>
-		<display-name>Sony One Hits Comedia 1080</display-name>
-		<icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES300007KS_20251111T011949SQUARE.png" />
+	<channel id="AMC Western">
+		<display-name>AMC Western</display-name>
+		<display-name>AMC Western.TV</display-name>
+		<display-name>AMC Western SD</display-name>
+		<display-name>AMC Western HD</display-name>
+		<display-name>AMC Western FHD</display-name>
+		<display-name>AMC Western UHD</display-name>
+		<display-name>AMC Western 720</display-name>
+		<display-name>AMC Western 1080</display-name>
+		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/AMC%20Western.png" />
 	</channel>
-	<channel id="Sony One Hits Acción">
-		<display-name>Sony One Hits Acción</display-name>
-		<display-name>Sony One Hits Acción.TV</display-name>
-		<display-name>Sony One Hits Acción SD</display-name>
-		<display-name>Sony One Hits Acción HD</display-name>
-		<display-name>Sony One Hits Acción FHD</display-name>
-		<display-name>Sony One Hits Acción UHD</display-name>
-		<display-name>Sony One Hits Acción 720</display-name>
-		<display-name>Sony One Hits Acción 1080</display-name>
-		<icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES300006QJ_20251111T011921SQUARE.png" />
+	<channel id="AMC Living">
+		<display-name>AMC Living</display-name>
+		<display-name>AMC Living.TV</display-name>
+		<display-name>AMC Living SD</display-name>
+		<display-name>AMC Living HD</display-name>
+		<display-name>AMC Living FHD</display-name>
+		<display-name>AMC Living UHD</display-name>
+		<display-name>AMC Living 720</display-name>
+		<display-name>AMC Living 1080</display-name>
+		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/AMC%20Living.png" />
 	</channel>
-	<channel id="Mr Bean Animated">
-		<display-name>Mr Bean Animated</display-name>
-		<display-name>Mr Bean Animated.TV</display-name>
-		<display-name>Mr Bean Animated SD</display-name>
-		<display-name>Mr Bean Animated HD</display-name>
-		<display-name>Mr Bean Animated FHD</display-name>
-		<display-name>Mr Bean Animated UHD</display-name>
-		<display-name>Mr Bean Animated 720</display-name>
-		<display-name>Mr Bean Animated 1080</display-name>
-		<icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES900001SH_20250923T011557SQUARE.png" />
+	<channel id="Odisea">
+		<display-name>Odisea</display-name>
+		<display-name>Odisea.TV</display-name>
+		<display-name>Odisea SD</display-name>
+		<display-name>Odisea HD</display-name>
+		<display-name>Odisea FHD</display-name>
+		<display-name>Odisea UHD</display-name>
+		<display-name>Odisea 720</display-name>
+		<display-name>Odisea 1080</display-name>
+		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Odisea.png" />
 	</channel>
-	<channel id="Tennis+">
-		<display-name>Tennis+</display-name>
-		<display-name>Tennis+.TV</display-name>
-		<display-name>Tennis+ SD</display-name>
-		<display-name>Tennis+ HD</display-name>
-		<display-name>Tennis+ FHD</display-name>
-		<display-name>Tennis+ UHD</display-name>
-		<display-name>Tennis+ 720</display-name>
-		<display-name>Tennis+ 1080</display-name>
-		<icon src="https://provider-static.plex.tv/epg/cms/production/704e7af1-90a0-4ad4-94de-af2559c19fa6/1_Tennis_Plus_Logo__Dark_Mode__1500x1000px.png" />
+	<channel id="Historia">
+		<display-name>Historia</display-name>
+		<display-name>Historia.TV</display-name>
+		<display-name>Historia SD</display-name>
+		<display-name>Historia HD</display-name>
+		<display-name>Historia FHD</display-name>
+		<display-name>Historia UHD</display-name>
+		<display-name>Historia 720</display-name>
+		<display-name>Historia 1080</display-name>
+		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Historia.png" />
 	</channel>
-	<channel id="FashionTV">
-		<display-name>FashionTV</display-name>
-		<display-name>FashionTV.TV</display-name>
-		<display-name>FashionTV SD</display-name>
-		<display-name>FashionTV HD</display-name>
-		<display-name>FashionTV FHD</display-name>
-		<display-name>FashionTV UHD</display-name>
-		<display-name>FashionTV 720</display-name>
-		<display-name>FashionTV 1080</display-name>
-		<icon src="https://provider-static.plex.tv/epg/cms/production/47127441-d5b6-42a3-b641-a7c076d20940/Fashion_PNG_w__transparent_background__All_white_Logo_for_Attribution__-_Yuri_Alexandrov.png" />
+	<channel id="XTRM">
+		<display-name>XTRM</display-name>
+		<display-name>XTRM.TV</display-name>
+		<display-name>XTRM SD</display-name>
+		<display-name>XTRM HD</display-name>
+		<display-name>XTRM FHD</display-name>
+		<display-name>XTRM UHD</display-name>
+		<display-name>XTRM 720</display-name>
+		<display-name>XTRM 1080</display-name>
+		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/XTRM.png" />
 	</channel>
-	<channel id="Liga de Campeones BAR 2">
-		<display-name>Liga de Campeones BAR 2</display-name>
-		<display-name>Liga de Campeones BAR 2.TV</display-name>
-		<display-name>Liga de Campeones BAR 2 SD</display-name>
-		<display-name>Liga de Campeones BAR 2 HD</display-name>
-		<display-name>Liga de Campeones BAR 2 FHD</display-name>
-		<display-name>Liga de Campeones BAR 2 UHD</display-name>
-		<display-name>Liga de Campeones BAR 2 720</display-name>
-		<display-name>Liga de Campeones BAR 2 1080</display-name>
-		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Liga%20de%20Campeones%20BAR%202.png" />
+	<channel id="Canal Hollywood HD">
+		<display-name>Canal Hollywood</display-name>
+		<display-name>Canal Hollywood.TV</display-name>
+		<display-name>Canal Hollywood SD</display-name>
+		<display-name>Canal Hollywood HD</display-name>
+		<display-name>Canal Hollywood FHD</display-name>
+		<display-name>Canal Hollywood UHD</display-name>
+		<display-name>Canal Hollywood 720</display-name>
+		<display-name>Canal Hollywood 1080</display-name>
+		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Canal%20Hollywood.png" />
 	</channel>
-	<channel id="Liga de Campeones BAR 3">
-		<display-name>Liga de Campeones BAR 3</display-name>
-		<display-name>Liga de Campeones BAR 3.TV</display-name>
-		<display-name>Liga de Campeones BAR 3 SD</display-name>
-		<display-name>Liga de Campeones BAR 3 HD</display-name>
-		<display-name>Liga de Campeones BAR 3 FHD</display-name>
-		<display-name>Liga de Campeones BAR 3 UHD</display-name>
-		<display-name>Liga de Campeones BAR 3 720</display-name>
-		<display-name>Liga de Campeones BAR 3 1080</display-name>
-		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Liga%20de%20Campeones%20BAR%203.png" />
+	<channel id="Sundance TV">
+		<display-name>Sundance TV</display-name>
+		<display-name>Sundance TV.TV</display-name>
+		<display-name>Sundance TV SD</display-name>
+		<display-name>Sundance TV HD</display-name>
+		<display-name>Sundance TV FHD</display-name>
+		<display-name>Sundance TV UHD</display-name>
+		<display-name>Sundance TV 720</display-name>
+		<display-name>Sundance TV 1080</display-name>
+		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Sundance%20TV.png" />
 	</channel>
-	<channel id="Liga de Campeones BAR 4">
-		<display-name>Liga de Campeones BAR 4</display-name>
-		<display-name>Liga de Campeones BAR 4.TV</display-name>
-		<display-name>Liga de Campeones BAR 4 SD</display-name>
-		<display-name>Liga de Campeones BAR 4 HD</display-name>
-		<display-name>Liga de Campeones BAR 4 FHD</display-name>
-		<display-name>Liga de Campeones BAR 4 UHD</display-name>
-		<display-name>Liga de Campeones BAR 4 720</display-name>
-		<display-name>Liga de Campeones BAR 4 1080</display-name>
-		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Liga%20de%20Campeones%20BAR%204.png" />
+	<channel id="VinTV">
+		<display-name>VinTV</display-name>
+		<display-name>VinTV.TV</display-name>
+		<display-name>VinTV SD</display-name>
+		<display-name>VinTV HD</display-name>
+		<display-name>VinTV FHD</display-name>
+		<display-name>VinTV UHD</display-name>
+		<display-name>VinTV 720</display-name>
+		<display-name>VinTV 1080</display-name>
+		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/VinTV.png" />
 	</channel>
-	<channel id="Liga de Campeones BAR 5">
-		<display-name>Liga de Campeones BAR 5</display-name>
-		<display-name>Liga de Campeones BAR 5.TV</display-name>
-		<display-name>Liga de Campeones BAR 5 SD</display-name>
-		<display-name>Liga de Campeones BAR 5 HD</display-name>
-		<display-name>Liga de Campeones BAR 5 FHD</display-name>
-		<display-name>Liga de Campeones BAR 5 UHD</display-name>
-		<display-name>Liga de Campeones BAR 5 720</display-name>
-		<display-name>Liga de Campeones BAR 5 1080</display-name>
-		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Liga%20de%20Campeones%20BAR%205.png" />
+	<channel id="Somos">
+		<display-name>Somos</display-name>
+		<display-name>Somos.TV</display-name>
+		<display-name>Somos SD</display-name>
+		<display-name>Somos HD</display-name>
+		<display-name>Somos FHD</display-name>
+		<display-name>Somos UHD</display-name>
+		<display-name>Somos 720</display-name>
+		<display-name>Somos 1080</display-name>
+		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Somos.png" />
 	</channel>
-	<channel id="Liga de Campeones BAR 6">
-		<display-name>Liga de Campeones BAR 6</display-name>
-		<display-name>Liga de Campeones BAR 6.TV</display-name>
-		<display-name>Liga de Campeones BAR 6 SD</display-name>
-		<display-name>Liga de Campeones BAR 6 HD</display-name>
-		<display-name>Liga de Campeones BAR 6 FHD</display-name>
-		<display-name>Liga de Campeones BAR 6 UHD</display-name>
-		<display-name>Liga de Campeones BAR 6 720</display-name>
-		<display-name>Liga de Campeones BAR 6 1080</display-name>
-		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Liga%20de%20Campeones%20BAR%206.png" />
+	<channel id="Canal Cocina">
+		<display-name>Canal Cocina</display-name>
+		<display-name>Canal Cocina.TV</display-name>
+		<display-name>Canal Cocina SD</display-name>
+		<display-name>Canal Cocina HD</display-name>
+		<display-name>Canal Cocina FHD</display-name>
+		<display-name>Canal Cocina UHD</display-name>
+		<display-name>Canal Cocina 720</display-name>
+		<display-name>Canal Cocina 1080</display-name>
+		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Canal%20Cocina.png" />
 	</channel>
-	<channel id="Liga de Campeones BAR 8">
-		<display-name>Liga de Campeones BAR 8</display-name>
-		<display-name>Liga de Campeones BAR 8.TV</display-name>
-		<display-name>Liga de Campeones BAR 8 SD</display-name>
-		<display-name>Liga de Campeones BAR 8 HD</display-name>
-		<display-name>Liga de Campeones BAR 8 FHD</display-name>
-		<display-name>Liga de Campeones BAR 8 UHD</display-name>
-		<display-name>Liga de Campeones BAR 8 720</display-name>
-		<display-name>Liga de Campeones BAR 8 1080</display-name>
-		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Liga%20de%20Campeones%20BAR%208.png" />
+	<channel id="SELEKT">
+		<display-name>SELEKT</display-name>
+		<display-name>SELEKT.TV</display-name>
+		<display-name>SELEKT SD</display-name>
+		<display-name>SELEKT HD</display-name>
+		<display-name>SELEKT FHD</display-name>
+		<display-name>SELEKT UHD</display-name>
+		<display-name>SELEKT 720</display-name>
+		<display-name>SELEKT 1080</display-name>
+		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/SELEKT.png" />
 	</channel>
-	<channel id="Liga de Campeones BAR 9">
-		<display-name>Liga de Campeones BAR 9</display-name>
-		<display-name>Liga de Campeones BAR 9.TV</display-name>
-		<display-name>Liga de Campeones BAR 9 SD</display-name>
-		<display-name>Liga de Campeones BAR 9 HD</display-name>
-		<display-name>Liga de Campeones BAR 9 FHD</display-name>
-		<display-name>Liga de Campeones BAR 9 UHD</display-name>
-		<display-name>Liga de Campeones BAR 9 720</display-name>
-		<display-name>Liga de Campeones BAR 9 1080</display-name>
-		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Liga%20de%20Campeones%20BAR%209.png" />
+	<channel id="Veo7">
+		<display-name>Veo7</display-name>
+		<display-name>Veo7.TV</display-name>
+		<display-name>Veo7 SD</display-name>
+		<display-name>Veo7 HD</display-name>
+		<display-name>Veo7 FHD</display-name>
+		<display-name>Veo7 UHD</display-name>
+		<display-name>Veo7 720</display-name>
+		<display-name>Veo7 1080</display-name>
+		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Veo7.png" />
 	</channel>
-	<channel id="Liga de Campeones BAR 10">
-		<display-name>Liga de Campeones BAR 10</display-name>
-		<display-name>Liga de Campeones BAR 10.TV</display-name>
-		<display-name>Liga de Campeones BAR 10 SD</display-name>
-		<display-name>Liga de Campeones BAR 10 HD</display-name>
-		<display-name>Liga de Campeones BAR 10 FHD</display-name>
-		<display-name>Liga de Campeones BAR 10 UHD</display-name>
-		<display-name>Liga de Campeones BAR 10 720</display-name>
-		<display-name>Liga de Campeones BAR 10 1080</display-name>
-		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Liga%20de%20Campeones%20BAR%2010.png" />
+	<channel id="BOM Cine">
+		<display-name>BOM Cine</display-name>
+		<display-name>BOM Cine.TV</display-name>
+		<display-name>BOM Cine SD</display-name>
+		<display-name>BOM Cine HD</display-name>
+		<display-name>BOM Cine FHD</display-name>
+		<display-name>BOM Cine UHD</display-name>
+		<display-name>BOM Cine 720</display-name>
+		<display-name>BOM Cine 1080</display-name>
+		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/BOM%20Cine.png" />
 	</channel>
-	<channel id="Liga de Campeones BAR 11">
-		<display-name>Liga de Campeones BAR 11</display-name>
-		<display-name>Liga de Campeones BAR 11.TV</display-name>
-		<display-name>Liga de Campeones BAR 11 SD</display-name>
-		<display-name>Liga de Campeones BAR 11 HD</display-name>
-		<display-name>Liga de Campeones BAR 11 FHD</display-name>
-		<display-name>Liga de Campeones BAR 11 UHD</display-name>
-		<display-name>Liga de Campeones BAR 11 720</display-name>
-		<display-name>Liga de Campeones BAR 11 1080</display-name>
-		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Liga%20de%20Campeones%20BAR%2011.png" />
+	<channel id="Cines Verdi TV">
+		<display-name>Cines Verdi TV</display-name>
+		<display-name>Cines Verdi TV.TV</display-name>
+		<display-name>Cines Verdi TV SD</display-name>
+		<display-name>Cines Verdi TV HD</display-name>
+		<display-name>Cines Verdi TV FHD</display-name>
+		<display-name>Cines Verdi TV UHD</display-name>
+		<display-name>Cines Verdi TV 720</display-name>
+		<display-name>Cines Verdi TV 1080</display-name>
+		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Cines%20Verdi%20TV.png" />
 	</channel>
-	<channel id="Liga de Campeones BAR 12">
-		<display-name>Liga de Campeones BAR 12</display-name>
-		<display-name>Liga de Campeones BAR 12.TV</display-name>
-		<display-name>Liga de Campeones BAR 12 SD</display-name>
-		<display-name>Liga de Campeones BAR 12 HD</display-name>
-		<display-name>Liga de Campeones BAR 12 FHD</display-name>
-		<display-name>Liga de Campeones BAR 12 UHD</display-name>
-		<display-name>Liga de Campeones BAR 12 720</display-name>
-		<display-name>Liga de Campeones BAR 12 1080</display-name>
-		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Liga%20de%20Campeones%20BAR%2012.png" />
+	<channel id="Cine Feel Good">
+		<display-name>Cine Feel Good</display-name>
+		<display-name>Cine Feel Good.TV</display-name>
+		<display-name>Cine Feel Good SD</display-name>
+		<display-name>Cine Feel Good HD</display-name>
+		<display-name>Cine Feel Good FHD</display-name>
+		<display-name>Cine Feel Good UHD</display-name>
+		<display-name>Cine Feel Good 720</display-name>
+		<display-name>Cine Feel Good 1080</display-name>
+		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Cine%20Feel%20Good.png" />
 	</channel>
-	<channel id="GolStadium BAR">
-		<display-name>GolStadium BAR</display-name>
-		<display-name>GolStadium BAR.TV</display-name>
-		<display-name>GolStadium BAR SD</display-name>
-		<display-name>GolStadium BAR HD</display-name>
-		<display-name>GolStadium BAR FHD</display-name>
-		<display-name>GolStadium BAR UHD</display-name>
-		<display-name>GolStadium BAR 720</display-name>
-		<display-name>GolStadium BAR 1080</display-name>
-		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/GolStadium%20BAR.png" />
+	<channel id="LALIGA Inside">
+		<display-name>LALIGA Inside</display-name>
+		<display-name>LALIGA Inside.TV</display-name>
+		<display-name>LALIGA Inside SD</display-name>
+		<display-name>LALIGA Inside HD</display-name>
+		<display-name>LALIGA Inside FHD</display-name>
+		<display-name>LALIGA Inside UHD</display-name>
+		<display-name>LALIGA Inside 720</display-name>
+		<display-name>LALIGA Inside 1080</display-name>
+		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/LALIGA%20Inside.png" />
 	</channel>
-	<channel id="DAZN F1 BAR">
-		<display-name>DAZN F1 BAR</display-name>
-		<display-name>DAZN F1 BAR.TV</display-name>
-		<display-name>DAZN F1 BAR SD</display-name>
-		<display-name>DAZN F1 BAR HD</display-name>
-		<display-name>DAZN F1 BAR FHD</display-name>
-		<display-name>DAZN F1 BAR UHD</display-name>
-		<display-name>DAZN F1 BAR 720</display-name>
-		<display-name>DAZN F1 BAR 1080</display-name>
-		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20F1%20BAR.png" />
+	<channel id="Top Barça">
+		<display-name>Top Barça</display-name>
+		<display-name>Top Barça.TV</display-name>
+		<display-name>Top Barça SD</display-name>
+		<display-name>Top Barça HD</display-name>
+		<display-name>Top Barça FHD</display-name>
+		<display-name>Top Barça UHD</display-name>
+		<display-name>Top Barça 720</display-name>
+		<display-name>Top Barça 1080</display-name>
+		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Top%20Bar%C3%A7a.png" />
+	</channel>
+	<channel id="Betis TV">
+		<display-name>Betis TV</display-name>
+		<display-name>Betis TV.TV</display-name>
+		<display-name>Betis TV SD</display-name>
+		<display-name>Betis TV HD</display-name>
+		<display-name>Betis TV FHD</display-name>
+		<display-name>Betis TV UHD</display-name>
+		<display-name>Betis TV 720</display-name>
+		<display-name>Betis TV 1080</display-name>
+		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Betis%20TV.png" />
+	</channel>
+	<channel id="Rugby Challenge Spain">
+		<display-name>Rugby Challenge Spain</display-name>
+		<display-name>Rugby Challenge Spain.TV</display-name>
+		<display-name>Rugby Challenge Spain SD</display-name>
+		<display-name>Rugby Challenge Spain HD</display-name>
+		<display-name>Rugby Challenge Spain FHD</display-name>
+		<display-name>Rugby Challenge Spain UHD</display-name>
+		<display-name>Rugby Challenge Spain 720</display-name>
+		<display-name>Rugby Challenge Spain 1080</display-name>
+		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Rugby%20Challenge%20Spain.png" />
+	</channel>
+	<channel id="MMA TV">
+		<display-name>MMA TV</display-name>
+		<display-name>MMA TV.TV</display-name>
+		<display-name>MMA TV SD</display-name>
+		<display-name>MMA TV HD</display-name>
+		<display-name>MMA TV FHD</display-name>
+		<display-name>MMA TV UHD</display-name>
+		<display-name>MMA TV 720</display-name>
+		<display-name>MMA TV 1080</display-name>
+		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/MMA%20TV.png" />
 	</channel>
 	<channel id="Gol Classics">
 		<display-name>Gol Classics</display-name>
@@ -2409,555 +2453,522 @@
 		<display-name>Gol Classics 1080</display-name>
 		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Gol%20Classics.png" />
 	</channel>
-	<channel id="GolStadium">
-		<display-name>GolStadium</display-name>
-		<display-name>GolStadium.TV</display-name>
-		<display-name>GolStadium SD</display-name>
-		<display-name>GolStadium HD</display-name>
-		<display-name>GolStadium FHD</display-name>
-		<display-name>GolStadium UHD</display-name>
-		<display-name>GolStadium 720</display-name>
-		<display-name>GolStadium 1080</display-name>
-		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/GolStadium.png" />
+	<channel id="Runtime Thriller-Terror">
+		<display-name>Runtime Thriller-Terror</display-name>
+		<display-name>Runtime Thriller-Terror.TV</display-name>
+		<display-name>Runtime Thriller-Terror SD</display-name>
+		<display-name>Runtime Thriller-Terror HD</display-name>
+		<display-name>Runtime Thriller-Terror FHD</display-name>
+		<display-name>Runtime Thriller-Terror UHD</display-name>
+		<display-name>Runtime Thriller-Terror 720</display-name>
+		<display-name>Runtime Thriller-Terror 1080</display-name>
+		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Runtime%20Thriller-Terror.png" />
 	</channel>
-	<channel id="Torolé TV">
-		<display-name>Torolé TV</display-name>
-		<display-name>Torolé TV.TV</display-name>
-		<display-name>Torolé TV SD</display-name>
-		<display-name>Torolé TV HD</display-name>
-		<display-name>Torolé TV FHD</display-name>
-		<display-name>Torolé TV UHD</display-name>
-		<display-name>Torolé TV 720</display-name>
-		<display-name>Torolé TV 1080</display-name>
-		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Torol%C3%A9%20TV.png" />
+	<channel id="Runtime Comedia">
+		<display-name>Runtime Comedia</display-name>
+		<display-name>Runtime Comedia.TV</display-name>
+		<display-name>Runtime Comedia SD</display-name>
+		<display-name>Runtime Comedia HD</display-name>
+		<display-name>Runtime Comedia FHD</display-name>
+		<display-name>Runtime Comedia UHD</display-name>
+		<display-name>Runtime Comedia 720</display-name>
+		<display-name>Runtime Comedia 1080</display-name>
+		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Runtime%20Comedia.png" />
 	</channel>
-	<channel id="Iberalia pesca">
-		<display-name>Iberalia pesca</display-name>
-		<display-name>Iberalia pesca.TV</display-name>
-		<display-name>Iberalia pesca SD</display-name>
-		<display-name>Iberalia pesca HD</display-name>
-		<display-name>Iberalia pesca FHD</display-name>
-		<display-name>Iberalia pesca UHD</display-name>
-		<display-name>Iberalia pesca 720</display-name>
-		<display-name>Iberalia pesca 1080</display-name>
-		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Iberalia%20pesca.png" />
+	<channel id="Runtime Cine y Series">
+		<display-name>Runtime Cine y Series</display-name>
+		<display-name>Runtime Cine y Series.TV</display-name>
+		<display-name>Runtime Cine y Series SD</display-name>
+		<display-name>Runtime Cine y Series HD</display-name>
+		<display-name>Runtime Cine y Series FHD</display-name>
+		<display-name>Runtime Cine y Series UHD</display-name>
+		<display-name>Runtime Cine y Series 720</display-name>
+		<display-name>Runtime Cine y Series 1080</display-name>
+		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Runtime%20Cine%20y%20Series.png" />
 	</channel>
-	<channel id="Iberalia caza">
-		<display-name>Iberalia caza</display-name>
-		<display-name>Iberalia caza.TV</display-name>
-		<display-name>Iberalia caza SD</display-name>
-		<display-name>Iberalia caza HD</display-name>
-		<display-name>Iberalia caza FHD</display-name>
-		<display-name>Iberalia caza UHD</display-name>
-		<display-name>Iberalia caza 720</display-name>
-		<display-name>Iberalia caza 1080</display-name>
-		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Iberalia%20caza.png" />
+	<channel id="Runtime Series">
+		<display-name>Runtime Series</display-name>
+		<display-name>Runtime Series.TV</display-name>
+		<display-name>Runtime Series SD</display-name>
+		<display-name>Runtime Series HD</display-name>
+		<display-name>Runtime Series FHD</display-name>
+		<display-name>Runtime Series UHD</display-name>
+		<display-name>Runtime Series 720</display-name>
+		<display-name>Runtime Series 1080</display-name>
+		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Runtime%20Series.png" />
 	</channel>
-	<channel id="Global Telenovelas">
-		<display-name>Global Telenovelas</display-name>
-		<display-name>Global Telenovelas.TV</display-name>
-		<display-name>Global Telenovelas SD</display-name>
-		<display-name>Global Telenovelas HD</display-name>
-		<display-name>Global Telenovelas FHD</display-name>
-		<display-name>Global Telenovelas UHD</display-name>
-		<display-name>Global Telenovelas 720</display-name>
-		<display-name>Global Telenovelas 1080</display-name>
-		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Global%20Telenovelas.png" />
+	<channel id="Runtime Acción">
+		<display-name>Runtime Acción</display-name>
+		<display-name>Runtime Acción.TV</display-name>
+		<display-name>Runtime Acción SD</display-name>
+		<display-name>Runtime Acción HD</display-name>
+		<display-name>Runtime Acción FHD</display-name>
+		<display-name>Runtime Acción UHD</display-name>
+		<display-name>Runtime Acción 720</display-name>
+		<display-name>Runtime Acción 1080</display-name>
+		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Runtime%20Acci%C3%B3n.png" />
 	</channel>
-	<channel id="Global Tendencias">
-		<display-name>Global Tendencias</display-name>
-		<display-name>Global Tendencias.TV</display-name>
-		<display-name>Global Tendencias SD</display-name>
-		<display-name>Global Tendencias HD</display-name>
-		<display-name>Global Tendencias FHD</display-name>
-		<display-name>Global Tendencias UHD</display-name>
-		<display-name>Global Tendencias 720</display-name>
-		<display-name>Global Tendencias 1080</display-name>
-		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Global%20Tendencias.png" />
+	<channel id="Runtime Crimen">
+		<display-name>Runtime Crimen</display-name>
+		<display-name>Runtime Crimen.TV</display-name>
+		<display-name>Runtime Crimen SD</display-name>
+		<display-name>Runtime Crimen HD</display-name>
+		<display-name>Runtime Crimen FHD</display-name>
+		<display-name>Runtime Crimen UHD</display-name>
+		<display-name>Runtime Crimen 720</display-name>
+		<display-name>Runtime Crimen 1080</display-name>
+		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Runtime%20Crimen.png" />
 	</channel>
-	<channel id="Fight Time">
-		<display-name>Fight Time</display-name>
-		<display-name>Fight Time.TV</display-name>
-		<display-name>Fight Time SD</display-name>
-		<display-name>Fight Time HD</display-name>
-		<display-name>Fight Time FHD</display-name>
-		<display-name>Fight Time UHD</display-name>
-		<display-name>Fight Time 720</display-name>
-		<display-name>Fight Time 1080</display-name>
-		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Fight%20Time.png" />
+	<channel id="Runtime Romance">
+		<display-name>Runtime Romance</display-name>
+		<display-name>Runtime Romance.TV</display-name>
+		<display-name>Runtime Romance SD</display-name>
+		<display-name>Runtime Romance HD</display-name>
+		<display-name>Runtime Romance FHD</display-name>
+		<display-name>Runtime Romance UHD</display-name>
+		<display-name>Runtime Romance 720</display-name>
+		<display-name>Runtime Romance 1080</display-name>
+		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Runtime%20Romance.png" />
 	</channel>
-	<channel id="DBike">
-		<display-name>DBike</display-name>
-		<display-name>DBike.TV</display-name>
-		<display-name>DBike SD</display-name>
-		<display-name>DBike HD</display-name>
-		<display-name>DBike FHD</display-name>
-		<display-name>DBike UHD</display-name>
-		<display-name>DBike 720</display-name>
-		<display-name>DBike 1080</display-name>
-		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DBike.png" />
+	<channel id="RunTime Clásicos">
+		<display-name>RunTime Clásicos</display-name>
+		<display-name>RunTime Clásicos.TV</display-name>
+		<display-name>RunTime Clásicos SD</display-name>
+		<display-name>RunTime Clásicos HD</display-name>
+		<display-name>RunTime Clásicos FHD</display-name>
+		<display-name>RunTime Clásicos UHD</display-name>
+		<display-name>RunTime Clásicos 720</display-name>
+		<display-name>RunTime Clásicos 1080</display-name>
+		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/RunTime%20Cl%C3%A1sicos.png" />
 	</channel>
-	<channel id="Náutica TV">
-		<display-name>Náutica TV</display-name>
-		<display-name>Náutica TV.TV</display-name>
-		<display-name>Náutica TV SD</display-name>
-		<display-name>Náutica TV HD</display-name>
-		<display-name>Náutica TV FHD</display-name>
-		<display-name>Náutica TV UHD</display-name>
-		<display-name>Náutica TV 720</display-name>
-		<display-name>Náutica TV 1080</display-name>
-		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/N%C3%A1utica%20TV.png" />
+	<channel id="RunTime Familia">
+		<display-name>RunTime Familia</display-name>
+		<display-name>RunTime Familia.TV</display-name>
+		<display-name>RunTime Familia SD</display-name>
+		<display-name>RunTime Familia HD</display-name>
+		<display-name>RunTime Familia FHD</display-name>
+		<display-name>RunTime Familia UHD</display-name>
+		<display-name>RunTime Familia 720</display-name>
+		<display-name>RunTime Familia 1080</display-name>
+		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/RunTime%20Familia.png" />
 	</channel>
-	<channel id="Antena Motor">
-		<display-name>Antena Motor</display-name>
-		<display-name>Antena Motor.TV</display-name>
-		<display-name>Antena Motor SD</display-name>
-		<display-name>Antena Motor HD</display-name>
-		<display-name>Antena Motor FHD</display-name>
-		<display-name>Antena Motor UHD</display-name>
-		<display-name>Antena Motor 720</display-name>
-		<display-name>Antena Motor 1080</display-name>
-		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Antena%20Motor.png" />
+	<channel id="Qello concerts">
+		<display-name>Qello concerts</display-name>
+		<display-name>Qello concerts.TV</display-name>
+		<display-name>Qello concerts SD</display-name>
+		<display-name>Qello concerts HD</display-name>
+		<display-name>Qello concerts FHD</display-name>
+		<display-name>Qello concerts UHD</display-name>
+		<display-name>Qello concerts 720</display-name>
+		<display-name>Qello concerts 1080</display-name>
+		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Qello%20concerts.png" />
 	</channel>
-	<channel id="Dhípica">
-		<display-name>Dhípica</display-name>
-		<display-name>Dhípica.TV</display-name>
-		<display-name>Dhípica SD</display-name>
-		<display-name>Dhípica HD</display-name>
-		<display-name>Dhípica FHD</display-name>
-		<display-name>Dhípica UHD</display-name>
-		<display-name>Dhípica 720</display-name>
-		<display-name>Dhípica 1080</display-name>
-		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Dh%C3%ADpica.png" />
+	<channel id="TRACE Sports Stars">
+		<display-name>TRACE Sports Stars</display-name>
+		<display-name>TRACE Sports Stars.TV</display-name>
+		<display-name>TRACE Sports Stars SD</display-name>
+		<display-name>TRACE Sports Stars HD</display-name>
+		<display-name>TRACE Sports Stars FHD</display-name>
+		<display-name>TRACE Sports Stars UHD</display-name>
+		<display-name>TRACE Sports Stars 720</display-name>
+		<display-name>TRACE Sports Stars 1080</display-name>
+		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/TRACE%20Sports%20Stars.png" />
 	</channel>
-	<channel id="REKTV">
-		<display-name>REKTV</display-name>
-		<display-name>REKTV.TV</display-name>
-		<display-name>REKTV SD</display-name>
-		<display-name>REKTV HD</display-name>
-		<display-name>REKTV FHD</display-name>
-		<display-name>REKTV UHD</display-name>
-		<display-name>REKTV 720</display-name>
-		<display-name>REKTV 1080</display-name>
-		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/REKTV.png" />
+	<channel id="Horse TV">
+		<display-name>Horse TV</display-name>
+		<display-name>Horse TV.TV</display-name>
+		<display-name>Horse TV SD</display-name>
+		<display-name>Horse TV HD</display-name>
+		<display-name>Horse TV FHD</display-name>
+		<display-name>Horse TV UHD</display-name>
+		<display-name>Horse TV 720</display-name>
+		<display-name>Horse TV 1080</display-name>
+		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Horse%20TV.png" />
 	</channel>
-	<channel id="tlnovelas">
-		<display-name>tlnovelas</display-name>
-		<display-name>tlnovelas.TV</display-name>
-		<display-name>tlnovelas SD</display-name>
-		<display-name>tlnovelas HD</display-name>
-		<display-name>tlnovelas FHD</display-name>
-		<display-name>tlnovelas UHD</display-name>
-		<display-name>tlnovelas 720</display-name>
-		<display-name>tlnovelas 1080</display-name>
-		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/tlnovelas.png" />
+	<channel id="Nautical Channel">
+		<display-name>Nautical Channel</display-name>
+		<display-name>Nautical Channel.TV</display-name>
+		<display-name>Nautical Channel SD</display-name>
+		<display-name>Nautical Channel HD</display-name>
+		<display-name>Nautical Channel FHD</display-name>
+		<display-name>Nautical Channel UHD</display-name>
+		<display-name>Nautical Channel 720</display-name>
+		<display-name>Nautical Channel 1080</display-name>
+		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Nautical%20Channel.png" />
 	</channel>
-	<channel id="DePelícula">
-		<display-name>DePelícula</display-name>
-		<display-name>DePelícula.TV</display-name>
-		<display-name>DePelícula SD</display-name>
-		<display-name>DePelícula HD</display-name>
-		<display-name>DePelícula FHD</display-name>
-		<display-name>DePelícula UHD</display-name>
-		<display-name>DePelícula 720</display-name>
-		<display-name>DePelícula 1080</display-name>
-		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DePel%C3%ADcula.png" />
+	<channel id="Surf Channel">
+		<display-name>Surf Channel</display-name>
+		<display-name>Surf Channel.TV</display-name>
+		<display-name>Surf Channel SD</display-name>
+		<display-name>Surf Channel HD</display-name>
+		<display-name>Surf Channel FHD</display-name>
+		<display-name>Surf Channel UHD</display-name>
+		<display-name>Surf Channel 720</display-name>
+		<display-name>Surf Channel 1080</display-name>
+		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Surf%20Channel.png" />
 	</channel>
-	<channel id="DejateTV">
-		<display-name>DejateTV</display-name>
-		<display-name>DejateTV.TV</display-name>
-		<display-name>DejateTV SD</display-name>
-		<display-name>DejateTV HD</display-name>
-		<display-name>DejateTV FHD</display-name>
-		<display-name>DejateTV UHD</display-name>
-		<display-name>DejateTV 720</display-name>
-		<display-name>DejateTV 1080</display-name>
-		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DejateTV.png" />
+	<channel id="Motorvision">
+		<display-name>Motorvision</display-name>
+		<display-name>Motorvision.TV</display-name>
+		<display-name>Motorvision SD</display-name>
+		<display-name>Motorvision HD</display-name>
+		<display-name>Motorvision FHD</display-name>
+		<display-name>Motorvision UHD</display-name>
+		<display-name>Motorvision 720</display-name>
+		<display-name>Motorvision 1080</display-name>
+		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Motorvision.png" />
 	</channel>
-	<channel id="PTV Granada">
-		<display-name>PTV Granada</display-name>
-		<display-name>PTV Granada.TV</display-name>
-		<display-name>PTV Granada SD</display-name>
-		<display-name>PTV Granada HD</display-name>
-		<display-name>PTV Granada FHD</display-name>
-		<display-name>PTV Granada UHD</display-name>
-		<display-name>PTV Granada 720</display-name>
-		<display-name>PTV Granada 1080</display-name>
-		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/PTV%20Granada.png" />
+	<channel id="Fast&amp;FunBox">
+		<display-name>Fast&amp;FunBox</display-name>
+		<display-name>Fast&amp;FunBox.TV</display-name>
+		<display-name>Fast&amp;FunBox SD</display-name>
+		<display-name>Fast&amp;FunBox HD</display-name>
+		<display-name>Fast&amp;FunBox FHD</display-name>
+		<display-name>Fast&amp;FunBox UHD</display-name>
+		<display-name>Fast&amp;FunBox 720</display-name>
+		<display-name>Fast&amp;FunBox 1080</display-name>
+		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Fast%26FunBox.png" />
 	</channel>
-	<channel id="PTV Sevilla">
-		<display-name>PTV Sevilla</display-name>
-		<display-name>PTV Sevilla.TV</display-name>
-		<display-name>PTV Sevilla SD</display-name>
-		<display-name>PTV Sevilla HD</display-name>
-		<display-name>PTV Sevilla FHD</display-name>
-		<display-name>PTV Sevilla UHD</display-name>
-		<display-name>PTV Sevilla 720</display-name>
-		<display-name>PTV Sevilla 1080</display-name>
-		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/PTV%20Sevilla.png" />
+	<channel id="FightSports">
+		<display-name>FightSports</display-name>
+		<display-name>FightSports.TV</display-name>
+		<display-name>FightSports SD</display-name>
+		<display-name>FightSports HD</display-name>
+		<display-name>FightSports FHD</display-name>
+		<display-name>FightSports UHD</display-name>
+		<display-name>FightSports 720</display-name>
+		<display-name>FightSports 1080</display-name>
+		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/FightSports.png" />
 	</channel>
-	<channel id="PTV Córdoba">
-		<display-name>PTV Córdoba</display-name>
-		<display-name>PTV Córdoba.TV</display-name>
-		<display-name>PTV Córdoba SD</display-name>
-		<display-name>PTV Córdoba HD</display-name>
-		<display-name>PTV Córdoba FHD</display-name>
-		<display-name>PTV Córdoba UHD</display-name>
-		<display-name>PTV Córdoba 720</display-name>
-		<display-name>PTV Córdoba 1080</display-name>
-		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/PTV%20C%C3%B3rdoba.png" />
+	<channel id="Fight Box HD">
+		<display-name>Fight Box</display-name>
+		<display-name>Fight Box.TV</display-name>
+		<display-name>Fight Box SD</display-name>
+		<display-name>Fight Box HD</display-name>
+		<display-name>Fight Box FHD</display-name>
+		<display-name>Fight Box UHD</display-name>
+		<display-name>Fight Box 720</display-name>
+		<display-name>Fight Box 1080</display-name>
+		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Fight%20Box.png" />
 	</channel>
-	<channel id="PTV Linares">
-		<display-name>PTV Linares</display-name>
-		<display-name>PTV Linares.TV</display-name>
-		<display-name>PTV Linares SD</display-name>
-		<display-name>PTV Linares HD</display-name>
-		<display-name>PTV Linares FHD</display-name>
-		<display-name>PTV Linares UHD</display-name>
-		<display-name>PTV Linares 720</display-name>
-		<display-name>PTV Linares 1080</display-name>
-		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/PTV%20Linares.png" />
+	<channel id="QWest Mix">
+		<display-name>QWest Mix</display-name>
+		<display-name>QWest Mix.TV</display-name>
+		<display-name>QWest Mix SD</display-name>
+		<display-name>QWest Mix HD</display-name>
+		<display-name>QWest Mix FHD</display-name>
+		<display-name>QWest Mix UHD</display-name>
+		<display-name>QWest Mix 720</display-name>
+		<display-name>QWest Mix 1080</display-name>
+		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/QWest%20Mix.png" />
 	</channel>
-	<channel id="PTV Málaga">
-		<display-name>PTV Málaga</display-name>
-		<display-name>PTV Málaga.TV</display-name>
-		<display-name>PTV Málaga SD</display-name>
-		<display-name>PTV Málaga HD</display-name>
-		<display-name>PTV Málaga FHD</display-name>
-		<display-name>PTV Málaga UHD</display-name>
-		<display-name>PTV Málaga 720</display-name>
-		<display-name>PTV Málaga 1080</display-name>
-		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/PTV%20M%C3%A1laga.png" />
+	<channel id="Sol Música">
+		<display-name>Sol Música</display-name>
+		<display-name>Sol Música.TV</display-name>
+		<display-name>Sol Música SD</display-name>
+		<display-name>Sol Música HD</display-name>
+		<display-name>Sol Música FHD</display-name>
+		<display-name>Sol Música UHD</display-name>
+		<display-name>Sol Música 720</display-name>
+		<display-name>Sol Música 1080</display-name>
+		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Sol%20M%C3%BAsica.png" />
 	</channel>
-	<channel id="NFL Network">
-		<display-name>NFL Network</display-name>
-		<display-name>NFL Network.TV</display-name>
-		<display-name>NFL Network SD</display-name>
-		<display-name>NFL Network HD</display-name>
-		<display-name>NFL Network FHD</display-name>
-		<display-name>NFL Network UHD</display-name>
-		<display-name>NFL Network 720</display-name>
-		<display-name>NFL Network 1080</display-name>
-		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/NFL%20Network.png" />
+	<channel id="TRACE Latina">
+		<display-name>TRACE Latina</display-name>
+		<display-name>TRACE Latina.TV</display-name>
+		<display-name>TRACE Latina SD</display-name>
+		<display-name>TRACE Latina HD</display-name>
+		<display-name>TRACE Latina FHD</display-name>
+		<display-name>TRACE Latina UHD</display-name>
+		<display-name>TRACE Latina 720</display-name>
+		<display-name>TRACE Latina 1080</display-name>
+		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/TRACE%20Latina.png" />
 	</channel>
-	<channel id="Red Bull TV">
-		<display-name>Red Bull TV</display-name>
-		<display-name>Red Bull TV.TV</display-name>
-		<display-name>Red Bull TV SD</display-name>
-		<display-name>Red Bull TV HD</display-name>
-		<display-name>Red Bull TV FHD</display-name>
-		<display-name>Red Bull TV UHD</display-name>
-		<display-name>Red Bull TV 720</display-name>
-		<display-name>Red Bull TV 1080</display-name>
-		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Red%20Bull%20TV.png" />
+	<channel id="TRACE Urban">
+		<display-name>TRACE Urban</display-name>
+		<display-name>TRACE Urban.TV</display-name>
+		<display-name>TRACE Urban SD</display-name>
+		<display-name>TRACE Urban HD</display-name>
+		<display-name>TRACE Urban FHD</display-name>
+		<display-name>TRACE Urban UHD</display-name>
+		<display-name>TRACE Urban 720</display-name>
+		<display-name>TRACE Urban 1080</display-name>
+		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/TRACE%20Urban.png" />
 	</channel>
-	<channel id="Unbeaten">
-		<display-name>Unbeaten</display-name>
-		<display-name>Unbeaten.TV</display-name>
-		<display-name>Unbeaten SD</display-name>
-		<display-name>Unbeaten HD</display-name>
-		<display-name>Unbeaten FHD</display-name>
-		<display-name>Unbeaten UHD</display-name>
-		<display-name>Unbeaten 720</display-name>
-		<display-name>Unbeaten 1080</display-name>
-		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Unbeaten.png" />
+	<channel id="Cazavisión">
+		<display-name>Cazavisión</display-name>
+		<display-name>Cazavisión.TV</display-name>
+		<display-name>Cazavisión SD</display-name>
+		<display-name>Cazavisión HD</display-name>
+		<display-name>Cazavisión FHD</display-name>
+		<display-name>Cazavisión UHD</display-name>
+		<display-name>Cazavisión 720</display-name>
+		<display-name>Cazavisión 1080</display-name>
+		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Cazavisi%C3%B3n.png" />
 	</channel>
-	<channel id="DAZN Bundesliga">
-		<display-name>DAZN Bundesliga</display-name>
-		<display-name>DAZN Bundesliga.TV</display-name>
-		<display-name>DAZN Bundesliga SD</display-name>
-		<display-name>DAZN Bundesliga HD</display-name>
-		<display-name>DAZN Bundesliga FHD</display-name>
-		<display-name>DAZN Bundesliga UHD</display-name>
-		<display-name>DAZN Bundesliga 720</display-name>
-		<display-name>DAZN Bundesliga 1080</display-name>
-		<icon src="https://image.discovery.indazn.com/eu/v4/onboarding-images/none/sn_6by3h89i2eykc341oz7lv1ddd/fill/center/top/none/100/0/0/png/image/25/g" />
+	<channel id="TR3CE">
+		<display-name>TR3CE</display-name>
+		<display-name>TR3CE.TV</display-name>
+		<display-name>TR3CE SD</display-name>
+		<display-name>TR3CE HD</display-name>
+		<display-name>TR3CE FHD</display-name>
+		<display-name>TR3CE UHD</display-name>
+		<display-name>TR3CE 720</display-name>
+		<display-name>TR3CE 1080</display-name>
+		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/TR3CE.png" />
 	</channel>
-	<channel id="DAZN Bundesliga 2">
-		<display-name>DAZN Bundesliga 2</display-name>
-		<display-name>DAZN Bundesliga 2.TV</display-name>
-		<display-name>DAZN Bundesliga 2 SD</display-name>
-		<display-name>DAZN Bundesliga 2 HD</display-name>
-		<display-name>DAZN Bundesliga 2 FHD</display-name>
-		<display-name>DAZN Bundesliga 2 UHD</display-name>
-		<display-name>DAZN Bundesliga 2 720</display-name>
-		<display-name>DAZN Bundesliga 2 1080</display-name>
-		<icon src="https://image.discovery.indazn.com/eu/v4/onboarding-images/none/sn_6by3h89i2eykc341oz7lv1ddd/fill/center/top/none/100/0/0/png/image/25/g" />
+	<channel id="Deutsche W">
+		<display-name>Deutsche W</display-name>
+		<display-name>Deutsche W.TV</display-name>
+		<display-name>Deutsche W SD</display-name>
+		<display-name>Deutsche W HD</display-name>
+		<display-name>Deutsche W FHD</display-name>
+		<display-name>Deutsche W UHD</display-name>
+		<display-name>Deutsche W 720</display-name>
+		<display-name>Deutsche W 1080</display-name>
+		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Deutsche%20W.png" />
 	</channel>
-	<channel id="DAZN Bundesliga 3">
-		<display-name>DAZN Bundesliga 3</display-name>
-		<display-name>DAZN Bundesliga 3.TV</display-name>
-		<display-name>DAZN Bundesliga 3 SD</display-name>
-		<display-name>DAZN Bundesliga 3 HD</display-name>
-		<display-name>DAZN Bundesliga 3 FHD</display-name>
-		<display-name>DAZN Bundesliga 3 UHD</display-name>
-		<display-name>DAZN Bundesliga 3 720</display-name>
-		<display-name>DAZN Bundesliga 3 1080</display-name>
-		<icon src="https://image.discovery.indazn.com/eu/v4/onboarding-images/none/sn_6by3h89i2eykc341oz7lv1ddd/fill/center/top/none/100/0/0/png/image/25/g" />
+	<channel id="Pro TV">
+		<display-name>Pro TV</display-name>
+		<display-name>Pro TV.TV</display-name>
+		<display-name>Pro TV SD</display-name>
+		<display-name>Pro TV HD</display-name>
+		<display-name>Pro TV FHD</display-name>
+		<display-name>Pro TV UHD</display-name>
+		<display-name>Pro TV 720</display-name>
+		<display-name>Pro TV 1080</display-name>
+		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Pro%20TV.png" />
 	</channel>
-	<channel id="DAZN Bundesliga 4">
-		<display-name>DAZN Bundesliga 4</display-name>
-		<display-name>DAZN Bundesliga 4.TV</display-name>
-		<display-name>DAZN Bundesliga 4 SD</display-name>
-		<display-name>DAZN Bundesliga 4 HD</display-name>
-		<display-name>DAZN Bundesliga 4 FHD</display-name>
-		<display-name>DAZN Bundesliga 4 UHD</display-name>
-		<display-name>DAZN Bundesliga 4 720</display-name>
-		<display-name>DAZN Bundesliga 4 1080</display-name>
-		<icon src="https://image.discovery.indazn.com/eu/v4/onboarding-images/none/sn_6by3h89i2eykc341oz7lv1ddd/fill/center/top/none/100/0/0/png/image/25/g" />
+	<channel id="Caracol TV">
+		<display-name>Caracol TV</display-name>
+		<display-name>Caracol TV.TV</display-name>
+		<display-name>Caracol TV SD</display-name>
+		<display-name>Caracol TV HD</display-name>
+		<display-name>Caracol TV FHD</display-name>
+		<display-name>Caracol TV UHD</display-name>
+		<display-name>Caracol TV 720</display-name>
+		<display-name>Caracol TV 1080</display-name>
+		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Caracol%20TV.png" />
 	</channel>
-	<channel id="DAZN Bundesliga 5">
-		<display-name>DAZN Bundesliga 5</display-name>
-		<display-name>DAZN Bundesliga 5.TV</display-name>
-		<display-name>DAZN Bundesliga 5 SD</display-name>
-		<display-name>DAZN Bundesliga 5 HD</display-name>
-		<display-name>DAZN Bundesliga 5 FHD</display-name>
-		<display-name>DAZN Bundesliga 5 UHD</display-name>
-		<display-name>DAZN Bundesliga 5 720</display-name>
-		<display-name>DAZN Bundesliga 5 1080</display-name>
-		<icon src="https://image.discovery.indazn.com/eu/v4/onboarding-images/none/sn_6by3h89i2eykc341oz7lv1ddd/fill/center/top/none/100/0/0/png/image/25/g" />
+	<channel id="France 2">
+		<display-name>France 2</display-name>
+		<display-name>France 2.TV</display-name>
+		<display-name>France 2 SD</display-name>
+		<display-name>France 2 HD</display-name>
+		<display-name>France 2 FHD</display-name>
+		<display-name>France 2 UHD</display-name>
+		<display-name>France 2 720</display-name>
+		<display-name>France 2 1080</display-name>
+		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/France%202.png" />
 	</channel>
-	<channel id="DAZN LALIGA EA SPORTS">
-		<display-name>DAZN LALIGA EA SPORTS</display-name>
-		<display-name>DAZN LALIGA EA SPORTS.TV</display-name>
-		<display-name>DAZN LALIGA EA SPORTS SD</display-name>
-		<display-name>DAZN LALIGA EA SPORTS HD</display-name>
-		<display-name>DAZN LALIGA EA SPORTS FHD</display-name>
-		<display-name>DAZN LALIGA EA SPORTS UHD</display-name>
-		<display-name>DAZN LALIGA EA SPORTS 720</display-name>
-		<display-name>DAZN LALIGA EA SPORTS 1080</display-name>
-		<icon src="https://image.discovery.indazn.com/eu/v4/onboarding-images/none/sn_34pl8szyvrbwcmfkuocjm3r6t/fill/center/top/none/100/0/0/png/image/25/g" />
+	<channel id="France 5">
+		<display-name>France 5</display-name>
+		<display-name>France 5.TV</display-name>
+		<display-name>France 5 SD</display-name>
+		<display-name>France 5 HD</display-name>
+		<display-name>France 5 FHD</display-name>
+		<display-name>France 5 UHD</display-name>
+		<display-name>France 5 720</display-name>
+		<display-name>France 5 1080</display-name>
+		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/France%205.png" />
 	</channel>
-	<channel id="DAZN LALIGA EA SPORTS 2">
-		<display-name>DAZN LALIGA EA SPORTS 2</display-name>
-		<display-name>DAZN LALIGA EA SPORTS 2.TV</display-name>
-		<display-name>DAZN LALIGA EA SPORTS 2 SD</display-name>
-		<display-name>DAZN LALIGA EA SPORTS 2 HD</display-name>
-		<display-name>DAZN LALIGA EA SPORTS 2 FHD</display-name>
-		<display-name>DAZN LALIGA EA SPORTS 2 UHD</display-name>
-		<display-name>DAZN LALIGA EA SPORTS 2 720</display-name>
-		<display-name>DAZN LALIGA EA SPORTS 2 1080</display-name>
-		<icon src="https://image.discovery.indazn.com/eu/v4/onboarding-images/none/sn_34pl8szyvrbwcmfkuocjm3r6t/fill/center/top/none/100/0/0/png/image/25/g" />
+	<channel id="M6">
+		<display-name>M6</display-name>
+		<display-name>M6.TV</display-name>
+		<display-name>M6 SD</display-name>
+		<display-name>M6 HD</display-name>
+		<display-name>M6 FHD</display-name>
+		<display-name>M6 UHD</display-name>
+		<display-name>M6 720</display-name>
+		<display-name>M6 1080</display-name>
+		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M6.png" />
 	</channel>
-	<channel id="DAZN Liga F">
-		<display-name>DAZN Liga F</display-name>
-		<display-name>DAZN Liga F.TV</display-name>
-		<display-name>DAZN Liga F SD</display-name>
-		<display-name>DAZN Liga F HD</display-name>
-		<display-name>DAZN Liga F FHD</display-name>
-		<display-name>DAZN Liga F UHD</display-name>
-		<display-name>DAZN Liga F 720</display-name>
-		<display-name>DAZN Liga F 1080</display-name>
-		<icon src="https://image.discovery.indazn.com/eu/v4/onboarding-images/none/sn_5k620c7y6dlbmcm88dt3eb7t/fill/center/top/none/100/0/0/png/image/25/g" />
+	<channel id="Gulli">
+		<display-name>Gulli</display-name>
+		<display-name>Gulli.TV</display-name>
+		<display-name>Gulli SD</display-name>
+		<display-name>Gulli HD</display-name>
+		<display-name>Gulli FHD</display-name>
+		<display-name>Gulli UHD</display-name>
+		<display-name>Gulli 720</display-name>
+		<display-name>Gulli 1080</display-name>
+		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Gulli.png" />
 	</channel>
-	<channel id="DAZN Liga F 2">
-		<display-name>DAZN Liga F 2</display-name>
-		<display-name>DAZN Liga F 2.TV</display-name>
-		<display-name>DAZN Liga F 2 SD</display-name>
-		<display-name>DAZN Liga F 2 HD</display-name>
-		<display-name>DAZN Liga F 2 FHD</display-name>
-		<display-name>DAZN Liga F 2 UHD</display-name>
-		<display-name>DAZN Liga F 2 720</display-name>
-		<display-name>DAZN Liga F 2 1080</display-name>
-		<icon src="https://image.discovery.indazn.com/eu/v4/onboarding-images/none/sn_5k620c7y6dlbmcm88dt3eb7t/fill/center/top/none/100/0/0/png/image/25/g" />
+	<channel id="Tennis Channel">
+		<display-name>Tennis Channel</display-name>
+		<display-name>Tennis Channel.TV</display-name>
+		<display-name>Tennis Channel SD</display-name>
+		<display-name>Tennis Channel HD</display-name>
+		<display-name>Tennis Channel FHD</display-name>
+		<display-name>Tennis Channel UHD</display-name>
+		<display-name>Tennis Channel 720</display-name>
+		<display-name>Tennis Channel 1080</display-name>
+		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Tennis%20Channel.png" />
 	</channel>
-	<channel id="DAZN Liga F 3">
-		<display-name>DAZN Liga F 3</display-name>
-		<display-name>DAZN Liga F 3.TV</display-name>
-		<display-name>DAZN Liga F 3 SD</display-name>
-		<display-name>DAZN Liga F 3 HD</display-name>
-		<display-name>DAZN Liga F 3 FHD</display-name>
-		<display-name>DAZN Liga F 3 UHD</display-name>
-		<display-name>DAZN Liga F 3 720</display-name>
-		<display-name>DAZN Liga F 3 1080</display-name>
-		<icon src="https://image.discovery.indazn.com/eu/v4/onboarding-images/none/sn_5k620c7y6dlbmcm88dt3eb7t/fill/center/top/none/100/0/0/png/image/25/g" />
+	<channel id="MyPadel TV">
+		<display-name>MyPadel TV</display-name>
+		<display-name>MyPadel TV.TV</display-name>
+		<display-name>MyPadel TV SD</display-name>
+		<display-name>MyPadel TV HD</display-name>
+		<display-name>MyPadel TV FHD</display-name>
+		<display-name>MyPadel TV UHD</display-name>
+		<display-name>MyPadel TV 720</display-name>
+		<display-name>MyPadel TV 1080</display-name>
+		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/MyPadel%20TV.png" />
 	</channel>
-	<channel id="DAZN National League">
-		<display-name>DAZN National League</display-name>
-		<display-name>DAZN National League.TV</display-name>
-		<display-name>DAZN National League SD</display-name>
-		<display-name>DAZN National League HD</display-name>
-		<display-name>DAZN National League FHD</display-name>
-		<display-name>DAZN National League UHD</display-name>
-		<display-name>DAZN National League 720</display-name>
-		<display-name>DAZN National League 1080</display-name>
-		<icon src="https://image.discovery.indazn.com/eu/v4/onboarding-images/none/sn_b5udgm9vakjqz8dcmy5b2g0xt/fill/center/top/none/100/0/0/png/image/25/g" />
+	<channel id="NatureTime">
+		<display-name>NatureTime</display-name>
+		<display-name>NatureTime.TV</display-name>
+		<display-name>NatureTime SD</display-name>
+		<display-name>NatureTime HD</display-name>
+		<display-name>NatureTime FHD</display-name>
+		<display-name>NatureTime UHD</display-name>
+		<display-name>NatureTime 720</display-name>
+		<display-name>NatureTime 1080</display-name>
+		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/NatureTime.png" />
 	</channel>
-	<channel id="DAZN National League 2">
-		<display-name>DAZN National League 2</display-name>
-		<display-name>DAZN National League 2.TV</display-name>
-		<display-name>DAZN National League 2 SD</display-name>
-		<display-name>DAZN National League 2 HD</display-name>
-		<display-name>DAZN National League 2 FHD</display-name>
-		<display-name>DAZN National League 2 UHD</display-name>
-		<display-name>DAZN National League 2 720</display-name>
-		<display-name>DAZN National League 2 1080</display-name>
-		<icon src="https://image.discovery.indazn.com/eu/v4/onboarding-images/none/sn_b5udgm9vakjqz8dcmy5b2g0xt/fill/center/top/none/100/0/0/png/image/25/g" />
+	<channel id="Toon Goggles">
+		<display-name>Toon Goggles</display-name>
+		<display-name>Toon Goggles.TV</display-name>
+		<display-name>Toon Goggles SD</display-name>
+		<display-name>Toon Goggles HD</display-name>
+		<display-name>Toon Goggles FHD</display-name>
+		<display-name>Toon Goggles UHD</display-name>
+		<display-name>Toon Goggles 720</display-name>
+		<display-name>Toon Goggles 1080</display-name>
+		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Toon%20Goggles.png" />
 	</channel>
-	<channel id="DAZN National League 3">
-		<display-name>DAZN National League 3</display-name>
-		<display-name>DAZN National League 3.TV</display-name>
-		<display-name>DAZN National League 3 SD</display-name>
-		<display-name>DAZN National League 3 HD</display-name>
-		<display-name>DAZN National League 3 FHD</display-name>
-		<display-name>DAZN National League 3 UHD</display-name>
-		<display-name>DAZN National League 3 720</display-name>
-		<display-name>DAZN National League 3 1080</display-name>
-		<icon src="https://image.discovery.indazn.com/eu/v4/onboarding-images/none/sn_b5udgm9vakjqz8dcmy5b2g0xt/fill/center/top/none/100/0/0/png/image/25/g" />
+	<channel id="Gametoon">
+		<display-name>Gametoon</display-name>
+		<display-name>Gametoon.TV</display-name>
+		<display-name>Gametoon SD</display-name>
+		<display-name>Gametoon HD</display-name>
+		<display-name>Gametoon FHD</display-name>
+		<display-name>Gametoon UHD</display-name>
+		<display-name>Gametoon 720</display-name>
+		<display-name>Gametoon 1080</display-name>
+		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Gametoon.png" />
 	</channel>
-	<channel id="DAZN National League 4">
-		<display-name>DAZN National League 4</display-name>
-		<display-name>DAZN National League 4.TV</display-name>
-		<display-name>DAZN National League 4 SD</display-name>
-		<display-name>DAZN National League 4 HD</display-name>
-		<display-name>DAZN National League 4 FHD</display-name>
-		<display-name>DAZN National League 4 UHD</display-name>
-		<display-name>DAZN National League 4 720</display-name>
-		<display-name>DAZN National League 4 1080</display-name>
-		<icon src="https://image.discovery.indazn.com/eu/v4/onboarding-images/none/sn_b5udgm9vakjqz8dcmy5b2g0xt/fill/center/top/none/100/0/0/png/image/25/g" />
+	<channel id="Vivir con gatos">
+		<display-name>Vivir con gatos</display-name>
+		<display-name>Vivir con gatos.TV</display-name>
+		<display-name>Vivir con gatos SD</display-name>
+		<display-name>Vivir con gatos HD</display-name>
+		<display-name>Vivir con gatos FHD</display-name>
+		<display-name>Vivir con gatos UHD</display-name>
+		<display-name>Vivir con gatos 720</display-name>
+		<display-name>Vivir con gatos 1080</display-name>
+		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Vivir%20con%20gatos.png" />
 	</channel>
-	<channel id="DAZN National League 5">
-		<display-name>DAZN National League 5</display-name>
-		<display-name>DAZN National League 5.TV</display-name>
-		<display-name>DAZN National League 5 SD</display-name>
-		<display-name>DAZN National League 5 HD</display-name>
-		<display-name>DAZN National League 5 FHD</display-name>
-		<display-name>DAZN National League 5 UHD</display-name>
-		<display-name>DAZN National League 5 720</display-name>
-		<display-name>DAZN National League 5 1080</display-name>
-		<icon src="https://image.discovery.indazn.com/eu/v4/onboarding-images/none/sn_b5udgm9vakjqz8dcmy5b2g0xt/fill/center/top/none/100/0/0/png/image/25/g" />
+	<channel id="Vivir con perros">
+		<display-name>Vivir con perros</display-name>
+		<display-name>Vivir con perros.TV</display-name>
+		<display-name>Vivir con perros SD</display-name>
+		<display-name>Vivir con perros HD</display-name>
+		<display-name>Vivir con perros FHD</display-name>
+		<display-name>Vivir con perros UHD</display-name>
+		<display-name>Vivir con perros 720</display-name>
+		<display-name>Vivir con perros 1080</display-name>
+		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Vivir%20con%20perros.png" />
 	</channel>
-	<channel id="DAZN National League 6">
-		<display-name>DAZN National League 6</display-name>
-		<display-name>DAZN National League 6.TV</display-name>
-		<display-name>DAZN National League 6 SD</display-name>
-		<display-name>DAZN National League 6 HD</display-name>
-		<display-name>DAZN National League 6 FHD</display-name>
-		<display-name>DAZN National League 6 UHD</display-name>
-		<display-name>DAZN National League 6 720</display-name>
-		<display-name>DAZN National League 6 1080</display-name>
-		<icon src="https://image.discovery.indazn.com/eu/v4/onboarding-images/none/sn_b5udgm9vakjqz8dcmy5b2g0xt/fill/center/top/none/100/0/0/png/image/25/g" />
+	<channel id="Anime Visión">
+		<display-name>Anime Visión</display-name>
+		<display-name>Anime Visión.TV</display-name>
+		<display-name>Anime Visión SD</display-name>
+		<display-name>Anime Visión HD</display-name>
+		<display-name>Anime Visión FHD</display-name>
+		<display-name>Anime Visión UHD</display-name>
+		<display-name>Anime Visión 720</display-name>
+		<display-name>Anime Visión 1080</display-name>
+		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Anime%20Visi%C3%B3n.png" />
 	</channel>
-	<channel id="DAZN National League 7">
-		<display-name>DAZN National League 7</display-name>
-		<display-name>DAZN National League 7.TV</display-name>
-		<display-name>DAZN National League 7 SD</display-name>
-		<display-name>DAZN National League 7 HD</display-name>
-		<display-name>DAZN National League 7 FHD</display-name>
-		<display-name>DAZN National League 7 UHD</display-name>
-		<display-name>DAZN National League 7 720</display-name>
-		<display-name>DAZN National League 7 1080</display-name>
-		<icon src="https://image.discovery.indazn.com/eu/v4/onboarding-images/none/sn_b5udgm9vakjqz8dcmy5b2g0xt/fill/center/top/none/100/0/0/png/image/25/g" />
+	<channel id="Anime Visión Classics">
+		<display-name>Anime Visión Classics</display-name>
+		<display-name>Anime Visión Classics.TV</display-name>
+		<display-name>Anime Visión Classics SD</display-name>
+		<display-name>Anime Visión Classics HD</display-name>
+		<display-name>Anime Visión Classics FHD</display-name>
+		<display-name>Anime Visión Classics UHD</display-name>
+		<display-name>Anime Visión Classics 720</display-name>
+		<display-name>Anime Visión Classics 1080</display-name>
+		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Anime%20Visi%C3%B3n%20Classics.png" />
 	</channel>
-	<channel id="DAZN National League 8">
-		<display-name>DAZN National League 8</display-name>
-		<display-name>DAZN National League 8.TV</display-name>
-		<display-name>DAZN National League 8 SD</display-name>
-		<display-name>DAZN National League 8 HD</display-name>
-		<display-name>DAZN National League 8 FHD</display-name>
-		<display-name>DAZN National League 8 UHD</display-name>
-		<display-name>DAZN National League 8 720</display-name>
-		<display-name>DAZN National League 8 1080</display-name>
-		<icon src="https://image.discovery.indazn.com/eu/v4/onboarding-images/none/sn_b5udgm9vakjqz8dcmy5b2g0xt/fill/center/top/none/100/0/0/png/image/25/g" />
+	<channel id="Flamenco Auditorio">
+		<display-name>Flamenco Auditorio</display-name>
+		<display-name>Flamenco Auditorio.TV</display-name>
+		<display-name>Flamenco Auditorio SD</display-name>
+		<display-name>Flamenco Auditorio HD</display-name>
+		<display-name>Flamenco Auditorio FHD</display-name>
+		<display-name>Flamenco Auditorio UHD</display-name>
+		<display-name>Flamenco Auditorio 720</display-name>
+		<display-name>Flamenco Auditorio 1080</display-name>
+		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Flamenco%20Auditorio.png" />
 	</channel>
-	<channel id="DAZN National League 9">
-		<display-name>DAZN National League 9</display-name>
-		<display-name>DAZN National League 9.TV</display-name>
-		<display-name>DAZN National League 9 SD</display-name>
-		<display-name>DAZN National League 9 HD</display-name>
-		<display-name>DAZN National League 9 FHD</display-name>
-		<display-name>DAZN National League 9 UHD</display-name>
-		<display-name>DAZN National League 9 720</display-name>
-		<display-name>DAZN National League 9 1080</display-name>
-		<icon src="https://image.discovery.indazn.com/eu/v4/onboarding-images/none/sn_b5udgm9vakjqz8dcmy5b2g0xt/fill/center/top/none/100/0/0/png/image/25/g" />
+	<channel id="Sangre Fría">
+		<display-name>Sangre Fría</display-name>
+		<display-name>Sangre Fría.TV</display-name>
+		<display-name>Sangre Fría SD</display-name>
+		<display-name>Sangre Fría HD</display-name>
+		<display-name>Sangre Fría FHD</display-name>
+		<display-name>Sangre Fría UHD</display-name>
+		<display-name>Sangre Fría 720</display-name>
+		<display-name>Sangre Fría 1080</display-name>
+		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Sangre%20Fr%C3%ADa.png" />
 	</channel>
-	<channel id="DAZN Premier League">
-		<display-name>DAZN Premier League</display-name>
-		<display-name>DAZN Premier League.TV</display-name>
-		<display-name>DAZN Premier League SD</display-name>
-		<display-name>DAZN Premier League HD</display-name>
-		<display-name>DAZN Premier League FHD</display-name>
-		<display-name>DAZN Premier League UHD</display-name>
-		<display-name>DAZN Premier League 720</display-name>
-		<display-name>DAZN Premier League 1080</display-name>
-		<icon src="https://image.discovery.indazn.com/eu/v4/onboarding-images/none/sn_2kwbbcootiqqgmrzs6o5inle5/fill/center/top/none/100/0/0/png/image/25/g" />
+	<channel id="Love the Planet">
+		<display-name>Love the Planet</display-name>
+		<display-name>Love the Planet.TV</display-name>
+		<display-name>Love the Planet SD</display-name>
+		<display-name>Love the Planet HD</display-name>
+		<display-name>Love the Planet FHD</display-name>
+		<display-name>Love the Planet UHD</display-name>
+		<display-name>Love the Planet 720</display-name>
+		<display-name>Love the Planet 1080</display-name>
+		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Love%20the%20Planet.png" />
 	</channel>
-	<channel id="DAZN Premier League 2">
-		<display-name>DAZN Premier League 2</display-name>
-		<display-name>DAZN Premier League 2.TV</display-name>
-		<display-name>DAZN Premier League 2 SD</display-name>
-		<display-name>DAZN Premier League 2 HD</display-name>
-		<display-name>DAZN Premier League 2 FHD</display-name>
-		<display-name>DAZN Premier League 2 UHD</display-name>
-		<display-name>DAZN Premier League 2 720</display-name>
-		<display-name>DAZN Premier League 2 1080</display-name>
-		<icon src="https://image.discovery.indazn.com/eu/v4/onboarding-images/none/sn_2kwbbcootiqqgmrzs6o5inle5/fill/center/top/none/100/0/0/png/image/25/g" />
+	<channel id="Love Wine">
+		<display-name>Love Wine</display-name>
+		<display-name>Love Wine.TV</display-name>
+		<display-name>Love Wine SD</display-name>
+		<display-name>Love Wine HD</display-name>
+		<display-name>Love Wine FHD</display-name>
+		<display-name>Love Wine UHD</display-name>
+		<display-name>Love Wine 720</display-name>
+		<display-name>Love Wine 1080</display-name>
+		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Love%20Wine.png" />
 	</channel>
-	<channel id="DAZN Premier League 3">
-		<display-name>DAZN Premier League 3</display-name>
-		<display-name>DAZN Premier League 3.TV</display-name>
-		<display-name>DAZN Premier League 3 SD</display-name>
-		<display-name>DAZN Premier League 3 HD</display-name>
-		<display-name>DAZN Premier League 3 FHD</display-name>
-		<display-name>DAZN Premier League 3 UHD</display-name>
-		<display-name>DAZN Premier League 3 720</display-name>
-		<display-name>DAZN Premier League 3 1080</display-name>
-		<icon src="https://image.discovery.indazn.com/eu/v4/onboarding-images/none/sn_2kwbbcootiqqgmrzs6o5inle5/fill/center/top/none/100/0/0/png/image/25/g" />
+	<channel id="Historia y Vida">
+		<display-name>Historia y Vida</display-name>
+		<display-name>Historia y Vida.TV</display-name>
+		<display-name>Historia y Vida SD</display-name>
+		<display-name>Historia y Vida HD</display-name>
+		<display-name>Historia y Vida FHD</display-name>
+		<display-name>Historia y Vida UHD</display-name>
+		<display-name>Historia y Vida 720</display-name>
+		<display-name>Historia y Vida 1080</display-name>
+		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Historia%20y%20Vida.png" />
 	</channel>
-	<channel id="DAZN Premier League 4">
-		<display-name>DAZN Premier League 4</display-name>
-		<display-name>DAZN Premier League 4.TV</display-name>
-		<display-name>DAZN Premier League 4 SD</display-name>
-		<display-name>DAZN Premier League 4 HD</display-name>
-		<display-name>DAZN Premier League 4 FHD</display-name>
-		<display-name>DAZN Premier League 4 UHD</display-name>
-		<display-name>DAZN Premier League 4 720</display-name>
-		<display-name>DAZN Premier League 4 1080</display-name>
-		<icon src="https://image.discovery.indazn.com/eu/v4/onboarding-images/none/sn_2kwbbcootiqqgmrzs6o5inle5/fill/center/top/none/100/0/0/png/image/25/g" />
+	<channel id="Moto ADV">
+		<display-name>Moto ADV</display-name>
+		<display-name>Moto ADV.TV</display-name>
+		<display-name>Moto ADV SD</display-name>
+		<display-name>Moto ADV HD</display-name>
+		<display-name>Moto ADV FHD</display-name>
+		<display-name>Moto ADV UHD</display-name>
+		<display-name>Moto ADV 720</display-name>
+		<display-name>Moto ADV 1080</display-name>
+		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Moto%20ADV.png" />
 	</channel>
-	<channel id="DAZN Premier League 5">
-		<display-name>DAZN Premier League 5</display-name>
-		<display-name>DAZN Premier League 5.TV</display-name>
-		<display-name>DAZN Premier League 5 SD</display-name>
-		<display-name>DAZN Premier League 5 HD</display-name>
-		<display-name>DAZN Premier League 5 FHD</display-name>
-		<display-name>DAZN Premier League 5 UHD</display-name>
-		<display-name>DAZN Premier League 5 720</display-name>
-		<display-name>DAZN Premier League 5 1080</display-name>
-		<icon src="https://image.discovery.indazn.com/eu/v4/onboarding-images/none/sn_2kwbbcootiqqgmrzs6o5inle5/fill/center/top/none/100/0/0/png/image/25/g" />
-	</channel>
-	<channel id="DAZN Serie A">
-		<display-name>DAZN Serie A</display-name>
-		<display-name>DAZN Serie A.TV</display-name>
-		<display-name>DAZN Serie A SD</display-name>
-		<display-name>DAZN Serie A HD</display-name>
-		<display-name>DAZN Serie A FHD</display-name>
-		<display-name>DAZN Serie A UHD</display-name>
-		<display-name>DAZN Serie A 720</display-name>
-		<display-name>DAZN Serie A 1080</display-name>
-		<icon src="https://image.discovery.indazn.com/eu/v4/onboarding-images/none/sn_1r097lpxe0xn03ihb7wi98kao/fill/center/top/none/100/0/0/png/image/25/g" />
-	</channel>
-	<channel id="DAZN Serie A 2">
-		<display-name>DAZN Serie A 2</display-name>
-		<display-name>DAZN Serie A 2.TV</display-name>
-		<display-name>DAZN Serie A 2 SD</display-name>
-		<display-name>DAZN Serie A 2 HD</display-name>
-		<display-name>DAZN Serie A 2 FHD</display-name>
-		<display-name>DAZN Serie A 2 UHD</display-name>
-		<display-name>DAZN Serie A 2 720</display-name>
-		<display-name>DAZN Serie A 2 1080</display-name>
-		<icon src="https://image.discovery.indazn.com/eu/v4/onboarding-images/none/sn_1r097lpxe0xn03ihb7wi98kao/fill/center/top/none/100/0/0/png/image/25/g" />
-	</channel>
-	<channel id="DAZN MotoGP">
-		<display-name>DAZN MotoGP</display-name>
-		<display-name>DAZN MotoGP.TV</display-name>
-		<display-name>DAZN MotoGP SD</display-name>
-		<display-name>DAZN MotoGP HD</display-name>
-		<display-name>DAZN MotoGP FHD</display-name>
-		<display-name>DAZN MotoGP UHD</display-name>
-		<display-name>DAZN MotoGP 720</display-name>
-		<display-name>DAZN MotoGP 1080</display-name>
-		<icon src="https://image.discovery.indazn.com/eu/v4/onboarding-images/none/sn_2e554vbpw7g0ykhl0rziuabxl/fill/center/top/none/100/0/0/png/image/25/g" />
+	<channel id="8madrid TV">
+		<display-name>8madrid TV</display-name>
+		<display-name>8madrid TV.TV</display-name>
+		<display-name>8madrid TV SD</display-name>
+		<display-name>8madrid TV HD</display-name>
+		<display-name>8madrid TV FHD</display-name>
+		<display-name>8madrid TV UHD</display-name>
+		<display-name>8madrid TV 720</display-name>
+		<display-name>8madrid TV 1080</display-name>
+		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/8madrid%20TV.png" />
 	</channel>
 	<channel id="VE PLUS TV">
 		<display-name>VE PLUS TV</display-name>
@@ -4268,291 +4279,412 @@
 		<display-name>Vallès Visió 1080</display-name>
 		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/113f590aa4c64dba85578d063e164269/Images/16ef075877324bf1846413275a7ff5bc" />
 	</channel>
-	<channel id="Squirrel TV">
-		<display-name>Squirrel TV</display-name>
-		<display-name>Squirrel TV.TV</display-name>
-		<display-name>Squirrel TV SD</display-name>
-		<display-name>Squirrel TV HD</display-name>
-		<display-name>Squirrel TV FHD</display-name>
-		<display-name>Squirrel TV UHD</display-name>
-		<display-name>Squirrel TV 720</display-name>
-		<display-name>Squirrel TV 1080</display-name>
-		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Squirrel%20TV.png" />
+	<channel id="Libertad Digital TV">
+		<display-name>Libertad Digital TV</display-name>
+		<display-name>Libertad Digital TV.TV</display-name>
+		<display-name>Libertad Digital TV SD</display-name>
+		<display-name>Libertad Digital TV HD</display-name>
+		<display-name>Libertad Digital TV FHD</display-name>
+		<display-name>Libertad Digital TV UHD</display-name>
+		<display-name>Libertad Digital TV 720</display-name>
+		<display-name>Libertad Digital TV 1080</display-name>
+		<icon src="https://yt3.googleusercontent.com/ytc/AIdro_mJBwGvGJx9rJx7Fyo19zzImyR7p9O2WXRS1uPaSMoP6HE=s900-c-k-c0x00ffffff-no-rj" />
 	</channel>
-	<channel id="Squirrel 2">
-		<display-name>Squirrel 2</display-name>
-		<display-name>Squirrel 2.TV</display-name>
-		<display-name>Squirrel 2 SD</display-name>
-		<display-name>Squirrel 2 HD</display-name>
-		<display-name>Squirrel 2 FHD</display-name>
-		<display-name>Squirrel 2 UHD</display-name>
-		<display-name>Squirrel 2 720</display-name>
-		<display-name>Squirrel 2 1080</display-name>
-		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Squirrel%202.png" />
+	<channel id="Imás TV">
+		<display-name>Imás TV</display-name>
+		<display-name>Imás TV.TV</display-name>
+		<display-name>Imás TV SD</display-name>
+		<display-name>Imás TV HD</display-name>
+		<display-name>Imás TV FHD</display-name>
+		<display-name>Imás TV UHD</display-name>
+		<display-name>Imás TV 720</display-name>
+		<display-name>Imás TV 1080</display-name>
+		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Im%C3%A1s%20TV.png" />
 	</channel>
-	<channel id="DARK">
-		<display-name>DARK</display-name>
-		<display-name>DARK.TV</display-name>
-		<display-name>DARK SD</display-name>
-		<display-name>DARK HD</display-name>
-		<display-name>DARK FHD</display-name>
-		<display-name>DARK UHD</display-name>
-		<display-name>DARK 720</display-name>
-		<display-name>DARK 1080</display-name>
-		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DARK.png" />
+	<channel id="Punt 3">
+		<display-name>Punt 3</display-name>
+		<display-name>Punt 3.TV</display-name>
+		<display-name>Punt 3 SD</display-name>
+		<display-name>Punt 3 HD</display-name>
+		<display-name>Punt 3 FHD</display-name>
+		<display-name>Punt 3 UHD</display-name>
+		<display-name>Punt 3 720</display-name>
+		<display-name>Punt 3 1080</display-name>
+		<icon src="https://www.punt3.es/android-icon-192x192.png" />
 	</channel>
-	<channel id="AMC HD">
-		<display-name>AMC</display-name>
-		<display-name>AMC.TV</display-name>
-		<display-name>AMC SD</display-name>
-		<display-name>AMC HD</display-name>
-		<display-name>AMC FHD</display-name>
-		<display-name>AMC UHD</display-name>
-		<display-name>AMC 720</display-name>
-		<display-name>AMC 1080</display-name>
-		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/AMC.png" />
+	<channel id="Distrito TV">
+		<display-name>Distrito TV</display-name>
+		<display-name>Distrito TV.TV</display-name>
+		<display-name>Distrito TV SD</display-name>
+		<display-name>Distrito TV HD</display-name>
+		<display-name>Distrito TV FHD</display-name>
+		<display-name>Distrito TV UHD</display-name>
+		<display-name>Distrito TV 720</display-name>
+		<display-name>Distrito TV 1080</display-name>
+		<icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/LOGO_DISTRITO_TV.png/598px-LOGO_DISTRITO_TV.png" />
 	</channel>
-	<channel id="AMC Break">
-		<display-name>AMC Break</display-name>
-		<display-name>AMC Break.TV</display-name>
-		<display-name>AMC Break SD</display-name>
-		<display-name>AMC Break HD</display-name>
-		<display-name>AMC Break FHD</display-name>
-		<display-name>AMC Break UHD</display-name>
-		<display-name>AMC Break 720</display-name>
-		<display-name>AMC Break 1080</display-name>
-		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/AMC%20Break.png" />
+	<channel id="ATV Andorra Televisión">
+		<display-name>ATV Andorra Televisión</display-name>
+		<display-name>ATV Andorra Televisión.TV</display-name>
+		<display-name>ATV Andorra Televisión SD</display-name>
+		<display-name>ATV Andorra Televisión HD</display-name>
+		<display-name>ATV Andorra Televisión FHD</display-name>
+		<display-name>ATV Andorra Televisión UHD</display-name>
+		<display-name>ATV Andorra Televisión 720</display-name>
+		<display-name>ATV Andorra Televisión 1080</display-name>
+		<icon src="https://upload.wikimedia.org/wikipedia/commons/3/32/Logo_Andorra_Televisi%C3%B3.png" />
 	</channel>
-	<channel id="AMC Crime">
-		<display-name>AMC Crime</display-name>
-		<display-name>AMC Crime.TV</display-name>
-		<display-name>AMC Crime SD</display-name>
-		<display-name>AMC Crime HD</display-name>
-		<display-name>AMC Crime FHD</display-name>
-		<display-name>AMC Crime UHD</display-name>
-		<display-name>AMC Crime 720</display-name>
-		<display-name>AMC Crime 1080</display-name>
-		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/AMC%20Crime.png" />
+	<channel id="Onetoro">
+		<display-name>Onetoro</display-name>
+		<display-name>Onetoro.TV</display-name>
+		<display-name>Onetoro SD</display-name>
+		<display-name>Onetoro HD</display-name>
+		<display-name>Onetoro FHD</display-name>
+		<display-name>Onetoro UHD</display-name>
+		<display-name>Onetoro 720</display-name>
+		<display-name>Onetoro 1080</display-name>
+		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Onetoro.png" />
 	</channel>
-	<channel id="AMC Western">
-		<display-name>AMC Western</display-name>
-		<display-name>AMC Western.TV</display-name>
-		<display-name>AMC Western SD</display-name>
-		<display-name>AMC Western HD</display-name>
-		<display-name>AMC Western FHD</display-name>
-		<display-name>AMC Western UHD</display-name>
-		<display-name>AMC Western 720</display-name>
-		<display-name>AMC Western 1080</display-name>
-		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/AMC%20Western.png" />
+	<channel id="Alacantí TV">
+		<display-name>Alacantí TV</display-name>
+		<display-name>Alacantí TV.TV</display-name>
+		<display-name>Alacantí TV SD</display-name>
+		<display-name>Alacantí TV HD</display-name>
+		<display-name>Alacantí TV FHD</display-name>
+		<display-name>Alacantí TV UHD</display-name>
+		<display-name>Alacantí TV 720</display-name>
+		<display-name>Alacantí TV 1080</display-name>
+		<icon src="https://alacantitv.com/wp-content/uploads/2024/03/logo-alacantitv-programacion.jpg" />
 	</channel>
-	<channel id="AMC Living">
-		<display-name>AMC Living</display-name>
-		<display-name>AMC Living.TV</display-name>
-		<display-name>AMC Living SD</display-name>
-		<display-name>AMC Living HD</display-name>
-		<display-name>AMC Living FHD</display-name>
-		<display-name>AMC Living UHD</display-name>
-		<display-name>AMC Living 720</display-name>
-		<display-name>AMC Living 1080</display-name>
-		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/AMC%20Living.png" />
+	<channel id="Onda Cádiz TV">
+		<display-name>Onda Cádiz TV</display-name>
+		<display-name>Onda Cádiz TV.TV</display-name>
+		<display-name>Onda Cádiz TV SD</display-name>
+		<display-name>Onda Cádiz TV HD</display-name>
+		<display-name>Onda Cádiz TV FHD</display-name>
+		<display-name>Onda Cádiz TV UHD</display-name>
+		<display-name>Onda Cádiz TV 720</display-name>
+		<display-name>Onda Cádiz TV 1080</display-name>
+		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Onda%20C%C3%A1diz%20TV.png" />
 	</channel>
-	<channel id="Odisea">
-		<display-name>Odisea</display-name>
-		<display-name>Odisea.TV</display-name>
-		<display-name>Odisea SD</display-name>
-		<display-name>Odisea HD</display-name>
-		<display-name>Odisea FHD</display-name>
-		<display-name>Odisea UHD</display-name>
-		<display-name>Odisea 720</display-name>
-		<display-name>Odisea 1080</display-name>
-		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Odisea.png" />
+	<channel id="TVR Rioja">
+		<display-name>TVR Rioja</display-name>
+		<display-name>TVR Rioja.TV</display-name>
+		<display-name>TVR Rioja SD</display-name>
+		<display-name>TVR Rioja HD</display-name>
+		<display-name>TVR Rioja FHD</display-name>
+		<display-name>TVR Rioja UHD</display-name>
+		<display-name>TVR Rioja 720</display-name>
+		<display-name>TVR Rioja 1080</display-name>
+		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/TVR%20Rioja.png" />
 	</channel>
-	<channel id="Historia">
-		<display-name>Historia</display-name>
-		<display-name>Historia.TV</display-name>
-		<display-name>Historia SD</display-name>
-		<display-name>Historia HD</display-name>
-		<display-name>Historia FHD</display-name>
-		<display-name>Historia UHD</display-name>
-		<display-name>Historia 720</display-name>
-		<display-name>Historia 1080</display-name>
-		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Historia.png" />
+	<channel id="Popular TV Cantabria">
+		<display-name>Popular TV Cantabria</display-name>
+		<display-name>Popular TV Cantabria.TV</display-name>
+		<display-name>Popular TV Cantabria SD</display-name>
+		<display-name>Popular TV Cantabria HD</display-name>
+		<display-name>Popular TV Cantabria FHD</display-name>
+		<display-name>Popular TV Cantabria UHD</display-name>
+		<display-name>Popular TV Cantabria 720</display-name>
+		<display-name>Popular TV Cantabria 1080</display-name>
+		<icon src="https://populartvcantabria.com/wp-content/uploads/2022/10/cropped-logo-popular-horizontal-300x125.png" />
 	</channel>
-	<channel id="XTRM">
-		<display-name>XTRM</display-name>
-		<display-name>XTRM.TV</display-name>
-		<display-name>XTRM SD</display-name>
-		<display-name>XTRM HD</display-name>
-		<display-name>XTRM FHD</display-name>
-		<display-name>XTRM UHD</display-name>
-		<display-name>XTRM 720</display-name>
-		<display-name>XTRM 1080</display-name>
-		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/XTRM.png" />
+	<channel id="interalmería TV">
+		<display-name>interalmería TV</display-name>
+		<display-name>interalmería TV.TV</display-name>
+		<display-name>interalmería TV SD</display-name>
+		<display-name>interalmería TV HD</display-name>
+		<display-name>interalmería TV FHD</display-name>
+		<display-name>interalmería TV UHD</display-name>
+		<display-name>interalmería TV 720</display-name>
+		<display-name>interalmería TV 1080</display-name>
+		<icon src="https://www.interalmeria.tv/wp-content/uploads/2019/01/iatv-mosca.png?x96146" />
 	</channel>
-	<channel id="Canal Hollywood HD">
-		<display-name>Canal Hollywood</display-name>
-		<display-name>Canal Hollywood.TV</display-name>
-		<display-name>Canal Hollywood SD</display-name>
-		<display-name>Canal Hollywood HD</display-name>
-		<display-name>Canal Hollywood FHD</display-name>
-		<display-name>Canal Hollywood UHD</display-name>
-		<display-name>Canal Hollywood 720</display-name>
-		<display-name>Canal Hollywood 1080</display-name>
-		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Canal%20Hollywood.png" />
+	<channel id="Huelva TV">
+		<display-name>Huelva TV</display-name>
+		<display-name>Huelva TV.TV</display-name>
+		<display-name>Huelva TV SD</display-name>
+		<display-name>Huelva TV HD</display-name>
+		<display-name>Huelva TV FHD</display-name>
+		<display-name>Huelva TV UHD</display-name>
+		<display-name>Huelva TV 720</display-name>
+		<display-name>Huelva TV 1080</display-name>
+		<icon src="https://huelvatv.com/wp-content/uploads/2024/11/70_Huelva_TV_Logotipo_AZUL.png" />
 	</channel>
-	<channel id="Sundance TV">
-		<display-name>Sundance TV</display-name>
-		<display-name>Sundance TV.TV</display-name>
-		<display-name>Sundance TV SD</display-name>
-		<display-name>Sundance TV HD</display-name>
-		<display-name>Sundance TV FHD</display-name>
-		<display-name>Sundance TV UHD</display-name>
-		<display-name>Sundance TV 720</display-name>
-		<display-name>Sundance TV 1080</display-name>
-		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Sundance%20TV.png" />
+	<channel id="Elche 7 TV">
+		<display-name>Elche 7 TV</display-name>
+		<display-name>Elche 7 TV.TV</display-name>
+		<display-name>Elche 7 TV SD</display-name>
+		<display-name>Elche 7 TV HD</display-name>
+		<display-name>Elche 7 TV FHD</display-name>
+		<display-name>Elche 7 TV UHD</display-name>
+		<display-name>Elche 7 TV 720</display-name>
+		<display-name>Elche 7 TV 1080</display-name>
+		<icon src="https://elche7tv.es/wp-content/uploads/2023/08/Web-Retina-Logo-Upload-544-%C3%97-180-px.png" />
 	</channel>
-	<channel id="VinTV">
-		<display-name>VinTV</display-name>
-		<display-name>VinTV.TV</display-name>
-		<display-name>VinTV SD</display-name>
-		<display-name>VinTV HD</display-name>
-		<display-name>VinTV FHD</display-name>
-		<display-name>VinTV UHD</display-name>
-		<display-name>VinTV 720</display-name>
-		<display-name>VinTV 1080</display-name>
-		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/VinTV.png" />
+	<channel id="TV Melilla">
+		<display-name>TV Melilla</display-name>
+		<display-name>TV Melilla.TV</display-name>
+		<display-name>TV Melilla SD</display-name>
+		<display-name>TV Melilla HD</display-name>
+		<display-name>TV Melilla FHD</display-name>
+		<display-name>TV Melilla UHD</display-name>
+		<display-name>TV Melilla 720</display-name>
+		<display-name>TV Melilla 1080</display-name>
+		<icon src="https://th.bing.com/th/id/OIP.lq_9H8H5nXXUHfAoNQJJnQHaHa?w=80&amp;h=80&amp;c=1&amp;bgcl=f47899&amp;r=0&amp;o=7&amp;dpr=1.1&amp;pid=ImgRC&amp;rm=3" />
 	</channel>
-	<channel id="Somos">
-		<display-name>Somos</display-name>
-		<display-name>Somos.TV</display-name>
-		<display-name>Somos SD</display-name>
-		<display-name>Somos HD</display-name>
-		<display-name>Somos FHD</display-name>
-		<display-name>Somos UHD</display-name>
-		<display-name>Somos 720</display-name>
-		<display-name>Somos 1080</display-name>
-		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Somos.png" />
+	<channel id="Sony One Shark Tank">
+		<display-name>Sony One Shark Tank</display-name>
+		<display-name>Sony One Shark Tank.TV</display-name>
+		<display-name>Sony One Shark Tank SD</display-name>
+		<display-name>Sony One Shark Tank HD</display-name>
+		<display-name>Sony One Shark Tank FHD</display-name>
+		<display-name>Sony One Shark Tank UHD</display-name>
+		<display-name>Sony One Shark Tank 720</display-name>
+		<display-name>Sony One Shark Tank 1080</display-name>
+		<icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES300004C9_20241106T142325SQUARE.png" />
 	</channel>
-	<channel id="Canal Cocina">
-		<display-name>Canal Cocina</display-name>
-		<display-name>Canal Cocina.TV</display-name>
-		<display-name>Canal Cocina SD</display-name>
-		<display-name>Canal Cocina HD</display-name>
-		<display-name>Canal Cocina FHD</display-name>
-		<display-name>Canal Cocina UHD</display-name>
-		<display-name>Canal Cocina 720</display-name>
-		<display-name>Canal Cocina 1080</display-name>
-		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Canal%20Cocina.png" />
+	<channel id="Sony One Series Thriller">
+		<display-name>Sony One Series Thriller</display-name>
+		<display-name>Sony One Series Thriller.TV</display-name>
+		<display-name>Sony One Series Thriller SD</display-name>
+		<display-name>Sony One Series Thriller HD</display-name>
+		<display-name>Sony One Series Thriller FHD</display-name>
+		<display-name>Sony One Series Thriller UHD</display-name>
+		<display-name>Sony One Series Thriller 720</display-name>
+		<display-name>Sony One Series Thriller 1080</display-name>
+		<icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES300002Y6_20241106T142251SQUARE.png" />
 	</channel>
-	<channel id="SELEKT">
-		<display-name>SELEKT</display-name>
-		<display-name>SELEKT.TV</display-name>
-		<display-name>SELEKT SD</display-name>
-		<display-name>SELEKT HD</display-name>
-		<display-name>SELEKT FHD</display-name>
-		<display-name>SELEKT UHD</display-name>
-		<display-name>SELEKT 720</display-name>
-		<display-name>SELEKT 1080</display-name>
-		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/SELEKT.png" />
+	<channel id="Sony One Éxitos">
+		<display-name>Sony One Éxitos</display-name>
+		<display-name>Sony One Éxitos.TV</display-name>
+		<display-name>Sony One Éxitos SD</display-name>
+		<display-name>Sony One Éxitos HD</display-name>
+		<display-name>Sony One Éxitos FHD</display-name>
+		<display-name>Sony One Éxitos UHD</display-name>
+		<display-name>Sony One Éxitos 720</display-name>
+		<display-name>Sony One Éxitos 1080</display-name>
+		<icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES300003D4_20241022T051059SQUARE.png" />
 	</channel>
-	<channel id="Veo7">
-		<display-name>Veo7</display-name>
-		<display-name>Veo7.TV</display-name>
-		<display-name>Veo7 SD</display-name>
-		<display-name>Veo7 HD</display-name>
-		<display-name>Veo7 FHD</display-name>
-		<display-name>Veo7 UHD</display-name>
-		<display-name>Veo7 720</display-name>
-		<display-name>Veo7 1080</display-name>
-		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Veo7.png" />
+	<channel id="Sony One The Blacklist">
+		<display-name>Sony One The Blacklist</display-name>
+		<display-name>Sony One The Blacklist.TV</display-name>
+		<display-name>Sony One The Blacklist SD</display-name>
+		<display-name>Sony One The Blacklist HD</display-name>
+		<display-name>Sony One The Blacklist FHD</display-name>
+		<display-name>Sony One The Blacklist UHD</display-name>
+		<display-name>Sony One The Blacklist 720</display-name>
+		<display-name>Sony One The Blacklist 1080</display-name>
+		<icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES300005EL_20241022T115805SQUARE.png" />
 	</channel>
-	<channel id="BOM Cine">
-		<display-name>BOM Cine</display-name>
-		<display-name>BOM Cine.TV</display-name>
-		<display-name>BOM Cine SD</display-name>
-		<display-name>BOM Cine HD</display-name>
-		<display-name>BOM Cine FHD</display-name>
-		<display-name>BOM Cine UHD</display-name>
-		<display-name>BOM Cine 720</display-name>
-		<display-name>BOM Cine 1080</display-name>
-		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/BOM%20Cine.png" />
+	<channel id="Sony One Series Comedia">
+		<display-name>Sony One Series Comedia</display-name>
+		<display-name>Sony One Series Comedia.TV</display-name>
+		<display-name>Sony One Series Comedia SD</display-name>
+		<display-name>Sony One Series Comedia HD</display-name>
+		<display-name>Sony One Series Comedia FHD</display-name>
+		<display-name>Sony One Series Comedia UHD</display-name>
+		<display-name>Sony One Series Comedia 720</display-name>
+		<display-name>Sony One Series Comedia 1080</display-name>
+		<icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES30000145_20241106T142322SQUARE.png" />
 	</channel>
-	<channel id="Cines Verdi TV">
-		<display-name>Cines Verdi TV</display-name>
-		<display-name>Cines Verdi TV.TV</display-name>
-		<display-name>Cines Verdi TV SD</display-name>
-		<display-name>Cines Verdi TV HD</display-name>
-		<display-name>Cines Verdi TV FHD</display-name>
-		<display-name>Cines Verdi TV UHD</display-name>
-		<display-name>Cines Verdi TV 720</display-name>
-		<display-name>Cines Verdi TV 1080</display-name>
-		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Cines%20Verdi%20TV.png" />
+	<channel id="Sony One Hits Comedia">
+		<display-name>Sony One Hits Comedia</display-name>
+		<display-name>Sony One Hits Comedia.TV</display-name>
+		<display-name>Sony One Hits Comedia SD</display-name>
+		<display-name>Sony One Hits Comedia HD</display-name>
+		<display-name>Sony One Hits Comedia FHD</display-name>
+		<display-name>Sony One Hits Comedia UHD</display-name>
+		<display-name>Sony One Hits Comedia 720</display-name>
+		<display-name>Sony One Hits Comedia 1080</display-name>
+		<icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES300007KS_20251111T011949SQUARE.png" />
 	</channel>
-	<channel id="Cine Feel Good">
-		<display-name>Cine Feel Good</display-name>
-		<display-name>Cine Feel Good.TV</display-name>
-		<display-name>Cine Feel Good SD</display-name>
-		<display-name>Cine Feel Good HD</display-name>
-		<display-name>Cine Feel Good FHD</display-name>
-		<display-name>Cine Feel Good UHD</display-name>
-		<display-name>Cine Feel Good 720</display-name>
-		<display-name>Cine Feel Good 1080</display-name>
-		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Cine%20Feel%20Good.png" />
+	<channel id="Sony One Hits Acción">
+		<display-name>Sony One Hits Acción</display-name>
+		<display-name>Sony One Hits Acción.TV</display-name>
+		<display-name>Sony One Hits Acción SD</display-name>
+		<display-name>Sony One Hits Acción HD</display-name>
+		<display-name>Sony One Hits Acción FHD</display-name>
+		<display-name>Sony One Hits Acción UHD</display-name>
+		<display-name>Sony One Hits Acción 720</display-name>
+		<display-name>Sony One Hits Acción 1080</display-name>
+		<icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES300006QJ_20251111T011921SQUARE.png" />
 	</channel>
-	<channel id="LALIGA Inside">
-		<display-name>LALIGA Inside</display-name>
-		<display-name>LALIGA Inside.TV</display-name>
-		<display-name>LALIGA Inside SD</display-name>
-		<display-name>LALIGA Inside HD</display-name>
-		<display-name>LALIGA Inside FHD</display-name>
-		<display-name>LALIGA Inside UHD</display-name>
-		<display-name>LALIGA Inside 720</display-name>
-		<display-name>LALIGA Inside 1080</display-name>
-		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/LALIGA%20Inside.png" />
+	<channel id="Mr Bean Animated">
+		<display-name>Mr Bean Animated</display-name>
+		<display-name>Mr Bean Animated.TV</display-name>
+		<display-name>Mr Bean Animated SD</display-name>
+		<display-name>Mr Bean Animated HD</display-name>
+		<display-name>Mr Bean Animated FHD</display-name>
+		<display-name>Mr Bean Animated UHD</display-name>
+		<display-name>Mr Bean Animated 720</display-name>
+		<display-name>Mr Bean Animated 1080</display-name>
+		<icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES900001SH_20250923T011557SQUARE.png" />
 	</channel>
-	<channel id="Top Barça">
-		<display-name>Top Barça</display-name>
-		<display-name>Top Barça.TV</display-name>
-		<display-name>Top Barça SD</display-name>
-		<display-name>Top Barça HD</display-name>
-		<display-name>Top Barça FHD</display-name>
-		<display-name>Top Barça UHD</display-name>
-		<display-name>Top Barça 720</display-name>
-		<display-name>Top Barça 1080</display-name>
-		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Top%20Bar%C3%A7a.png" />
+	<channel id="Tennis+">
+		<display-name>Tennis+</display-name>
+		<display-name>Tennis+.TV</display-name>
+		<display-name>Tennis+ SD</display-name>
+		<display-name>Tennis+ HD</display-name>
+		<display-name>Tennis+ FHD</display-name>
+		<display-name>Tennis+ UHD</display-name>
+		<display-name>Tennis+ 720</display-name>
+		<display-name>Tennis+ 1080</display-name>
+		<icon src="https://provider-static.plex.tv/epg/cms/production/704e7af1-90a0-4ad4-94de-af2559c19fa6/1_Tennis_Plus_Logo__Dark_Mode__1500x1000px.png" />
 	</channel>
-	<channel id="Betis TV">
-		<display-name>Betis TV</display-name>
-		<display-name>Betis TV.TV</display-name>
-		<display-name>Betis TV SD</display-name>
-		<display-name>Betis TV HD</display-name>
-		<display-name>Betis TV FHD</display-name>
-		<display-name>Betis TV UHD</display-name>
-		<display-name>Betis TV 720</display-name>
-		<display-name>Betis TV 1080</display-name>
-		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Betis%20TV.png" />
+	<channel id="FashionTV">
+		<display-name>FashionTV</display-name>
+		<display-name>FashionTV.TV</display-name>
+		<display-name>FashionTV SD</display-name>
+		<display-name>FashionTV HD</display-name>
+		<display-name>FashionTV FHD</display-name>
+		<display-name>FashionTV UHD</display-name>
+		<display-name>FashionTV 720</display-name>
+		<display-name>FashionTV 1080</display-name>
+		<icon src="https://provider-static.plex.tv/epg/cms/production/47127441-d5b6-42a3-b641-a7c076d20940/Fashion_PNG_w__transparent_background__All_white_Logo_for_Attribution__-_Yuri_Alexandrov.png" />
 	</channel>
-	<channel id="Rugby Challenge Spain">
-		<display-name>Rugby Challenge Spain</display-name>
-		<display-name>Rugby Challenge Spain.TV</display-name>
-		<display-name>Rugby Challenge Spain SD</display-name>
-		<display-name>Rugby Challenge Spain HD</display-name>
-		<display-name>Rugby Challenge Spain FHD</display-name>
-		<display-name>Rugby Challenge Spain UHD</display-name>
-		<display-name>Rugby Challenge Spain 720</display-name>
-		<display-name>Rugby Challenge Spain 1080</display-name>
-		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Rugby%20Challenge%20Spain.png" />
+	<channel id="Liga de Campeones BAR 2">
+		<display-name>Liga de Campeones BAR 2</display-name>
+		<display-name>Liga de Campeones BAR 2.TV</display-name>
+		<display-name>Liga de Campeones BAR 2 SD</display-name>
+		<display-name>Liga de Campeones BAR 2 HD</display-name>
+		<display-name>Liga de Campeones BAR 2 FHD</display-name>
+		<display-name>Liga de Campeones BAR 2 UHD</display-name>
+		<display-name>Liga de Campeones BAR 2 720</display-name>
+		<display-name>Liga de Campeones BAR 2 1080</display-name>
+		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Liga%20de%20Campeones%20BAR%202.png" />
 	</channel>
-	<channel id="MMA TV">
-		<display-name>MMA TV</display-name>
-		<display-name>MMA TV.TV</display-name>
-		<display-name>MMA TV SD</display-name>
-		<display-name>MMA TV HD</display-name>
-		<display-name>MMA TV FHD</display-name>
-		<display-name>MMA TV UHD</display-name>
-		<display-name>MMA TV 720</display-name>
-		<display-name>MMA TV 1080</display-name>
-		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/MMA%20TV.png" />
+	<channel id="Liga de Campeones BAR 3">
+		<display-name>Liga de Campeones BAR 3</display-name>
+		<display-name>Liga de Campeones BAR 3.TV</display-name>
+		<display-name>Liga de Campeones BAR 3 SD</display-name>
+		<display-name>Liga de Campeones BAR 3 HD</display-name>
+		<display-name>Liga de Campeones BAR 3 FHD</display-name>
+		<display-name>Liga de Campeones BAR 3 UHD</display-name>
+		<display-name>Liga de Campeones BAR 3 720</display-name>
+		<display-name>Liga de Campeones BAR 3 1080</display-name>
+		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Liga%20de%20Campeones%20BAR%203.png" />
+	</channel>
+	<channel id="Liga de Campeones BAR 4">
+		<display-name>Liga de Campeones BAR 4</display-name>
+		<display-name>Liga de Campeones BAR 4.TV</display-name>
+		<display-name>Liga de Campeones BAR 4 SD</display-name>
+		<display-name>Liga de Campeones BAR 4 HD</display-name>
+		<display-name>Liga de Campeones BAR 4 FHD</display-name>
+		<display-name>Liga de Campeones BAR 4 UHD</display-name>
+		<display-name>Liga de Campeones BAR 4 720</display-name>
+		<display-name>Liga de Campeones BAR 4 1080</display-name>
+		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Liga%20de%20Campeones%20BAR%204.png" />
+	</channel>
+	<channel id="Liga de Campeones BAR 5">
+		<display-name>Liga de Campeones BAR 5</display-name>
+		<display-name>Liga de Campeones BAR 5.TV</display-name>
+		<display-name>Liga de Campeones BAR 5 SD</display-name>
+		<display-name>Liga de Campeones BAR 5 HD</display-name>
+		<display-name>Liga de Campeones BAR 5 FHD</display-name>
+		<display-name>Liga de Campeones BAR 5 UHD</display-name>
+		<display-name>Liga de Campeones BAR 5 720</display-name>
+		<display-name>Liga de Campeones BAR 5 1080</display-name>
+		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Liga%20de%20Campeones%20BAR%205.png" />
+	</channel>
+	<channel id="Liga de Campeones BAR 6">
+		<display-name>Liga de Campeones BAR 6</display-name>
+		<display-name>Liga de Campeones BAR 6.TV</display-name>
+		<display-name>Liga de Campeones BAR 6 SD</display-name>
+		<display-name>Liga de Campeones BAR 6 HD</display-name>
+		<display-name>Liga de Campeones BAR 6 FHD</display-name>
+		<display-name>Liga de Campeones BAR 6 UHD</display-name>
+		<display-name>Liga de Campeones BAR 6 720</display-name>
+		<display-name>Liga de Campeones BAR 6 1080</display-name>
+		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Liga%20de%20Campeones%20BAR%206.png" />
+	</channel>
+	<channel id="Liga de Campeones BAR 8">
+		<display-name>Liga de Campeones BAR 8</display-name>
+		<display-name>Liga de Campeones BAR 8.TV</display-name>
+		<display-name>Liga de Campeones BAR 8 SD</display-name>
+		<display-name>Liga de Campeones BAR 8 HD</display-name>
+		<display-name>Liga de Campeones BAR 8 FHD</display-name>
+		<display-name>Liga de Campeones BAR 8 UHD</display-name>
+		<display-name>Liga de Campeones BAR 8 720</display-name>
+		<display-name>Liga de Campeones BAR 8 1080</display-name>
+		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Liga%20de%20Campeones%20BAR%208.png" />
+	</channel>
+	<channel id="Liga de Campeones BAR 9">
+		<display-name>Liga de Campeones BAR 9</display-name>
+		<display-name>Liga de Campeones BAR 9.TV</display-name>
+		<display-name>Liga de Campeones BAR 9 SD</display-name>
+		<display-name>Liga de Campeones BAR 9 HD</display-name>
+		<display-name>Liga de Campeones BAR 9 FHD</display-name>
+		<display-name>Liga de Campeones BAR 9 UHD</display-name>
+		<display-name>Liga de Campeones BAR 9 720</display-name>
+		<display-name>Liga de Campeones BAR 9 1080</display-name>
+		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Liga%20de%20Campeones%20BAR%209.png" />
+	</channel>
+	<channel id="Liga de Campeones BAR 10">
+		<display-name>Liga de Campeones BAR 10</display-name>
+		<display-name>Liga de Campeones BAR 10.TV</display-name>
+		<display-name>Liga de Campeones BAR 10 SD</display-name>
+		<display-name>Liga de Campeones BAR 10 HD</display-name>
+		<display-name>Liga de Campeones BAR 10 FHD</display-name>
+		<display-name>Liga de Campeones BAR 10 UHD</display-name>
+		<display-name>Liga de Campeones BAR 10 720</display-name>
+		<display-name>Liga de Campeones BAR 10 1080</display-name>
+		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Liga%20de%20Campeones%20BAR%2010.png" />
+	</channel>
+	<channel id="Liga de Campeones BAR 11">
+		<display-name>Liga de Campeones BAR 11</display-name>
+		<display-name>Liga de Campeones BAR 11.TV</display-name>
+		<display-name>Liga de Campeones BAR 11 SD</display-name>
+		<display-name>Liga de Campeones BAR 11 HD</display-name>
+		<display-name>Liga de Campeones BAR 11 FHD</display-name>
+		<display-name>Liga de Campeones BAR 11 UHD</display-name>
+		<display-name>Liga de Campeones BAR 11 720</display-name>
+		<display-name>Liga de Campeones BAR 11 1080</display-name>
+		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Liga%20de%20Campeones%20BAR%2011.png" />
+	</channel>
+	<channel id="Liga de Campeones BAR 12">
+		<display-name>Liga de Campeones BAR 12</display-name>
+		<display-name>Liga de Campeones BAR 12.TV</display-name>
+		<display-name>Liga de Campeones BAR 12 SD</display-name>
+		<display-name>Liga de Campeones BAR 12 HD</display-name>
+		<display-name>Liga de Campeones BAR 12 FHD</display-name>
+		<display-name>Liga de Campeones BAR 12 UHD</display-name>
+		<display-name>Liga de Campeones BAR 12 720</display-name>
+		<display-name>Liga de Campeones BAR 12 1080</display-name>
+		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Liga%20de%20Campeones%20BAR%2012.png" />
+	</channel>
+	<channel id="GolStadium BAR">
+		<display-name>GolStadium BAR</display-name>
+		<display-name>GolStadium BAR.TV</display-name>
+		<display-name>GolStadium BAR SD</display-name>
+		<display-name>GolStadium BAR HD</display-name>
+		<display-name>GolStadium BAR FHD</display-name>
+		<display-name>GolStadium BAR UHD</display-name>
+		<display-name>GolStadium BAR 720</display-name>
+		<display-name>GolStadium BAR 1080</display-name>
+		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/GolStadium%20BAR.png" />
+	</channel>
+	<channel id="DAZN F1 BAR">
+		<display-name>DAZN F1 BAR</display-name>
+		<display-name>DAZN F1 BAR.TV</display-name>
+		<display-name>DAZN F1 BAR SD</display-name>
+		<display-name>DAZN F1 BAR HD</display-name>
+		<display-name>DAZN F1 BAR FHD</display-name>
+		<display-name>DAZN F1 BAR UHD</display-name>
+		<display-name>DAZN F1 BAR 720</display-name>
+		<display-name>DAZN F1 BAR 1080</display-name>
+		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20F1%20BAR.png" />
+	</channel>
+	<channel id="GolStadium">
+		<display-name>GolStadium</display-name>
+		<display-name>GolStadium.TV</display-name>
+		<display-name>GolStadium SD</display-name>
+		<display-name>GolStadium HD</display-name>
+		<display-name>GolStadium FHD</display-name>
+		<display-name>GolStadium UHD</display-name>
+		<display-name>GolStadium 720</display-name>
+		<display-name>GolStadium 1080</display-name>
+		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/GolStadium.png" />
 	</channel>
 	<channel id="Gol Classics">
 		<display-name>Gol Classics</display-name>
@@ -4565,522 +4697,533 @@
 		<display-name>Gol Classics 1080</display-name>
 		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Gol%20Classics.png" />
 	</channel>
-	<channel id="Runtime Thriller-Terror">
-		<display-name>Runtime Thriller-Terror</display-name>
-		<display-name>Runtime Thriller-Terror.TV</display-name>
-		<display-name>Runtime Thriller-Terror SD</display-name>
-		<display-name>Runtime Thriller-Terror HD</display-name>
-		<display-name>Runtime Thriller-Terror FHD</display-name>
-		<display-name>Runtime Thriller-Terror UHD</display-name>
-		<display-name>Runtime Thriller-Terror 720</display-name>
-		<display-name>Runtime Thriller-Terror 1080</display-name>
-		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Runtime%20Thriller-Terror.png" />
+	<channel id="Torolé TV">
+		<display-name>Torolé TV</display-name>
+		<display-name>Torolé TV.TV</display-name>
+		<display-name>Torolé TV SD</display-name>
+		<display-name>Torolé TV HD</display-name>
+		<display-name>Torolé TV FHD</display-name>
+		<display-name>Torolé TV UHD</display-name>
+		<display-name>Torolé TV 720</display-name>
+		<display-name>Torolé TV 1080</display-name>
+		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Torol%C3%A9%20TV.png" />
 	</channel>
-	<channel id="Runtime Comedia">
-		<display-name>Runtime Comedia</display-name>
-		<display-name>Runtime Comedia.TV</display-name>
-		<display-name>Runtime Comedia SD</display-name>
-		<display-name>Runtime Comedia HD</display-name>
-		<display-name>Runtime Comedia FHD</display-name>
-		<display-name>Runtime Comedia UHD</display-name>
-		<display-name>Runtime Comedia 720</display-name>
-		<display-name>Runtime Comedia 1080</display-name>
-		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Runtime%20Comedia.png" />
+	<channel id="Iberalia pesca">
+		<display-name>Iberalia pesca</display-name>
+		<display-name>Iberalia pesca.TV</display-name>
+		<display-name>Iberalia pesca SD</display-name>
+		<display-name>Iberalia pesca HD</display-name>
+		<display-name>Iberalia pesca FHD</display-name>
+		<display-name>Iberalia pesca UHD</display-name>
+		<display-name>Iberalia pesca 720</display-name>
+		<display-name>Iberalia pesca 1080</display-name>
+		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Iberalia%20pesca.png" />
 	</channel>
-	<channel id="Runtime Cine y Series">
-		<display-name>Runtime Cine y Series</display-name>
-		<display-name>Runtime Cine y Series.TV</display-name>
-		<display-name>Runtime Cine y Series SD</display-name>
-		<display-name>Runtime Cine y Series HD</display-name>
-		<display-name>Runtime Cine y Series FHD</display-name>
-		<display-name>Runtime Cine y Series UHD</display-name>
-		<display-name>Runtime Cine y Series 720</display-name>
-		<display-name>Runtime Cine y Series 1080</display-name>
-		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Runtime%20Cine%20y%20Series.png" />
+	<channel id="Iberalia caza">
+		<display-name>Iberalia caza</display-name>
+		<display-name>Iberalia caza.TV</display-name>
+		<display-name>Iberalia caza SD</display-name>
+		<display-name>Iberalia caza HD</display-name>
+		<display-name>Iberalia caza FHD</display-name>
+		<display-name>Iberalia caza UHD</display-name>
+		<display-name>Iberalia caza 720</display-name>
+		<display-name>Iberalia caza 1080</display-name>
+		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Iberalia%20caza.png" />
 	</channel>
-	<channel id="Runtime Series">
-		<display-name>Runtime Series</display-name>
-		<display-name>Runtime Series.TV</display-name>
-		<display-name>Runtime Series SD</display-name>
-		<display-name>Runtime Series HD</display-name>
-		<display-name>Runtime Series FHD</display-name>
-		<display-name>Runtime Series UHD</display-name>
-		<display-name>Runtime Series 720</display-name>
-		<display-name>Runtime Series 1080</display-name>
-		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Runtime%20Series.png" />
+	<channel id="Global Telenovelas">
+		<display-name>Global Telenovelas</display-name>
+		<display-name>Global Telenovelas.TV</display-name>
+		<display-name>Global Telenovelas SD</display-name>
+		<display-name>Global Telenovelas HD</display-name>
+		<display-name>Global Telenovelas FHD</display-name>
+		<display-name>Global Telenovelas UHD</display-name>
+		<display-name>Global Telenovelas 720</display-name>
+		<display-name>Global Telenovelas 1080</display-name>
+		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Global%20Telenovelas.png" />
 	</channel>
-	<channel id="Runtime Acción">
-		<display-name>Runtime Acción</display-name>
-		<display-name>Runtime Acción.TV</display-name>
-		<display-name>Runtime Acción SD</display-name>
-		<display-name>Runtime Acción HD</display-name>
-		<display-name>Runtime Acción FHD</display-name>
-		<display-name>Runtime Acción UHD</display-name>
-		<display-name>Runtime Acción 720</display-name>
-		<display-name>Runtime Acción 1080</display-name>
-		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Runtime%20Acci%C3%B3n.png" />
+	<channel id="Global Tendencias">
+		<display-name>Global Tendencias</display-name>
+		<display-name>Global Tendencias.TV</display-name>
+		<display-name>Global Tendencias SD</display-name>
+		<display-name>Global Tendencias HD</display-name>
+		<display-name>Global Tendencias FHD</display-name>
+		<display-name>Global Tendencias UHD</display-name>
+		<display-name>Global Tendencias 720</display-name>
+		<display-name>Global Tendencias 1080</display-name>
+		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Global%20Tendencias.png" />
 	</channel>
-	<channel id="Runtime Crimen">
-		<display-name>Runtime Crimen</display-name>
-		<display-name>Runtime Crimen.TV</display-name>
-		<display-name>Runtime Crimen SD</display-name>
-		<display-name>Runtime Crimen HD</display-name>
-		<display-name>Runtime Crimen FHD</display-name>
-		<display-name>Runtime Crimen UHD</display-name>
-		<display-name>Runtime Crimen 720</display-name>
-		<display-name>Runtime Crimen 1080</display-name>
-		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Runtime%20Crimen.png" />
+	<channel id="Fight Time">
+		<display-name>Fight Time</display-name>
+		<display-name>Fight Time.TV</display-name>
+		<display-name>Fight Time SD</display-name>
+		<display-name>Fight Time HD</display-name>
+		<display-name>Fight Time FHD</display-name>
+		<display-name>Fight Time UHD</display-name>
+		<display-name>Fight Time 720</display-name>
+		<display-name>Fight Time 1080</display-name>
+		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Fight%20Time.png" />
 	</channel>
-	<channel id="Runtime Romance">
-		<display-name>Runtime Romance</display-name>
-		<display-name>Runtime Romance.TV</display-name>
-		<display-name>Runtime Romance SD</display-name>
-		<display-name>Runtime Romance HD</display-name>
-		<display-name>Runtime Romance FHD</display-name>
-		<display-name>Runtime Romance UHD</display-name>
-		<display-name>Runtime Romance 720</display-name>
-		<display-name>Runtime Romance 1080</display-name>
-		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Runtime%20Romance.png" />
+	<channel id="DBike">
+		<display-name>DBike</display-name>
+		<display-name>DBike.TV</display-name>
+		<display-name>DBike SD</display-name>
+		<display-name>DBike HD</display-name>
+		<display-name>DBike FHD</display-name>
+		<display-name>DBike UHD</display-name>
+		<display-name>DBike 720</display-name>
+		<display-name>DBike 1080</display-name>
+		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DBike.png" />
 	</channel>
-	<channel id="RunTime Clásicos">
-		<display-name>RunTime Clásicos</display-name>
-		<display-name>RunTime Clásicos.TV</display-name>
-		<display-name>RunTime Clásicos SD</display-name>
-		<display-name>RunTime Clásicos HD</display-name>
-		<display-name>RunTime Clásicos FHD</display-name>
-		<display-name>RunTime Clásicos UHD</display-name>
-		<display-name>RunTime Clásicos 720</display-name>
-		<display-name>RunTime Clásicos 1080</display-name>
-		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/RunTime%20Cl%C3%A1sicos.png" />
+	<channel id="Náutica TV">
+		<display-name>Náutica TV</display-name>
+		<display-name>Náutica TV.TV</display-name>
+		<display-name>Náutica TV SD</display-name>
+		<display-name>Náutica TV HD</display-name>
+		<display-name>Náutica TV FHD</display-name>
+		<display-name>Náutica TV UHD</display-name>
+		<display-name>Náutica TV 720</display-name>
+		<display-name>Náutica TV 1080</display-name>
+		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/N%C3%A1utica%20TV.png" />
 	</channel>
-	<channel id="RunTime Familia">
-		<display-name>RunTime Familia</display-name>
-		<display-name>RunTime Familia.TV</display-name>
-		<display-name>RunTime Familia SD</display-name>
-		<display-name>RunTime Familia HD</display-name>
-		<display-name>RunTime Familia FHD</display-name>
-		<display-name>RunTime Familia UHD</display-name>
-		<display-name>RunTime Familia 720</display-name>
-		<display-name>RunTime Familia 1080</display-name>
-		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/RunTime%20Familia.png" />
+	<channel id="Antena Motor">
+		<display-name>Antena Motor</display-name>
+		<display-name>Antena Motor.TV</display-name>
+		<display-name>Antena Motor SD</display-name>
+		<display-name>Antena Motor HD</display-name>
+		<display-name>Antena Motor FHD</display-name>
+		<display-name>Antena Motor UHD</display-name>
+		<display-name>Antena Motor 720</display-name>
+		<display-name>Antena Motor 1080</display-name>
+		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Antena%20Motor.png" />
 	</channel>
-	<channel id="Qello concerts">
-		<display-name>Qello concerts</display-name>
-		<display-name>Qello concerts.TV</display-name>
-		<display-name>Qello concerts SD</display-name>
-		<display-name>Qello concerts HD</display-name>
-		<display-name>Qello concerts FHD</display-name>
-		<display-name>Qello concerts UHD</display-name>
-		<display-name>Qello concerts 720</display-name>
-		<display-name>Qello concerts 1080</display-name>
-		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Qello%20concerts.png" />
+	<channel id="Dhípica">
+		<display-name>Dhípica</display-name>
+		<display-name>Dhípica.TV</display-name>
+		<display-name>Dhípica SD</display-name>
+		<display-name>Dhípica HD</display-name>
+		<display-name>Dhípica FHD</display-name>
+		<display-name>Dhípica UHD</display-name>
+		<display-name>Dhípica 720</display-name>
+		<display-name>Dhípica 1080</display-name>
+		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Dh%C3%ADpica.png" />
 	</channel>
-	<channel id="TRACE Sports Stars">
-		<display-name>TRACE Sports Stars</display-name>
-		<display-name>TRACE Sports Stars.TV</display-name>
-		<display-name>TRACE Sports Stars SD</display-name>
-		<display-name>TRACE Sports Stars HD</display-name>
-		<display-name>TRACE Sports Stars FHD</display-name>
-		<display-name>TRACE Sports Stars UHD</display-name>
-		<display-name>TRACE Sports Stars 720</display-name>
-		<display-name>TRACE Sports Stars 1080</display-name>
-		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/TRACE%20Sports%20Stars.png" />
+	<channel id="REKTV">
+		<display-name>REKTV</display-name>
+		<display-name>REKTV.TV</display-name>
+		<display-name>REKTV SD</display-name>
+		<display-name>REKTV HD</display-name>
+		<display-name>REKTV FHD</display-name>
+		<display-name>REKTV UHD</display-name>
+		<display-name>REKTV 720</display-name>
+		<display-name>REKTV 1080</display-name>
+		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/REKTV.png" />
 	</channel>
-	<channel id="Horse TV">
-		<display-name>Horse TV</display-name>
-		<display-name>Horse TV.TV</display-name>
-		<display-name>Horse TV SD</display-name>
-		<display-name>Horse TV HD</display-name>
-		<display-name>Horse TV FHD</display-name>
-		<display-name>Horse TV UHD</display-name>
-		<display-name>Horse TV 720</display-name>
-		<display-name>Horse TV 1080</display-name>
-		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Horse%20TV.png" />
+	<channel id="tlnovelas">
+		<display-name>tlnovelas</display-name>
+		<display-name>tlnovelas.TV</display-name>
+		<display-name>tlnovelas SD</display-name>
+		<display-name>tlnovelas HD</display-name>
+		<display-name>tlnovelas FHD</display-name>
+		<display-name>tlnovelas UHD</display-name>
+		<display-name>tlnovelas 720</display-name>
+		<display-name>tlnovelas 1080</display-name>
+		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/tlnovelas.png" />
 	</channel>
-	<channel id="Nautical Channel">
-		<display-name>Nautical Channel</display-name>
-		<display-name>Nautical Channel.TV</display-name>
-		<display-name>Nautical Channel SD</display-name>
-		<display-name>Nautical Channel HD</display-name>
-		<display-name>Nautical Channel FHD</display-name>
-		<display-name>Nautical Channel UHD</display-name>
-		<display-name>Nautical Channel 720</display-name>
-		<display-name>Nautical Channel 1080</display-name>
-		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Nautical%20Channel.png" />
+	<channel id="DePelícula">
+		<display-name>DePelícula</display-name>
+		<display-name>DePelícula.TV</display-name>
+		<display-name>DePelícula SD</display-name>
+		<display-name>DePelícula HD</display-name>
+		<display-name>DePelícula FHD</display-name>
+		<display-name>DePelícula UHD</display-name>
+		<display-name>DePelícula 720</display-name>
+		<display-name>DePelícula 1080</display-name>
+		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DePel%C3%ADcula.png" />
 	</channel>
-	<channel id="Surf Channel">
-		<display-name>Surf Channel</display-name>
-		<display-name>Surf Channel.TV</display-name>
-		<display-name>Surf Channel SD</display-name>
-		<display-name>Surf Channel HD</display-name>
-		<display-name>Surf Channel FHD</display-name>
-		<display-name>Surf Channel UHD</display-name>
-		<display-name>Surf Channel 720</display-name>
-		<display-name>Surf Channel 1080</display-name>
-		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Surf%20Channel.png" />
+	<channel id="DejateTV">
+		<display-name>DejateTV</display-name>
+		<display-name>DejateTV.TV</display-name>
+		<display-name>DejateTV SD</display-name>
+		<display-name>DejateTV HD</display-name>
+		<display-name>DejateTV FHD</display-name>
+		<display-name>DejateTV UHD</display-name>
+		<display-name>DejateTV 720</display-name>
+		<display-name>DejateTV 1080</display-name>
+		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DejateTV.png" />
 	</channel>
-	<channel id="Motorvision">
-		<display-name>Motorvision</display-name>
-		<display-name>Motorvision.TV</display-name>
-		<display-name>Motorvision SD</display-name>
-		<display-name>Motorvision HD</display-name>
-		<display-name>Motorvision FHD</display-name>
-		<display-name>Motorvision UHD</display-name>
-		<display-name>Motorvision 720</display-name>
-		<display-name>Motorvision 1080</display-name>
-		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Motorvision.png" />
+	<channel id="PTV Granada">
+		<display-name>PTV Granada</display-name>
+		<display-name>PTV Granada.TV</display-name>
+		<display-name>PTV Granada SD</display-name>
+		<display-name>PTV Granada HD</display-name>
+		<display-name>PTV Granada FHD</display-name>
+		<display-name>PTV Granada UHD</display-name>
+		<display-name>PTV Granada 720</display-name>
+		<display-name>PTV Granada 1080</display-name>
+		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/PTV%20Granada.png" />
 	</channel>
-	<channel id="Fast&amp;FunBox">
-		<display-name>Fast&amp;FunBox</display-name>
-		<display-name>Fast&amp;FunBox.TV</display-name>
-		<display-name>Fast&amp;FunBox SD</display-name>
-		<display-name>Fast&amp;FunBox HD</display-name>
-		<display-name>Fast&amp;FunBox FHD</display-name>
-		<display-name>Fast&amp;FunBox UHD</display-name>
-		<display-name>Fast&amp;FunBox 720</display-name>
-		<display-name>Fast&amp;FunBox 1080</display-name>
-		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Fast%26FunBox.png" />
+	<channel id="PTV Sevilla">
+		<display-name>PTV Sevilla</display-name>
+		<display-name>PTV Sevilla.TV</display-name>
+		<display-name>PTV Sevilla SD</display-name>
+		<display-name>PTV Sevilla HD</display-name>
+		<display-name>PTV Sevilla FHD</display-name>
+		<display-name>PTV Sevilla UHD</display-name>
+		<display-name>PTV Sevilla 720</display-name>
+		<display-name>PTV Sevilla 1080</display-name>
+		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/PTV%20Sevilla.png" />
 	</channel>
-	<channel id="FightSports">
-		<display-name>FightSports</display-name>
-		<display-name>FightSports.TV</display-name>
-		<display-name>FightSports SD</display-name>
-		<display-name>FightSports HD</display-name>
-		<display-name>FightSports FHD</display-name>
-		<display-name>FightSports UHD</display-name>
-		<display-name>FightSports 720</display-name>
-		<display-name>FightSports 1080</display-name>
-		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/FightSports.png" />
+	<channel id="PTV Córdoba">
+		<display-name>PTV Córdoba</display-name>
+		<display-name>PTV Córdoba.TV</display-name>
+		<display-name>PTV Córdoba SD</display-name>
+		<display-name>PTV Córdoba HD</display-name>
+		<display-name>PTV Córdoba FHD</display-name>
+		<display-name>PTV Córdoba UHD</display-name>
+		<display-name>PTV Córdoba 720</display-name>
+		<display-name>PTV Córdoba 1080</display-name>
+		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/PTV%20C%C3%B3rdoba.png" />
 	</channel>
-	<channel id="Fight Box HD">
-		<display-name>Fight Box</display-name>
-		<display-name>Fight Box.TV</display-name>
-		<display-name>Fight Box SD</display-name>
-		<display-name>Fight Box HD</display-name>
-		<display-name>Fight Box FHD</display-name>
-		<display-name>Fight Box UHD</display-name>
-		<display-name>Fight Box 720</display-name>
-		<display-name>Fight Box 1080</display-name>
-		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Fight%20Box.png" />
+	<channel id="PTV Linares">
+		<display-name>PTV Linares</display-name>
+		<display-name>PTV Linares.TV</display-name>
+		<display-name>PTV Linares SD</display-name>
+		<display-name>PTV Linares HD</display-name>
+		<display-name>PTV Linares FHD</display-name>
+		<display-name>PTV Linares UHD</display-name>
+		<display-name>PTV Linares 720</display-name>
+		<display-name>PTV Linares 1080</display-name>
+		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/PTV%20Linares.png" />
 	</channel>
-	<channel id="QWest Mix">
-		<display-name>QWest Mix</display-name>
-		<display-name>QWest Mix.TV</display-name>
-		<display-name>QWest Mix SD</display-name>
-		<display-name>QWest Mix HD</display-name>
-		<display-name>QWest Mix FHD</display-name>
-		<display-name>QWest Mix UHD</display-name>
-		<display-name>QWest Mix 720</display-name>
-		<display-name>QWest Mix 1080</display-name>
-		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/QWest%20Mix.png" />
+	<channel id="PTV Málaga">
+		<display-name>PTV Málaga</display-name>
+		<display-name>PTV Málaga.TV</display-name>
+		<display-name>PTV Málaga SD</display-name>
+		<display-name>PTV Málaga HD</display-name>
+		<display-name>PTV Málaga FHD</display-name>
+		<display-name>PTV Málaga UHD</display-name>
+		<display-name>PTV Málaga 720</display-name>
+		<display-name>PTV Málaga 1080</display-name>
+		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/PTV%20M%C3%A1laga.png" />
 	</channel>
-	<channel id="Sol Música">
-		<display-name>Sol Música</display-name>
-		<display-name>Sol Música.TV</display-name>
-		<display-name>Sol Música SD</display-name>
-		<display-name>Sol Música HD</display-name>
-		<display-name>Sol Música FHD</display-name>
-		<display-name>Sol Música UHD</display-name>
-		<display-name>Sol Música 720</display-name>
-		<display-name>Sol Música 1080</display-name>
-		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Sol%20M%C3%BAsica.png" />
+	<channel id="NFL Network">
+		<display-name>NFL Network</display-name>
+		<display-name>NFL Network.TV</display-name>
+		<display-name>NFL Network SD</display-name>
+		<display-name>NFL Network HD</display-name>
+		<display-name>NFL Network FHD</display-name>
+		<display-name>NFL Network UHD</display-name>
+		<display-name>NFL Network 720</display-name>
+		<display-name>NFL Network 1080</display-name>
+		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/NFL%20Network.png" />
 	</channel>
-	<channel id="TRACE Latina">
-		<display-name>TRACE Latina</display-name>
-		<display-name>TRACE Latina.TV</display-name>
-		<display-name>TRACE Latina SD</display-name>
-		<display-name>TRACE Latina HD</display-name>
-		<display-name>TRACE Latina FHD</display-name>
-		<display-name>TRACE Latina UHD</display-name>
-		<display-name>TRACE Latina 720</display-name>
-		<display-name>TRACE Latina 1080</display-name>
-		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/TRACE%20Latina.png" />
+	<channel id="Red Bull TV">
+		<display-name>Red Bull TV</display-name>
+		<display-name>Red Bull TV.TV</display-name>
+		<display-name>Red Bull TV SD</display-name>
+		<display-name>Red Bull TV HD</display-name>
+		<display-name>Red Bull TV FHD</display-name>
+		<display-name>Red Bull TV UHD</display-name>
+		<display-name>Red Bull TV 720</display-name>
+		<display-name>Red Bull TV 1080</display-name>
+		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Red%20Bull%20TV.png" />
 	</channel>
-	<channel id="TRACE Urban">
-		<display-name>TRACE Urban</display-name>
-		<display-name>TRACE Urban.TV</display-name>
-		<display-name>TRACE Urban SD</display-name>
-		<display-name>TRACE Urban HD</display-name>
-		<display-name>TRACE Urban FHD</display-name>
-		<display-name>TRACE Urban UHD</display-name>
-		<display-name>TRACE Urban 720</display-name>
-		<display-name>TRACE Urban 1080</display-name>
-		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/TRACE%20Urban.png" />
+	<channel id="Unbeaten">
+		<display-name>Unbeaten</display-name>
+		<display-name>Unbeaten.TV</display-name>
+		<display-name>Unbeaten SD</display-name>
+		<display-name>Unbeaten HD</display-name>
+		<display-name>Unbeaten FHD</display-name>
+		<display-name>Unbeaten UHD</display-name>
+		<display-name>Unbeaten 720</display-name>
+		<display-name>Unbeaten 1080</display-name>
+		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Unbeaten.png" />
 	</channel>
-	<channel id="Cazavisión">
-		<display-name>Cazavisión</display-name>
-		<display-name>Cazavisión.TV</display-name>
-		<display-name>Cazavisión SD</display-name>
-		<display-name>Cazavisión HD</display-name>
-		<display-name>Cazavisión FHD</display-name>
-		<display-name>Cazavisión UHD</display-name>
-		<display-name>Cazavisión 720</display-name>
-		<display-name>Cazavisión 1080</display-name>
-		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Cazavisi%C3%B3n.png" />
+	<channel id="DAZN Bundesliga">
+		<display-name>DAZN Bundesliga</display-name>
+		<display-name>DAZN Bundesliga.TV</display-name>
+		<display-name>DAZN Bundesliga SD</display-name>
+		<display-name>DAZN Bundesliga HD</display-name>
+		<display-name>DAZN Bundesliga FHD</display-name>
+		<display-name>DAZN Bundesliga UHD</display-name>
+		<display-name>DAZN Bundesliga 720</display-name>
+		<display-name>DAZN Bundesliga 1080</display-name>
+		<icon src="https://image.discovery.indazn.com/eu/v4/onboarding-images/none/sn_6by3h89i2eykc341oz7lv1ddd/fill/center/top/none/100/0/0/png/image/25/g" />
 	</channel>
-	<channel id="TR3CE">
-		<display-name>TR3CE</display-name>
-		<display-name>TR3CE.TV</display-name>
-		<display-name>TR3CE SD</display-name>
-		<display-name>TR3CE HD</display-name>
-		<display-name>TR3CE FHD</display-name>
-		<display-name>TR3CE UHD</display-name>
-		<display-name>TR3CE 720</display-name>
-		<display-name>TR3CE 1080</display-name>
-		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/TR3CE.png" />
+	<channel id="DAZN Bundesliga 2">
+		<display-name>DAZN Bundesliga 2</display-name>
+		<display-name>DAZN Bundesliga 2.TV</display-name>
+		<display-name>DAZN Bundesliga 2 SD</display-name>
+		<display-name>DAZN Bundesliga 2 HD</display-name>
+		<display-name>DAZN Bundesliga 2 FHD</display-name>
+		<display-name>DAZN Bundesliga 2 UHD</display-name>
+		<display-name>DAZN Bundesliga 2 720</display-name>
+		<display-name>DAZN Bundesliga 2 1080</display-name>
+		<icon src="https://image.discovery.indazn.com/eu/v4/onboarding-images/none/sn_6by3h89i2eykc341oz7lv1ddd/fill/center/top/none/100/0/0/png/image/25/g" />
 	</channel>
-	<channel id="Deutsche W">
-		<display-name>Deutsche W</display-name>
-		<display-name>Deutsche W.TV</display-name>
-		<display-name>Deutsche W SD</display-name>
-		<display-name>Deutsche W HD</display-name>
-		<display-name>Deutsche W FHD</display-name>
-		<display-name>Deutsche W UHD</display-name>
-		<display-name>Deutsche W 720</display-name>
-		<display-name>Deutsche W 1080</display-name>
-		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Deutsche%20W.png" />
+	<channel id="DAZN Bundesliga 3">
+		<display-name>DAZN Bundesliga 3</display-name>
+		<display-name>DAZN Bundesliga 3.TV</display-name>
+		<display-name>DAZN Bundesliga 3 SD</display-name>
+		<display-name>DAZN Bundesliga 3 HD</display-name>
+		<display-name>DAZN Bundesliga 3 FHD</display-name>
+		<display-name>DAZN Bundesliga 3 UHD</display-name>
+		<display-name>DAZN Bundesliga 3 720</display-name>
+		<display-name>DAZN Bundesliga 3 1080</display-name>
+		<icon src="https://image.discovery.indazn.com/eu/v4/onboarding-images/none/sn_6by3h89i2eykc341oz7lv1ddd/fill/center/top/none/100/0/0/png/image/25/g" />
 	</channel>
-	<channel id="Pro TV">
-		<display-name>Pro TV</display-name>
-		<display-name>Pro TV.TV</display-name>
-		<display-name>Pro TV SD</display-name>
-		<display-name>Pro TV HD</display-name>
-		<display-name>Pro TV FHD</display-name>
-		<display-name>Pro TV UHD</display-name>
-		<display-name>Pro TV 720</display-name>
-		<display-name>Pro TV 1080</display-name>
-		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Pro%20TV.png" />
+	<channel id="DAZN Bundesliga 4">
+		<display-name>DAZN Bundesliga 4</display-name>
+		<display-name>DAZN Bundesliga 4.TV</display-name>
+		<display-name>DAZN Bundesliga 4 SD</display-name>
+		<display-name>DAZN Bundesliga 4 HD</display-name>
+		<display-name>DAZN Bundesliga 4 FHD</display-name>
+		<display-name>DAZN Bundesliga 4 UHD</display-name>
+		<display-name>DAZN Bundesliga 4 720</display-name>
+		<display-name>DAZN Bundesliga 4 1080</display-name>
+		<icon src="https://image.discovery.indazn.com/eu/v4/onboarding-images/none/sn_6by3h89i2eykc341oz7lv1ddd/fill/center/top/none/100/0/0/png/image/25/g" />
 	</channel>
-	<channel id="Caracol TV">
-		<display-name>Caracol TV</display-name>
-		<display-name>Caracol TV.TV</display-name>
-		<display-name>Caracol TV SD</display-name>
-		<display-name>Caracol TV HD</display-name>
-		<display-name>Caracol TV FHD</display-name>
-		<display-name>Caracol TV UHD</display-name>
-		<display-name>Caracol TV 720</display-name>
-		<display-name>Caracol TV 1080</display-name>
-		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Caracol%20TV.png" />
+	<channel id="DAZN Bundesliga 5">
+		<display-name>DAZN Bundesliga 5</display-name>
+		<display-name>DAZN Bundesliga 5.TV</display-name>
+		<display-name>DAZN Bundesliga 5 SD</display-name>
+		<display-name>DAZN Bundesliga 5 HD</display-name>
+		<display-name>DAZN Bundesliga 5 FHD</display-name>
+		<display-name>DAZN Bundesliga 5 UHD</display-name>
+		<display-name>DAZN Bundesliga 5 720</display-name>
+		<display-name>DAZN Bundesliga 5 1080</display-name>
+		<icon src="https://image.discovery.indazn.com/eu/v4/onboarding-images/none/sn_6by3h89i2eykc341oz7lv1ddd/fill/center/top/none/100/0/0/png/image/25/g" />
 	</channel>
-	<channel id="France 2">
-		<display-name>France 2</display-name>
-		<display-name>France 2.TV</display-name>
-		<display-name>France 2 SD</display-name>
-		<display-name>France 2 HD</display-name>
-		<display-name>France 2 FHD</display-name>
-		<display-name>France 2 UHD</display-name>
-		<display-name>France 2 720</display-name>
-		<display-name>France 2 1080</display-name>
-		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/France%202.png" />
+	<channel id="DAZN LALIGA EA SPORTS">
+		<display-name>DAZN LALIGA EA SPORTS</display-name>
+		<display-name>DAZN LALIGA EA SPORTS.TV</display-name>
+		<display-name>DAZN LALIGA EA SPORTS SD</display-name>
+		<display-name>DAZN LALIGA EA SPORTS HD</display-name>
+		<display-name>DAZN LALIGA EA SPORTS FHD</display-name>
+		<display-name>DAZN LALIGA EA SPORTS UHD</display-name>
+		<display-name>DAZN LALIGA EA SPORTS 720</display-name>
+		<display-name>DAZN LALIGA EA SPORTS 1080</display-name>
+		<icon src="https://image.discovery.indazn.com/eu/v4/onboarding-images/none/sn_34pl8szyvrbwcmfkuocjm3r6t/fill/center/top/none/100/0/0/png/image/25/g" />
 	</channel>
-	<channel id="France 5">
-		<display-name>France 5</display-name>
-		<display-name>France 5.TV</display-name>
-		<display-name>France 5 SD</display-name>
-		<display-name>France 5 HD</display-name>
-		<display-name>France 5 FHD</display-name>
-		<display-name>France 5 UHD</display-name>
-		<display-name>France 5 720</display-name>
-		<display-name>France 5 1080</display-name>
-		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/France%205.png" />
+	<channel id="DAZN LALIGA EA SPORTS 2">
+		<display-name>DAZN LALIGA EA SPORTS 2</display-name>
+		<display-name>DAZN LALIGA EA SPORTS 2.TV</display-name>
+		<display-name>DAZN LALIGA EA SPORTS 2 SD</display-name>
+		<display-name>DAZN LALIGA EA SPORTS 2 HD</display-name>
+		<display-name>DAZN LALIGA EA SPORTS 2 FHD</display-name>
+		<display-name>DAZN LALIGA EA SPORTS 2 UHD</display-name>
+		<display-name>DAZN LALIGA EA SPORTS 2 720</display-name>
+		<display-name>DAZN LALIGA EA SPORTS 2 1080</display-name>
+		<icon src="https://image.discovery.indazn.com/eu/v4/onboarding-images/none/sn_34pl8szyvrbwcmfkuocjm3r6t/fill/center/top/none/100/0/0/png/image/25/g" />
 	</channel>
-	<channel id="M6">
-		<display-name>M6</display-name>
-		<display-name>M6.TV</display-name>
-		<display-name>M6 SD</display-name>
-		<display-name>M6 HD</display-name>
-		<display-name>M6 FHD</display-name>
-		<display-name>M6 UHD</display-name>
-		<display-name>M6 720</display-name>
-		<display-name>M6 1080</display-name>
-		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M6.png" />
+	<channel id="DAZN Liga F">
+		<display-name>DAZN Liga F</display-name>
+		<display-name>DAZN Liga F.TV</display-name>
+		<display-name>DAZN Liga F SD</display-name>
+		<display-name>DAZN Liga F HD</display-name>
+		<display-name>DAZN Liga F FHD</display-name>
+		<display-name>DAZN Liga F UHD</display-name>
+		<display-name>DAZN Liga F 720</display-name>
+		<display-name>DAZN Liga F 1080</display-name>
+		<icon src="https://image.discovery.indazn.com/eu/v4/onboarding-images/none/sn_5k620c7y6dlbmcm88dt3eb7t/fill/center/top/none/100/0/0/png/image/25/g" />
 	</channel>
-	<channel id="Gulli">
-		<display-name>Gulli</display-name>
-		<display-name>Gulli.TV</display-name>
-		<display-name>Gulli SD</display-name>
-		<display-name>Gulli HD</display-name>
-		<display-name>Gulli FHD</display-name>
-		<display-name>Gulli UHD</display-name>
-		<display-name>Gulli 720</display-name>
-		<display-name>Gulli 1080</display-name>
-		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Gulli.png" />
+	<channel id="DAZN Liga F 2">
+		<display-name>DAZN Liga F 2</display-name>
+		<display-name>DAZN Liga F 2.TV</display-name>
+		<display-name>DAZN Liga F 2 SD</display-name>
+		<display-name>DAZN Liga F 2 HD</display-name>
+		<display-name>DAZN Liga F 2 FHD</display-name>
+		<display-name>DAZN Liga F 2 UHD</display-name>
+		<display-name>DAZN Liga F 2 720</display-name>
+		<display-name>DAZN Liga F 2 1080</display-name>
+		<icon src="https://image.discovery.indazn.com/eu/v4/onboarding-images/none/sn_5k620c7y6dlbmcm88dt3eb7t/fill/center/top/none/100/0/0/png/image/25/g" />
 	</channel>
-	<channel id="Tennis Channel">
-		<display-name>Tennis Channel</display-name>
-		<display-name>Tennis Channel.TV</display-name>
-		<display-name>Tennis Channel SD</display-name>
-		<display-name>Tennis Channel HD</display-name>
-		<display-name>Tennis Channel FHD</display-name>
-		<display-name>Tennis Channel UHD</display-name>
-		<display-name>Tennis Channel 720</display-name>
-		<display-name>Tennis Channel 1080</display-name>
-		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Tennis%20Channel.png" />
+	<channel id="DAZN Liga F 3">
+		<display-name>DAZN Liga F 3</display-name>
+		<display-name>DAZN Liga F 3.TV</display-name>
+		<display-name>DAZN Liga F 3 SD</display-name>
+		<display-name>DAZN Liga F 3 HD</display-name>
+		<display-name>DAZN Liga F 3 FHD</display-name>
+		<display-name>DAZN Liga F 3 UHD</display-name>
+		<display-name>DAZN Liga F 3 720</display-name>
+		<display-name>DAZN Liga F 3 1080</display-name>
+		<icon src="https://image.discovery.indazn.com/eu/v4/onboarding-images/none/sn_5k620c7y6dlbmcm88dt3eb7t/fill/center/top/none/100/0/0/png/image/25/g" />
 	</channel>
-	<channel id="MyPadel TV">
-		<display-name>MyPadel TV</display-name>
-		<display-name>MyPadel TV.TV</display-name>
-		<display-name>MyPadel TV SD</display-name>
-		<display-name>MyPadel TV HD</display-name>
-		<display-name>MyPadel TV FHD</display-name>
-		<display-name>MyPadel TV UHD</display-name>
-		<display-name>MyPadel TV 720</display-name>
-		<display-name>MyPadel TV 1080</display-name>
-		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/MyPadel%20TV.png" />
+	<channel id="DAZN National League">
+		<display-name>DAZN National League</display-name>
+		<display-name>DAZN National League.TV</display-name>
+		<display-name>DAZN National League SD</display-name>
+		<display-name>DAZN National League HD</display-name>
+		<display-name>DAZN National League FHD</display-name>
+		<display-name>DAZN National League UHD</display-name>
+		<display-name>DAZN National League 720</display-name>
+		<display-name>DAZN National League 1080</display-name>
+		<icon src="https://image.discovery.indazn.com/eu/v4/onboarding-images/none/sn_b5udgm9vakjqz8dcmy5b2g0xt/fill/center/top/none/100/0/0/png/image/25/g" />
 	</channel>
-	<channel id="NatureTime">
-		<display-name>NatureTime</display-name>
-		<display-name>NatureTime.TV</display-name>
-		<display-name>NatureTime SD</display-name>
-		<display-name>NatureTime HD</display-name>
-		<display-name>NatureTime FHD</display-name>
-		<display-name>NatureTime UHD</display-name>
-		<display-name>NatureTime 720</display-name>
-		<display-name>NatureTime 1080</display-name>
-		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/NatureTime.png" />
+	<channel id="DAZN National League 2">
+		<display-name>DAZN National League 2</display-name>
+		<display-name>DAZN National League 2.TV</display-name>
+		<display-name>DAZN National League 2 SD</display-name>
+		<display-name>DAZN National League 2 HD</display-name>
+		<display-name>DAZN National League 2 FHD</display-name>
+		<display-name>DAZN National League 2 UHD</display-name>
+		<display-name>DAZN National League 2 720</display-name>
+		<display-name>DAZN National League 2 1080</display-name>
+		<icon src="https://image.discovery.indazn.com/eu/v4/onboarding-images/none/sn_b5udgm9vakjqz8dcmy5b2g0xt/fill/center/top/none/100/0/0/png/image/25/g" />
 	</channel>
-	<channel id="Toon Goggles">
-		<display-name>Toon Goggles</display-name>
-		<display-name>Toon Goggles.TV</display-name>
-		<display-name>Toon Goggles SD</display-name>
-		<display-name>Toon Goggles HD</display-name>
-		<display-name>Toon Goggles FHD</display-name>
-		<display-name>Toon Goggles UHD</display-name>
-		<display-name>Toon Goggles 720</display-name>
-		<display-name>Toon Goggles 1080</display-name>
-		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Toon%20Goggles.png" />
+	<channel id="DAZN National League 3">
+		<display-name>DAZN National League 3</display-name>
+		<display-name>DAZN National League 3.TV</display-name>
+		<display-name>DAZN National League 3 SD</display-name>
+		<display-name>DAZN National League 3 HD</display-name>
+		<display-name>DAZN National League 3 FHD</display-name>
+		<display-name>DAZN National League 3 UHD</display-name>
+		<display-name>DAZN National League 3 720</display-name>
+		<display-name>DAZN National League 3 1080</display-name>
+		<icon src="https://image.discovery.indazn.com/eu/v4/onboarding-images/none/sn_b5udgm9vakjqz8dcmy5b2g0xt/fill/center/top/none/100/0/0/png/image/25/g" />
 	</channel>
-	<channel id="Gametoon">
-		<display-name>Gametoon</display-name>
-		<display-name>Gametoon.TV</display-name>
-		<display-name>Gametoon SD</display-name>
-		<display-name>Gametoon HD</display-name>
-		<display-name>Gametoon FHD</display-name>
-		<display-name>Gametoon UHD</display-name>
-		<display-name>Gametoon 720</display-name>
-		<display-name>Gametoon 1080</display-name>
-		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Gametoon.png" />
+	<channel id="DAZN National League 4">
+		<display-name>DAZN National League 4</display-name>
+		<display-name>DAZN National League 4.TV</display-name>
+		<display-name>DAZN National League 4 SD</display-name>
+		<display-name>DAZN National League 4 HD</display-name>
+		<display-name>DAZN National League 4 FHD</display-name>
+		<display-name>DAZN National League 4 UHD</display-name>
+		<display-name>DAZN National League 4 720</display-name>
+		<display-name>DAZN National League 4 1080</display-name>
+		<icon src="https://image.discovery.indazn.com/eu/v4/onboarding-images/none/sn_b5udgm9vakjqz8dcmy5b2g0xt/fill/center/top/none/100/0/0/png/image/25/g" />
 	</channel>
-	<channel id="Vivir con gatos">
-		<display-name>Vivir con gatos</display-name>
-		<display-name>Vivir con gatos.TV</display-name>
-		<display-name>Vivir con gatos SD</display-name>
-		<display-name>Vivir con gatos HD</display-name>
-		<display-name>Vivir con gatos FHD</display-name>
-		<display-name>Vivir con gatos UHD</display-name>
-		<display-name>Vivir con gatos 720</display-name>
-		<display-name>Vivir con gatos 1080</display-name>
-		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Vivir%20con%20gatos.png" />
+	<channel id="DAZN National League 5">
+		<display-name>DAZN National League 5</display-name>
+		<display-name>DAZN National League 5.TV</display-name>
+		<display-name>DAZN National League 5 SD</display-name>
+		<display-name>DAZN National League 5 HD</display-name>
+		<display-name>DAZN National League 5 FHD</display-name>
+		<display-name>DAZN National League 5 UHD</display-name>
+		<display-name>DAZN National League 5 720</display-name>
+		<display-name>DAZN National League 5 1080</display-name>
+		<icon src="https://image.discovery.indazn.com/eu/v4/onboarding-images/none/sn_b5udgm9vakjqz8dcmy5b2g0xt/fill/center/top/none/100/0/0/png/image/25/g" />
 	</channel>
-	<channel id="Vivir con perros">
-		<display-name>Vivir con perros</display-name>
-		<display-name>Vivir con perros.TV</display-name>
-		<display-name>Vivir con perros SD</display-name>
-		<display-name>Vivir con perros HD</display-name>
-		<display-name>Vivir con perros FHD</display-name>
-		<display-name>Vivir con perros UHD</display-name>
-		<display-name>Vivir con perros 720</display-name>
-		<display-name>Vivir con perros 1080</display-name>
-		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Vivir%20con%20perros.png" />
+	<channel id="DAZN National League 6">
+		<display-name>DAZN National League 6</display-name>
+		<display-name>DAZN National League 6.TV</display-name>
+		<display-name>DAZN National League 6 SD</display-name>
+		<display-name>DAZN National League 6 HD</display-name>
+		<display-name>DAZN National League 6 FHD</display-name>
+		<display-name>DAZN National League 6 UHD</display-name>
+		<display-name>DAZN National League 6 720</display-name>
+		<display-name>DAZN National League 6 1080</display-name>
+		<icon src="https://image.discovery.indazn.com/eu/v4/onboarding-images/none/sn_b5udgm9vakjqz8dcmy5b2g0xt/fill/center/top/none/100/0/0/png/image/25/g" />
 	</channel>
-	<channel id="Anime Visión">
-		<display-name>Anime Visión</display-name>
-		<display-name>Anime Visión.TV</display-name>
-		<display-name>Anime Visión SD</display-name>
-		<display-name>Anime Visión HD</display-name>
-		<display-name>Anime Visión FHD</display-name>
-		<display-name>Anime Visión UHD</display-name>
-		<display-name>Anime Visión 720</display-name>
-		<display-name>Anime Visión 1080</display-name>
-		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Anime%20Visi%C3%B3n.png" />
+	<channel id="DAZN National League 7">
+		<display-name>DAZN National League 7</display-name>
+		<display-name>DAZN National League 7.TV</display-name>
+		<display-name>DAZN National League 7 SD</display-name>
+		<display-name>DAZN National League 7 HD</display-name>
+		<display-name>DAZN National League 7 FHD</display-name>
+		<display-name>DAZN National League 7 UHD</display-name>
+		<display-name>DAZN National League 7 720</display-name>
+		<display-name>DAZN National League 7 1080</display-name>
+		<icon src="https://image.discovery.indazn.com/eu/v4/onboarding-images/none/sn_b5udgm9vakjqz8dcmy5b2g0xt/fill/center/top/none/100/0/0/png/image/25/g" />
 	</channel>
-	<channel id="Anime Visión Classics">
-		<display-name>Anime Visión Classics</display-name>
-		<display-name>Anime Visión Classics.TV</display-name>
-		<display-name>Anime Visión Classics SD</display-name>
-		<display-name>Anime Visión Classics HD</display-name>
-		<display-name>Anime Visión Classics FHD</display-name>
-		<display-name>Anime Visión Classics UHD</display-name>
-		<display-name>Anime Visión Classics 720</display-name>
-		<display-name>Anime Visión Classics 1080</display-name>
-		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Anime%20Visi%C3%B3n%20Classics.png" />
+	<channel id="DAZN National League 8">
+		<display-name>DAZN National League 8</display-name>
+		<display-name>DAZN National League 8.TV</display-name>
+		<display-name>DAZN National League 8 SD</display-name>
+		<display-name>DAZN National League 8 HD</display-name>
+		<display-name>DAZN National League 8 FHD</display-name>
+		<display-name>DAZN National League 8 UHD</display-name>
+		<display-name>DAZN National League 8 720</display-name>
+		<display-name>DAZN National League 8 1080</display-name>
+		<icon src="https://image.discovery.indazn.com/eu/v4/onboarding-images/none/sn_b5udgm9vakjqz8dcmy5b2g0xt/fill/center/top/none/100/0/0/png/image/25/g" />
 	</channel>
-	<channel id="Flamenco Auditorio">
-		<display-name>Flamenco Auditorio</display-name>
-		<display-name>Flamenco Auditorio.TV</display-name>
-		<display-name>Flamenco Auditorio SD</display-name>
-		<display-name>Flamenco Auditorio HD</display-name>
-		<display-name>Flamenco Auditorio FHD</display-name>
-		<display-name>Flamenco Auditorio UHD</display-name>
-		<display-name>Flamenco Auditorio 720</display-name>
-		<display-name>Flamenco Auditorio 1080</display-name>
-		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Flamenco%20Auditorio.png" />
+	<channel id="DAZN National League 9">
+		<display-name>DAZN National League 9</display-name>
+		<display-name>DAZN National League 9.TV</display-name>
+		<display-name>DAZN National League 9 SD</display-name>
+		<display-name>DAZN National League 9 HD</display-name>
+		<display-name>DAZN National League 9 FHD</display-name>
+		<display-name>DAZN National League 9 UHD</display-name>
+		<display-name>DAZN National League 9 720</display-name>
+		<display-name>DAZN National League 9 1080</display-name>
+		<icon src="https://image.discovery.indazn.com/eu/v4/onboarding-images/none/sn_b5udgm9vakjqz8dcmy5b2g0xt/fill/center/top/none/100/0/0/png/image/25/g" />
 	</channel>
-	<channel id="Sangre Fría">
-		<display-name>Sangre Fría</display-name>
-		<display-name>Sangre Fría.TV</display-name>
-		<display-name>Sangre Fría SD</display-name>
-		<display-name>Sangre Fría HD</display-name>
-		<display-name>Sangre Fría FHD</display-name>
-		<display-name>Sangre Fría UHD</display-name>
-		<display-name>Sangre Fría 720</display-name>
-		<display-name>Sangre Fría 1080</display-name>
-		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Sangre%20Fr%C3%ADa.png" />
+	<channel id="DAZN Premier League">
+		<display-name>DAZN Premier League</display-name>
+		<display-name>DAZN Premier League.TV</display-name>
+		<display-name>DAZN Premier League SD</display-name>
+		<display-name>DAZN Premier League HD</display-name>
+		<display-name>DAZN Premier League FHD</display-name>
+		<display-name>DAZN Premier League UHD</display-name>
+		<display-name>DAZN Premier League 720</display-name>
+		<display-name>DAZN Premier League 1080</display-name>
+		<icon src="https://image.discovery.indazn.com/eu/v4/onboarding-images/none/sn_2kwbbcootiqqgmrzs6o5inle5/fill/center/top/none/100/0/0/png/image/25/g" />
 	</channel>
-	<channel id="Love the Planet">
-		<display-name>Love the Planet</display-name>
-		<display-name>Love the Planet.TV</display-name>
-		<display-name>Love the Planet SD</display-name>
-		<display-name>Love the Planet HD</display-name>
-		<display-name>Love the Planet FHD</display-name>
-		<display-name>Love the Planet UHD</display-name>
-		<display-name>Love the Planet 720</display-name>
-		<display-name>Love the Planet 1080</display-name>
-		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Love%20the%20Planet.png" />
+	<channel id="DAZN Premier League 2">
+		<display-name>DAZN Premier League 2</display-name>
+		<display-name>DAZN Premier League 2.TV</display-name>
+		<display-name>DAZN Premier League 2 SD</display-name>
+		<display-name>DAZN Premier League 2 HD</display-name>
+		<display-name>DAZN Premier League 2 FHD</display-name>
+		<display-name>DAZN Premier League 2 UHD</display-name>
+		<display-name>DAZN Premier League 2 720</display-name>
+		<display-name>DAZN Premier League 2 1080</display-name>
+		<icon src="https://image.discovery.indazn.com/eu/v4/onboarding-images/none/sn_2kwbbcootiqqgmrzs6o5inle5/fill/center/top/none/100/0/0/png/image/25/g" />
 	</channel>
-	<channel id="Love Wine">
-		<display-name>Love Wine</display-name>
-		<display-name>Love Wine.TV</display-name>
-		<display-name>Love Wine SD</display-name>
-		<display-name>Love Wine HD</display-name>
-		<display-name>Love Wine FHD</display-name>
-		<display-name>Love Wine UHD</display-name>
-		<display-name>Love Wine 720</display-name>
-		<display-name>Love Wine 1080</display-name>
-		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Love%20Wine.png" />
+	<channel id="DAZN Premier League 3">
+		<display-name>DAZN Premier League 3</display-name>
+		<display-name>DAZN Premier League 3.TV</display-name>
+		<display-name>DAZN Premier League 3 SD</display-name>
+		<display-name>DAZN Premier League 3 HD</display-name>
+		<display-name>DAZN Premier League 3 FHD</display-name>
+		<display-name>DAZN Premier League 3 UHD</display-name>
+		<display-name>DAZN Premier League 3 720</display-name>
+		<display-name>DAZN Premier League 3 1080</display-name>
+		<icon src="https://image.discovery.indazn.com/eu/v4/onboarding-images/none/sn_2kwbbcootiqqgmrzs6o5inle5/fill/center/top/none/100/0/0/png/image/25/g" />
 	</channel>
-	<channel id="Historia y Vida">
-		<display-name>Historia y Vida</display-name>
-		<display-name>Historia y Vida.TV</display-name>
-		<display-name>Historia y Vida SD</display-name>
-		<display-name>Historia y Vida HD</display-name>
-		<display-name>Historia y Vida FHD</display-name>
-		<display-name>Historia y Vida UHD</display-name>
-		<display-name>Historia y Vida 720</display-name>
-		<display-name>Historia y Vida 1080</display-name>
-		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Historia%20y%20Vida.png" />
+	<channel id="DAZN Premier League 4">
+		<display-name>DAZN Premier League 4</display-name>
+		<display-name>DAZN Premier League 4.TV</display-name>
+		<display-name>DAZN Premier League 4 SD</display-name>
+		<display-name>DAZN Premier League 4 HD</display-name>
+		<display-name>DAZN Premier League 4 FHD</display-name>
+		<display-name>DAZN Premier League 4 UHD</display-name>
+		<display-name>DAZN Premier League 4 720</display-name>
+		<display-name>DAZN Premier League 4 1080</display-name>
+		<icon src="https://image.discovery.indazn.com/eu/v4/onboarding-images/none/sn_2kwbbcootiqqgmrzs6o5inle5/fill/center/top/none/100/0/0/png/image/25/g" />
 	</channel>
-	<channel id="Moto ADV">
-		<display-name>Moto ADV</display-name>
-		<display-name>Moto ADV.TV</display-name>
-		<display-name>Moto ADV SD</display-name>
-		<display-name>Moto ADV HD</display-name>
-		<display-name>Moto ADV FHD</display-name>
-		<display-name>Moto ADV UHD</display-name>
-		<display-name>Moto ADV 720</display-name>
-		<display-name>Moto ADV 1080</display-name>
-		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Moto%20ADV.png" />
+	<channel id="DAZN Premier League 5">
+		<display-name>DAZN Premier League 5</display-name>
+		<display-name>DAZN Premier League 5.TV</display-name>
+		<display-name>DAZN Premier League 5 SD</display-name>
+		<display-name>DAZN Premier League 5 HD</display-name>
+		<display-name>DAZN Premier League 5 FHD</display-name>
+		<display-name>DAZN Premier League 5 UHD</display-name>
+		<display-name>DAZN Premier League 5 720</display-name>
+		<display-name>DAZN Premier League 5 1080</display-name>
+		<icon src="https://image.discovery.indazn.com/eu/v4/onboarding-images/none/sn_2kwbbcootiqqgmrzs6o5inle5/fill/center/top/none/100/0/0/png/image/25/g" />
 	</channel>
-	<channel id="8madrid TV">
-		<display-name>8madrid TV</display-name>
-		<display-name>8madrid TV.TV</display-name>
-		<display-name>8madrid TV SD</display-name>
-		<display-name>8madrid TV HD</display-name>
-		<display-name>8madrid TV FHD</display-name>
-		<display-name>8madrid TV UHD</display-name>
-		<display-name>8madrid TV 720</display-name>
-		<display-name>8madrid TV 1080</display-name>
-		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/8madrid%20TV.png" />
+	<channel id="DAZN Serie A">
+		<display-name>DAZN Serie A</display-name>
+		<display-name>DAZN Serie A.TV</display-name>
+		<display-name>DAZN Serie A SD</display-name>
+		<display-name>DAZN Serie A HD</display-name>
+		<display-name>DAZN Serie A FHD</display-name>
+		<display-name>DAZN Serie A UHD</display-name>
+		<display-name>DAZN Serie A 720</display-name>
+		<display-name>DAZN Serie A 1080</display-name>
+		<icon src="https://image.discovery.indazn.com/eu/v4/onboarding-images/none/sn_1r097lpxe0xn03ihb7wi98kao/fill/center/top/none/100/0/0/png/image/25/g" />
+	</channel>
+	<channel id="DAZN Serie A 2">
+		<display-name>DAZN Serie A 2</display-name>
+		<display-name>DAZN Serie A 2.TV</display-name>
+		<display-name>DAZN Serie A 2 SD</display-name>
+		<display-name>DAZN Serie A 2 HD</display-name>
+		<display-name>DAZN Serie A 2 FHD</display-name>
+		<display-name>DAZN Serie A 2 UHD</display-name>
+		<display-name>DAZN Serie A 2 720</display-name>
+		<display-name>DAZN Serie A 2 1080</display-name>
+		<icon src="https://image.discovery.indazn.com/eu/v4/onboarding-images/none/sn_1r097lpxe0xn03ihb7wi98kao/fill/center/top/none/100/0/0/png/image/25/g" />
 	</channel>
 	<channel id="Sky News International">
 		<display-name>Sky News International</display-name>
@@ -5136,6 +5279,7 @@
 		<display-name>Todo Crimen (Rakuten TV) 720</display-name>
 		<display-name>Todo Crimen (Rakuten TV) 1080</display-name>
 		<icon src="https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork-negative/8fb33036-37c7-478c-930f-f8f6230a5c32.png" />
+		<icon src="https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork-negative/e058d349-db97-4c0b-a9dd-477147a1d473.png" />
 		<icon src="https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork-negative/e058d349-db97-4c0b-a9dd-477147a1d473.png" />
 	</channel>
 	<channel id="Crimen (Rakuten TV)">
@@ -5544,28 +5688,6 @@
 		<display-name>MTV Classic 1080</display-name>
 		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/MTV%20Classic.png" />
 	</channel>
-	<channel id="FR · France 24">
-		<display-name>FR · France 24</display-name>
-		<display-name>FR · France 24.TV</display-name>
-		<display-name>FR · France 24 SD</display-name>
-		<display-name>FR · France 24 HD</display-name>
-		<display-name>FR · France 24 FHD</display-name>
-		<display-name>FR · France 24 UHD</display-name>
-		<display-name>FR · France 24 720</display-name>
-		<display-name>FR · France 24 1080</display-name>
-		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/France%2024.png" />
-	</channel>
-	<channel id="FR · i24 News">
-		<display-name>FR · i24 News</display-name>
-		<display-name>FR · i24 News.TV</display-name>
-		<display-name>FR · i24 News SD</display-name>
-		<display-name>FR · i24 News HD</display-name>
-		<display-name>FR · i24 News FHD</display-name>
-		<display-name>FR · i24 News UHD</display-name>
-		<display-name>FR · i24 News 720</display-name>
-		<display-name>FR · i24 News 1080</display-name>
-		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/i24%20News.png" />
-	</channel>
 	<channel id="FR · Infosport+">
 		<display-name>FR · Infosport+</display-name>
 		<display-name>FR · Infosport+.TV</display-name>
@@ -5840,61 +5962,6 @@
 		<display-name>FR · DAZN 720</display-name>
 		<display-name>FR · DAZN 1080</display-name>
 		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN.png" />
-	</channel>
-	<channel id="Libertad Digital TV">
-		<display-name>Libertad Digital TV</display-name>
-		<display-name>Libertad Digital TV.TV</display-name>
-		<display-name>Libertad Digital TV SD</display-name>
-		<display-name>Libertad Digital TV HD</display-name>
-		<display-name>Libertad Digital TV FHD</display-name>
-		<display-name>Libertad Digital TV UHD</display-name>
-		<display-name>Libertad Digital TV 720</display-name>
-		<display-name>Libertad Digital TV 1080</display-name>
-		<icon src="https://yt3.googleusercontent.com/ytc/AIdro_mJBwGvGJx9rJx7Fyo19zzImyR7p9O2WXRS1uPaSMoP6HE=s900-c-k-c0x00ffffff-no-rj" />
-	</channel>
-	<channel id="Imás TV">
-		<display-name>Imás TV</display-name>
-		<display-name>Imás TV.TV</display-name>
-		<display-name>Imás TV SD</display-name>
-		<display-name>Imás TV HD</display-name>
-		<display-name>Imás TV FHD</display-name>
-		<display-name>Imás TV UHD</display-name>
-		<display-name>Imás TV 720</display-name>
-		<display-name>Imás TV 1080</display-name>
-		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Im%C3%A1s%20TV.png" />
-	</channel>
-	<channel id="Punt 3">
-		<display-name>Punt 3</display-name>
-		<display-name>Punt 3.TV</display-name>
-		<display-name>Punt 3 SD</display-name>
-		<display-name>Punt 3 HD</display-name>
-		<display-name>Punt 3 FHD</display-name>
-		<display-name>Punt 3 UHD</display-name>
-		<display-name>Punt 3 720</display-name>
-		<display-name>Punt 3 1080</display-name>
-		<icon src="https://www.punt3.es/android-icon-192x192.png" />
-	</channel>
-	<channel id="Distrito TV">
-		<display-name>Distrito TV</display-name>
-		<display-name>Distrito TV.TV</display-name>
-		<display-name>Distrito TV SD</display-name>
-		<display-name>Distrito TV HD</display-name>
-		<display-name>Distrito TV FHD</display-name>
-		<display-name>Distrito TV UHD</display-name>
-		<display-name>Distrito TV 720</display-name>
-		<display-name>Distrito TV 1080</display-name>
-		<icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/LOGO_DISTRITO_TV.png/598px-LOGO_DISTRITO_TV.png" />
-	</channel>
-	<channel id="ATV Andorra Televisión">
-		<display-name>ATV Andorra Televisión</display-name>
-		<display-name>ATV Andorra Televisión.TV</display-name>
-		<display-name>ATV Andorra Televisión SD</display-name>
-		<display-name>ATV Andorra Televisión HD</display-name>
-		<display-name>ATV Andorra Televisión FHD</display-name>
-		<display-name>ATV Andorra Televisión UHD</display-name>
-		<display-name>ATV Andorra Televisión 720</display-name>
-		<display-name>ATV Andorra Televisión 1080</display-name>
-		<icon src="https://upload.wikimedia.org/wikipedia/commons/3/32/Logo_Andorra_Televisi%C3%B3.png" />
 	</channel>
 	<channel id="PT | MCM TOP HD">
 		<display-name>PT | MCM TOP</display-name>
@@ -6542,7 +6609,6 @@
 		<display-name>DE | Sky Sport Bundesliga 6 UHD</display-name>
 		<display-name>DE | Sky Sport Bundesliga 6 720</display-name>
 		<display-name>DE | Sky Sport Bundesliga 6 1080</display-name>
-		<icon src="https://www.sky.de/static/img/senderlogos_dark/124_sky_logo_skybundesligahd7_tvguide.png" />
 	</channel>
 	<channel id="DE | Sky Sport Bundesliga 7">
 		<display-name>DE | Sky Sport Bundesliga 7</display-name>
@@ -6553,7 +6619,6 @@
 		<display-name>DE | Sky Sport Bundesliga 7 UHD</display-name>
 		<display-name>DE | Sky Sport Bundesliga 7 720</display-name>
 		<display-name>DE | Sky Sport Bundesliga 7 1080</display-name>
-		<icon src="https://www.sky.de/static/img/senderlogos_dark/125_sky_logo_skybundesligahd8_tvguide.png" />
 	</channel>
 	<channel id="DE | Sky Sport Bundesliga 8">
 		<display-name>DE | Sky Sport Bundesliga 8</display-name>
@@ -6670,7 +6735,6 @@
 		<display-name>DE | Sky Sport 8 UHD</display-name>
 		<display-name>DE | Sky Sport 8 720</display-name>
 		<display-name>DE | Sky Sport 8 1080</display-name>
-		<icon src="https://www.sky.de/static/img/senderlogos_dark/137_sky_logo_skysporthd10_tvguide.png" />
 	</channel>
 	<channel id="DE | Sky Sport 9">
 		<display-name>DE | Sky Sport 9</display-name>
@@ -6702,105 +6766,6 @@
 		<display-name>DE | Motorvision+ 720</display-name>
 		<display-name>DE | Motorvision+ 1080</display-name>
 		<icon src="https://www.sky.de/static/img/senderlogos_dark/52_sky_logo_motorvision_b.png" />
-	</channel>
-	<channel id="Onetoro">
-		<display-name>Onetoro</display-name>
-		<display-name>Onetoro.TV</display-name>
-		<display-name>Onetoro SD</display-name>
-		<display-name>Onetoro HD</display-name>
-		<display-name>Onetoro FHD</display-name>
-		<display-name>Onetoro UHD</display-name>
-		<display-name>Onetoro 720</display-name>
-		<display-name>Onetoro 1080</display-name>
-		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Onetoro.png" />
-	</channel>
-	<channel id="Alacantí TV">
-		<display-name>Alacantí TV</display-name>
-		<display-name>Alacantí TV.TV</display-name>
-		<display-name>Alacantí TV SD</display-name>
-		<display-name>Alacantí TV HD</display-name>
-		<display-name>Alacantí TV FHD</display-name>
-		<display-name>Alacantí TV UHD</display-name>
-		<display-name>Alacantí TV 720</display-name>
-		<display-name>Alacantí TV 1080</display-name>
-		<icon src="https://alacantitv.com/wp-content/uploads/2024/03/logo-alacantitv-programacion.jpg" />
-	</channel>
-	<channel id="Onda Cádiz TV">
-		<display-name>Onda Cádiz TV</display-name>
-		<display-name>Onda Cádiz TV.TV</display-name>
-		<display-name>Onda Cádiz TV SD</display-name>
-		<display-name>Onda Cádiz TV HD</display-name>
-		<display-name>Onda Cádiz TV FHD</display-name>
-		<display-name>Onda Cádiz TV UHD</display-name>
-		<display-name>Onda Cádiz TV 720</display-name>
-		<display-name>Onda Cádiz TV 1080</display-name>
-		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Onda%20C%C3%A1diz%20TV.png" />
-	</channel>
-	<channel id="TVR Rioja">
-		<display-name>TVR Rioja</display-name>
-		<display-name>TVR Rioja.TV</display-name>
-		<display-name>TVR Rioja SD</display-name>
-		<display-name>TVR Rioja HD</display-name>
-		<display-name>TVR Rioja FHD</display-name>
-		<display-name>TVR Rioja UHD</display-name>
-		<display-name>TVR Rioja 720</display-name>
-		<display-name>TVR Rioja 1080</display-name>
-		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/TVR%20Rioja.png" />
-	</channel>
-	<channel id="Popular TV Cantabria">
-		<display-name>Popular TV Cantabria</display-name>
-		<display-name>Popular TV Cantabria.TV</display-name>
-		<display-name>Popular TV Cantabria SD</display-name>
-		<display-name>Popular TV Cantabria HD</display-name>
-		<display-name>Popular TV Cantabria FHD</display-name>
-		<display-name>Popular TV Cantabria UHD</display-name>
-		<display-name>Popular TV Cantabria 720</display-name>
-		<display-name>Popular TV Cantabria 1080</display-name>
-		<icon src="https://populartvcantabria.com/wp-content/uploads/2022/10/cropped-logo-popular-horizontal-300x125.png" />
-	</channel>
-	<channel id="interalmería TV">
-		<display-name>interalmería TV</display-name>
-		<display-name>interalmería TV.TV</display-name>
-		<display-name>interalmería TV SD</display-name>
-		<display-name>interalmería TV HD</display-name>
-		<display-name>interalmería TV FHD</display-name>
-		<display-name>interalmería TV UHD</display-name>
-		<display-name>interalmería TV 720</display-name>
-		<display-name>interalmería TV 1080</display-name>
-		<icon src="https://www.interalmeria.tv/wp-content/uploads/2019/01/iatv-mosca.png?x96146" />
-	</channel>
-	<channel id="Huelva TV">
-		<display-name>Huelva TV</display-name>
-		<display-name>Huelva TV.TV</display-name>
-		<display-name>Huelva TV SD</display-name>
-		<display-name>Huelva TV HD</display-name>
-		<display-name>Huelva TV FHD</display-name>
-		<display-name>Huelva TV UHD</display-name>
-		<display-name>Huelva TV 720</display-name>
-		<display-name>Huelva TV 1080</display-name>
-		<icon src="https://huelvatv.com/wp-content/uploads/2024/11/70_Huelva_TV_Logotipo_AZUL.png" />
-	</channel>
-	<channel id="Elche 7 TV">
-		<display-name>Elche 7 TV</display-name>
-		<display-name>Elche 7 TV.TV</display-name>
-		<display-name>Elche 7 TV SD</display-name>
-		<display-name>Elche 7 TV HD</display-name>
-		<display-name>Elche 7 TV FHD</display-name>
-		<display-name>Elche 7 TV UHD</display-name>
-		<display-name>Elche 7 TV 720</display-name>
-		<display-name>Elche 7 TV 1080</display-name>
-		<icon src="https://elche7tv.es/wp-content/uploads/2023/08/Web-Retina-Logo-Upload-544-%C3%97-180-px.png" />
-	</channel>
-	<channel id="TV Melilla">
-		<display-name>TV Melilla</display-name>
-		<display-name>TV Melilla.TV</display-name>
-		<display-name>TV Melilla SD</display-name>
-		<display-name>TV Melilla HD</display-name>
-		<display-name>TV Melilla FHD</display-name>
-		<display-name>TV Melilla UHD</display-name>
-		<display-name>TV Melilla 720</display-name>
-		<display-name>TV Melilla 1080</display-name>
-		<icon src="https://th.bing.com/th/id/OIP.lq_9H8H5nXXUHfAoNQJJnQHaHa?w=80&amp;h=80&amp;c=1&amp;bgcl=f47899&amp;r=0&amp;o=7&amp;dpr=1.1&amp;pid=ImgRC&amp;rm=3" />
 	</channel>
 	<channel id="UK | TNT Sports 1">
 		<display-name>UK | TNT Sports 1</display-name>
