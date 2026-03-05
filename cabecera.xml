@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tv generator-info-name="dobleM 03/03/2026 20:47" generator-info-url="t.me/EPG_dobleM">
+<tv generator-info-name="dobleM 04/03/2026 21:41" generator-info-url="t.me/EPG_dobleM">
 	<channel id="La 1 HD">
 		<display-name>La 1</display-name>
 		<display-name>La 1.TV</display-name>
@@ -2177,6 +2177,17 @@
 		<display-name>Squirrel 2 720</display-name>
 		<display-name>Squirrel 2 1080</display-name>
 		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Squirrel%202.png" />
+	</channel>
+	<channel id="TR3CE">
+		<display-name>TR3CE</display-name>
+		<display-name>TR3CE.TV</display-name>
+		<display-name>TR3CE SD</display-name>
+		<display-name>TR3CE HD</display-name>
+		<display-name>TR3CE FHD</display-name>
+		<display-name>TR3CE UHD</display-name>
+		<display-name>TR3CE 720</display-name>
+		<display-name>TR3CE 1080</display-name>
+		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/TR3CE.png" />
 	</channel>
 	<channel id="DARK">
 		<display-name>DARK</display-name>
