@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tv generator-info-name="dobleM 04/03/2026 21:41" generator-info-url="t.me/EPG_dobleM">
+<tv generator-info-name="dobleM 05/03/2026 20:47" generator-info-url="t.me/EPG_dobleM">
 	<channel id="La 1 HD">
 		<display-name>La 1</display-name>
 		<display-name>La 1.TV</display-name>
@@ -2717,17 +2717,6 @@
 		<display-name>Cazavisión 1080</display-name>
 		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Cazavisi%C3%B3n.png" />
 	</channel>
-	<channel id="TR3CE">
-		<display-name>TR3CE</display-name>
-		<display-name>TR3CE.TV</display-name>
-		<display-name>TR3CE SD</display-name>
-		<display-name>TR3CE HD</display-name>
-		<display-name>TR3CE FHD</display-name>
-		<display-name>TR3CE UHD</display-name>
-		<display-name>TR3CE 720</display-name>
-		<display-name>TR3CE 1080</display-name>
-		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/TR3CE.png" />
-	</channel>
 	<channel id="Deutsche W">
 		<display-name>Deutsche W</display-name>
 		<display-name>Deutsche W.TV</display-name>
@@ -4873,17 +4862,6 @@
 		<display-name>PTV Granada 1080</display-name>
 		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/PTV%20Granada.png" />
 	</channel>
-	<channel id="PTV Sevilla">
-		<display-name>PTV Sevilla</display-name>
-		<display-name>PTV Sevilla.TV</display-name>
-		<display-name>PTV Sevilla SD</display-name>
-		<display-name>PTV Sevilla HD</display-name>
-		<display-name>PTV Sevilla FHD</display-name>
-		<display-name>PTV Sevilla UHD</display-name>
-		<display-name>PTV Sevilla 720</display-name>
-		<display-name>PTV Sevilla 1080</display-name>
-		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/PTV%20Sevilla.png" />
-	</channel>
 	<channel id="PTV Córdoba">
 		<display-name>PTV Córdoba</display-name>
 		<display-name>PTV Córdoba.TV</display-name>
@@ -5290,6 +5268,7 @@
 		<display-name>Todo Crimen (Rakuten TV) 720</display-name>
 		<display-name>Todo Crimen (Rakuten TV) 1080</display-name>
 		<icon src="https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork-negative/8fb33036-37c7-478c-930f-f8f6230a5c32.png" />
+		<icon src="https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork-negative/e058d349-db97-4c0b-a9dd-477147a1d473.png" />
 		<icon src="https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork-negative/e058d349-db97-4c0b-a9dd-477147a1d473.png" />
 	</channel>
 	<channel id="Crimen (Rakuten TV)">
@@ -6715,7 +6694,6 @@
 		<display-name>DE | Sky Sport 5 UHD</display-name>
 		<display-name>DE | Sky Sport 5 720</display-name>
 		<display-name>DE | Sky Sport 5 1080</display-name>
-		<icon src="https://www.sky.de/static/img/senderlogos_dark/134_sky_logo_skysporthd7_tvguide.png" />
 	</channel>
 	<channel id="DE | Sky Sport 6">
 		<display-name>DE | Sky Sport 6</display-name>
