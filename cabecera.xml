@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tv generator-info-name="dobleM 09/03/2026 20:47" generator-info-url="t.me/EPG_dobleM">
+<tv generator-info-name="dobleM 10/03/2026 20:47" generator-info-url="t.me/EPG_dobleM">
 	<channel id="La 1 HD">
 		<display-name>La 1</display-name>
 		<display-name>La 1.TV</display-name>
@@ -2178,17 +2178,6 @@
 		<display-name>Squirrel 2 1080</display-name>
 		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Squirrel%202.png" />
 	</channel>
-	<channel id="TR3CE">
-		<display-name>TR3CE</display-name>
-		<display-name>TR3CE.TV</display-name>
-		<display-name>TR3CE SD</display-name>
-		<display-name>TR3CE HD</display-name>
-		<display-name>TR3CE FHD</display-name>
-		<display-name>TR3CE UHD</display-name>
-		<display-name>TR3CE 720</display-name>
-		<display-name>TR3CE 1080</display-name>
-		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/TR3CE.png" />
-	</channel>
 	<channel id="DARK">
 		<display-name>DARK</display-name>
 		<display-name>DARK.TV</display-name>
@@ -2486,6 +2475,94 @@
 		<display-name>Gol Classics 1080</display-name>
 		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Gol%20Classics.png" />
 	</channel>
+	<channel id="TRACE Sports Stars">
+		<display-name>TRACE Sports Stars</display-name>
+		<display-name>TRACE Sports Stars.TV</display-name>
+		<display-name>TRACE Sports Stars SD</display-name>
+		<display-name>TRACE Sports Stars HD</display-name>
+		<display-name>TRACE Sports Stars FHD</display-name>
+		<display-name>TRACE Sports Stars UHD</display-name>
+		<display-name>TRACE Sports Stars 720</display-name>
+		<display-name>TRACE Sports Stars 1080</display-name>
+		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/TRACE%20Sports%20Stars.png" />
+	</channel>
+	<channel id="Horse TV">
+		<display-name>Horse TV</display-name>
+		<display-name>Horse TV.TV</display-name>
+		<display-name>Horse TV SD</display-name>
+		<display-name>Horse TV HD</display-name>
+		<display-name>Horse TV FHD</display-name>
+		<display-name>Horse TV UHD</display-name>
+		<display-name>Horse TV 720</display-name>
+		<display-name>Horse TV 1080</display-name>
+		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Horse%20TV.png" />
+	</channel>
+	<channel id="Nautical Channel">
+		<display-name>Nautical Channel</display-name>
+		<display-name>Nautical Channel.TV</display-name>
+		<display-name>Nautical Channel SD</display-name>
+		<display-name>Nautical Channel HD</display-name>
+		<display-name>Nautical Channel FHD</display-name>
+		<display-name>Nautical Channel UHD</display-name>
+		<display-name>Nautical Channel 720</display-name>
+		<display-name>Nautical Channel 1080</display-name>
+		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Nautical%20Channel.png" />
+	</channel>
+	<channel id="Surf Channel">
+		<display-name>Surf Channel</display-name>
+		<display-name>Surf Channel.TV</display-name>
+		<display-name>Surf Channel SD</display-name>
+		<display-name>Surf Channel HD</display-name>
+		<display-name>Surf Channel FHD</display-name>
+		<display-name>Surf Channel UHD</display-name>
+		<display-name>Surf Channel 720</display-name>
+		<display-name>Surf Channel 1080</display-name>
+		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Surf%20Channel.png" />
+	</channel>
+	<channel id="Motorvision">
+		<display-name>Motorvision</display-name>
+		<display-name>Motorvision.TV</display-name>
+		<display-name>Motorvision SD</display-name>
+		<display-name>Motorvision HD</display-name>
+		<display-name>Motorvision FHD</display-name>
+		<display-name>Motorvision UHD</display-name>
+		<display-name>Motorvision 720</display-name>
+		<display-name>Motorvision 1080</display-name>
+		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Motorvision.png" />
+	</channel>
+	<channel id="Fast&amp;FunBox">
+		<display-name>Fast&amp;FunBox</display-name>
+		<display-name>Fast&amp;FunBox.TV</display-name>
+		<display-name>Fast&amp;FunBox SD</display-name>
+		<display-name>Fast&amp;FunBox HD</display-name>
+		<display-name>Fast&amp;FunBox FHD</display-name>
+		<display-name>Fast&amp;FunBox UHD</display-name>
+		<display-name>Fast&amp;FunBox 720</display-name>
+		<display-name>Fast&amp;FunBox 1080</display-name>
+		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Fast%26FunBox.png" />
+	</channel>
+	<channel id="FightSports">
+		<display-name>FightSports</display-name>
+		<display-name>FightSports.TV</display-name>
+		<display-name>FightSports SD</display-name>
+		<display-name>FightSports HD</display-name>
+		<display-name>FightSports FHD</display-name>
+		<display-name>FightSports UHD</display-name>
+		<display-name>FightSports 720</display-name>
+		<display-name>FightSports 1080</display-name>
+		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/FightSports.png" />
+	</channel>
+	<channel id="Fight Box HD">
+		<display-name>Fight Box</display-name>
+		<display-name>Fight Box.TV</display-name>
+		<display-name>Fight Box SD</display-name>
+		<display-name>Fight Box HD</display-name>
+		<display-name>Fight Box FHD</display-name>
+		<display-name>Fight Box UHD</display-name>
+		<display-name>Fight Box 720</display-name>
+		<display-name>Fight Box 1080</display-name>
+		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Fight%20Box.png" />
+	</channel>
 	<channel id="Runtime Thriller-Terror">
 		<display-name>Runtime Thriller-Terror</display-name>
 		<display-name>Runtime Thriller-Terror.TV</display-name>
@@ -2585,6 +2662,17 @@
 		<display-name>RunTime Familia 1080</display-name>
 		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/RunTime%20Familia.png" />
 	</channel>
+	<channel id="TR3CE">
+		<display-name>TR3CE</display-name>
+		<display-name>TR3CE.TV</display-name>
+		<display-name>TR3CE SD</display-name>
+		<display-name>TR3CE HD</display-name>
+		<display-name>TR3CE FHD</display-name>
+		<display-name>TR3CE UHD</display-name>
+		<display-name>TR3CE 720</display-name>
+		<display-name>TR3CE 1080</display-name>
+		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/TR3CE.png" />
+	</channel>
 	<channel id="Qello concerts">
 		<display-name>Qello concerts</display-name>
 		<display-name>Qello concerts.TV</display-name>
@@ -2596,104 +2684,16 @@
 		<display-name>Qello concerts 1080</display-name>
 		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Qello%20concerts.png" />
 	</channel>
-	<channel id="TRACE Sports Stars">
-		<display-name>TRACE Sports Stars</display-name>
-		<display-name>TRACE Sports Stars.TV</display-name>
-		<display-name>TRACE Sports Stars SD</display-name>
-		<display-name>TRACE Sports Stars HD</display-name>
-		<display-name>TRACE Sports Stars FHD</display-name>
-		<display-name>TRACE Sports Stars UHD</display-name>
-		<display-name>TRACE Sports Stars 720</display-name>
-		<display-name>TRACE Sports Stars 1080</display-name>
-		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/TRACE%20Sports%20Stars.png" />
-	</channel>
-	<channel id="Horse TV">
-		<display-name>Horse TV</display-name>
-		<display-name>Horse TV.TV</display-name>
-		<display-name>Horse TV SD</display-name>
-		<display-name>Horse TV HD</display-name>
-		<display-name>Horse TV FHD</display-name>
-		<display-name>Horse TV UHD</display-name>
-		<display-name>Horse TV 720</display-name>
-		<display-name>Horse TV 1080</display-name>
-		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Horse%20TV.png" />
-	</channel>
-	<channel id="Nautical Channel">
-		<display-name>Nautical Channel</display-name>
-		<display-name>Nautical Channel.TV</display-name>
-		<display-name>Nautical Channel SD</display-name>
-		<display-name>Nautical Channel HD</display-name>
-		<display-name>Nautical Channel FHD</display-name>
-		<display-name>Nautical Channel UHD</display-name>
-		<display-name>Nautical Channel 720</display-name>
-		<display-name>Nautical Channel 1080</display-name>
-		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Nautical%20Channel.png" />
-	</channel>
-	<channel id="Surf Channel">
-		<display-name>Surf Channel</display-name>
-		<display-name>Surf Channel.TV</display-name>
-		<display-name>Surf Channel SD</display-name>
-		<display-name>Surf Channel HD</display-name>
-		<display-name>Surf Channel FHD</display-name>
-		<display-name>Surf Channel UHD</display-name>
-		<display-name>Surf Channel 720</display-name>
-		<display-name>Surf Channel 1080</display-name>
-		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Surf%20Channel.png" />
-	</channel>
-	<channel id="Motorvision">
-		<display-name>Motorvision</display-name>
-		<display-name>Motorvision.TV</display-name>
-		<display-name>Motorvision SD</display-name>
-		<display-name>Motorvision HD</display-name>
-		<display-name>Motorvision FHD</display-name>
-		<display-name>Motorvision UHD</display-name>
-		<display-name>Motorvision 720</display-name>
-		<display-name>Motorvision 1080</display-name>
-		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Motorvision.png" />
-	</channel>
-	<channel id="Fast&amp;FunBox">
-		<display-name>Fast&amp;FunBox</display-name>
-		<display-name>Fast&amp;FunBox.TV</display-name>
-		<display-name>Fast&amp;FunBox SD</display-name>
-		<display-name>Fast&amp;FunBox HD</display-name>
-		<display-name>Fast&amp;FunBox FHD</display-name>
-		<display-name>Fast&amp;FunBox UHD</display-name>
-		<display-name>Fast&amp;FunBox 720</display-name>
-		<display-name>Fast&amp;FunBox 1080</display-name>
-		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Fast%26FunBox.png" />
-	</channel>
-	<channel id="FightSports">
-		<display-name>FightSports</display-name>
-		<display-name>FightSports.TV</display-name>
-		<display-name>FightSports SD</display-name>
-		<display-name>FightSports HD</display-name>
-		<display-name>FightSports FHD</display-name>
-		<display-name>FightSports UHD</display-name>
-		<display-name>FightSports 720</display-name>
-		<display-name>FightSports 1080</display-name>
-		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/FightSports.png" />
-	</channel>
-	<channel id="Fight Box HD">
-		<display-name>Fight Box</display-name>
-		<display-name>Fight Box.TV</display-name>
-		<display-name>Fight Box SD</display-name>
-		<display-name>Fight Box HD</display-name>
-		<display-name>Fight Box FHD</display-name>
-		<display-name>Fight Box UHD</display-name>
-		<display-name>Fight Box 720</display-name>
-		<display-name>Fight Box 1080</display-name>
-		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Fight%20Box.png" />
-	</channel>
-	<channel id="QWest Mix">
-		<display-name>QWest Mix</display-name>
-		<display-name>QWest Mix.TV</display-name>
-		<display-name>QWest Mix SD</display-name>
-		<display-name>QWest Mix HD</display-name>
-		<display-name>QWest Mix FHD</display-name>
-		<display-name>QWest Mix UHD</display-name>
-		<display-name>QWest Mix 720</display-name>
-		<display-name>QWest Mix 1080</display-name>
-		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/QWest%20Mix.png" />
+	<channel id="Qwest TV">
+		<display-name>Qwest TV</display-name>
+		<display-name>Qwest TV.TV</display-name>
+		<display-name>Qwest TV SD</display-name>
+		<display-name>Qwest TV HD</display-name>
+		<display-name>Qwest TV FHD</display-name>
+		<display-name>Qwest TV UHD</display-name>
+		<display-name>Qwest TV 720</display-name>
+		<display-name>Qwest TV 1080</display-name>
+		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Qwest%20TV.png" />
 	</channel>
 	<channel id="Sol Música">
 		<display-name>Sol Música</display-name>
@@ -4675,6 +4675,17 @@
 		<display-name>DAZN F1 BAR 1080</display-name>
 		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20F1%20BAR.png" />
 	</channel>
+	<channel id="Gol Classics">
+		<display-name>Gol Classics</display-name>
+		<display-name>Gol Classics.TV</display-name>
+		<display-name>Gol Classics SD</display-name>
+		<display-name>Gol Classics HD</display-name>
+		<display-name>Gol Classics FHD</display-name>
+		<display-name>Gol Classics UHD</display-name>
+		<display-name>Gol Classics 720</display-name>
+		<display-name>Gol Classics 1080</display-name>
+		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Gol%20Classics.png" />
+	</channel>
 	<channel id="GolStadium">
 		<display-name>GolStadium</display-name>
 		<display-name>GolStadium.TV</display-name>
@@ -4686,16 +4697,27 @@
 		<display-name>GolStadium 1080</display-name>
 		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/GolStadium.png" />
 	</channel>
-	<channel id="Gol Classics">
-		<display-name>Gol Classics</display-name>
-		<display-name>Gol Classics.TV</display-name>
-		<display-name>Gol Classics SD</display-name>
-		<display-name>Gol Classics HD</display-name>
-		<display-name>Gol Classics FHD</display-name>
-		<display-name>Gol Classics UHD</display-name>
-		<display-name>Gol Classics 720</display-name>
-		<display-name>Gol Classics 1080</display-name>
-		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Gol%20Classics.png" />
+	<channel id="Ubeat lite">
+		<display-name>Ubeat lite</display-name>
+		<display-name>Ubeat lite.TV</display-name>
+		<display-name>Ubeat lite SD</display-name>
+		<display-name>Ubeat lite HD</display-name>
+		<display-name>Ubeat lite FHD</display-name>
+		<display-name>Ubeat lite UHD</display-name>
+		<display-name>Ubeat lite 720</display-name>
+		<display-name>Ubeat lite 1080</display-name>
+		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Ubeat%20lite.png" />
+	</channel>
+	<channel id="NBA TV">
+		<display-name>NBA TV</display-name>
+		<display-name>NBA TV.TV</display-name>
+		<display-name>NBA TV SD</display-name>
+		<display-name>NBA TV HD</display-name>
+		<display-name>NBA TV FHD</display-name>
+		<display-name>NBA TV UHD</display-name>
+		<display-name>NBA TV 720</display-name>
+		<display-name>NBA TV 1080</display-name>
+		<icon src="https://cdn.nba.com/logos/leagues/logo-nba.svg" />
 	</channel>
 	<channel id="Torolé TV">
 		<display-name>Torolé TV</display-name>
