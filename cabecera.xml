@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tv generator-info-name="dobleM 10/03/2026 20:47" generator-info-url="t.me/EPG_dobleM">
+<tv generator-info-name="dobleM 11/03/2026 20:47" generator-info-url="t.me/EPG_dobleM">
 	<channel id="La 1 HD">
 		<display-name>La 1</display-name>
 		<display-name>La 1.TV</display-name>
@@ -2156,39 +2156,6 @@
 		<display-name>DAZN Baloncesto 3 1080</display-name>
 		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20Baloncesto%203.png" />
 	</channel>
-	<channel id="Squirrel TV">
-		<display-name>Squirrel TV</display-name>
-		<display-name>Squirrel TV.TV</display-name>
-		<display-name>Squirrel TV SD</display-name>
-		<display-name>Squirrel TV HD</display-name>
-		<display-name>Squirrel TV FHD</display-name>
-		<display-name>Squirrel TV UHD</display-name>
-		<display-name>Squirrel TV 720</display-name>
-		<display-name>Squirrel TV 1080</display-name>
-		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Squirrel%20TV.png" />
-	</channel>
-	<channel id="Squirrel 2">
-		<display-name>Squirrel 2</display-name>
-		<display-name>Squirrel 2.TV</display-name>
-		<display-name>Squirrel 2 SD</display-name>
-		<display-name>Squirrel 2 HD</display-name>
-		<display-name>Squirrel 2 FHD</display-name>
-		<display-name>Squirrel 2 UHD</display-name>
-		<display-name>Squirrel 2 720</display-name>
-		<display-name>Squirrel 2 1080</display-name>
-		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Squirrel%202.png" />
-	</channel>
-	<channel id="DARK">
-		<display-name>DARK</display-name>
-		<display-name>DARK.TV</display-name>
-		<display-name>DARK SD</display-name>
-		<display-name>DARK HD</display-name>
-		<display-name>DARK FHD</display-name>
-		<display-name>DARK UHD</display-name>
-		<display-name>DARK 720</display-name>
-		<display-name>DARK 1080</display-name>
-		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DARK.png" />
-	</channel>
 	<channel id="AMC HD">
 		<display-name>AMC</display-name>
 		<display-name>AMC.TV</display-name>
@@ -2200,27 +2167,27 @@
 		<display-name>AMC 1080</display-name>
 		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/AMC.png" />
 	</channel>
-	<channel id="AMC Break">
-		<display-name>AMC Break</display-name>
-		<display-name>AMC Break.TV</display-name>
-		<display-name>AMC Break SD</display-name>
-		<display-name>AMC Break HD</display-name>
-		<display-name>AMC Break FHD</display-name>
-		<display-name>AMC Break UHD</display-name>
-		<display-name>AMC Break 720</display-name>
-		<display-name>AMC Break 1080</display-name>
-		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/AMC%20Break.png" />
+	<channel id="Canal Hollywood HD">
+		<display-name>Canal Hollywood</display-name>
+		<display-name>Canal Hollywood.TV</display-name>
+		<display-name>Canal Hollywood SD</display-name>
+		<display-name>Canal Hollywood HD</display-name>
+		<display-name>Canal Hollywood FHD</display-name>
+		<display-name>Canal Hollywood UHD</display-name>
+		<display-name>Canal Hollywood 720</display-name>
+		<display-name>Canal Hollywood 1080</display-name>
+		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Canal%20Hollywood.png" />
 	</channel>
-	<channel id="AMC Crime">
-		<display-name>AMC Crime</display-name>
-		<display-name>AMC Crime.TV</display-name>
-		<display-name>AMC Crime SD</display-name>
-		<display-name>AMC Crime HD</display-name>
-		<display-name>AMC Crime FHD</display-name>
-		<display-name>AMC Crime UHD</display-name>
-		<display-name>AMC Crime 720</display-name>
-		<display-name>AMC Crime 1080</display-name>
-		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/AMC%20Crime.png" />
+	<channel id="Somos">
+		<display-name>Somos</display-name>
+		<display-name>Somos.TV</display-name>
+		<display-name>Somos SD</display-name>
+		<display-name>Somos HD</display-name>
+		<display-name>Somos FHD</display-name>
+		<display-name>Somos UHD</display-name>
+		<display-name>Somos 720</display-name>
+		<display-name>Somos 1080</display-name>
+		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Somos.png" />
 	</channel>
 	<channel id="AMC Western">
 		<display-name>AMC Western</display-name>
@@ -2232,61 +2199,6 @@
 		<display-name>AMC Western 720</display-name>
 		<display-name>AMC Western 1080</display-name>
 		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/AMC%20Western.png" />
-	</channel>
-	<channel id="AMC Living">
-		<display-name>AMC Living</display-name>
-		<display-name>AMC Living.TV</display-name>
-		<display-name>AMC Living SD</display-name>
-		<display-name>AMC Living HD</display-name>
-		<display-name>AMC Living FHD</display-name>
-		<display-name>AMC Living UHD</display-name>
-		<display-name>AMC Living 720</display-name>
-		<display-name>AMC Living 1080</display-name>
-		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/AMC%20Living.png" />
-	</channel>
-	<channel id="Odisea">
-		<display-name>Odisea</display-name>
-		<display-name>Odisea.TV</display-name>
-		<display-name>Odisea SD</display-name>
-		<display-name>Odisea HD</display-name>
-		<display-name>Odisea FHD</display-name>
-		<display-name>Odisea UHD</display-name>
-		<display-name>Odisea 720</display-name>
-		<display-name>Odisea 1080</display-name>
-		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Odisea.png" />
-	</channel>
-	<channel id="Historia">
-		<display-name>Historia</display-name>
-		<display-name>Historia.TV</display-name>
-		<display-name>Historia SD</display-name>
-		<display-name>Historia HD</display-name>
-		<display-name>Historia FHD</display-name>
-		<display-name>Historia UHD</display-name>
-		<display-name>Historia 720</display-name>
-		<display-name>Historia 1080</display-name>
-		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Historia.png" />
-	</channel>
-	<channel id="XTRM">
-		<display-name>XTRM</display-name>
-		<display-name>XTRM.TV</display-name>
-		<display-name>XTRM SD</display-name>
-		<display-name>XTRM HD</display-name>
-		<display-name>XTRM FHD</display-name>
-		<display-name>XTRM UHD</display-name>
-		<display-name>XTRM 720</display-name>
-		<display-name>XTRM 1080</display-name>
-		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/XTRM.png" />
-	</channel>
-	<channel id="Canal Hollywood HD">
-		<display-name>Canal Hollywood</display-name>
-		<display-name>Canal Hollywood.TV</display-name>
-		<display-name>Canal Hollywood SD</display-name>
-		<display-name>Canal Hollywood HD</display-name>
-		<display-name>Canal Hollywood FHD</display-name>
-		<display-name>Canal Hollywood UHD</display-name>
-		<display-name>Canal Hollywood 720</display-name>
-		<display-name>Canal Hollywood 1080</display-name>
-		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Canal%20Hollywood.png" />
 	</channel>
 	<channel id="Sundance TV">
 		<display-name>Sundance TV</display-name>
@@ -2310,16 +2222,71 @@
 		<display-name>VinTV 1080</display-name>
 		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/VinTV.png" />
 	</channel>
-	<channel id="Somos">
-		<display-name>Somos</display-name>
-		<display-name>Somos.TV</display-name>
-		<display-name>Somos SD</display-name>
-		<display-name>Somos HD</display-name>
-		<display-name>Somos FHD</display-name>
-		<display-name>Somos UHD</display-name>
-		<display-name>Somos 720</display-name>
-		<display-name>Somos 1080</display-name>
-		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Somos.png" />
+	<channel id="DARK">
+		<display-name>DARK</display-name>
+		<display-name>DARK.TV</display-name>
+		<display-name>DARK SD</display-name>
+		<display-name>DARK HD</display-name>
+		<display-name>DARK FHD</display-name>
+		<display-name>DARK UHD</display-name>
+		<display-name>DARK 720</display-name>
+		<display-name>DARK 1080</display-name>
+		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DARK.png" />
+	</channel>
+	<channel id="XTRM">
+		<display-name>XTRM</display-name>
+		<display-name>XTRM.TV</display-name>
+		<display-name>XTRM SD</display-name>
+		<display-name>XTRM HD</display-name>
+		<display-name>XTRM FHD</display-name>
+		<display-name>XTRM UHD</display-name>
+		<display-name>XTRM 720</display-name>
+		<display-name>XTRM 1080</display-name>
+		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/XTRM.png" />
+	</channel>
+	<channel id="Historia">
+		<display-name>Historia</display-name>
+		<display-name>Historia.TV</display-name>
+		<display-name>Historia SD</display-name>
+		<display-name>Historia HD</display-name>
+		<display-name>Historia FHD</display-name>
+		<display-name>Historia UHD</display-name>
+		<display-name>Historia 720</display-name>
+		<display-name>Historia 1080</display-name>
+		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Historia.png" />
+	</channel>
+	<channel id="AMC Crime">
+		<display-name>AMC Crime</display-name>
+		<display-name>AMC Crime.TV</display-name>
+		<display-name>AMC Crime SD</display-name>
+		<display-name>AMC Crime HD</display-name>
+		<display-name>AMC Crime FHD</display-name>
+		<display-name>AMC Crime UHD</display-name>
+		<display-name>AMC Crime 720</display-name>
+		<display-name>AMC Crime 1080</display-name>
+		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/AMC%20Crime.png" />
+	</channel>
+	<channel id="Odisea">
+		<display-name>Odisea</display-name>
+		<display-name>Odisea.TV</display-name>
+		<display-name>Odisea SD</display-name>
+		<display-name>Odisea HD</display-name>
+		<display-name>Odisea FHD</display-name>
+		<display-name>Odisea UHD</display-name>
+		<display-name>Odisea 720</display-name>
+		<display-name>Odisea 1080</display-name>
+		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Odisea.png" />
+	</channel>
+	<channel id="AMC Break">
+		<display-name>AMC Break</display-name>
+		<display-name>AMC Break.TV</display-name>
+		<display-name>AMC Break SD</display-name>
+		<display-name>AMC Break HD</display-name>
+		<display-name>AMC Break FHD</display-name>
+		<display-name>AMC Break UHD</display-name>
+		<display-name>AMC Break 720</display-name>
+		<display-name>AMC Break 1080</display-name>
+		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/AMC%20Break.png" />
 	</channel>
 	<channel id="Canal Cocina">
 		<display-name>Canal Cocina</display-name>
@@ -2332,6 +2299,17 @@
 		<display-name>Canal Cocina 1080</display-name>
 		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Canal%20Cocina.png" />
 	</channel>
+	<channel id="AMC Living">
+		<display-name>AMC Living</display-name>
+		<display-name>AMC Living.TV</display-name>
+		<display-name>AMC Living SD</display-name>
+		<display-name>AMC Living HD</display-name>
+		<display-name>AMC Living FHD</display-name>
+		<display-name>AMC Living UHD</display-name>
+		<display-name>AMC Living 720</display-name>
+		<display-name>AMC Living 1080</display-name>
+		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/AMC%20Living.png" />
+	</channel>
 	<channel id="SELEKT">
 		<display-name>SELEKT</display-name>
 		<display-name>SELEKT.TV</display-name>
@@ -2342,6 +2320,39 @@
 		<display-name>SELEKT 720</display-name>
 		<display-name>SELEKT 1080</display-name>
 		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/SELEKT.png" />
+	</channel>
+	<channel id="Sol Música">
+		<display-name>Sol Música</display-name>
+		<display-name>Sol Música.TV</display-name>
+		<display-name>Sol Música SD</display-name>
+		<display-name>Sol Música HD</display-name>
+		<display-name>Sol Música FHD</display-name>
+		<display-name>Sol Música UHD</display-name>
+		<display-name>Sol Música 720</display-name>
+		<display-name>Sol Música 1080</display-name>
+		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Sol%20M%C3%BAsica.png" />
+	</channel>
+	<channel id="Squirrel TV">
+		<display-name>Squirrel TV</display-name>
+		<display-name>Squirrel TV.TV</display-name>
+		<display-name>Squirrel TV SD</display-name>
+		<display-name>Squirrel TV HD</display-name>
+		<display-name>Squirrel TV FHD</display-name>
+		<display-name>Squirrel TV UHD</display-name>
+		<display-name>Squirrel TV 720</display-name>
+		<display-name>Squirrel TV 1080</display-name>
+		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Squirrel%20TV.png" />
+	</channel>
+	<channel id="Squirrel 2">
+		<display-name>Squirrel 2</display-name>
+		<display-name>Squirrel 2.TV</display-name>
+		<display-name>Squirrel 2 SD</display-name>
+		<display-name>Squirrel 2 HD</display-name>
+		<display-name>Squirrel 2 FHD</display-name>
+		<display-name>Squirrel 2 UHD</display-name>
+		<display-name>Squirrel 2 720</display-name>
+		<display-name>Squirrel 2 1080</display-name>
+		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Squirrel%202.png" />
 	</channel>
 	<channel id="Veo7">
 		<display-name>Veo7</display-name>
@@ -2386,6 +2397,380 @@
 		<display-name>Cine Feel Good 720</display-name>
 		<display-name>Cine Feel Good 1080</display-name>
 		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Cine%20Feel%20Good.png" />
+	</channel>
+	<channel id="TR3CE">
+		<display-name>TR3CE</display-name>
+		<display-name>TR3CE.TV</display-name>
+		<display-name>TR3CE SD</display-name>
+		<display-name>TR3CE HD</display-name>
+		<display-name>TR3CE FHD</display-name>
+		<display-name>TR3CE UHD</display-name>
+		<display-name>TR3CE 720</display-name>
+		<display-name>TR3CE 1080</display-name>
+		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/TR3CE.png" />
+	</channel>
+	<channel id="Runtime Thriller-Terror">
+		<display-name>Runtime Thriller-Terror</display-name>
+		<display-name>Runtime Thriller-Terror.TV</display-name>
+		<display-name>Runtime Thriller-Terror SD</display-name>
+		<display-name>Runtime Thriller-Terror HD</display-name>
+		<display-name>Runtime Thriller-Terror FHD</display-name>
+		<display-name>Runtime Thriller-Terror UHD</display-name>
+		<display-name>Runtime Thriller-Terror 720</display-name>
+		<display-name>Runtime Thriller-Terror 1080</display-name>
+		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Runtime%20Thriller-Terror.png" />
+	</channel>
+	<channel id="Runtime Comedia">
+		<display-name>Runtime Comedia</display-name>
+		<display-name>Runtime Comedia.TV</display-name>
+		<display-name>Runtime Comedia SD</display-name>
+		<display-name>Runtime Comedia HD</display-name>
+		<display-name>Runtime Comedia FHD</display-name>
+		<display-name>Runtime Comedia UHD</display-name>
+		<display-name>Runtime Comedia 720</display-name>
+		<display-name>Runtime Comedia 1080</display-name>
+		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Runtime%20Comedia.png" />
+	</channel>
+	<channel id="Runtime Cine y Series">
+		<display-name>Runtime Cine y Series</display-name>
+		<display-name>Runtime Cine y Series.TV</display-name>
+		<display-name>Runtime Cine y Series SD</display-name>
+		<display-name>Runtime Cine y Series HD</display-name>
+		<display-name>Runtime Cine y Series FHD</display-name>
+		<display-name>Runtime Cine y Series UHD</display-name>
+		<display-name>Runtime Cine y Series 720</display-name>
+		<display-name>Runtime Cine y Series 1080</display-name>
+		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Runtime%20Cine%20y%20Series.png" />
+	</channel>
+	<channel id="Runtime Series">
+		<display-name>Runtime Series</display-name>
+		<display-name>Runtime Series.TV</display-name>
+		<display-name>Runtime Series SD</display-name>
+		<display-name>Runtime Series HD</display-name>
+		<display-name>Runtime Series FHD</display-name>
+		<display-name>Runtime Series UHD</display-name>
+		<display-name>Runtime Series 720</display-name>
+		<display-name>Runtime Series 1080</display-name>
+		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Runtime%20Series.png" />
+	</channel>
+	<channel id="Runtime Acción">
+		<display-name>Runtime Acción</display-name>
+		<display-name>Runtime Acción.TV</display-name>
+		<display-name>Runtime Acción SD</display-name>
+		<display-name>Runtime Acción HD</display-name>
+		<display-name>Runtime Acción FHD</display-name>
+		<display-name>Runtime Acción UHD</display-name>
+		<display-name>Runtime Acción 720</display-name>
+		<display-name>Runtime Acción 1080</display-name>
+		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Runtime%20Acci%C3%B3n.png" />
+	</channel>
+	<channel id="Runtime Crimen">
+		<display-name>Runtime Crimen</display-name>
+		<display-name>Runtime Crimen.TV</display-name>
+		<display-name>Runtime Crimen SD</display-name>
+		<display-name>Runtime Crimen HD</display-name>
+		<display-name>Runtime Crimen FHD</display-name>
+		<display-name>Runtime Crimen UHD</display-name>
+		<display-name>Runtime Crimen 720</display-name>
+		<display-name>Runtime Crimen 1080</display-name>
+		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Runtime%20Crimen.png" />
+	</channel>
+	<channel id="Runtime Romance">
+		<display-name>Runtime Romance</display-name>
+		<display-name>Runtime Romance.TV</display-name>
+		<display-name>Runtime Romance SD</display-name>
+		<display-name>Runtime Romance HD</display-name>
+		<display-name>Runtime Romance FHD</display-name>
+		<display-name>Runtime Romance UHD</display-name>
+		<display-name>Runtime Romance 720</display-name>
+		<display-name>Runtime Romance 1080</display-name>
+		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Runtime%20Romance.png" />
+	</channel>
+	<channel id="RunTime Clásicos">
+		<display-name>RunTime Clásicos</display-name>
+		<display-name>RunTime Clásicos.TV</display-name>
+		<display-name>RunTime Clásicos SD</display-name>
+		<display-name>RunTime Clásicos HD</display-name>
+		<display-name>RunTime Clásicos FHD</display-name>
+		<display-name>RunTime Clásicos UHD</display-name>
+		<display-name>RunTime Clásicos 720</display-name>
+		<display-name>RunTime Clásicos 1080</display-name>
+		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/RunTime%20Cl%C3%A1sicos.png" />
+	</channel>
+	<channel id="RunTime Familia">
+		<display-name>RunTime Familia</display-name>
+		<display-name>RunTime Familia.TV</display-name>
+		<display-name>RunTime Familia SD</display-name>
+		<display-name>RunTime Familia HD</display-name>
+		<display-name>RunTime Familia FHD</display-name>
+		<display-name>RunTime Familia UHD</display-name>
+		<display-name>RunTime Familia 720</display-name>
+		<display-name>RunTime Familia 1080</display-name>
+		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/RunTime%20Familia.png" />
+	</channel>
+	<channel id="Flamenco Auditorio">
+		<display-name>Flamenco Auditorio</display-name>
+		<display-name>Flamenco Auditorio.TV</display-name>
+		<display-name>Flamenco Auditorio SD</display-name>
+		<display-name>Flamenco Auditorio HD</display-name>
+		<display-name>Flamenco Auditorio FHD</display-name>
+		<display-name>Flamenco Auditorio UHD</display-name>
+		<display-name>Flamenco Auditorio 720</display-name>
+		<display-name>Flamenco Auditorio 1080</display-name>
+		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Flamenco%20Auditorio.png" />
+	</channel>
+	<channel id="Qello concerts">
+		<display-name>Qello concerts</display-name>
+		<display-name>Qello concerts.TV</display-name>
+		<display-name>Qello concerts SD</display-name>
+		<display-name>Qello concerts HD</display-name>
+		<display-name>Qello concerts FHD</display-name>
+		<display-name>Qello concerts UHD</display-name>
+		<display-name>Qello concerts 720</display-name>
+		<display-name>Qello concerts 1080</display-name>
+		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Qello%20concerts.png" />
+	</channel>
+	<channel id="Qwest TV">
+		<display-name>Qwest TV</display-name>
+		<display-name>Qwest TV.TV</display-name>
+		<display-name>Qwest TV SD</display-name>
+		<display-name>Qwest TV HD</display-name>
+		<display-name>Qwest TV FHD</display-name>
+		<display-name>Qwest TV UHD</display-name>
+		<display-name>Qwest TV 720</display-name>
+		<display-name>Qwest TV 1080</display-name>
+		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Qwest%20TV.png" />
+	</channel>
+	<channel id="TRACE Latina">
+		<display-name>TRACE Latina</display-name>
+		<display-name>TRACE Latina.TV</display-name>
+		<display-name>TRACE Latina SD</display-name>
+		<display-name>TRACE Latina HD</display-name>
+		<display-name>TRACE Latina FHD</display-name>
+		<display-name>TRACE Latina UHD</display-name>
+		<display-name>TRACE Latina 720</display-name>
+		<display-name>TRACE Latina 1080</display-name>
+		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/TRACE%20Latina.png" />
+	</channel>
+	<channel id="TRACE Urban">
+		<display-name>TRACE Urban</display-name>
+		<display-name>TRACE Urban.TV</display-name>
+		<display-name>TRACE Urban SD</display-name>
+		<display-name>TRACE Urban HD</display-name>
+		<display-name>TRACE Urban FHD</display-name>
+		<display-name>TRACE Urban UHD</display-name>
+		<display-name>TRACE Urban 720</display-name>
+		<display-name>TRACE Urban 1080</display-name>
+		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/TRACE%20Urban.png" />
+	</channel>
+	<channel id="Deutsche W">
+		<display-name>Deutsche W</display-name>
+		<display-name>Deutsche W.TV</display-name>
+		<display-name>Deutsche W SD</display-name>
+		<display-name>Deutsche W HD</display-name>
+		<display-name>Deutsche W FHD</display-name>
+		<display-name>Deutsche W UHD</display-name>
+		<display-name>Deutsche W 720</display-name>
+		<display-name>Deutsche W 1080</display-name>
+		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Deutsche%20W.png" />
+	</channel>
+	<channel id="Pro TV">
+		<display-name>Pro TV</display-name>
+		<display-name>Pro TV.TV</display-name>
+		<display-name>Pro TV SD</display-name>
+		<display-name>Pro TV HD</display-name>
+		<display-name>Pro TV FHD</display-name>
+		<display-name>Pro TV UHD</display-name>
+		<display-name>Pro TV 720</display-name>
+		<display-name>Pro TV 1080</display-name>
+		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Pro%20TV.png" />
+	</channel>
+	<channel id="Caracol TV">
+		<display-name>Caracol TV</display-name>
+		<display-name>Caracol TV.TV</display-name>
+		<display-name>Caracol TV SD</display-name>
+		<display-name>Caracol TV HD</display-name>
+		<display-name>Caracol TV FHD</display-name>
+		<display-name>Caracol TV UHD</display-name>
+		<display-name>Caracol TV 720</display-name>
+		<display-name>Caracol TV 1080</display-name>
+		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Caracol%20TV.png" />
+	</channel>
+	<channel id="France 2">
+		<display-name>France 2</display-name>
+		<display-name>France 2.TV</display-name>
+		<display-name>France 2 SD</display-name>
+		<display-name>France 2 HD</display-name>
+		<display-name>France 2 FHD</display-name>
+		<display-name>France 2 UHD</display-name>
+		<display-name>France 2 720</display-name>
+		<display-name>France 2 1080</display-name>
+		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/France%202.png" />
+	</channel>
+	<channel id="France 5">
+		<display-name>France 5</display-name>
+		<display-name>France 5.TV</display-name>
+		<display-name>France 5 SD</display-name>
+		<display-name>France 5 HD</display-name>
+		<display-name>France 5 FHD</display-name>
+		<display-name>France 5 UHD</display-name>
+		<display-name>France 5 720</display-name>
+		<display-name>France 5 1080</display-name>
+		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/France%205.png" />
+	</channel>
+	<channel id="M6">
+		<display-name>M6</display-name>
+		<display-name>M6.TV</display-name>
+		<display-name>M6 SD</display-name>
+		<display-name>M6 HD</display-name>
+		<display-name>M6 FHD</display-name>
+		<display-name>M6 UHD</display-name>
+		<display-name>M6 720</display-name>
+		<display-name>M6 1080</display-name>
+		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M6.png" />
+	</channel>
+	<channel id="Gulli">
+		<display-name>Gulli</display-name>
+		<display-name>Gulli.TV</display-name>
+		<display-name>Gulli SD</display-name>
+		<display-name>Gulli HD</display-name>
+		<display-name>Gulli FHD</display-name>
+		<display-name>Gulli UHD</display-name>
+		<display-name>Gulli 720</display-name>
+		<display-name>Gulli 1080</display-name>
+		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Gulli.png" />
+	</channel>
+	<channel id="NatureTime">
+		<display-name>NatureTime</display-name>
+		<display-name>NatureTime.TV</display-name>
+		<display-name>NatureTime SD</display-name>
+		<display-name>NatureTime HD</display-name>
+		<display-name>NatureTime FHD</display-name>
+		<display-name>NatureTime UHD</display-name>
+		<display-name>NatureTime 720</display-name>
+		<display-name>NatureTime 1080</display-name>
+		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/NatureTime.png" />
+	</channel>
+	<channel id="Toon Goggles">
+		<display-name>Toon Goggles</display-name>
+		<display-name>Toon Goggles.TV</display-name>
+		<display-name>Toon Goggles SD</display-name>
+		<display-name>Toon Goggles HD</display-name>
+		<display-name>Toon Goggles FHD</display-name>
+		<display-name>Toon Goggles UHD</display-name>
+		<display-name>Toon Goggles 720</display-name>
+		<display-name>Toon Goggles 1080</display-name>
+		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Toon%20Goggles.png" />
+	</channel>
+	<channel id="Gametoon">
+		<display-name>Gametoon</display-name>
+		<display-name>Gametoon.TV</display-name>
+		<display-name>Gametoon SD</display-name>
+		<display-name>Gametoon HD</display-name>
+		<display-name>Gametoon FHD</display-name>
+		<display-name>Gametoon UHD</display-name>
+		<display-name>Gametoon 720</display-name>
+		<display-name>Gametoon 1080</display-name>
+		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Gametoon.png" />
+	</channel>
+	<channel id="Vivir con gatos">
+		<display-name>Vivir con gatos</display-name>
+		<display-name>Vivir con gatos.TV</display-name>
+		<display-name>Vivir con gatos SD</display-name>
+		<display-name>Vivir con gatos HD</display-name>
+		<display-name>Vivir con gatos FHD</display-name>
+		<display-name>Vivir con gatos UHD</display-name>
+		<display-name>Vivir con gatos 720</display-name>
+		<display-name>Vivir con gatos 1080</display-name>
+		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Vivir%20con%20gatos.png" />
+	</channel>
+	<channel id="Vivir con perros">
+		<display-name>Vivir con perros</display-name>
+		<display-name>Vivir con perros.TV</display-name>
+		<display-name>Vivir con perros SD</display-name>
+		<display-name>Vivir con perros HD</display-name>
+		<display-name>Vivir con perros FHD</display-name>
+		<display-name>Vivir con perros UHD</display-name>
+		<display-name>Vivir con perros 720</display-name>
+		<display-name>Vivir con perros 1080</display-name>
+		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Vivir%20con%20perros.png" />
+	</channel>
+	<channel id="Anime Visión">
+		<display-name>Anime Visión</display-name>
+		<display-name>Anime Visión.TV</display-name>
+		<display-name>Anime Visión SD</display-name>
+		<display-name>Anime Visión HD</display-name>
+		<display-name>Anime Visión FHD</display-name>
+		<display-name>Anime Visión UHD</display-name>
+		<display-name>Anime Visión 720</display-name>
+		<display-name>Anime Visión 1080</display-name>
+		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Anime%20Visi%C3%B3n.png" />
+	</channel>
+	<channel id="Anime Visión Classics">
+		<display-name>Anime Visión Classics</display-name>
+		<display-name>Anime Visión Classics.TV</display-name>
+		<display-name>Anime Visión Classics SD</display-name>
+		<display-name>Anime Visión Classics HD</display-name>
+		<display-name>Anime Visión Classics FHD</display-name>
+		<display-name>Anime Visión Classics UHD</display-name>
+		<display-name>Anime Visión Classics 720</display-name>
+		<display-name>Anime Visión Classics 1080</display-name>
+		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Anime%20Visi%C3%B3n%20Classics.png" />
+	</channel>
+	<channel id="Sangre Fría">
+		<display-name>Sangre Fría</display-name>
+		<display-name>Sangre Fría.TV</display-name>
+		<display-name>Sangre Fría SD</display-name>
+		<display-name>Sangre Fría HD</display-name>
+		<display-name>Sangre Fría FHD</display-name>
+		<display-name>Sangre Fría UHD</display-name>
+		<display-name>Sangre Fría 720</display-name>
+		<display-name>Sangre Fría 1080</display-name>
+		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Sangre%20Fr%C3%ADa.png" />
+	</channel>
+	<channel id="Love the Planet">
+		<display-name>Love the Planet</display-name>
+		<display-name>Love the Planet.TV</display-name>
+		<display-name>Love the Planet SD</display-name>
+		<display-name>Love the Planet HD</display-name>
+		<display-name>Love the Planet FHD</display-name>
+		<display-name>Love the Planet UHD</display-name>
+		<display-name>Love the Planet 720</display-name>
+		<display-name>Love the Planet 1080</display-name>
+		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Love%20the%20Planet.png" />
+	</channel>
+	<channel id="Love Wine">
+		<display-name>Love Wine</display-name>
+		<display-name>Love Wine.TV</display-name>
+		<display-name>Love Wine SD</display-name>
+		<display-name>Love Wine HD</display-name>
+		<display-name>Love Wine FHD</display-name>
+		<display-name>Love Wine UHD</display-name>
+		<display-name>Love Wine 720</display-name>
+		<display-name>Love Wine 1080</display-name>
+		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Love%20Wine.png" />
+	</channel>
+	<channel id="Historia y Vida">
+		<display-name>Historia y Vida</display-name>
+		<display-name>Historia y Vida.TV</display-name>
+		<display-name>Historia y Vida SD</display-name>
+		<display-name>Historia y Vida HD</display-name>
+		<display-name>Historia y Vida FHD</display-name>
+		<display-name>Historia y Vida UHD</display-name>
+		<display-name>Historia y Vida 720</display-name>
+		<display-name>Historia y Vida 1080</display-name>
+		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Historia%20y%20Vida.png" />
+	</channel>
+	<channel id="Cazavisión">
+		<display-name>Cazavisión</display-name>
+		<display-name>Cazavisión.TV</display-name>
+		<display-name>Cazavisión SD</display-name>
+		<display-name>Cazavisión HD</display-name>
+		<display-name>Cazavisión FHD</display-name>
+		<display-name>Cazavisión UHD</display-name>
+		<display-name>Cazavisión 720</display-name>
+		<display-name>Cazavisión 1080</display-name>
+		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Cazavisi%C3%B3n.png" />
 	</channel>
 	<channel id="LALIGA Inside">
 		<display-name>LALIGA Inside</display-name>
@@ -2563,391 +2948,6 @@
 		<display-name>Fight Box 1080</display-name>
 		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Fight%20Box.png" />
 	</channel>
-	<channel id="Runtime Thriller-Terror">
-		<display-name>Runtime Thriller-Terror</display-name>
-		<display-name>Runtime Thriller-Terror.TV</display-name>
-		<display-name>Runtime Thriller-Terror SD</display-name>
-		<display-name>Runtime Thriller-Terror HD</display-name>
-		<display-name>Runtime Thriller-Terror FHD</display-name>
-		<display-name>Runtime Thriller-Terror UHD</display-name>
-		<display-name>Runtime Thriller-Terror 720</display-name>
-		<display-name>Runtime Thriller-Terror 1080</display-name>
-		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Runtime%20Thriller-Terror.png" />
-	</channel>
-	<channel id="Runtime Comedia">
-		<display-name>Runtime Comedia</display-name>
-		<display-name>Runtime Comedia.TV</display-name>
-		<display-name>Runtime Comedia SD</display-name>
-		<display-name>Runtime Comedia HD</display-name>
-		<display-name>Runtime Comedia FHD</display-name>
-		<display-name>Runtime Comedia UHD</display-name>
-		<display-name>Runtime Comedia 720</display-name>
-		<display-name>Runtime Comedia 1080</display-name>
-		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Runtime%20Comedia.png" />
-	</channel>
-	<channel id="Runtime Cine y Series">
-		<display-name>Runtime Cine y Series</display-name>
-		<display-name>Runtime Cine y Series.TV</display-name>
-		<display-name>Runtime Cine y Series SD</display-name>
-		<display-name>Runtime Cine y Series HD</display-name>
-		<display-name>Runtime Cine y Series FHD</display-name>
-		<display-name>Runtime Cine y Series UHD</display-name>
-		<display-name>Runtime Cine y Series 720</display-name>
-		<display-name>Runtime Cine y Series 1080</display-name>
-		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Runtime%20Cine%20y%20Series.png" />
-	</channel>
-	<channel id="Runtime Series">
-		<display-name>Runtime Series</display-name>
-		<display-name>Runtime Series.TV</display-name>
-		<display-name>Runtime Series SD</display-name>
-		<display-name>Runtime Series HD</display-name>
-		<display-name>Runtime Series FHD</display-name>
-		<display-name>Runtime Series UHD</display-name>
-		<display-name>Runtime Series 720</display-name>
-		<display-name>Runtime Series 1080</display-name>
-		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Runtime%20Series.png" />
-	</channel>
-	<channel id="Runtime Acción">
-		<display-name>Runtime Acción</display-name>
-		<display-name>Runtime Acción.TV</display-name>
-		<display-name>Runtime Acción SD</display-name>
-		<display-name>Runtime Acción HD</display-name>
-		<display-name>Runtime Acción FHD</display-name>
-		<display-name>Runtime Acción UHD</display-name>
-		<display-name>Runtime Acción 720</display-name>
-		<display-name>Runtime Acción 1080</display-name>
-		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Runtime%20Acci%C3%B3n.png" />
-	</channel>
-	<channel id="Runtime Crimen">
-		<display-name>Runtime Crimen</display-name>
-		<display-name>Runtime Crimen.TV</display-name>
-		<display-name>Runtime Crimen SD</display-name>
-		<display-name>Runtime Crimen HD</display-name>
-		<display-name>Runtime Crimen FHD</display-name>
-		<display-name>Runtime Crimen UHD</display-name>
-		<display-name>Runtime Crimen 720</display-name>
-		<display-name>Runtime Crimen 1080</display-name>
-		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Runtime%20Crimen.png" />
-	</channel>
-	<channel id="Runtime Romance">
-		<display-name>Runtime Romance</display-name>
-		<display-name>Runtime Romance.TV</display-name>
-		<display-name>Runtime Romance SD</display-name>
-		<display-name>Runtime Romance HD</display-name>
-		<display-name>Runtime Romance FHD</display-name>
-		<display-name>Runtime Romance UHD</display-name>
-		<display-name>Runtime Romance 720</display-name>
-		<display-name>Runtime Romance 1080</display-name>
-		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Runtime%20Romance.png" />
-	</channel>
-	<channel id="RunTime Clásicos">
-		<display-name>RunTime Clásicos</display-name>
-		<display-name>RunTime Clásicos.TV</display-name>
-		<display-name>RunTime Clásicos SD</display-name>
-		<display-name>RunTime Clásicos HD</display-name>
-		<display-name>RunTime Clásicos FHD</display-name>
-		<display-name>RunTime Clásicos UHD</display-name>
-		<display-name>RunTime Clásicos 720</display-name>
-		<display-name>RunTime Clásicos 1080</display-name>
-		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/RunTime%20Cl%C3%A1sicos.png" />
-	</channel>
-	<channel id="RunTime Familia">
-		<display-name>RunTime Familia</display-name>
-		<display-name>RunTime Familia.TV</display-name>
-		<display-name>RunTime Familia SD</display-name>
-		<display-name>RunTime Familia HD</display-name>
-		<display-name>RunTime Familia FHD</display-name>
-		<display-name>RunTime Familia UHD</display-name>
-		<display-name>RunTime Familia 720</display-name>
-		<display-name>RunTime Familia 1080</display-name>
-		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/RunTime%20Familia.png" />
-	</channel>
-	<channel id="TR3CE">
-		<display-name>TR3CE</display-name>
-		<display-name>TR3CE.TV</display-name>
-		<display-name>TR3CE SD</display-name>
-		<display-name>TR3CE HD</display-name>
-		<display-name>TR3CE FHD</display-name>
-		<display-name>TR3CE UHD</display-name>
-		<display-name>TR3CE 720</display-name>
-		<display-name>TR3CE 1080</display-name>
-		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/TR3CE.png" />
-	</channel>
-	<channel id="Qello concerts">
-		<display-name>Qello concerts</display-name>
-		<display-name>Qello concerts.TV</display-name>
-		<display-name>Qello concerts SD</display-name>
-		<display-name>Qello concerts HD</display-name>
-		<display-name>Qello concerts FHD</display-name>
-		<display-name>Qello concerts UHD</display-name>
-		<display-name>Qello concerts 720</display-name>
-		<display-name>Qello concerts 1080</display-name>
-		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Qello%20concerts.png" />
-	</channel>
-	<channel id="Qwest TV">
-		<display-name>Qwest TV</display-name>
-		<display-name>Qwest TV.TV</display-name>
-		<display-name>Qwest TV SD</display-name>
-		<display-name>Qwest TV HD</display-name>
-		<display-name>Qwest TV FHD</display-name>
-		<display-name>Qwest TV UHD</display-name>
-		<display-name>Qwest TV 720</display-name>
-		<display-name>Qwest TV 1080</display-name>
-		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Qwest%20TV.png" />
-	</channel>
-	<channel id="Sol Música">
-		<display-name>Sol Música</display-name>
-		<display-name>Sol Música.TV</display-name>
-		<display-name>Sol Música SD</display-name>
-		<display-name>Sol Música HD</display-name>
-		<display-name>Sol Música FHD</display-name>
-		<display-name>Sol Música UHD</display-name>
-		<display-name>Sol Música 720</display-name>
-		<display-name>Sol Música 1080</display-name>
-		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Sol%20M%C3%BAsica.png" />
-	</channel>
-	<channel id="TRACE Latina">
-		<display-name>TRACE Latina</display-name>
-		<display-name>TRACE Latina.TV</display-name>
-		<display-name>TRACE Latina SD</display-name>
-		<display-name>TRACE Latina HD</display-name>
-		<display-name>TRACE Latina FHD</display-name>
-		<display-name>TRACE Latina UHD</display-name>
-		<display-name>TRACE Latina 720</display-name>
-		<display-name>TRACE Latina 1080</display-name>
-		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/TRACE%20Latina.png" />
-	</channel>
-	<channel id="TRACE Urban">
-		<display-name>TRACE Urban</display-name>
-		<display-name>TRACE Urban.TV</display-name>
-		<display-name>TRACE Urban SD</display-name>
-		<display-name>TRACE Urban HD</display-name>
-		<display-name>TRACE Urban FHD</display-name>
-		<display-name>TRACE Urban UHD</display-name>
-		<display-name>TRACE Urban 720</display-name>
-		<display-name>TRACE Urban 1080</display-name>
-		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/TRACE%20Urban.png" />
-	</channel>
-	<channel id="Cazavisión">
-		<display-name>Cazavisión</display-name>
-		<display-name>Cazavisión.TV</display-name>
-		<display-name>Cazavisión SD</display-name>
-		<display-name>Cazavisión HD</display-name>
-		<display-name>Cazavisión FHD</display-name>
-		<display-name>Cazavisión UHD</display-name>
-		<display-name>Cazavisión 720</display-name>
-		<display-name>Cazavisión 1080</display-name>
-		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Cazavisi%C3%B3n.png" />
-	</channel>
-	<channel id="Deutsche W">
-		<display-name>Deutsche W</display-name>
-		<display-name>Deutsche W.TV</display-name>
-		<display-name>Deutsche W SD</display-name>
-		<display-name>Deutsche W HD</display-name>
-		<display-name>Deutsche W FHD</display-name>
-		<display-name>Deutsche W UHD</display-name>
-		<display-name>Deutsche W 720</display-name>
-		<display-name>Deutsche W 1080</display-name>
-		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Deutsche%20W.png" />
-	</channel>
-	<channel id="Pro TV">
-		<display-name>Pro TV</display-name>
-		<display-name>Pro TV.TV</display-name>
-		<display-name>Pro TV SD</display-name>
-		<display-name>Pro TV HD</display-name>
-		<display-name>Pro TV FHD</display-name>
-		<display-name>Pro TV UHD</display-name>
-		<display-name>Pro TV 720</display-name>
-		<display-name>Pro TV 1080</display-name>
-		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Pro%20TV.png" />
-	</channel>
-	<channel id="Caracol TV">
-		<display-name>Caracol TV</display-name>
-		<display-name>Caracol TV.TV</display-name>
-		<display-name>Caracol TV SD</display-name>
-		<display-name>Caracol TV HD</display-name>
-		<display-name>Caracol TV FHD</display-name>
-		<display-name>Caracol TV UHD</display-name>
-		<display-name>Caracol TV 720</display-name>
-		<display-name>Caracol TV 1080</display-name>
-		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Caracol%20TV.png" />
-	</channel>
-	<channel id="France 2">
-		<display-name>France 2</display-name>
-		<display-name>France 2.TV</display-name>
-		<display-name>France 2 SD</display-name>
-		<display-name>France 2 HD</display-name>
-		<display-name>France 2 FHD</display-name>
-		<display-name>France 2 UHD</display-name>
-		<display-name>France 2 720</display-name>
-		<display-name>France 2 1080</display-name>
-		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/France%202.png" />
-	</channel>
-	<channel id="France 5">
-		<display-name>France 5</display-name>
-		<display-name>France 5.TV</display-name>
-		<display-name>France 5 SD</display-name>
-		<display-name>France 5 HD</display-name>
-		<display-name>France 5 FHD</display-name>
-		<display-name>France 5 UHD</display-name>
-		<display-name>France 5 720</display-name>
-		<display-name>France 5 1080</display-name>
-		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/France%205.png" />
-	</channel>
-	<channel id="M6">
-		<display-name>M6</display-name>
-		<display-name>M6.TV</display-name>
-		<display-name>M6 SD</display-name>
-		<display-name>M6 HD</display-name>
-		<display-name>M6 FHD</display-name>
-		<display-name>M6 UHD</display-name>
-		<display-name>M6 720</display-name>
-		<display-name>M6 1080</display-name>
-		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M6.png" />
-	</channel>
-	<channel id="Gulli">
-		<display-name>Gulli</display-name>
-		<display-name>Gulli.TV</display-name>
-		<display-name>Gulli SD</display-name>
-		<display-name>Gulli HD</display-name>
-		<display-name>Gulli FHD</display-name>
-		<display-name>Gulli UHD</display-name>
-		<display-name>Gulli 720</display-name>
-		<display-name>Gulli 1080</display-name>
-		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Gulli.png" />
-	</channel>
-	<channel id="NatureTime">
-		<display-name>NatureTime</display-name>
-		<display-name>NatureTime.TV</display-name>
-		<display-name>NatureTime SD</display-name>
-		<display-name>NatureTime HD</display-name>
-		<display-name>NatureTime FHD</display-name>
-		<display-name>NatureTime UHD</display-name>
-		<display-name>NatureTime 720</display-name>
-		<display-name>NatureTime 1080</display-name>
-		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/NatureTime.png" />
-	</channel>
-	<channel id="Toon Goggles">
-		<display-name>Toon Goggles</display-name>
-		<display-name>Toon Goggles.TV</display-name>
-		<display-name>Toon Goggles SD</display-name>
-		<display-name>Toon Goggles HD</display-name>
-		<display-name>Toon Goggles FHD</display-name>
-		<display-name>Toon Goggles UHD</display-name>
-		<display-name>Toon Goggles 720</display-name>
-		<display-name>Toon Goggles 1080</display-name>
-		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Toon%20Goggles.png" />
-	</channel>
-	<channel id="Gametoon">
-		<display-name>Gametoon</display-name>
-		<display-name>Gametoon.TV</display-name>
-		<display-name>Gametoon SD</display-name>
-		<display-name>Gametoon HD</display-name>
-		<display-name>Gametoon FHD</display-name>
-		<display-name>Gametoon UHD</display-name>
-		<display-name>Gametoon 720</display-name>
-		<display-name>Gametoon 1080</display-name>
-		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Gametoon.png" />
-	</channel>
-	<channel id="Vivir con gatos">
-		<display-name>Vivir con gatos</display-name>
-		<display-name>Vivir con gatos.TV</display-name>
-		<display-name>Vivir con gatos SD</display-name>
-		<display-name>Vivir con gatos HD</display-name>
-		<display-name>Vivir con gatos FHD</display-name>
-		<display-name>Vivir con gatos UHD</display-name>
-		<display-name>Vivir con gatos 720</display-name>
-		<display-name>Vivir con gatos 1080</display-name>
-		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Vivir%20con%20gatos.png" />
-	</channel>
-	<channel id="Vivir con perros">
-		<display-name>Vivir con perros</display-name>
-		<display-name>Vivir con perros.TV</display-name>
-		<display-name>Vivir con perros SD</display-name>
-		<display-name>Vivir con perros HD</display-name>
-		<display-name>Vivir con perros FHD</display-name>
-		<display-name>Vivir con perros UHD</display-name>
-		<display-name>Vivir con perros 720</display-name>
-		<display-name>Vivir con perros 1080</display-name>
-		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Vivir%20con%20perros.png" />
-	</channel>
-	<channel id="Anime Visión">
-		<display-name>Anime Visión</display-name>
-		<display-name>Anime Visión.TV</display-name>
-		<display-name>Anime Visión SD</display-name>
-		<display-name>Anime Visión HD</display-name>
-		<display-name>Anime Visión FHD</display-name>
-		<display-name>Anime Visión UHD</display-name>
-		<display-name>Anime Visión 720</display-name>
-		<display-name>Anime Visión 1080</display-name>
-		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Anime%20Visi%C3%B3n.png" />
-	</channel>
-	<channel id="Anime Visión Classics">
-		<display-name>Anime Visión Classics</display-name>
-		<display-name>Anime Visión Classics.TV</display-name>
-		<display-name>Anime Visión Classics SD</display-name>
-		<display-name>Anime Visión Classics HD</display-name>
-		<display-name>Anime Visión Classics FHD</display-name>
-		<display-name>Anime Visión Classics UHD</display-name>
-		<display-name>Anime Visión Classics 720</display-name>
-		<display-name>Anime Visión Classics 1080</display-name>
-		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Anime%20Visi%C3%B3n%20Classics.png" />
-	</channel>
-	<channel id="Flamenco Auditorio">
-		<display-name>Flamenco Auditorio</display-name>
-		<display-name>Flamenco Auditorio.TV</display-name>
-		<display-name>Flamenco Auditorio SD</display-name>
-		<display-name>Flamenco Auditorio HD</display-name>
-		<display-name>Flamenco Auditorio FHD</display-name>
-		<display-name>Flamenco Auditorio UHD</display-name>
-		<display-name>Flamenco Auditorio 720</display-name>
-		<display-name>Flamenco Auditorio 1080</display-name>
-		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Flamenco%20Auditorio.png" />
-	</channel>
-	<channel id="Sangre Fría">
-		<display-name>Sangre Fría</display-name>
-		<display-name>Sangre Fría.TV</display-name>
-		<display-name>Sangre Fría SD</display-name>
-		<display-name>Sangre Fría HD</display-name>
-		<display-name>Sangre Fría FHD</display-name>
-		<display-name>Sangre Fría UHD</display-name>
-		<display-name>Sangre Fría 720</display-name>
-		<display-name>Sangre Fría 1080</display-name>
-		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Sangre%20Fr%C3%ADa.png" />
-	</channel>
-	<channel id="Love the Planet">
-		<display-name>Love the Planet</display-name>
-		<display-name>Love the Planet.TV</display-name>
-		<display-name>Love the Planet SD</display-name>
-		<display-name>Love the Planet HD</display-name>
-		<display-name>Love the Planet FHD</display-name>
-		<display-name>Love the Planet UHD</display-name>
-		<display-name>Love the Planet 720</display-name>
-		<display-name>Love the Planet 1080</display-name>
-		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Love%20the%20Planet.png" />
-	</channel>
-	<channel id="Love Wine">
-		<display-name>Love Wine</display-name>
-		<display-name>Love Wine.TV</display-name>
-		<display-name>Love Wine SD</display-name>
-		<display-name>Love Wine HD</display-name>
-		<display-name>Love Wine FHD</display-name>
-		<display-name>Love Wine UHD</display-name>
-		<display-name>Love Wine 720</display-name>
-		<display-name>Love Wine 1080</display-name>
-		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Love%20Wine.png" />
-	</channel>
-	<channel id="Historia y Vida">
-		<display-name>Historia y Vida</display-name>
-		<display-name>Historia y Vida.TV</display-name>
-		<display-name>Historia y Vida SD</display-name>
-		<display-name>Historia y Vida HD</display-name>
-		<display-name>Historia y Vida FHD</display-name>
-		<display-name>Historia y Vida UHD</display-name>
-		<display-name>Historia y Vida 720</display-name>
-		<display-name>Historia y Vida 1080</display-name>
-		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Historia%20y%20Vida.png" />
-	</channel>
 	<channel id="Moto ADV">
 		<display-name>Moto ADV</display-name>
 		<display-name>Moto ADV.TV</display-name>
@@ -2969,28 +2969,6 @@
 		<display-name>8madrid TV 720</display-name>
 		<display-name>8madrid TV 1080</display-name>
 		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/8madrid%20TV.png" />
-	</channel>
-	<channel id="VE PLUS TV">
-		<display-name>VE PLUS TV</display-name>
-		<display-name>VE PLUS TV.TV</display-name>
-		<display-name>VE PLUS TV SD</display-name>
-		<display-name>VE PLUS TV HD</display-name>
-		<display-name>VE PLUS TV FHD</display-name>
-		<display-name>VE PLUS TV UHD</display-name>
-		<display-name>VE PLUS TV 720</display-name>
-		<display-name>VE PLUS TV 1080</display-name>
-		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/VE%20PLUS%20TV.png" />
-	</channel>
-	<channel id="Extreme Channel">
-		<display-name>Extreme Channel</display-name>
-		<display-name>Extreme Channel.TV</display-name>
-		<display-name>Extreme Channel SD</display-name>
-		<display-name>Extreme Channel HD</display-name>
-		<display-name>Extreme Channel FHD</display-name>
-		<display-name>Extreme Channel UHD</display-name>
-		<display-name>Extreme Channel 720</display-name>
-		<display-name>Extreme Channel 1080</display-name>
-		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Extreme%20Channel.png" />
 	</channel>
 	<channel id="acontra+">
 		<display-name>acontra+</display-name>
@@ -3134,6 +3112,17 @@
 		<display-name>AMC+ Connect 720</display-name>
 		<display-name>AMC+ Connect 1080</display-name>
 		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/AMC%2B%20Connect.png" />
+	</channel>
+	<channel id="Distrito TV">
+		<display-name>Distrito TV</display-name>
+		<display-name>Distrito TV.TV</display-name>
+		<display-name>Distrito TV SD</display-name>
+		<display-name>Distrito TV HD</display-name>
+		<display-name>Distrito TV FHD</display-name>
+		<display-name>Distrito TV UHD</display-name>
+		<display-name>Distrito TV 720</display-name>
+		<display-name>Distrito TV 1080</display-name>
+		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Distrito%20TV.png" />
 	</channel>
 	<channel id="Escapa TV">
 		<display-name>Escapa TV</display-name>
@@ -3299,6 +3288,226 @@
 		<display-name>LaLiga TV BAR 5 720</display-name>
 		<display-name>LaLiga TV BAR 5 1080</display-name>
 		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/LaLiga%20TV%20BAR%205.png" />
+	</channel>
+	<channel id="Iberalia caza">
+		<display-name>Iberalia caza</display-name>
+		<display-name>Iberalia caza.TV</display-name>
+		<display-name>Iberalia caza SD</display-name>
+		<display-name>Iberalia caza HD</display-name>
+		<display-name>Iberalia caza FHD</display-name>
+		<display-name>Iberalia caza UHD</display-name>
+		<display-name>Iberalia caza 720</display-name>
+		<display-name>Iberalia caza 1080</display-name>
+		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Iberalia%20caza.png" />
+	</channel>
+	<channel id="Iberalia pesca">
+		<display-name>Iberalia pesca</display-name>
+		<display-name>Iberalia pesca.TV</display-name>
+		<display-name>Iberalia pesca SD</display-name>
+		<display-name>Iberalia pesca HD</display-name>
+		<display-name>Iberalia pesca FHD</display-name>
+		<display-name>Iberalia pesca UHD</display-name>
+		<display-name>Iberalia pesca 720</display-name>
+		<display-name>Iberalia pesca 1080</display-name>
+		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Iberalia%20pesca.png" />
+	</channel>
+	<channel id="Torolé TV">
+		<display-name>Torolé TV</display-name>
+		<display-name>Torolé TV.TV</display-name>
+		<display-name>Torolé TV SD</display-name>
+		<display-name>Torolé TV HD</display-name>
+		<display-name>Torolé TV FHD</display-name>
+		<display-name>Torolé TV UHD</display-name>
+		<display-name>Torolé TV 720</display-name>
+		<display-name>Torolé TV 1080</display-name>
+		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Torol%C3%A9%20TV.png" />
+	</channel>
+	<channel id="DBike">
+		<display-name>DBike</display-name>
+		<display-name>DBike.TV</display-name>
+		<display-name>DBike SD</display-name>
+		<display-name>DBike HD</display-name>
+		<display-name>DBike FHD</display-name>
+		<display-name>DBike UHD</display-name>
+		<display-name>DBike 720</display-name>
+		<display-name>DBike 1080</display-name>
+		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DBike.png" />
+	</channel>
+	<channel id="Antena Motor">
+		<display-name>Antena Motor</display-name>
+		<display-name>Antena Motor.TV</display-name>
+		<display-name>Antena Motor SD</display-name>
+		<display-name>Antena Motor HD</display-name>
+		<display-name>Antena Motor FHD</display-name>
+		<display-name>Antena Motor UHD</display-name>
+		<display-name>Antena Motor 720</display-name>
+		<display-name>Antena Motor 1080</display-name>
+		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Antena%20Motor.png" />
+	</channel>
+	<channel id="Global Telenovelas">
+		<display-name>Global Telenovelas</display-name>
+		<display-name>Global Telenovelas.TV</display-name>
+		<display-name>Global Telenovelas SD</display-name>
+		<display-name>Global Telenovelas HD</display-name>
+		<display-name>Global Telenovelas FHD</display-name>
+		<display-name>Global Telenovelas UHD</display-name>
+		<display-name>Global Telenovelas 720</display-name>
+		<display-name>Global Telenovelas 1080</display-name>
+		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Global%20Telenovelas.png" />
+	</channel>
+	<channel id="Global Tendencias">
+		<display-name>Global Tendencias</display-name>
+		<display-name>Global Tendencias.TV</display-name>
+		<display-name>Global Tendencias SD</display-name>
+		<display-name>Global Tendencias HD</display-name>
+		<display-name>Global Tendencias FHD</display-name>
+		<display-name>Global Tendencias UHD</display-name>
+		<display-name>Global Tendencias 720</display-name>
+		<display-name>Global Tendencias 1080</display-name>
+		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Global%20Tendencias.png" />
+	</channel>
+	<channel id="RekTV">
+		<display-name>RekTV</display-name>
+		<display-name>RekTV.TV</display-name>
+		<display-name>RekTV SD</display-name>
+		<display-name>RekTV HD</display-name>
+		<display-name>RekTV FHD</display-name>
+		<display-name>RekTV UHD</display-name>
+		<display-name>RekTV 720</display-name>
+		<display-name>RekTV 1080</display-name>
+		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/RekTV.png" />
+	</channel>
+	<channel id="Elche 7 TV">
+		<display-name>Elche 7 TV</display-name>
+		<display-name>Elche 7 TV.TV</display-name>
+		<display-name>Elche 7 TV SD</display-name>
+		<display-name>Elche 7 TV HD</display-name>
+		<display-name>Elche 7 TV FHD</display-name>
+		<display-name>Elche 7 TV UHD</display-name>
+		<display-name>Elche 7 TV 720</display-name>
+		<display-name>Elche 7 TV 1080</display-name>
+		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Elche%207%20TV.png" />
+	</channel>
+	<channel id="Pirineus TV">
+		<display-name>Pirineus TV</display-name>
+		<display-name>Pirineus TV.TV</display-name>
+		<display-name>Pirineus TV SD</display-name>
+		<display-name>Pirineus TV HD</display-name>
+		<display-name>Pirineus TV FHD</display-name>
+		<display-name>Pirineus TV UHD</display-name>
+		<display-name>Pirineus TV 720</display-name>
+		<display-name>Pirineus TV 1080</display-name>
+		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Pirineus%20TV.png" />
+	</channel>
+	<channel id="Viajes y Sabores">
+		<display-name>Viajes y Sabores</display-name>
+		<display-name>Viajes y Sabores.TV</display-name>
+		<display-name>Viajes y Sabores SD</display-name>
+		<display-name>Viajes y Sabores HD</display-name>
+		<display-name>Viajes y Sabores FHD</display-name>
+		<display-name>Viajes y Sabores UHD</display-name>
+		<display-name>Viajes y Sabores 720</display-name>
+		<display-name>Viajes y Sabores 1080</display-name>
+		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Viajes%20y%20Sabores.png" />
+	</channel>
+	<channel id="EsTuTele">
+		<display-name>EsTuTele</display-name>
+		<display-name>EsTuTele.TV</display-name>
+		<display-name>EsTuTele SD</display-name>
+		<display-name>EsTuTele HD</display-name>
+		<display-name>EsTuTele FHD</display-name>
+		<display-name>EsTuTele UHD</display-name>
+		<display-name>EsTuTele 720</display-name>
+		<display-name>EsTuTele 1080</display-name>
+		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/EsTuTele.png" />
+	</channel>
+	<channel id="Cine Friki">
+		<display-name>Cine Friki</display-name>
+		<display-name>Cine Friki.TV</display-name>
+		<display-name>Cine Friki SD</display-name>
+		<display-name>Cine Friki HD</display-name>
+		<display-name>Cine Friki FHD</display-name>
+		<display-name>Cine Friki UHD</display-name>
+		<display-name>Cine Friki 720</display-name>
+		<display-name>Cine Friki 1080</display-name>
+		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Cine%20Friki.png" />
+	</channel>
+	<channel id="Crimen&amp;Historia">
+		<display-name>Crimen&amp;Historia</display-name>
+		<display-name>Crimen&amp;Historia.TV</display-name>
+		<display-name>Crimen&amp;Historia SD</display-name>
+		<display-name>Crimen&amp;Historia HD</display-name>
+		<display-name>Crimen&amp;Historia FHD</display-name>
+		<display-name>Crimen&amp;Historia UHD</display-name>
+		<display-name>Crimen&amp;Historia 720</display-name>
+		<display-name>Crimen&amp;Historia 1080</display-name>
+		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Crimen%26Historia.png" />
+	</channel>
+	<channel id="Extreme Channel">
+		<display-name>Extreme Channel</display-name>
+		<display-name>Extreme Channel.TV</display-name>
+		<display-name>Extreme Channel SD</display-name>
+		<display-name>Extreme Channel HD</display-name>
+		<display-name>Extreme Channel FHD</display-name>
+		<display-name>Extreme Channel UHD</display-name>
+		<display-name>Extreme Channel 720</display-name>
+		<display-name>Extreme Channel 1080</display-name>
+		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Extreme%20Channel.png" />
+	</channel>
+	<channel id="VE PLUS TV">
+		<display-name>VE PLUS TV</display-name>
+		<display-name>VE PLUS TV.TV</display-name>
+		<display-name>VE PLUS TV SD</display-name>
+		<display-name>VE PLUS TV HD</display-name>
+		<display-name>VE PLUS TV FHD</display-name>
+		<display-name>VE PLUS TV UHD</display-name>
+		<display-name>VE PLUS TV 720</display-name>
+		<display-name>VE PLUS TV 1080</display-name>
+		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/VE%20PLUS%20TV.png" />
+	</channel>
+	<channel id="Onda Cádiz TV">
+		<display-name>Onda Cádiz TV</display-name>
+		<display-name>Onda Cádiz TV.TV</display-name>
+		<display-name>Onda Cádiz TV SD</display-name>
+		<display-name>Onda Cádiz TV HD</display-name>
+		<display-name>Onda Cádiz TV FHD</display-name>
+		<display-name>Onda Cádiz TV UHD</display-name>
+		<display-name>Onda Cádiz TV 720</display-name>
+		<display-name>Onda Cádiz TV 1080</display-name>
+		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Onda%20C%C3%A1diz%20TV.png" />
+	</channel>
+	<channel id="Stingray Classica">
+		<display-name>Stingray Classica</display-name>
+		<display-name>Stingray Classica.TV</display-name>
+		<display-name>Stingray Classica SD</display-name>
+		<display-name>Stingray Classica HD</display-name>
+		<display-name>Stingray Classica FHD</display-name>
+		<display-name>Stingray Classica UHD</display-name>
+		<display-name>Stingray Classica 720</display-name>
+		<display-name>Stingray Classica 1080</display-name>
+		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Stingray%20Classica.png" />
+	</channel>
+	<channel id="GCM">
+		<display-name>GCM</display-name>
+		<display-name>GCM.TV</display-name>
+		<display-name>GCM SD</display-name>
+		<display-name>GCM HD</display-name>
+		<display-name>GCM FHD</display-name>
+		<display-name>GCM UHD</display-name>
+		<display-name>GCM 720</display-name>
+		<display-name>GCM 1080</display-name>
+		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/GCM.png" />
+	</channel>
+	<channel id="AZ Corazón">
+		<display-name>AZ Corazón</display-name>
+		<display-name>AZ Corazón.TV</display-name>
+		<display-name>AZ Corazón SD</display-name>
+		<display-name>AZ Corazón HD</display-name>
+		<display-name>AZ Corazón FHD</display-name>
+		<display-name>AZ Corazón UHD</display-name>
+		<display-name>AZ Corazón 720</display-name>
+		<display-name>AZ Corazón 1080</display-name>
+		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/AZ%20Coraz%C3%B3n.png" />
 	</channel>
 	<channel id="ETB1 euskera">
 		<display-name>ETB1 euskera</display-name>
@@ -3586,192 +3795,115 @@
 		<display-name>Bon Dia TV 1080</display-name>
 		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Bon%20Dia%20TV.png" />
 	</channel>
-	<channel id="El Hormiguero">
-		<display-name>El Hormiguero</display-name>
-		<display-name>El Hormiguero.TV</display-name>
-		<display-name>El Hormiguero SD</display-name>
-		<display-name>El Hormiguero HD</display-name>
-		<display-name>El Hormiguero FHD</display-name>
-		<display-name>El Hormiguero UHD</display-name>
-		<display-name>El Hormiguero 720</display-name>
-		<display-name>El Hormiguero 1080</display-name>
-		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/El%20Hormiguero.png" />
+	<channel id="Libertad Digital TV">
+		<display-name>Libertad Digital TV</display-name>
+		<display-name>Libertad Digital TV.TV</display-name>
+		<display-name>Libertad Digital TV SD</display-name>
+		<display-name>Libertad Digital TV HD</display-name>
+		<display-name>Libertad Digital TV FHD</display-name>
+		<display-name>Libertad Digital TV UHD</display-name>
+		<display-name>Libertad Digital TV 720</display-name>
+		<display-name>Libertad Digital TV 1080</display-name>
+		<icon src="https://yt3.googleusercontent.com/ytc/AIdro_mJBwGvGJx9rJx7Fyo19zzImyR7p9O2WXRS1uPaSMoP6HE=s900-c-k-c0x00ffffff-no-rj" />
 	</channel>
-	<channel id="El club de la comedia">
-		<display-name>El club de la comedia</display-name>
-		<display-name>El club de la comedia.TV</display-name>
-		<display-name>El club de la comedia SD</display-name>
-		<display-name>El club de la comedia HD</display-name>
-		<display-name>El club de la comedia FHD</display-name>
-		<display-name>El club de la comedia UHD</display-name>
-		<display-name>El club de la comedia 720</display-name>
-		<display-name>El club de la comedia 1080</display-name>
-		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/El%20club%20de%20la%20comedia.png" />
+	<channel id="Imás TV">
+		<display-name>Imás TV</display-name>
+		<display-name>Imás TV.TV</display-name>
+		<display-name>Imás TV SD</display-name>
+		<display-name>Imás TV HD</display-name>
+		<display-name>Imás TV FHD</display-name>
+		<display-name>Imás TV UHD</display-name>
+		<display-name>Imás TV 720</display-name>
+		<display-name>Imás TV 1080</display-name>
+		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Im%C3%A1s%20TV.png" />
 	</channel>
-	<channel id="Equipo de investigación">
-		<display-name>Equipo de investigación</display-name>
-		<display-name>Equipo de investigación.TV</display-name>
-		<display-name>Equipo de investigación SD</display-name>
-		<display-name>Equipo de investigación HD</display-name>
-		<display-name>Equipo de investigación FHD</display-name>
-		<display-name>Equipo de investigación UHD</display-name>
-		<display-name>Equipo de investigación 720</display-name>
-		<display-name>Equipo de investigación 1080</display-name>
-		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Equipo%20de%20investigaci%C3%B3n.png" />
+	<channel id="Punt 3">
+		<display-name>Punt 3</display-name>
+		<display-name>Punt 3.TV</display-name>
+		<display-name>Punt 3 SD</display-name>
+		<display-name>Punt 3 HD</display-name>
+		<display-name>Punt 3 FHD</display-name>
+		<display-name>Punt 3 UHD</display-name>
+		<display-name>Punt 3 720</display-name>
+		<display-name>Punt 3 1080</display-name>
+		<icon src="https://www.punt3.es/android-icon-192x192.png" />
 	</channel>
-	<channel id="Aquí no hay quién viva">
-		<display-name>Aquí no hay quién viva</display-name>
-		<display-name>Aquí no hay quién viva.TV</display-name>
-		<display-name>Aquí no hay quién viva SD</display-name>
-		<display-name>Aquí no hay quién viva HD</display-name>
-		<display-name>Aquí no hay quién viva FHD</display-name>
-		<display-name>Aquí no hay quién viva UHD</display-name>
-		<display-name>Aquí no hay quién viva 720</display-name>
-		<display-name>Aquí no hay quién viva 1080</display-name>
-		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Aqu%C3%AD%20no%20hay%20qui%C3%A9n%20viva.png" />
+	<channel id="Onetoro">
+		<display-name>Onetoro</display-name>
+		<display-name>Onetoro.TV</display-name>
+		<display-name>Onetoro SD</display-name>
+		<display-name>Onetoro HD</display-name>
+		<display-name>Onetoro FHD</display-name>
+		<display-name>Onetoro UHD</display-name>
+		<display-name>Onetoro 720</display-name>
+		<display-name>Onetoro 1080</display-name>
+		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Onetoro.png" />
 	</channel>
-	<channel id="FoQ">
-		<display-name>FoQ</display-name>
-		<display-name>FoQ.TV</display-name>
-		<display-name>FoQ SD</display-name>
-		<display-name>FoQ HD</display-name>
-		<display-name>FoQ FHD</display-name>
-		<display-name>FoQ UHD</display-name>
-		<display-name>FoQ 720</display-name>
-		<display-name>FoQ 1080</display-name>
-		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/FoQ.png" />
+	<channel id="Alacantí TV">
+		<display-name>Alacantí TV</display-name>
+		<display-name>Alacantí TV.TV</display-name>
+		<display-name>Alacantí TV SD</display-name>
+		<display-name>Alacantí TV HD</display-name>
+		<display-name>Alacantí TV FHD</display-name>
+		<display-name>Alacantí TV UHD</display-name>
+		<display-name>Alacantí TV 720</display-name>
+		<display-name>Alacantí TV 1080</display-name>
+		<icon src="https://alacantitv.com/wp-content/uploads/2024/03/logo-alacantitv-programacion.jpg" />
 	</channel>
-	<channel id="Clásicos atresplayer">
-		<display-name>Clásicos atresplayer</display-name>
-		<display-name>Clásicos atresplayer.TV</display-name>
-		<display-name>Clásicos atresplayer SD</display-name>
-		<display-name>Clásicos atresplayer HD</display-name>
-		<display-name>Clásicos atresplayer FHD</display-name>
-		<display-name>Clásicos atresplayer UHD</display-name>
-		<display-name>Clásicos atresplayer 720</display-name>
-		<display-name>Clásicos atresplayer 1080</display-name>
-		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Cl%C3%A1sicos%20atresplayer.png" />
+	<channel id="TVR Rioja">
+		<display-name>TVR Rioja</display-name>
+		<display-name>TVR Rioja.TV</display-name>
+		<display-name>TVR Rioja SD</display-name>
+		<display-name>TVR Rioja HD</display-name>
+		<display-name>TVR Rioja FHD</display-name>
+		<display-name>TVR Rioja UHD</display-name>
+		<display-name>TVR Rioja 720</display-name>
+		<display-name>TVR Rioja 1080</display-name>
+		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/TVR%20Rioja.png" />
 	</channel>
-	<channel id="Multicine atresplayer">
-		<display-name>Multicine atresplayer</display-name>
-		<display-name>Multicine atresplayer.TV</display-name>
-		<display-name>Multicine atresplayer SD</display-name>
-		<display-name>Multicine atresplayer HD</display-name>
-		<display-name>Multicine atresplayer FHD</display-name>
-		<display-name>Multicine atresplayer UHD</display-name>
-		<display-name>Multicine atresplayer 720</display-name>
-		<display-name>Multicine atresplayer 1080</display-name>
-		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Multicine%20atresplayer.png" />
+	<channel id="Popular TV Cantabria">
+		<display-name>Popular TV Cantabria</display-name>
+		<display-name>Popular TV Cantabria.TV</display-name>
+		<display-name>Popular TV Cantabria SD</display-name>
+		<display-name>Popular TV Cantabria HD</display-name>
+		<display-name>Popular TV Cantabria FHD</display-name>
+		<display-name>Popular TV Cantabria UHD</display-name>
+		<display-name>Popular TV Cantabria 720</display-name>
+		<display-name>Popular TV Cantabria 1080</display-name>
+		<icon src="https://populartvcantabria.com/wp-content/uploads/2022/10/cropped-logo-popular-horizontal-300x125.png" />
 	</channel>
-	<channel id="Comedia atresplayer">
-		<display-name>Comedia atresplayer</display-name>
-		<display-name>Comedia atresplayer.TV</display-name>
-		<display-name>Comedia atresplayer SD</display-name>
-		<display-name>Comedia atresplayer HD</display-name>
-		<display-name>Comedia atresplayer FHD</display-name>
-		<display-name>Comedia atresplayer UHD</display-name>
-		<display-name>Comedia atresplayer 720</display-name>
-		<display-name>Comedia atresplayer 1080</display-name>
-		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Comedia%20atresplayer.png" />
+	<channel id="interalmería TV">
+		<display-name>interalmería TV</display-name>
+		<display-name>interalmería TV.TV</display-name>
+		<display-name>interalmería TV SD</display-name>
+		<display-name>interalmería TV HD</display-name>
+		<display-name>interalmería TV FHD</display-name>
+		<display-name>interalmería TV UHD</display-name>
+		<display-name>interalmería TV 720</display-name>
+		<display-name>interalmería TV 1080</display-name>
+		<icon src="https://www.interalmeria.tv/wp-content/uploads/2019/01/iatv-mosca.png?x96146" />
 	</channel>
-	<channel id="Inquietos atresplayer">
-		<display-name>Inquietos atresplayer</display-name>
-		<display-name>Inquietos atresplayer.TV</display-name>
-		<display-name>Inquietos atresplayer SD</display-name>
-		<display-name>Inquietos atresplayer HD</display-name>
-		<display-name>Inquietos atresplayer FHD</display-name>
-		<display-name>Inquietos atresplayer UHD</display-name>
-		<display-name>Inquietos atresplayer 720</display-name>
-		<display-name>Inquietos atresplayer 1080</display-name>
-		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Inquietos%20atresplayer.png" />
+	<channel id="Huelva TV">
+		<display-name>Huelva TV</display-name>
+		<display-name>Huelva TV.TV</display-name>
+		<display-name>Huelva TV SD</display-name>
+		<display-name>Huelva TV HD</display-name>
+		<display-name>Huelva TV FHD</display-name>
+		<display-name>Huelva TV UHD</display-name>
+		<display-name>Huelva TV 720</display-name>
+		<display-name>Huelva TV 1080</display-name>
+		<icon src="https://huelvatv.com/wp-content/uploads/2024/11/70_Huelva_TV_Logotipo_AZUL.png" />
 	</channel>
-	<channel id="Flooxer">
-		<display-name>Flooxer</display-name>
-		<display-name>Flooxer.TV</display-name>
-		<display-name>Flooxer SD</display-name>
-		<display-name>Flooxer HD</display-name>
-		<display-name>Flooxer FHD</display-name>
-		<display-name>Flooxer UHD</display-name>
-		<display-name>Flooxer 720</display-name>
-		<display-name>Flooxer 1080</display-name>
-		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Flooxer.png" />
-	</channel>
-	<channel id="Kidz">
-		<display-name>Kidz</display-name>
-		<display-name>Kidz.TV</display-name>
-		<display-name>Kidz SD</display-name>
-		<display-name>Kidz HD</display-name>
-		<display-name>Kidz FHD</display-name>
-		<display-name>Kidz UHD</display-name>
-		<display-name>Kidz 720</display-name>
-		<display-name>Kidz 1080</display-name>
-		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Kidz.png" />
-	</channel>
-	<channel id="ATRESplayer PREMIUM">
-		<display-name>ATRESplayer PREMIUM</display-name>
-		<display-name>ATRESplayer PREMIUM.TV</display-name>
-		<display-name>ATRESplayer PREMIUM SD</display-name>
-		<display-name>ATRESplayer PREMIUM HD</display-name>
-		<display-name>ATRESplayer PREMIUM FHD</display-name>
-		<display-name>ATRESplayer PREMIUM UHD</display-name>
-		<display-name>ATRESplayer PREMIUM 720</display-name>
-		<display-name>ATRESplayer PREMIUM 1080</display-name>
-		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/ATRESplayer%20PREMIUM.png" />
-	</channel>
-	<channel id="Infinity En la calle">
-		<display-name>Infinity En la calle</display-name>
-		<display-name>Infinity En la calle.TV</display-name>
-		<display-name>Infinity En la calle SD</display-name>
-		<display-name>Infinity En la calle HD</display-name>
-		<display-name>Infinity En la calle FHD</display-name>
-		<display-name>Infinity En la calle UHD</display-name>
-		<display-name>Infinity En la calle 720</display-name>
-		<display-name>Infinity En la calle 1080</display-name>
-		<icon src="https://img-prod-api2.mediasetplay.mediaset.it/api/images/by/v5/esp/aHR0cHM6Ly9kYW0uY2xvdWQubWVkaWFzZXQubmV0L20vMTA2ZGM0N2JhNmQ1ODMyNy9vcmlnaW5hbC9DaGFubmVsLWxvZ29fSW5maW5pdHktRW4tbGEtY2FsbGUucG5n/single/87/87@2?r=%202x&quot;%20media=&quot;(max-width:%201023px)|https://img-prod-api2.mediasetplay.mediaset.it/api/images/by/v5/esp/aHR0cHM6Ly9kYW0uY2xvdWQubWVkaWFzZXQubmV0L20vMTA2ZGM0N2JhNmQ1ODMyNy9vcmlnaW5hbC9DaGFubmVsLWxvZ29fSW5maW5pdHktRW4tbGEtY2FsbGUucG5n/single/87/87@2?r=%202x&quot;%20media=&quot;(max-width:%201023px)|https://img-prod-api2.mediasetplay.mediaset.it/api/images/by/v5/esp/aHR0cHM6Ly9kYW0uY2xvdWQubWVkaWFzZXQubmV0L20vMTA2ZGM0N2JhNmQ1ODMyNy9vcmlnaW5hbC9DaGFubmVsLWxvZ29fSW5maW5pdHktRW4tbGEtY2FsbGUucG5n/single/87/87@2?r=%202x&quot;%20media=&quot;(max-width:%201023px)|https://img-prod-api2.mediasetplay.mediaset.it/api/images/by/v5/esp/aHR0cHM6Ly9kYW0uY2xvdWQubWVkaWFzZXQubmV0L20vMTA2ZGM0N2JhNmQ1ODMyNy9vcmlnaW5hbC9DaGFubmVsLWxvZ29fSW5maW5pdHktRW4tbGEtY2FsbGUucG5n/single/87/87@2?r=%202x&quot;%20media=&quot;(max-width:%201023px)|https://img-prod-api2.mediasetplay.mediaset.it/api/images/by/v5/esp/aHR0cHM6Ly9kYW0uY2xvdWQubWVkaWFzZXQubmV0L20vMTA2ZGM0N2JhNmQ1ODMyNy9vcmlnaW5hbC9DaGFubmVsLWxvZ29fSW5maW5pdHktRW4tbGEtY2FsbGUucG5n/single/87/87@2?r=%202x&quot;%20media=&quot;(max-width:%201023px)|https://img-prod-api2.mediasetplay.mediaset.it/api/images/by/v5/esp/aHR0cHM6Ly9kYW0uY2xvdWQubWVkaWFzZXQubmV0L20vMTA2ZGM0N2JhNmQ1ODMyNy9vcmlnaW5hbC9DaGFubmVsLWxvZ29fSW5maW5pdHktRW4tbGEtY2FsbGUucG5n/single/87/87@2?r=%202x&quot;%20media=&quot;(max-width:%201023px)|https://img-prod-api2.mediasetplay.mediaset.it/api/images/by/v5/esp/aHR0cHM6Ly9kYW0uY2xvdWQubWVkaWFzZXQubmV0L20vMTA2ZGM0N2JhNmQ1ODMyNy9vcmlnaW5hbC9DaGFubmVsLWxvZ29fSW5maW5pdHktRW4tbGEtY2FsbGUucG5n/single/87/87@2?r=%202x&quot;%20media=&quot;(max-width:%201023px)" />
-	</channel>
-	<channel id="Infinity Viajes">
-		<display-name>Infinity Viajes</display-name>
-		<display-name>Infinity Viajes.TV</display-name>
-		<display-name>Infinity Viajes SD</display-name>
-		<display-name>Infinity Viajes HD</display-name>
-		<display-name>Infinity Viajes FHD</display-name>
-		<display-name>Infinity Viajes UHD</display-name>
-		<display-name>Infinity Viajes 720</display-name>
-		<display-name>Infinity Viajes 1080</display-name>
-		<icon src="https://img-prod-api2.mediasetplay.mediaset.it/api/images/by/v5/esp/aHR0cHM6Ly9kYW0uY2xvdWQubWVkaWFzZXQubmV0L20vMTVjMWUyNWJhZjhkNjE4MC9vcmlnaW5hbC9DaGFubmVsLWxvZ29fSW5maW5pdHktVmlhamVzLnBuZw/single/87/87@2?r=%202x&quot;%20media=&quot;(max-width:%201023px)|https://img-prod-api2.mediasetplay.mediaset.it/api/images/by/v5/esp/aHR0cHM6Ly9kYW0uY2xvdWQubWVkaWFzZXQubmV0L20vMTVjMWUyNWJhZjhkNjE4MC9vcmlnaW5hbC9DaGFubmVsLWxvZ29fSW5maW5pdHktVmlhamVzLnBuZw/single/87/87@2?r=%202x&quot;%20media=&quot;(max-width:%201023px)|https://img-prod-api2.mediasetplay.mediaset.it/api/images/by/v5/esp/aHR0cHM6Ly9kYW0uY2xvdWQubWVkaWFzZXQubmV0L20vMTVjMWUyNWJhZjhkNjE4MC9vcmlnaW5hbC9DaGFubmVsLWxvZ29fSW5maW5pdHktVmlhamVzLnBuZw/single/87/87@2?r=%202x&quot;%20media=&quot;(max-width:%201023px)|https://img-prod-api2.mediasetplay.mediaset.it/api/images/by/v5/esp/aHR0cHM6Ly9kYW0uY2xvdWQubWVkaWFzZXQubmV0L20vMTVjMWUyNWJhZjhkNjE4MC9vcmlnaW5hbC9DaGFubmVsLWxvZ29fSW5maW5pdHktVmlhamVzLnBuZw/single/87/87@2?r=%202x&quot;%20media=&quot;(max-width:%201023px)|https://img-prod-api2.mediasetplay.mediaset.it/api/images/by/v5/esp/aHR0cHM6Ly9kYW0uY2xvdWQubWVkaWFzZXQubmV0L20vMTVjMWUyNWJhZjhkNjE4MC9vcmlnaW5hbC9DaGFubmVsLWxvZ29fSW5maW5pdHktVmlhamVzLnBuZw/single/87/87@2?r=%202x&quot;%20media=&quot;(max-width:%201023px)|https://img-prod-api2.mediasetplay.mediaset.it/api/images/by/v5/esp/aHR0cHM6Ly9kYW0uY2xvdWQubWVkaWFzZXQubmV0L20vMTVjMWUyNWJhZjhkNjE4MC9vcmlnaW5hbC9DaGFubmVsLWxvZ29fSW5maW5pdHktVmlhamVzLnBuZw/single/87/87@2?r=%202x&quot;%20media=&quot;(max-width:%201023px)|https://img-prod-api2.mediasetplay.mediaset.it/api/images/by/v5/esp/aHR0cHM6Ly9kYW0uY2xvdWQubWVkaWFzZXQubmV0L20vMTVjMWUyNWJhZjhkNjE4MC9vcmlnaW5hbC9DaGFubmVsLWxvZ29fSW5maW5pdHktVmlhamVzLnBuZw/single/87/87@2?r=%202x&quot;%20media=&quot;(max-width:%201023px)" />
-	</channel>
-	<channel id="Infinity Comedia">
-		<display-name>Infinity Comedia</display-name>
-		<display-name>Infinity Comedia.TV</display-name>
-		<display-name>Infinity Comedia SD</display-name>
-		<display-name>Infinity Comedia HD</display-name>
-		<display-name>Infinity Comedia FHD</display-name>
-		<display-name>Infinity Comedia UHD</display-name>
-		<display-name>Infinity Comedia 720</display-name>
-		<display-name>Infinity Comedia 1080</display-name>
-		<icon src="https://img-prod-api2.mediasetplay.mediaset.it/api/images/by/v5/esp/aHR0cHM6Ly9kYW0uY2xvdWQubWVkaWFzZXQubmV0L20vNmFhMmMyNDRhYTUzMmEyNS9vcmlnaW5hbC9DaGFubmVsLWxvZ29fSW5maW5pdHktQ29tZWRpYS5wbmc/single/87/87@2?r=%202x&quot;%20media=&quot;(max-width:%201023px)|https://img-prod-api2.mediasetplay.mediaset.it/api/images/by/v5/esp/aHR0cHM6Ly9kYW0uY2xvdWQubWVkaWFzZXQubmV0L20vNmFhMmMyNDRhYTUzMmEyNS9vcmlnaW5hbC9DaGFubmVsLWxvZ29fSW5maW5pdHktQ29tZWRpYS5wbmc/single/87/87@2?r=%202x&quot;%20media=&quot;(max-width:%201023px)|https://img-prod-api2.mediasetplay.mediaset.it/api/images/by/v5/esp/aHR0cHM6Ly9kYW0uY2xvdWQubWVkaWFzZXQubmV0L20vNmFhMmMyNDRhYTUzMmEyNS9vcmlnaW5hbC9DaGFubmVsLWxvZ29fSW5maW5pdHktQ29tZWRpYS5wbmc/single/87/87@2?r=%202x&quot;%20media=&quot;(max-width:%201023px)|https://img-prod-api2.mediasetplay.mediaset.it/api/images/by/v5/esp/aHR0cHM6Ly9kYW0uY2xvdWQubWVkaWFzZXQubmV0L20vNmFhMmMyNDRhYTUzMmEyNS9vcmlnaW5hbC9DaGFubmVsLWxvZ29fSW5maW5pdHktQ29tZWRpYS5wbmc/single/87/87@2?r=%202x&quot;%20media=&quot;(max-width:%201023px)|https://img-prod-api2.mediasetplay.mediaset.it/api/images/by/v5/esp/aHR0cHM6Ly9kYW0uY2xvdWQubWVkaWFzZXQubmV0L20vNmFhMmMyNDRhYTUzMmEyNS9vcmlnaW5hbC9DaGFubmVsLWxvZ29fSW5maW5pdHktQ29tZWRpYS5wbmc/single/87/87@2?r=%202x&quot;%20media=&quot;(max-width:%201023px)|https://img-prod-api2.mediasetplay.mediaset.it/api/images/by/v5/esp/aHR0cHM6Ly9kYW0uY2xvdWQubWVkaWFzZXQubmV0L20vNmFhMmMyNDRhYTUzMmEyNS9vcmlnaW5hbC9DaGFubmVsLWxvZ29fSW5maW5pdHktQ29tZWRpYS5wbmc/single/87/87@2?r=%202x&quot;%20media=&quot;(max-width:%201023px)|https://img-prod-api2.mediasetplay.mediaset.it/api/images/by/v5/esp/aHR0cHM6Ly9kYW0uY2xvdWQubWVkaWFzZXQubmV0L20vNmFhMmMyNDRhYTUzMmEyNS9vcmlnaW5hbC9DaGFubmVsLWxvZ29fSW5maW5pdHktQ29tZWRpYS5wbmc/single/87/87@2?r=%202x&quot;%20media=&quot;(max-width:%201023px)" />
-	</channel>
-	<channel id="Infinity Top Series">
-		<display-name>Infinity Top Series</display-name>
-		<display-name>Infinity Top Series.TV</display-name>
-		<display-name>Infinity Top Series SD</display-name>
-		<display-name>Infinity Top Series HD</display-name>
-		<display-name>Infinity Top Series FHD</display-name>
-		<display-name>Infinity Top Series UHD</display-name>
-		<display-name>Infinity Top Series 720</display-name>
-		<display-name>Infinity Top Series 1080</display-name>
-		<icon src="https://img-prod-api2.mediasetplay.mediaset.it/api/images/by/v5/esp/aHR0cHM6Ly9kYW0uY2xvdWQubWVkaWFzZXQubmV0L20vMmE2YTBiNDYzYjI4YTRlL29yaWdpbmFsL0NoYW5uZWwtbG9nb19JbmZpbml0eS1Ub3AtU2VyaWVzLnBuZw/single/87/87@2?r=%202x&quot;%20media=&quot;(max-width:%201023px)|https://img-prod-api2.mediasetplay.mediaset.it/api/images/by/v5/esp/aHR0cHM6Ly9kYW0uY2xvdWQubWVkaWFzZXQubmV0L20vMmE2YTBiNDYzYjI4YTRlL29yaWdpbmFsL0NoYW5uZWwtbG9nb19JbmZpbml0eS1Ub3AtU2VyaWVzLnBuZw/single/87/87@2?r=%202x&quot;%20media=&quot;(max-width:%201023px)|https://img-prod-api2.mediasetplay.mediaset.it/api/images/by/v5/esp/aHR0cHM6Ly9kYW0uY2xvdWQubWVkaWFzZXQubmV0L20vMmE2YTBiNDYzYjI4YTRlL29yaWdpbmFsL0NoYW5uZWwtbG9nb19JbmZpbml0eS1Ub3AtU2VyaWVzLnBuZw/single/87/87@2?r=%202x&quot;%20media=&quot;(max-width:%201023px)|https://img-prod-api2.mediasetplay.mediaset.it/api/images/by/v5/esp/aHR0cHM6Ly9kYW0uY2xvdWQubWVkaWFzZXQubmV0L20vMmE2YTBiNDYzYjI4YTRlL29yaWdpbmFsL0NoYW5uZWwtbG9nb19JbmZpbml0eS1Ub3AtU2VyaWVzLnBuZw/single/87/87@2?r=%202x&quot;%20media=&quot;(max-width:%201023px)|https://img-prod-api2.mediasetplay.mediaset.it/api/images/by/v5/esp/aHR0cHM6Ly9kYW0uY2xvdWQubWVkaWFzZXQubmV0L20vMmE2YTBiNDYzYjI4YTRlL29yaWdpbmFsL0NoYW5uZWwtbG9nb19JbmZpbml0eS1Ub3AtU2VyaWVzLnBuZw/single/87/87@2?r=%202x&quot;%20media=&quot;(max-width:%201023px)|https://img-prod-api2.mediasetplay.mediaset.it/api/images/by/v5/esp/aHR0cHM6Ly9kYW0uY2xvdWQubWVkaWFzZXQubmV0L20vMmE2YTBiNDYzYjI4YTRlL29yaWdpbmFsL0NoYW5uZWwtbG9nb19JbmZpbml0eS1Ub3AtU2VyaWVzLnBuZw/single/87/87@2?r=%202x&quot;%20media=&quot;(max-width:%201023px)|https://img-prod-api2.mediasetplay.mediaset.it/api/images/by/v5/esp/aHR0cHM6Ly9kYW0uY2xvdWQubWVkaWFzZXQubmV0L20vMmE2YTBiNDYzYjI4YTRlL29yaWdpbmFsL0NoYW5uZWwtbG9nb19JbmZpbml0eS1Ub3AtU2VyaWVzLnBuZw/single/87/87@2?r=%202x&quot;%20media=&quot;(max-width:%201023px)" />
-	</channel>
-	<channel id="Infinity+ LQSA">
-		<display-name>Infinity+ LQSA</display-name>
-		<display-name>Infinity+ LQSA.TV</display-name>
-		<display-name>Infinity+ LQSA SD</display-name>
-		<display-name>Infinity+ LQSA HD</display-name>
-		<display-name>Infinity+ LQSA FHD</display-name>
-		<display-name>Infinity+ LQSA UHD</display-name>
-		<display-name>Infinity+ LQSA 720</display-name>
-		<display-name>Infinity+ LQSA 1080</display-name>
-		<icon src="https://img-prod-api2.mediasetplay.mediaset.it/api/images/by/v5/esp/aHR0cHM6Ly9kYW0uY2xvdWQubWVkaWFzZXQubmV0L20vOWQ1ZTZkNWFmNDM0OTNkL29yaWdpbmFsL0NoYW5uZWwtbG9nb19JbmZpbml0eS1MUVNBLnBuZw/single/87/87@2?r=%202x&quot;%20media=&quot;(max-width:%201023px)|https://img-prod-api2.mediasetplay.mediaset.it/api/images/by/v5/esp/aHR0cHM6Ly9kYW0uY2xvdWQubWVkaWFzZXQubmV0L20vOWQ1ZTZkNWFmNDM0OTNkL29yaWdpbmFsL0NoYW5uZWwtbG9nb19JbmZpbml0eS1MUVNBLnBuZw/single/87/87@2?r=%202x&quot;%20media=&quot;(max-width:%201023px)|https://img-prod-api2.mediasetplay.mediaset.it/api/images/by/v5/esp/aHR0cHM6Ly9kYW0uY2xvdWQubWVkaWFzZXQubmV0L20vOWQ1ZTZkNWFmNDM0OTNkL29yaWdpbmFsL0NoYW5uZWwtbG9nb19JbmZpbml0eS1MUVNBLnBuZw/single/87/87@2?r=%202x&quot;%20media=&quot;(max-width:%201023px)|https://img-prod-api2.mediasetplay.mediaset.it/api/images/by/v5/esp/aHR0cHM6Ly9kYW0uY2xvdWQubWVkaWFzZXQubmV0L20vOWQ1ZTZkNWFmNDM0OTNkL29yaWdpbmFsL0NoYW5uZWwtbG9nb19JbmZpbml0eS1MUVNBLnBuZw/single/87/87@2?r=%202x&quot;%20media=&quot;(max-width:%201023px)|https://img-prod-api2.mediasetplay.mediaset.it/api/images/by/v5/esp/aHR0cHM6Ly9kYW0uY2xvdWQubWVkaWFzZXQubmV0L20vOWQ1ZTZkNWFmNDM0OTNkL29yaWdpbmFsL0NoYW5uZWwtbG9nb19JbmZpbml0eS1MUVNBLnBuZw/single/87/87@2?r=%202x&quot;%20media=&quot;(max-width:%201023px)|https://img-prod-api2.mediasetplay.mediaset.it/api/images/by/v5/esp/aHR0cHM6Ly9kYW0uY2xvdWQubWVkaWFzZXQubmV0L20vOWQ1ZTZkNWFmNDM0OTNkL29yaWdpbmFsL0NoYW5uZWwtbG9nb19JbmZpbml0eS1MUVNBLnBuZw/single/87/87@2?r=%202x&quot;%20media=&quot;(max-width:%201023px)|https://img-prod-api2.mediasetplay.mediaset.it/api/images/by/v5/esp/aHR0cHM6Ly9kYW0uY2xvdWQubWVkaWFzZXQubmV0L20vOWQ1ZTZkNWFmNDM0OTNkL29yaWdpbmFsL0NoYW5uZWwtbG9nb19JbmZpbml0eS1MUVNBLnBuZw/single/87/87@2?r=%202x&quot;%20media=&quot;(max-width:%201023px)" />
+	<channel id="TV Melilla">
+		<display-name>TV Melilla</display-name>
+		<display-name>TV Melilla.TV</display-name>
+		<display-name>TV Melilla SD</display-name>
+		<display-name>TV Melilla HD</display-name>
+		<display-name>TV Melilla FHD</display-name>
+		<display-name>TV Melilla UHD</display-name>
+		<display-name>TV Melilla 720</display-name>
+		<display-name>TV Melilla 1080</display-name>
+		<icon src="https://th.bing.com/th/id/OIP.lq_9H8H5nXXUHfAoNQJJnQHaHa?w=80&amp;h=80&amp;c=1&amp;bgcl=f47899&amp;r=0&amp;o=7&amp;dpr=1.1&amp;pid=ImgRC&amp;rm=3" />
 	</channel>
 	<channel id="La 7 Ávila">
 		<display-name>La 7 Ávila</display-name>
@@ -4279,159 +4411,192 @@
 		<display-name>Vallès Visió 1080</display-name>
 		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/113f590aa4c64dba85578d063e164269/Images/16ef075877324bf1846413275a7ff5bc" />
 	</channel>
-	<channel id="Libertad Digital TV">
-		<display-name>Libertad Digital TV</display-name>
-		<display-name>Libertad Digital TV.TV</display-name>
-		<display-name>Libertad Digital TV SD</display-name>
-		<display-name>Libertad Digital TV HD</display-name>
-		<display-name>Libertad Digital TV FHD</display-name>
-		<display-name>Libertad Digital TV UHD</display-name>
-		<display-name>Libertad Digital TV 720</display-name>
-		<display-name>Libertad Digital TV 1080</display-name>
-		<icon src="https://yt3.googleusercontent.com/ytc/AIdro_mJBwGvGJx9rJx7Fyo19zzImyR7p9O2WXRS1uPaSMoP6HE=s900-c-k-c0x00ffffff-no-rj" />
+	<channel id="El Hormiguero">
+		<display-name>El Hormiguero</display-name>
+		<display-name>El Hormiguero.TV</display-name>
+		<display-name>El Hormiguero SD</display-name>
+		<display-name>El Hormiguero HD</display-name>
+		<display-name>El Hormiguero FHD</display-name>
+		<display-name>El Hormiguero UHD</display-name>
+		<display-name>El Hormiguero 720</display-name>
+		<display-name>El Hormiguero 1080</display-name>
+		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/El%20Hormiguero.png" />
 	</channel>
-	<channel id="Imás TV">
-		<display-name>Imás TV</display-name>
-		<display-name>Imás TV.TV</display-name>
-		<display-name>Imás TV SD</display-name>
-		<display-name>Imás TV HD</display-name>
-		<display-name>Imás TV FHD</display-name>
-		<display-name>Imás TV UHD</display-name>
-		<display-name>Imás TV 720</display-name>
-		<display-name>Imás TV 1080</display-name>
-		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Im%C3%A1s%20TV.png" />
+	<channel id="El club de la comedia">
+		<display-name>El club de la comedia</display-name>
+		<display-name>El club de la comedia.TV</display-name>
+		<display-name>El club de la comedia SD</display-name>
+		<display-name>El club de la comedia HD</display-name>
+		<display-name>El club de la comedia FHD</display-name>
+		<display-name>El club de la comedia UHD</display-name>
+		<display-name>El club de la comedia 720</display-name>
+		<display-name>El club de la comedia 1080</display-name>
+		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/El%20club%20de%20la%20comedia.png" />
 	</channel>
-	<channel id="Punt 3">
-		<display-name>Punt 3</display-name>
-		<display-name>Punt 3.TV</display-name>
-		<display-name>Punt 3 SD</display-name>
-		<display-name>Punt 3 HD</display-name>
-		<display-name>Punt 3 FHD</display-name>
-		<display-name>Punt 3 UHD</display-name>
-		<display-name>Punt 3 720</display-name>
-		<display-name>Punt 3 1080</display-name>
-		<icon src="https://www.punt3.es/android-icon-192x192.png" />
+	<channel id="Equipo de investigación">
+		<display-name>Equipo de investigación</display-name>
+		<display-name>Equipo de investigación.TV</display-name>
+		<display-name>Equipo de investigación SD</display-name>
+		<display-name>Equipo de investigación HD</display-name>
+		<display-name>Equipo de investigación FHD</display-name>
+		<display-name>Equipo de investigación UHD</display-name>
+		<display-name>Equipo de investigación 720</display-name>
+		<display-name>Equipo de investigación 1080</display-name>
+		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Equipo%20de%20investigaci%C3%B3n.png" />
 	</channel>
-	<channel id="Distrito TV">
-		<display-name>Distrito TV</display-name>
-		<display-name>Distrito TV.TV</display-name>
-		<display-name>Distrito TV SD</display-name>
-		<display-name>Distrito TV HD</display-name>
-		<display-name>Distrito TV FHD</display-name>
-		<display-name>Distrito TV UHD</display-name>
-		<display-name>Distrito TV 720</display-name>
-		<display-name>Distrito TV 1080</display-name>
-		<icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/LOGO_DISTRITO_TV.png/598px-LOGO_DISTRITO_TV.png" />
+	<channel id="Aquí no hay quién viva">
+		<display-name>Aquí no hay quién viva</display-name>
+		<display-name>Aquí no hay quién viva.TV</display-name>
+		<display-name>Aquí no hay quién viva SD</display-name>
+		<display-name>Aquí no hay quién viva HD</display-name>
+		<display-name>Aquí no hay quién viva FHD</display-name>
+		<display-name>Aquí no hay quién viva UHD</display-name>
+		<display-name>Aquí no hay quién viva 720</display-name>
+		<display-name>Aquí no hay quién viva 1080</display-name>
+		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Aqu%C3%AD%20no%20hay%20qui%C3%A9n%20viva.png" />
 	</channel>
-	<channel id="ATV Andorra Televisión">
-		<display-name>ATV Andorra Televisión</display-name>
-		<display-name>ATV Andorra Televisión.TV</display-name>
-		<display-name>ATV Andorra Televisión SD</display-name>
-		<display-name>ATV Andorra Televisión HD</display-name>
-		<display-name>ATV Andorra Televisión FHD</display-name>
-		<display-name>ATV Andorra Televisión UHD</display-name>
-		<display-name>ATV Andorra Televisión 720</display-name>
-		<display-name>ATV Andorra Televisión 1080</display-name>
-		<icon src="https://upload.wikimedia.org/wikipedia/commons/3/32/Logo_Andorra_Televisi%C3%B3.png" />
+	<channel id="FoQ">
+		<display-name>FoQ</display-name>
+		<display-name>FoQ.TV</display-name>
+		<display-name>FoQ SD</display-name>
+		<display-name>FoQ HD</display-name>
+		<display-name>FoQ FHD</display-name>
+		<display-name>FoQ UHD</display-name>
+		<display-name>FoQ 720</display-name>
+		<display-name>FoQ 1080</display-name>
+		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/FoQ.png" />
 	</channel>
-	<channel id="Onetoro">
-		<display-name>Onetoro</display-name>
-		<display-name>Onetoro.TV</display-name>
-		<display-name>Onetoro SD</display-name>
-		<display-name>Onetoro HD</display-name>
-		<display-name>Onetoro FHD</display-name>
-		<display-name>Onetoro UHD</display-name>
-		<display-name>Onetoro 720</display-name>
-		<display-name>Onetoro 1080</display-name>
-		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Onetoro.png" />
+	<channel id="Clásicos atresplayer">
+		<display-name>Clásicos atresplayer</display-name>
+		<display-name>Clásicos atresplayer.TV</display-name>
+		<display-name>Clásicos atresplayer SD</display-name>
+		<display-name>Clásicos atresplayer HD</display-name>
+		<display-name>Clásicos atresplayer FHD</display-name>
+		<display-name>Clásicos atresplayer UHD</display-name>
+		<display-name>Clásicos atresplayer 720</display-name>
+		<display-name>Clásicos atresplayer 1080</display-name>
+		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Cl%C3%A1sicos%20atresplayer.png" />
 	</channel>
-	<channel id="Alacantí TV">
-		<display-name>Alacantí TV</display-name>
-		<display-name>Alacantí TV.TV</display-name>
-		<display-name>Alacantí TV SD</display-name>
-		<display-name>Alacantí TV HD</display-name>
-		<display-name>Alacantí TV FHD</display-name>
-		<display-name>Alacantí TV UHD</display-name>
-		<display-name>Alacantí TV 720</display-name>
-		<display-name>Alacantí TV 1080</display-name>
-		<icon src="https://alacantitv.com/wp-content/uploads/2024/03/logo-alacantitv-programacion.jpg" />
+	<channel id="Multicine atresplayer">
+		<display-name>Multicine atresplayer</display-name>
+		<display-name>Multicine atresplayer.TV</display-name>
+		<display-name>Multicine atresplayer SD</display-name>
+		<display-name>Multicine atresplayer HD</display-name>
+		<display-name>Multicine atresplayer FHD</display-name>
+		<display-name>Multicine atresplayer UHD</display-name>
+		<display-name>Multicine atresplayer 720</display-name>
+		<display-name>Multicine atresplayer 1080</display-name>
+		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Multicine%20atresplayer.png" />
 	</channel>
-	<channel id="Onda Cádiz TV">
-		<display-name>Onda Cádiz TV</display-name>
-		<display-name>Onda Cádiz TV.TV</display-name>
-		<display-name>Onda Cádiz TV SD</display-name>
-		<display-name>Onda Cádiz TV HD</display-name>
-		<display-name>Onda Cádiz TV FHD</display-name>
-		<display-name>Onda Cádiz TV UHD</display-name>
-		<display-name>Onda Cádiz TV 720</display-name>
-		<display-name>Onda Cádiz TV 1080</display-name>
-		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Onda%20C%C3%A1diz%20TV.png" />
+	<channel id="Comedia atresplayer">
+		<display-name>Comedia atresplayer</display-name>
+		<display-name>Comedia atresplayer.TV</display-name>
+		<display-name>Comedia atresplayer SD</display-name>
+		<display-name>Comedia atresplayer HD</display-name>
+		<display-name>Comedia atresplayer FHD</display-name>
+		<display-name>Comedia atresplayer UHD</display-name>
+		<display-name>Comedia atresplayer 720</display-name>
+		<display-name>Comedia atresplayer 1080</display-name>
+		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Comedia%20atresplayer.png" />
 	</channel>
-	<channel id="TVR Rioja">
-		<display-name>TVR Rioja</display-name>
-		<display-name>TVR Rioja.TV</display-name>
-		<display-name>TVR Rioja SD</display-name>
-		<display-name>TVR Rioja HD</display-name>
-		<display-name>TVR Rioja FHD</display-name>
-		<display-name>TVR Rioja UHD</display-name>
-		<display-name>TVR Rioja 720</display-name>
-		<display-name>TVR Rioja 1080</display-name>
-		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/TVR%20Rioja.png" />
+	<channel id="Inquietos atresplayer">
+		<display-name>Inquietos atresplayer</display-name>
+		<display-name>Inquietos atresplayer.TV</display-name>
+		<display-name>Inquietos atresplayer SD</display-name>
+		<display-name>Inquietos atresplayer HD</display-name>
+		<display-name>Inquietos atresplayer FHD</display-name>
+		<display-name>Inquietos atresplayer UHD</display-name>
+		<display-name>Inquietos atresplayer 720</display-name>
+		<display-name>Inquietos atresplayer 1080</display-name>
+		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Inquietos%20atresplayer.png" />
 	</channel>
-	<channel id="Popular TV Cantabria">
-		<display-name>Popular TV Cantabria</display-name>
-		<display-name>Popular TV Cantabria.TV</display-name>
-		<display-name>Popular TV Cantabria SD</display-name>
-		<display-name>Popular TV Cantabria HD</display-name>
-		<display-name>Popular TV Cantabria FHD</display-name>
-		<display-name>Popular TV Cantabria UHD</display-name>
-		<display-name>Popular TV Cantabria 720</display-name>
-		<display-name>Popular TV Cantabria 1080</display-name>
-		<icon src="https://populartvcantabria.com/wp-content/uploads/2022/10/cropped-logo-popular-horizontal-300x125.png" />
+	<channel id="Flooxer">
+		<display-name>Flooxer</display-name>
+		<display-name>Flooxer.TV</display-name>
+		<display-name>Flooxer SD</display-name>
+		<display-name>Flooxer HD</display-name>
+		<display-name>Flooxer FHD</display-name>
+		<display-name>Flooxer UHD</display-name>
+		<display-name>Flooxer 720</display-name>
+		<display-name>Flooxer 1080</display-name>
+		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Flooxer.png" />
 	</channel>
-	<channel id="interalmería TV">
-		<display-name>interalmería TV</display-name>
-		<display-name>interalmería TV.TV</display-name>
-		<display-name>interalmería TV SD</display-name>
-		<display-name>interalmería TV HD</display-name>
-		<display-name>interalmería TV FHD</display-name>
-		<display-name>interalmería TV UHD</display-name>
-		<display-name>interalmería TV 720</display-name>
-		<display-name>interalmería TV 1080</display-name>
-		<icon src="https://www.interalmeria.tv/wp-content/uploads/2019/01/iatv-mosca.png?x96146" />
+	<channel id="Kidz">
+		<display-name>Kidz</display-name>
+		<display-name>Kidz.TV</display-name>
+		<display-name>Kidz SD</display-name>
+		<display-name>Kidz HD</display-name>
+		<display-name>Kidz FHD</display-name>
+		<display-name>Kidz UHD</display-name>
+		<display-name>Kidz 720</display-name>
+		<display-name>Kidz 1080</display-name>
+		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Kidz.png" />
 	</channel>
-	<channel id="Huelva TV">
-		<display-name>Huelva TV</display-name>
-		<display-name>Huelva TV.TV</display-name>
-		<display-name>Huelva TV SD</display-name>
-		<display-name>Huelva TV HD</display-name>
-		<display-name>Huelva TV FHD</display-name>
-		<display-name>Huelva TV UHD</display-name>
-		<display-name>Huelva TV 720</display-name>
-		<display-name>Huelva TV 1080</display-name>
-		<icon src="https://huelvatv.com/wp-content/uploads/2024/11/70_Huelva_TV_Logotipo_AZUL.png" />
+	<channel id="ATRESplayer PREMIUM">
+		<display-name>ATRESplayer PREMIUM</display-name>
+		<display-name>ATRESplayer PREMIUM.TV</display-name>
+		<display-name>ATRESplayer PREMIUM SD</display-name>
+		<display-name>ATRESplayer PREMIUM HD</display-name>
+		<display-name>ATRESplayer PREMIUM FHD</display-name>
+		<display-name>ATRESplayer PREMIUM UHD</display-name>
+		<display-name>ATRESplayer PREMIUM 720</display-name>
+		<display-name>ATRESplayer PREMIUM 1080</display-name>
+		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/ATRESplayer%20PREMIUM.png" />
 	</channel>
-	<channel id="Elche 7 TV">
-		<display-name>Elche 7 TV</display-name>
-		<display-name>Elche 7 TV.TV</display-name>
-		<display-name>Elche 7 TV SD</display-name>
-		<display-name>Elche 7 TV HD</display-name>
-		<display-name>Elche 7 TV FHD</display-name>
-		<display-name>Elche 7 TV UHD</display-name>
-		<display-name>Elche 7 TV 720</display-name>
-		<display-name>Elche 7 TV 1080</display-name>
-		<icon src="https://elche7tv.es/wp-content/uploads/2023/08/Web-Retina-Logo-Upload-544-%C3%97-180-px.png" />
+	<channel id="Infinity En la calle">
+		<display-name>Infinity En la calle</display-name>
+		<display-name>Infinity En la calle.TV</display-name>
+		<display-name>Infinity En la calle SD</display-name>
+		<display-name>Infinity En la calle HD</display-name>
+		<display-name>Infinity En la calle FHD</display-name>
+		<display-name>Infinity En la calle UHD</display-name>
+		<display-name>Infinity En la calle 720</display-name>
+		<display-name>Infinity En la calle 1080</display-name>
+		<icon src="https://img-prod-api2.mediasetplay.mediaset.it/api/images/by/v5/esp/aHR0cHM6Ly9kYW0uY2xvdWQubWVkaWFzZXQubmV0L20vMTA2ZGM0N2JhNmQ1ODMyNy9vcmlnaW5hbC9DaGFubmVsLWxvZ29fSW5maW5pdHktRW4tbGEtY2FsbGUucG5n/single/87/87@2?r=%202x&quot;%20media=&quot;(max-width:%201023px)|https://img-prod-api2.mediasetplay.mediaset.it/api/images/by/v5/esp/aHR0cHM6Ly9kYW0uY2xvdWQubWVkaWFzZXQubmV0L20vMTA2ZGM0N2JhNmQ1ODMyNy9vcmlnaW5hbC9DaGFubmVsLWxvZ29fSW5maW5pdHktRW4tbGEtY2FsbGUucG5n/single/87/87@2?r=%202x&quot;%20media=&quot;(max-width:%201023px)|https://img-prod-api2.mediasetplay.mediaset.it/api/images/by/v5/esp/aHR0cHM6Ly9kYW0uY2xvdWQubWVkaWFzZXQubmV0L20vMTA2ZGM0N2JhNmQ1ODMyNy9vcmlnaW5hbC9DaGFubmVsLWxvZ29fSW5maW5pdHktRW4tbGEtY2FsbGUucG5n/single/87/87@2?r=%202x&quot;%20media=&quot;(max-width:%201023px)|https://img-prod-api2.mediasetplay.mediaset.it/api/images/by/v5/esp/aHR0cHM6Ly9kYW0uY2xvdWQubWVkaWFzZXQubmV0L20vMTA2ZGM0N2JhNmQ1ODMyNy9vcmlnaW5hbC9DaGFubmVsLWxvZ29fSW5maW5pdHktRW4tbGEtY2FsbGUucG5n/single/87/87@2?r=%202x&quot;%20media=&quot;(max-width:%201023px)|https://img-prod-api2.mediasetplay.mediaset.it/api/images/by/v5/esp/aHR0cHM6Ly9kYW0uY2xvdWQubWVkaWFzZXQubmV0L20vMTA2ZGM0N2JhNmQ1ODMyNy9vcmlnaW5hbC9DaGFubmVsLWxvZ29fSW5maW5pdHktRW4tbGEtY2FsbGUucG5n/single/87/87@2?r=%202x&quot;%20media=&quot;(max-width:%201023px)|https://img-prod-api2.mediasetplay.mediaset.it/api/images/by/v5/esp/aHR0cHM6Ly9kYW0uY2xvdWQubWVkaWFzZXQubmV0L20vMTA2ZGM0N2JhNmQ1ODMyNy9vcmlnaW5hbC9DaGFubmVsLWxvZ29fSW5maW5pdHktRW4tbGEtY2FsbGUucG5n/single/87/87@2?r=%202x&quot;%20media=&quot;(max-width:%201023px)|https://img-prod-api2.mediasetplay.mediaset.it/api/images/by/v5/esp/aHR0cHM6Ly9kYW0uY2xvdWQubWVkaWFzZXQubmV0L20vMTA2ZGM0N2JhNmQ1ODMyNy9vcmlnaW5hbC9DaGFubmVsLWxvZ29fSW5maW5pdHktRW4tbGEtY2FsbGUucG5n/single/87/87@2?r=%202x&quot;%20media=&quot;(max-width:%201023px)" />
 	</channel>
-	<channel id="TV Melilla">
-		<display-name>TV Melilla</display-name>
-		<display-name>TV Melilla.TV</display-name>
-		<display-name>TV Melilla SD</display-name>
-		<display-name>TV Melilla HD</display-name>
-		<display-name>TV Melilla FHD</display-name>
-		<display-name>TV Melilla UHD</display-name>
-		<display-name>TV Melilla 720</display-name>
-		<display-name>TV Melilla 1080</display-name>
-		<icon src="https://th.bing.com/th/id/OIP.lq_9H8H5nXXUHfAoNQJJnQHaHa?w=80&amp;h=80&amp;c=1&amp;bgcl=f47899&amp;r=0&amp;o=7&amp;dpr=1.1&amp;pid=ImgRC&amp;rm=3" />
+	<channel id="Infinity Viajes">
+		<display-name>Infinity Viajes</display-name>
+		<display-name>Infinity Viajes.TV</display-name>
+		<display-name>Infinity Viajes SD</display-name>
+		<display-name>Infinity Viajes HD</display-name>
+		<display-name>Infinity Viajes FHD</display-name>
+		<display-name>Infinity Viajes UHD</display-name>
+		<display-name>Infinity Viajes 720</display-name>
+		<display-name>Infinity Viajes 1080</display-name>
+		<icon src="https://img-prod-api2.mediasetplay.mediaset.it/api/images/by/v5/esp/aHR0cHM6Ly9kYW0uY2xvdWQubWVkaWFzZXQubmV0L20vMTVjMWUyNWJhZjhkNjE4MC9vcmlnaW5hbC9DaGFubmVsLWxvZ29fSW5maW5pdHktVmlhamVzLnBuZw/single/87/87@2?r=%202x&quot;%20media=&quot;(max-width:%201023px)|https://img-prod-api2.mediasetplay.mediaset.it/api/images/by/v5/esp/aHR0cHM6Ly9kYW0uY2xvdWQubWVkaWFzZXQubmV0L20vMTVjMWUyNWJhZjhkNjE4MC9vcmlnaW5hbC9DaGFubmVsLWxvZ29fSW5maW5pdHktVmlhamVzLnBuZw/single/87/87@2?r=%202x&quot;%20media=&quot;(max-width:%201023px)|https://img-prod-api2.mediasetplay.mediaset.it/api/images/by/v5/esp/aHR0cHM6Ly9kYW0uY2xvdWQubWVkaWFzZXQubmV0L20vMTVjMWUyNWJhZjhkNjE4MC9vcmlnaW5hbC9DaGFubmVsLWxvZ29fSW5maW5pdHktVmlhamVzLnBuZw/single/87/87@2?r=%202x&quot;%20media=&quot;(max-width:%201023px)|https://img-prod-api2.mediasetplay.mediaset.it/api/images/by/v5/esp/aHR0cHM6Ly9kYW0uY2xvdWQubWVkaWFzZXQubmV0L20vMTVjMWUyNWJhZjhkNjE4MC9vcmlnaW5hbC9DaGFubmVsLWxvZ29fSW5maW5pdHktVmlhamVzLnBuZw/single/87/87@2?r=%202x&quot;%20media=&quot;(max-width:%201023px)|https://img-prod-api2.mediasetplay.mediaset.it/api/images/by/v5/esp/aHR0cHM6Ly9kYW0uY2xvdWQubWVkaWFzZXQubmV0L20vMTVjMWUyNWJhZjhkNjE4MC9vcmlnaW5hbC9DaGFubmVsLWxvZ29fSW5maW5pdHktVmlhamVzLnBuZw/single/87/87@2?r=%202x&quot;%20media=&quot;(max-width:%201023px)|https://img-prod-api2.mediasetplay.mediaset.it/api/images/by/v5/esp/aHR0cHM6Ly9kYW0uY2xvdWQubWVkaWFzZXQubmV0L20vMTVjMWUyNWJhZjhkNjE4MC9vcmlnaW5hbC9DaGFubmVsLWxvZ29fSW5maW5pdHktVmlhamVzLnBuZw/single/87/87@2?r=%202x&quot;%20media=&quot;(max-width:%201023px)|https://img-prod-api2.mediasetplay.mediaset.it/api/images/by/v5/esp/aHR0cHM6Ly9kYW0uY2xvdWQubWVkaWFzZXQubmV0L20vMTVjMWUyNWJhZjhkNjE4MC9vcmlnaW5hbC9DaGFubmVsLWxvZ29fSW5maW5pdHktVmlhamVzLnBuZw/single/87/87@2?r=%202x&quot;%20media=&quot;(max-width:%201023px)" />
+	</channel>
+	<channel id="Infinity Comedia">
+		<display-name>Infinity Comedia</display-name>
+		<display-name>Infinity Comedia.TV</display-name>
+		<display-name>Infinity Comedia SD</display-name>
+		<display-name>Infinity Comedia HD</display-name>
+		<display-name>Infinity Comedia FHD</display-name>
+		<display-name>Infinity Comedia UHD</display-name>
+		<display-name>Infinity Comedia 720</display-name>
+		<display-name>Infinity Comedia 1080</display-name>
+		<icon src="https://img-prod-api2.mediasetplay.mediaset.it/api/images/by/v5/esp/aHR0cHM6Ly9kYW0uY2xvdWQubWVkaWFzZXQubmV0L20vNmFhMmMyNDRhYTUzMmEyNS9vcmlnaW5hbC9DaGFubmVsLWxvZ29fSW5maW5pdHktQ29tZWRpYS5wbmc/single/87/87@2?r=%202x&quot;%20media=&quot;(max-width:%201023px)|https://img-prod-api2.mediasetplay.mediaset.it/api/images/by/v5/esp/aHR0cHM6Ly9kYW0uY2xvdWQubWVkaWFzZXQubmV0L20vNmFhMmMyNDRhYTUzMmEyNS9vcmlnaW5hbC9DaGFubmVsLWxvZ29fSW5maW5pdHktQ29tZWRpYS5wbmc/single/87/87@2?r=%202x&quot;%20media=&quot;(max-width:%201023px)|https://img-prod-api2.mediasetplay.mediaset.it/api/images/by/v5/esp/aHR0cHM6Ly9kYW0uY2xvdWQubWVkaWFzZXQubmV0L20vNmFhMmMyNDRhYTUzMmEyNS9vcmlnaW5hbC9DaGFubmVsLWxvZ29fSW5maW5pdHktQ29tZWRpYS5wbmc/single/87/87@2?r=%202x&quot;%20media=&quot;(max-width:%201023px)|https://img-prod-api2.mediasetplay.mediaset.it/api/images/by/v5/esp/aHR0cHM6Ly9kYW0uY2xvdWQubWVkaWFzZXQubmV0L20vNmFhMmMyNDRhYTUzMmEyNS9vcmlnaW5hbC9DaGFubmVsLWxvZ29fSW5maW5pdHktQ29tZWRpYS5wbmc/single/87/87@2?r=%202x&quot;%20media=&quot;(max-width:%201023px)|https://img-prod-api2.mediasetplay.mediaset.it/api/images/by/v5/esp/aHR0cHM6Ly9kYW0uY2xvdWQubWVkaWFzZXQubmV0L20vNmFhMmMyNDRhYTUzMmEyNS9vcmlnaW5hbC9DaGFubmVsLWxvZ29fSW5maW5pdHktQ29tZWRpYS5wbmc/single/87/87@2?r=%202x&quot;%20media=&quot;(max-width:%201023px)|https://img-prod-api2.mediasetplay.mediaset.it/api/images/by/v5/esp/aHR0cHM6Ly9kYW0uY2xvdWQubWVkaWFzZXQubmV0L20vNmFhMmMyNDRhYTUzMmEyNS9vcmlnaW5hbC9DaGFubmVsLWxvZ29fSW5maW5pdHktQ29tZWRpYS5wbmc/single/87/87@2?r=%202x&quot;%20media=&quot;(max-width:%201023px)|https://img-prod-api2.mediasetplay.mediaset.it/api/images/by/v5/esp/aHR0cHM6Ly9kYW0uY2xvdWQubWVkaWFzZXQubmV0L20vNmFhMmMyNDRhYTUzMmEyNS9vcmlnaW5hbC9DaGFubmVsLWxvZ29fSW5maW5pdHktQ29tZWRpYS5wbmc/single/87/87@2?r=%202x&quot;%20media=&quot;(max-width:%201023px)" />
+	</channel>
+	<channel id="Infinity Top Series">
+		<display-name>Infinity Top Series</display-name>
+		<display-name>Infinity Top Series.TV</display-name>
+		<display-name>Infinity Top Series SD</display-name>
+		<display-name>Infinity Top Series HD</display-name>
+		<display-name>Infinity Top Series FHD</display-name>
+		<display-name>Infinity Top Series UHD</display-name>
+		<display-name>Infinity Top Series 720</display-name>
+		<display-name>Infinity Top Series 1080</display-name>
+		<icon src="https://img-prod-api2.mediasetplay.mediaset.it/api/images/by/v5/esp/aHR0cHM6Ly9kYW0uY2xvdWQubWVkaWFzZXQubmV0L20vMmE2YTBiNDYzYjI4YTRlL29yaWdpbmFsL0NoYW5uZWwtbG9nb19JbmZpbml0eS1Ub3AtU2VyaWVzLnBuZw/single/87/87@2?r=%202x&quot;%20media=&quot;(max-width:%201023px)|https://img-prod-api2.mediasetplay.mediaset.it/api/images/by/v5/esp/aHR0cHM6Ly9kYW0uY2xvdWQubWVkaWFzZXQubmV0L20vMmE2YTBiNDYzYjI4YTRlL29yaWdpbmFsL0NoYW5uZWwtbG9nb19JbmZpbml0eS1Ub3AtU2VyaWVzLnBuZw/single/87/87@2?r=%202x&quot;%20media=&quot;(max-width:%201023px)|https://img-prod-api2.mediasetplay.mediaset.it/api/images/by/v5/esp/aHR0cHM6Ly9kYW0uY2xvdWQubWVkaWFzZXQubmV0L20vMmE2YTBiNDYzYjI4YTRlL29yaWdpbmFsL0NoYW5uZWwtbG9nb19JbmZpbml0eS1Ub3AtU2VyaWVzLnBuZw/single/87/87@2?r=%202x&quot;%20media=&quot;(max-width:%201023px)|https://img-prod-api2.mediasetplay.mediaset.it/api/images/by/v5/esp/aHR0cHM6Ly9kYW0uY2xvdWQubWVkaWFzZXQubmV0L20vMmE2YTBiNDYzYjI4YTRlL29yaWdpbmFsL0NoYW5uZWwtbG9nb19JbmZpbml0eS1Ub3AtU2VyaWVzLnBuZw/single/87/87@2?r=%202x&quot;%20media=&quot;(max-width:%201023px)|https://img-prod-api2.mediasetplay.mediaset.it/api/images/by/v5/esp/aHR0cHM6Ly9kYW0uY2xvdWQubWVkaWFzZXQubmV0L20vMmE2YTBiNDYzYjI4YTRlL29yaWdpbmFsL0NoYW5uZWwtbG9nb19JbmZpbml0eS1Ub3AtU2VyaWVzLnBuZw/single/87/87@2?r=%202x&quot;%20media=&quot;(max-width:%201023px)|https://img-prod-api2.mediasetplay.mediaset.it/api/images/by/v5/esp/aHR0cHM6Ly9kYW0uY2xvdWQubWVkaWFzZXQubmV0L20vMmE2YTBiNDYzYjI4YTRlL29yaWdpbmFsL0NoYW5uZWwtbG9nb19JbmZpbml0eS1Ub3AtU2VyaWVzLnBuZw/single/87/87@2?r=%202x&quot;%20media=&quot;(max-width:%201023px)|https://img-prod-api2.mediasetplay.mediaset.it/api/images/by/v5/esp/aHR0cHM6Ly9kYW0uY2xvdWQubWVkaWFzZXQubmV0L20vMmE2YTBiNDYzYjI4YTRlL29yaWdpbmFsL0NoYW5uZWwtbG9nb19JbmZpbml0eS1Ub3AtU2VyaWVzLnBuZw/single/87/87@2?r=%202x&quot;%20media=&quot;(max-width:%201023px)" />
+	</channel>
+	<channel id="Infinity+ LQSA">
+		<display-name>Infinity+ LQSA</display-name>
+		<display-name>Infinity+ LQSA.TV</display-name>
+		<display-name>Infinity+ LQSA SD</display-name>
+		<display-name>Infinity+ LQSA HD</display-name>
+		<display-name>Infinity+ LQSA FHD</display-name>
+		<display-name>Infinity+ LQSA UHD</display-name>
+		<display-name>Infinity+ LQSA 720</display-name>
+		<display-name>Infinity+ LQSA 1080</display-name>
+		<icon src="https://img-prod-api2.mediasetplay.mediaset.it/api/images/by/v5/esp/aHR0cHM6Ly9kYW0uY2xvdWQubWVkaWFzZXQubmV0L20vOWQ1ZTZkNWFmNDM0OTNkL29yaWdpbmFsL0NoYW5uZWwtbG9nb19JbmZpbml0eS1MUVNBLnBuZw/single/87/87@2?r=%202x&quot;%20media=&quot;(max-width:%201023px)|https://img-prod-api2.mediasetplay.mediaset.it/api/images/by/v5/esp/aHR0cHM6Ly9kYW0uY2xvdWQubWVkaWFzZXQubmV0L20vOWQ1ZTZkNWFmNDM0OTNkL29yaWdpbmFsL0NoYW5uZWwtbG9nb19JbmZpbml0eS1MUVNBLnBuZw/single/87/87@2?r=%202x&quot;%20media=&quot;(max-width:%201023px)|https://img-prod-api2.mediasetplay.mediaset.it/api/images/by/v5/esp/aHR0cHM6Ly9kYW0uY2xvdWQubWVkaWFzZXQubmV0L20vOWQ1ZTZkNWFmNDM0OTNkL29yaWdpbmFsL0NoYW5uZWwtbG9nb19JbmZpbml0eS1MUVNBLnBuZw/single/87/87@2?r=%202x&quot;%20media=&quot;(max-width:%201023px)|https://img-prod-api2.mediasetplay.mediaset.it/api/images/by/v5/esp/aHR0cHM6Ly9kYW0uY2xvdWQubWVkaWFzZXQubmV0L20vOWQ1ZTZkNWFmNDM0OTNkL29yaWdpbmFsL0NoYW5uZWwtbG9nb19JbmZpbml0eS1MUVNBLnBuZw/single/87/87@2?r=%202x&quot;%20media=&quot;(max-width:%201023px)|https://img-prod-api2.mediasetplay.mediaset.it/api/images/by/v5/esp/aHR0cHM6Ly9kYW0uY2xvdWQubWVkaWFzZXQubmV0L20vOWQ1ZTZkNWFmNDM0OTNkL29yaWdpbmFsL0NoYW5uZWwtbG9nb19JbmZpbml0eS1MUVNBLnBuZw/single/87/87@2?r=%202x&quot;%20media=&quot;(max-width:%201023px)|https://img-prod-api2.mediasetplay.mediaset.it/api/images/by/v5/esp/aHR0cHM6Ly9kYW0uY2xvdWQubWVkaWFzZXQubmV0L20vOWQ1ZTZkNWFmNDM0OTNkL29yaWdpbmFsL0NoYW5uZWwtbG9nb19JbmZpbml0eS1MUVNBLnBuZw/single/87/87@2?r=%202x&quot;%20media=&quot;(max-width:%201023px)|https://img-prod-api2.mediasetplay.mediaset.it/api/images/by/v5/esp/aHR0cHM6Ly9kYW0uY2xvdWQubWVkaWFzZXQubmV0L20vOWQ1ZTZkNWFmNDM0OTNkL29yaWdpbmFsL0NoYW5uZWwtbG9nb19JbmZpbml0eS1MUVNBLnBuZw/single/87/87@2?r=%202x&quot;%20media=&quot;(max-width:%201023px)" />
 	</channel>
 	<channel id="Sony One Shark Tank">
 		<display-name>Sony One Shark Tank</display-name>
@@ -4719,83 +4884,6 @@
 		<display-name>NBA TV 1080</display-name>
 		<icon src="https://cdn.nba.com/logos/leagues/logo-nba.svg" />
 	</channel>
-	<channel id="Torolé TV">
-		<display-name>Torolé TV</display-name>
-		<display-name>Torolé TV.TV</display-name>
-		<display-name>Torolé TV SD</display-name>
-		<display-name>Torolé TV HD</display-name>
-		<display-name>Torolé TV FHD</display-name>
-		<display-name>Torolé TV UHD</display-name>
-		<display-name>Torolé TV 720</display-name>
-		<display-name>Torolé TV 1080</display-name>
-		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Torol%C3%A9%20TV.png" />
-	</channel>
-	<channel id="Iberalia pesca">
-		<display-name>Iberalia pesca</display-name>
-		<display-name>Iberalia pesca.TV</display-name>
-		<display-name>Iberalia pesca SD</display-name>
-		<display-name>Iberalia pesca HD</display-name>
-		<display-name>Iberalia pesca FHD</display-name>
-		<display-name>Iberalia pesca UHD</display-name>
-		<display-name>Iberalia pesca 720</display-name>
-		<display-name>Iberalia pesca 1080</display-name>
-		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Iberalia%20pesca.png" />
-	</channel>
-	<channel id="Iberalia caza">
-		<display-name>Iberalia caza</display-name>
-		<display-name>Iberalia caza.TV</display-name>
-		<display-name>Iberalia caza SD</display-name>
-		<display-name>Iberalia caza HD</display-name>
-		<display-name>Iberalia caza FHD</display-name>
-		<display-name>Iberalia caza UHD</display-name>
-		<display-name>Iberalia caza 720</display-name>
-		<display-name>Iberalia caza 1080</display-name>
-		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Iberalia%20caza.png" />
-	</channel>
-	<channel id="Global Telenovelas">
-		<display-name>Global Telenovelas</display-name>
-		<display-name>Global Telenovelas.TV</display-name>
-		<display-name>Global Telenovelas SD</display-name>
-		<display-name>Global Telenovelas HD</display-name>
-		<display-name>Global Telenovelas FHD</display-name>
-		<display-name>Global Telenovelas UHD</display-name>
-		<display-name>Global Telenovelas 720</display-name>
-		<display-name>Global Telenovelas 1080</display-name>
-		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Global%20Telenovelas.png" />
-	</channel>
-	<channel id="Global Tendencias">
-		<display-name>Global Tendencias</display-name>
-		<display-name>Global Tendencias.TV</display-name>
-		<display-name>Global Tendencias SD</display-name>
-		<display-name>Global Tendencias HD</display-name>
-		<display-name>Global Tendencias FHD</display-name>
-		<display-name>Global Tendencias UHD</display-name>
-		<display-name>Global Tendencias 720</display-name>
-		<display-name>Global Tendencias 1080</display-name>
-		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Global%20Tendencias.png" />
-	</channel>
-	<channel id="Fight Time">
-		<display-name>Fight Time</display-name>
-		<display-name>Fight Time.TV</display-name>
-		<display-name>Fight Time SD</display-name>
-		<display-name>Fight Time HD</display-name>
-		<display-name>Fight Time FHD</display-name>
-		<display-name>Fight Time UHD</display-name>
-		<display-name>Fight Time 720</display-name>
-		<display-name>Fight Time 1080</display-name>
-		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Fight%20Time.png" />
-	</channel>
-	<channel id="DBike">
-		<display-name>DBike</display-name>
-		<display-name>DBike.TV</display-name>
-		<display-name>DBike SD</display-name>
-		<display-name>DBike HD</display-name>
-		<display-name>DBike FHD</display-name>
-		<display-name>DBike UHD</display-name>
-		<display-name>DBike 720</display-name>
-		<display-name>DBike 1080</display-name>
-		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DBike.png" />
-	</channel>
 	<channel id="Náutica TV">
 		<display-name>Náutica TV</display-name>
 		<display-name>Náutica TV.TV</display-name>
@@ -4806,17 +4894,6 @@
 		<display-name>Náutica TV 720</display-name>
 		<display-name>Náutica TV 1080</display-name>
 		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/N%C3%A1utica%20TV.png" />
-	</channel>
-	<channel id="Antena Motor">
-		<display-name>Antena Motor</display-name>
-		<display-name>Antena Motor.TV</display-name>
-		<display-name>Antena Motor SD</display-name>
-		<display-name>Antena Motor HD</display-name>
-		<display-name>Antena Motor FHD</display-name>
-		<display-name>Antena Motor UHD</display-name>
-		<display-name>Antena Motor 720</display-name>
-		<display-name>Antena Motor 1080</display-name>
-		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Antena%20Motor.png" />
 	</channel>
 	<channel id="Dhípica">
 		<display-name>Dhípica</display-name>
@@ -4829,16 +4906,16 @@
 		<display-name>Dhípica 1080</display-name>
 		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Dh%C3%ADpica.png" />
 	</channel>
-	<channel id="REKTV">
-		<display-name>REKTV</display-name>
-		<display-name>REKTV.TV</display-name>
-		<display-name>REKTV SD</display-name>
-		<display-name>REKTV HD</display-name>
-		<display-name>REKTV FHD</display-name>
-		<display-name>REKTV UHD</display-name>
-		<display-name>REKTV 720</display-name>
-		<display-name>REKTV 1080</display-name>
-		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/REKTV.png" />
+	<channel id="Fight Time">
+		<display-name>Fight Time</display-name>
+		<display-name>Fight Time.TV</display-name>
+		<display-name>Fight Time SD</display-name>
+		<display-name>Fight Time HD</display-name>
+		<display-name>Fight Time FHD</display-name>
+		<display-name>Fight Time UHD</display-name>
+		<display-name>Fight Time 720</display-name>
+		<display-name>Fight Time 1080</display-name>
+		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Fight%20Time.png" />
 	</channel>
 	<channel id="tlnovelas">
 		<display-name>tlnovelas</display-name>
@@ -5279,6 +5356,7 @@
 		<display-name>Todo Crimen (Rakuten TV) 720</display-name>
 		<display-name>Todo Crimen (Rakuten TV) 1080</display-name>
 		<icon src="https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork-negative/8fb33036-37c7-478c-930f-f8f6230a5c32.png" />
+		<icon src="https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork-negative/e058d349-db97-4c0b-a9dd-477147a1d473.png" />
 		<icon src="https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork-negative/e058d349-db97-4c0b-a9dd-477147a1d473.png" />
 	</channel>
 	<channel id="Crimen (Rakuten TV)">
