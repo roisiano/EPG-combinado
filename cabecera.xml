@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tv generator-info-name="dobleM 18/03/2026 20:48" generator-info-url="t.me/EPG_dobleM">
+<tv generator-info-name="dobleM 19/03/2026 20:47" generator-info-url="t.me/EPG_dobleM">
 	<channel id="La 1 HD">
 		<display-name>La 1</display-name>
 		<display-name>La 1.TV</display-name>
@@ -891,27 +891,27 @@
 		<display-name>La 7 CyL 1080</display-name>
 		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/La%207%20CyL.png" />
 	</channel>
-	<channel id="ETB1">
-		<display-name>ETB1</display-name>
-		<display-name>ETB1.TV</display-name>
-		<display-name>ETB1 SD</display-name>
-		<display-name>ETB1 HD</display-name>
-		<display-name>ETB1 FHD</display-name>
-		<display-name>ETB1 UHD</display-name>
-		<display-name>ETB1 720</display-name>
-		<display-name>ETB1 1080</display-name>
-		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/ETB1.png" />
+	<channel id="etb1">
+		<display-name>etb1</display-name>
+		<display-name>etb1.TV</display-name>
+		<display-name>etb1 SD</display-name>
+		<display-name>etb1 HD</display-name>
+		<display-name>etb1 FHD</display-name>
+		<display-name>etb1 UHD</display-name>
+		<display-name>etb1 720</display-name>
+		<display-name>etb1 1080</display-name>
+		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/etb1.png" />
 	</channel>
-	<channel id="ETB2">
-		<display-name>ETB2</display-name>
-		<display-name>ETB2.TV</display-name>
-		<display-name>ETB2 SD</display-name>
-		<display-name>ETB2 HD</display-name>
-		<display-name>ETB2 FHD</display-name>
-		<display-name>ETB2 UHD</display-name>
-		<display-name>ETB2 720</display-name>
-		<display-name>ETB2 1080</display-name>
-		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/ETB2.png" />
+	<channel id="etb2">
+		<display-name>etb2</display-name>
+		<display-name>etb2.TV</display-name>
+		<display-name>etb2 SD</display-name>
+		<display-name>etb2 HD</display-name>
+		<display-name>etb2 FHD</display-name>
+		<display-name>etb2 UHD</display-name>
+		<display-name>etb2 720</display-name>
+		<display-name>etb2 1080</display-name>
+		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/etb2.png" />
 	</channel>
 	<channel id="TVG">
 		<display-name>TVG</display-name>
@@ -1177,16 +1177,27 @@
 		<display-name>Ten 1080</display-name>
 		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Ten.png" />
 	</channel>
-	<channel id="ETB3">
-		<display-name>ETB3</display-name>
-		<display-name>ETB3.TV</display-name>
-		<display-name>ETB3 SD</display-name>
-		<display-name>ETB3 HD</display-name>
-		<display-name>ETB3 FHD</display-name>
-		<display-name>ETB3 UHD</display-name>
-		<display-name>ETB3 720</display-name>
-		<display-name>ETB3 1080</display-name>
-		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/ETB3.png" />
+	<channel id="etb1ON">
+		<display-name>etb1ON</display-name>
+		<display-name>etb1ON.TV</display-name>
+		<display-name>etb1ON SD</display-name>
+		<display-name>etb1ON HD</display-name>
+		<display-name>etb1ON FHD</display-name>
+		<display-name>etb1ON UHD</display-name>
+		<display-name>etb1ON 720</display-name>
+		<display-name>etb1ON 1080</display-name>
+		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/etb1ON.png" />
+	</channel>
+	<channel id="etb2ON">
+		<display-name>etb2ON</display-name>
+		<display-name>etb2ON.TV</display-name>
+		<display-name>etb2ON SD</display-name>
+		<display-name>etb2ON HD</display-name>
+		<display-name>etb2ON FHD</display-name>
+		<display-name>etb2ON UHD</display-name>
+		<display-name>etb2ON 720</display-name>
+		<display-name>etb2ON 1080</display-name>
+		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/etb2ON.png" />
 	</channel>
 	<channel id="EuroNews">
 		<display-name>EuroNews</display-name>
@@ -1297,17 +1308,6 @@
 		<display-name>EWTN 720</display-name>
 		<display-name>EWTN 1080</display-name>
 		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/EWTN.png" />
-	</channel>
-	<channel id="EITB Basque">
-		<display-name>EITB Basque</display-name>
-		<display-name>EITB Basque.TV</display-name>
-		<display-name>EITB Basque SD</display-name>
-		<display-name>EITB Basque HD</display-name>
-		<display-name>EITB Basque FHD</display-name>
-		<display-name>EITB Basque UHD</display-name>
-		<display-name>EITB Basque 720</display-name>
-		<display-name>EITB Basque 1080</display-name>
-		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/EITB%20Basque.png" />
 	</channel>
 	<channel id="Telemadrid Internacional">
 		<display-name>Telemadrid Internacional</display-name>
@@ -3157,17 +3157,6 @@
 		<display-name>La 7 Rioja 1080</display-name>
 		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/La%207%20Rioja.png" />
 	</channel>
-	<channel id="ETB4">
-		<display-name>ETB4</display-name>
-		<display-name>ETB4.TV</display-name>
-		<display-name>ETB4 SD</display-name>
-		<display-name>ETB4 HD</display-name>
-		<display-name>ETB4 FHD</display-name>
-		<display-name>ETB4 UHD</display-name>
-		<display-name>ETB4 720</display-name>
-		<display-name>ETB4 1080</display-name>
-		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/ETB4.png" />
-	</channel>
 	<channel id="TPA7 Asturias">
 		<display-name>TPA7 Asturias</display-name>
 		<display-name>TPA7 Asturias.TV</display-name>
@@ -3509,60 +3498,47 @@
 		<display-name>AZ Corazón 1080</display-name>
 		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/AZ%20Coraz%C3%B3n.png" />
 	</channel>
-	<channel id="ETB1 euskera">
-		<display-name>ETB1 euskera</display-name>
-		<display-name>ETB1 euskera.TV</display-name>
-		<display-name>ETB1 euskera SD</display-name>
-		<display-name>ETB1 euskera HD</display-name>
-		<display-name>ETB1 euskera FHD</display-name>
-		<display-name>ETB1 euskera UHD</display-name>
-		<display-name>ETB1 euskera 720</display-name>
-		<display-name>ETB1 euskera 1080</display-name>
-		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/ETB1%20euskera.png" />
+	<channel id="etb1 euskera">
+		<display-name>etb1 euskera</display-name>
+		<display-name>etb1 euskera.TV</display-name>
+		<display-name>etb1 euskera SD</display-name>
+		<display-name>etb1 euskera HD</display-name>
+		<display-name>etb1 euskera FHD</display-name>
+		<display-name>etb1 euskera UHD</display-name>
+		<display-name>etb1 euskera 720</display-name>
+		<display-name>etb1 euskera 1080</display-name>
+		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/etb1%20euskera.png" />
 	</channel>
-	<channel id="ETB2 euskera">
-		<display-name>ETB2 euskera</display-name>
-		<display-name>ETB2 euskera.TV</display-name>
-		<display-name>ETB2 euskera SD</display-name>
-		<display-name>ETB2 euskera HD</display-name>
-		<display-name>ETB2 euskera FHD</display-name>
-		<display-name>ETB2 euskera UHD</display-name>
-		<display-name>ETB2 euskera 720</display-name>
-		<display-name>ETB2 euskera 1080</display-name>
-		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/ETB2%20euskera.png" />
+	<channel id="etb2 euskera">
+		<display-name>etb2 euskera</display-name>
+		<display-name>etb2 euskera.TV</display-name>
+		<display-name>etb2 euskera SD</display-name>
+		<display-name>etb2 euskera HD</display-name>
+		<display-name>etb2 euskera FHD</display-name>
+		<display-name>etb2 euskera UHD</display-name>
+		<display-name>etb2 euskera 720</display-name>
+		<display-name>etb2 euskera 1080</display-name>
+		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/etb2%20euskera.png" />
 	</channel>
-	<channel id="ETB3 euskera">
-		<display-name>ETB3 euskera</display-name>
-		<display-name>ETB3 euskera.TV</display-name>
-		<display-name>ETB3 euskera SD</display-name>
-		<display-name>ETB3 euskera HD</display-name>
-		<display-name>ETB3 euskera FHD</display-name>
-		<display-name>ETB3 euskera UHD</display-name>
-		<display-name>ETB3 euskera 720</display-name>
-		<display-name>ETB3 euskera 1080</display-name>
-		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/ETB3%20euskera.png" />
+	<channel id="etb1ON euskera">
+		<display-name>etb1ON euskera</display-name>
+		<display-name>etb1ON euskera.TV</display-name>
+		<display-name>etb1ON euskera SD</display-name>
+		<display-name>etb1ON euskera HD</display-name>
+		<display-name>etb1ON euskera FHD</display-name>
+		<display-name>etb1ON euskera UHD</display-name>
+		<display-name>etb1ON euskera 720</display-name>
+		<display-name>etb1ON euskera 1080</display-name>
 	</channel>
-	<channel id="ETB4 euskera">
-		<display-name>ETB4 euskera</display-name>
-		<display-name>ETB4 euskera.TV</display-name>
-		<display-name>ETB4 euskera SD</display-name>
-		<display-name>ETB4 euskera HD</display-name>
-		<display-name>ETB4 euskera FHD</display-name>
-		<display-name>ETB4 euskera UHD</display-name>
-		<display-name>ETB4 euskera 720</display-name>
-		<display-name>ETB4 euskera 1080</display-name>
-		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/ETB4%20euskera.png" />
-	</channel>
-	<channel id="EITB Basque euskera">
-		<display-name>EITB Basque euskera</display-name>
-		<display-name>EITB Basque euskera.TV</display-name>
-		<display-name>EITB Basque euskera SD</display-name>
-		<display-name>EITB Basque euskera HD</display-name>
-		<display-name>EITB Basque euskera FHD</display-name>
-		<display-name>EITB Basque euskera UHD</display-name>
-		<display-name>EITB Basque euskera 720</display-name>
-		<display-name>EITB Basque euskera 1080</display-name>
-		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/EITB%20Basque%20euskera.png" />
+	<channel id="etb2ON euskera">
+		<display-name>etb2ON euskera</display-name>
+		<display-name>etb2ON euskera.TV</display-name>
+		<display-name>etb2ON euskera SD</display-name>
+		<display-name>etb2ON euskera HD</display-name>
+		<display-name>etb2ON euskera FHD</display-name>
+		<display-name>etb2ON euskera UHD</display-name>
+		<display-name>etb2ON euskera 720</display-name>
+		<display-name>etb2ON euskera 1080</display-name>
 	</channel>
 	<channel id="La 1 Cataluña">
 		<display-name>La 1 Cataluña</display-name>
@@ -4167,7 +4143,6 @@
 		<display-name>TV Costa Brava UHD</display-name>
 		<display-name>TV Costa Brava 720</display-name>
 		<display-name>TV Costa Brava 1080</display-name>
-		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/4710b8c020dc4441929c75e3a40d9a7d/Images/d8b1cbbc1ebb4ce7acc069ec43a341a8" />
 	</channel>
 	<channel id="Canal Terrassa">
 		<display-name>Canal Terrassa</display-name>
@@ -4960,17 +4935,6 @@
 		<display-name>PTV Granada 720</display-name>
 		<display-name>PTV Granada 1080</display-name>
 		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/PTV%20Granada.png" />
-	</channel>
-	<channel id="PTV Sevilla">
-		<display-name>PTV Sevilla</display-name>
-		<display-name>PTV Sevilla.TV</display-name>
-		<display-name>PTV Sevilla SD</display-name>
-		<display-name>PTV Sevilla HD</display-name>
-		<display-name>PTV Sevilla FHD</display-name>
-		<display-name>PTV Sevilla UHD</display-name>
-		<display-name>PTV Sevilla 720</display-name>
-		<display-name>PTV Sevilla 1080</display-name>
-		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/PTV%20Sevilla.png" />
 	</channel>
 	<channel id="PTV Linares">
 		<display-name>PTV Linares</display-name>
