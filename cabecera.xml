@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tv generator-info-name="dobleM 31/03/2026 20:48" generator-info-url="t.me/EPG_dobleM">
+<tv generator-info-name="dobleM 01/04/2026 20:47" generator-info-url="t.me/EPG_dobleM">
 	<channel id="La 1 HD">
 		<display-name>La 1</display-name>
 		<display-name>La 1.TV</display-name>
@@ -4895,17 +4895,6 @@
 		<display-name>Fight Time 1080</display-name>
 		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Fight%20Time.png" />
 	</channel>
-	<channel id="tlnovelas">
-		<display-name>tlnovelas</display-name>
-		<display-name>tlnovelas.TV</display-name>
-		<display-name>tlnovelas SD</display-name>
-		<display-name>tlnovelas HD</display-name>
-		<display-name>tlnovelas FHD</display-name>
-		<display-name>tlnovelas UHD</display-name>
-		<display-name>tlnovelas 720</display-name>
-		<display-name>tlnovelas 1080</display-name>
-		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/tlnovelas.png" />
-	</channel>
 	<channel id="DePelícula">
 		<display-name>DePelícula</display-name>
 		<display-name>DePelícula.TV</display-name>
@@ -4949,17 +4938,6 @@
 		<display-name>PTV Sevilla 720</display-name>
 		<display-name>PTV Sevilla 1080</display-name>
 		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/PTV%20Sevilla.png" />
-	</channel>
-	<channel id="PTV Córdoba">
-		<display-name>PTV Córdoba</display-name>
-		<display-name>PTV Córdoba.TV</display-name>
-		<display-name>PTV Córdoba SD</display-name>
-		<display-name>PTV Córdoba HD</display-name>
-		<display-name>PTV Córdoba FHD</display-name>
-		<display-name>PTV Córdoba UHD</display-name>
-		<display-name>PTV Córdoba 720</display-name>
-		<display-name>PTV Córdoba 1080</display-name>
-		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/PTV%20C%C3%B3rdoba.png" />
 	</channel>
 	<channel id="PTV Málaga">
 		<display-name>PTV Málaga</display-name>
@@ -5345,7 +5323,6 @@
 		<display-name>Todo Crimen (Rakuten TV) 720</display-name>
 		<display-name>Todo Crimen (Rakuten TV) 1080</display-name>
 		<icon src="https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork-negative/8fb33036-37c7-478c-930f-f8f6230a5c32.png" />
-		<icon src="https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork-negative/e058d349-db97-4c0b-a9dd-477147a1d473.png" />
 		<icon src="https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork-negative/e058d349-db97-4c0b-a9dd-477147a1d473.png" />
 	</channel>
 	<channel id="Crimen (Rakuten TV)">
