@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tv generator-info-name="dobleM 05/04/2026 20:47" generator-info-url="t.me/EPG_dobleM">
+<tv generator-info-name="dobleM 06/04/2026 20:48" generator-info-url="t.me/EPG_dobleM">
 	<channel id="La 1 HD">
 		<display-name>La 1</display-name>
 		<display-name>La 1.TV</display-name>
@@ -528,16 +528,16 @@
 		<display-name>Baby TV 1080</display-name>
 		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Baby%20TV.png" />
 	</channel>
-	<channel id="Disney Junior">
-		<display-name>Disney Junior</display-name>
-		<display-name>Disney Junior.TV</display-name>
-		<display-name>Disney Junior SD</display-name>
-		<display-name>Disney Junior HD</display-name>
-		<display-name>Disney Junior FHD</display-name>
-		<display-name>Disney Junior UHD</display-name>
-		<display-name>Disney Junior 720</display-name>
-		<display-name>Disney Junior 1080</display-name>
-		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Disney%20Junior.png" />
+	<channel id="Disney Channel">
+		<display-name>Disney Channel</display-name>
+		<display-name>Disney Channel.TV</display-name>
+		<display-name>Disney Channel SD</display-name>
+		<display-name>Disney Channel HD</display-name>
+		<display-name>Disney Channel FHD</display-name>
+		<display-name>Disney Channel UHD</display-name>
+		<display-name>Disney Channel 720</display-name>
+		<display-name>Disney Channel 1080</display-name>
+		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Disney%20Channel.png" />
 	</channel>
 	<channel id="Nick JR">
 		<display-name>Nick JR</display-name>
@@ -3465,6 +3465,17 @@
 		<display-name>Onda Cádiz TV 1080</display-name>
 		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Onda%20C%C3%A1diz%20TV.png" />
 	</channel>
+	<channel id="ATV Andorra Televisión">
+		<display-name>ATV Andorra Televisión</display-name>
+		<display-name>ATV Andorra Televisión.TV</display-name>
+		<display-name>ATV Andorra Televisión SD</display-name>
+		<display-name>ATV Andorra Televisión HD</display-name>
+		<display-name>ATV Andorra Televisión FHD</display-name>
+		<display-name>ATV Andorra Televisión UHD</display-name>
+		<display-name>ATV Andorra Televisión 720</display-name>
+		<display-name>ATV Andorra Televisión 1080</display-name>
+		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/ATV%20Andorra%20Televisi%C3%B3n.png" />
+	</channel>
 	<channel id="Stingray Classica">
 		<display-name>Stingray Classica</display-name>
 		<display-name>Stingray Classica.TV</display-name>
@@ -4928,17 +4939,6 @@
 		<display-name>DejateTV 1080</display-name>
 		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DejateTV.png" />
 	</channel>
-	<channel id="PTV Málaga">
-		<display-name>PTV Málaga</display-name>
-		<display-name>PTV Málaga.TV</display-name>
-		<display-name>PTV Málaga SD</display-name>
-		<display-name>PTV Málaga HD</display-name>
-		<display-name>PTV Málaga FHD</display-name>
-		<display-name>PTV Málaga UHD</display-name>
-		<display-name>PTV Málaga 720</display-name>
-		<display-name>PTV Málaga 1080</display-name>
-		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/PTV%20M%C3%A1laga.png" />
-	</channel>
 	<channel id="NFL Network">
 		<display-name>NFL Network</display-name>
 		<display-name>NFL Network.TV</display-name>
@@ -5312,7 +5312,6 @@
 		<display-name>Todo Crimen (Rakuten TV) 720</display-name>
 		<display-name>Todo Crimen (Rakuten TV) 1080</display-name>
 		<icon src="https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork-negative/8fb33036-37c7-478c-930f-f8f6230a5c32.png" />
-		<icon src="https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork-negative/e058d349-db97-4c0b-a9dd-477147a1d473.png" />
 		<icon src="https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork-negative/e058d349-db97-4c0b-a9dd-477147a1d473.png" />
 	</channel>
 	<channel id="Crimen (Rakuten TV)">
@@ -6716,7 +6715,6 @@
 		<display-name>DE | Sky Sport 3 UHD</display-name>
 		<display-name>DE | Sky Sport 3 720</display-name>
 		<display-name>DE | Sky Sport 3 1080</display-name>
-		<icon src="https://www.sky.de/static/img/senderlogos_dark/132_sky_logo_skysporthd5_tvguide2.png" />
 	</channel>
 	<channel id="DE | Sky Sport 4">
 		<display-name>DE | Sky Sport 4</display-name>
@@ -6727,7 +6725,6 @@
 		<display-name>DE | Sky Sport 4 UHD</display-name>
 		<display-name>DE | Sky Sport 4 720</display-name>
 		<display-name>DE | Sky Sport 4 1080</display-name>
-		<icon src="https://www.sky.de/static/img/senderlogos_dark/133_sky_logo_skysporthd6_tvguide.png" />
 	</channel>
 	<channel id="DE | Sky Sport 5">
 		<display-name>DE | Sky Sport 5</display-name>
