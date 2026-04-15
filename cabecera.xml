@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tv generator-info-name="dobleM 13/04/2026 20:47" generator-info-url="t.me/EPG_dobleM">
+<tv generator-info-name="dobleM 14/04/2026 20:47" generator-info-url="t.me/EPG_dobleM">
 	<channel id="La 1 HD">
 		<display-name>La 1</display-name>
 		<display-name>La 1.TV</display-name>
@@ -1759,72 +1759,6 @@
 		<display-name>M+ Liga de Campeones 13 720</display-name>
 		<display-name>M+ Liga de Campeones 13 1080</display-name>
 		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%2013.png" />
-	</channel>
-	<channel id="M+ Liga de Campeones 14">
-		<display-name>M+ Liga de Campeones 14</display-name>
-		<display-name>M+ Liga de Campeones 14.TV</display-name>
-		<display-name>M+ Liga de Campeones 14 SD</display-name>
-		<display-name>M+ Liga de Campeones 14 HD</display-name>
-		<display-name>M+ Liga de Campeones 14 FHD</display-name>
-		<display-name>M+ Liga de Campeones 14 UHD</display-name>
-		<display-name>M+ Liga de Campeones 14 720</display-name>
-		<display-name>M+ Liga de Campeones 14 1080</display-name>
-		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%2014.png" />
-	</channel>
-	<channel id="M+ Liga de Campeones 15">
-		<display-name>M+ Liga de Campeones 15</display-name>
-		<display-name>M+ Liga de Campeones 15.TV</display-name>
-		<display-name>M+ Liga de Campeones 15 SD</display-name>
-		<display-name>M+ Liga de Campeones 15 HD</display-name>
-		<display-name>M+ Liga de Campeones 15 FHD</display-name>
-		<display-name>M+ Liga de Campeones 15 UHD</display-name>
-		<display-name>M+ Liga de Campeones 15 720</display-name>
-		<display-name>M+ Liga de Campeones 15 1080</display-name>
-		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%2015.png" />
-	</channel>
-	<channel id="M+ Liga de Campeones 16">
-		<display-name>M+ Liga de Campeones 16</display-name>
-		<display-name>M+ Liga de Campeones 16.TV</display-name>
-		<display-name>M+ Liga de Campeones 16 SD</display-name>
-		<display-name>M+ Liga de Campeones 16 HD</display-name>
-		<display-name>M+ Liga de Campeones 16 FHD</display-name>
-		<display-name>M+ Liga de Campeones 16 UHD</display-name>
-		<display-name>M+ Liga de Campeones 16 720</display-name>
-		<display-name>M+ Liga de Campeones 16 1080</display-name>
-		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%2016.png" />
-	</channel>
-	<channel id="M+ Liga de Campeones 17">
-		<display-name>M+ Liga de Campeones 17</display-name>
-		<display-name>M+ Liga de Campeones 17.TV</display-name>
-		<display-name>M+ Liga de Campeones 17 SD</display-name>
-		<display-name>M+ Liga de Campeones 17 HD</display-name>
-		<display-name>M+ Liga de Campeones 17 FHD</display-name>
-		<display-name>M+ Liga de Campeones 17 UHD</display-name>
-		<display-name>M+ Liga de Campeones 17 720</display-name>
-		<display-name>M+ Liga de Campeones 17 1080</display-name>
-		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%2017.png" />
-	</channel>
-	<channel id="M+ Liga de Campeones 18">
-		<display-name>M+ Liga de Campeones 18</display-name>
-		<display-name>M+ Liga de Campeones 18.TV</display-name>
-		<display-name>M+ Liga de Campeones 18 SD</display-name>
-		<display-name>M+ Liga de Campeones 18 HD</display-name>
-		<display-name>M+ Liga de Campeones 18 FHD</display-name>
-		<display-name>M+ Liga de Campeones 18 UHD</display-name>
-		<display-name>M+ Liga de Campeones 18 720</display-name>
-		<display-name>M+ Liga de Campeones 18 1080</display-name>
-		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%2018.png" />
-	</channel>
-	<channel id="M+ Liga de Campeones 19">
-		<display-name>M+ Liga de Campeones 19</display-name>
-		<display-name>M+ Liga de Campeones 19.TV</display-name>
-		<display-name>M+ Liga de Campeones 19 SD</display-name>
-		<display-name>M+ Liga de Campeones 19 HD</display-name>
-		<display-name>M+ Liga de Campeones 19 FHD</display-name>
-		<display-name>M+ Liga de Campeones 19 UHD</display-name>
-		<display-name>M+ Liga de Campeones 19 720</display-name>
-		<display-name>M+ Liga de Campeones 19 1080</display-name>
-		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%2019.png" />
 	</channel>
 	<channel id="M+ LaLiga 3 HD">
 		<display-name>M+ LaLiga 3</display-name>
@@ -4829,17 +4763,6 @@
 		<display-name>DAZN F1 BAR 1080</display-name>
 		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20F1%20BAR.png" />
 	</channel>
-	<channel id="Gol Classics">
-		<display-name>Gol Classics</display-name>
-		<display-name>Gol Classics.TV</display-name>
-		<display-name>Gol Classics SD</display-name>
-		<display-name>Gol Classics HD</display-name>
-		<display-name>Gol Classics FHD</display-name>
-		<display-name>Gol Classics UHD</display-name>
-		<display-name>Gol Classics 720</display-name>
-		<display-name>Gol Classics 1080</display-name>
-		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Gol%20Classics.png" />
-	</channel>
 	<channel id="Ubeat lite">
 		<display-name>Ubeat lite</display-name>
 		<display-name>Ubeat lite.TV</display-name>
@@ -4850,6 +4773,17 @@
 		<display-name>Ubeat lite 720</display-name>
 		<display-name>Ubeat lite 1080</display-name>
 		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Ubeat%20lite.png" />
+	</channel>
+	<channel id="Gol Classics">
+		<display-name>Gol Classics</display-name>
+		<display-name>Gol Classics.TV</display-name>
+		<display-name>Gol Classics SD</display-name>
+		<display-name>Gol Classics HD</display-name>
+		<display-name>Gol Classics FHD</display-name>
+		<display-name>Gol Classics UHD</display-name>
+		<display-name>Gol Classics 720</display-name>
+		<display-name>Gol Classics 1080</display-name>
+		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Gol%20Classics.png" />
 	</channel>
 	<channel id="GolStadium">
 		<display-name>GolStadium</display-name>
@@ -4916,17 +4850,6 @@
 		<display-name>tlnovelas 720</display-name>
 		<display-name>tlnovelas 1080</display-name>
 		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/tlnovelas.png" />
-	</channel>
-	<channel id="DePelícula">
-		<display-name>DePelícula</display-name>
-		<display-name>DePelícula.TV</display-name>
-		<display-name>DePelícula SD</display-name>
-		<display-name>DePelícula HD</display-name>
-		<display-name>DePelícula FHD</display-name>
-		<display-name>DePelícula UHD</display-name>
-		<display-name>DePelícula 720</display-name>
-		<display-name>DePelícula 1080</display-name>
-		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DePel%C3%ADcula.png" />
 	</channel>
 	<channel id="DejateTV">
 		<display-name>DejateTV</display-name>
@@ -6749,6 +6672,7 @@
 		<display-name>DE | Sky Sport 3 UHD</display-name>
 		<display-name>DE | Sky Sport 3 720</display-name>
 		<display-name>DE | Sky Sport 3 1080</display-name>
+		<icon src="https://www.sky.de/static/img/senderlogos_dark/132_sky_logo_skysporthd5_tvguide2.png" />
 	</channel>
 	<channel id="DE | Sky Sport 4">
 		<display-name>DE | Sky Sport 4</display-name>
@@ -6770,6 +6694,7 @@
 		<display-name>DE | Sky Sport 5 UHD</display-name>
 		<display-name>DE | Sky Sport 5 720</display-name>
 		<display-name>DE | Sky Sport 5 1080</display-name>
+		<icon src="https://www.sky.de/static/img/senderlogos_dark/134_sky_logo_skysporthd7_tvguide.png" />
 	</channel>
 	<channel id="DE | Sky Sport 6">
 		<display-name>DE | Sky Sport 6</display-name>
@@ -6791,6 +6716,7 @@
 		<display-name>DE | Sky Sport 7 UHD</display-name>
 		<display-name>DE | Sky Sport 7 720</display-name>
 		<display-name>DE | Sky Sport 7 1080</display-name>
+		<icon src="https://www.sky.de/static/img/senderlogos_dark/136_sky_logo_skysporthd9_tvguide.png" />
 	</channel>
 	<channel id="DE | Sky Sport 8">
 		<display-name>DE | Sky Sport 8</display-name>
