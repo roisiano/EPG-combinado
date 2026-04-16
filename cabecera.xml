@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tv generator-info-name="dobleM 14/04/2026 20:47" generator-info-url="t.me/EPG_dobleM">
+<tv generator-info-name="dobleM 15/04/2026 20:47" generator-info-url="t.me/EPG_dobleM">
 	<channel id="La 1 HD">
 		<display-name>La 1</display-name>
 		<display-name>La 1.TV</display-name>
@@ -4763,17 +4763,6 @@
 		<display-name>DAZN F1 BAR 1080</display-name>
 		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20F1%20BAR.png" />
 	</channel>
-	<channel id="Ubeat lite">
-		<display-name>Ubeat lite</display-name>
-		<display-name>Ubeat lite.TV</display-name>
-		<display-name>Ubeat lite SD</display-name>
-		<display-name>Ubeat lite HD</display-name>
-		<display-name>Ubeat lite FHD</display-name>
-		<display-name>Ubeat lite UHD</display-name>
-		<display-name>Ubeat lite 720</display-name>
-		<display-name>Ubeat lite 1080</display-name>
-		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Ubeat%20lite.png" />
-	</channel>
 	<channel id="Gol Classics">
 		<display-name>Gol Classics</display-name>
 		<display-name>Gol Classics.TV</display-name>
@@ -4784,6 +4773,17 @@
 		<display-name>Gol Classics 720</display-name>
 		<display-name>Gol Classics 1080</display-name>
 		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Gol%20Classics.png" />
+	</channel>
+	<channel id="Ubeat lite">
+		<display-name>Ubeat lite</display-name>
+		<display-name>Ubeat lite.TV</display-name>
+		<display-name>Ubeat lite SD</display-name>
+		<display-name>Ubeat lite HD</display-name>
+		<display-name>Ubeat lite FHD</display-name>
+		<display-name>Ubeat lite UHD</display-name>
+		<display-name>Ubeat lite 720</display-name>
+		<display-name>Ubeat lite 1080</display-name>
+		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Ubeat%20lite.png" />
 	</channel>
 	<channel id="GolStadium">
 		<display-name>GolStadium</display-name>
@@ -4850,6 +4850,17 @@
 		<display-name>tlnovelas 720</display-name>
 		<display-name>tlnovelas 1080</display-name>
 		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/tlnovelas.png" />
+	</channel>
+	<channel id="DePelícula">
+		<display-name>DePelícula</display-name>
+		<display-name>DePelícula.TV</display-name>
+		<display-name>DePelícula SD</display-name>
+		<display-name>DePelícula HD</display-name>
+		<display-name>DePelícula FHD</display-name>
+		<display-name>DePelícula UHD</display-name>
+		<display-name>DePelícula 720</display-name>
+		<display-name>DePelícula 1080</display-name>
+		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DePel%C3%ADcula.png" />
 	</channel>
 	<channel id="DejateTV">
 		<display-name>DejateTV</display-name>
