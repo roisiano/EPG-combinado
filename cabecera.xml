@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tv generator-info-name="dobleM 29/04/2026 20:47" generator-info-url="t.me/EPG_dobleM">
+<tv generator-info-name="dobleM 30/04/2026 20:47" generator-info-url="t.me/EPG_dobleM">
 	<channel id="La 1 HD">
 		<display-name>La 1</display-name>
 		<display-name>La 1.TV</display-name>
@@ -6650,7 +6650,6 @@
 		<display-name>DE | Sky Sport Bundesliga 8 UHD</display-name>
 		<display-name>DE | Sky Sport Bundesliga 8 720</display-name>
 		<display-name>DE | Sky Sport Bundesliga 8 1080</display-name>
-		<icon src="https://www.sky.de/static/img/senderlogos_dark/126_sky_logo_skybundesligahd9_tvguide.png" />
 	</channel>
 	<channel id="DE | Sky Sport Bundesliga 9">
 		<display-name>DE | Sky Sport Bundesliga 9</display-name>
@@ -6661,7 +6660,6 @@
 		<display-name>DE | Sky Sport Bundesliga 9 UHD</display-name>
 		<display-name>DE | Sky Sport Bundesliga 9 720</display-name>
 		<display-name>DE | Sky Sport Bundesliga 9 1080</display-name>
-		<icon src="https://www.sky.de/static/img/senderlogos_dark/127_sky_logo_skybundesligahd10_tvguide.png" />
 	</channel>
 	<channel id="DE | Sky Sport Bundesliga 10">
 		<display-name>DE | Sky Sport Bundesliga 10</display-name>
