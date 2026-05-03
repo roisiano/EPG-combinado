@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tv generator-info-name="dobleM 01/05/2026 20:47" generator-info-url="t.me/EPG_dobleM">
+<tv generator-info-name="dobleM 02/05/2026 20:47" generator-info-url="t.me/EPG_dobleM">
 	<channel id="La 1 HD">
 		<display-name>La 1</display-name>
 		<display-name>La 1.TV</display-name>
@@ -6510,6 +6510,7 @@
 		<display-name>DE | Sky Sport Austria 5 UHD</display-name>
 		<display-name>DE | Sky Sport Austria 5 720</display-name>
 		<display-name>DE | Sky Sport Austria 5 1080</display-name>
+		<icon src="https://www.sky.de/static/img/senderlogos_dark/883_sky_logo_sky-sport-austria-5-hd_tvguide.png" />
 	</channel>
 	<channel id="DE | Sky Sport Austria 6">
 		<display-name>DE | Sky Sport Austria 6</display-name>
