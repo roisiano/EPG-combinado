@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tv generator-info-name="dobleM 10/05/2026 16:47" generator-info-url="t.me/EPG_dobleM">
+<tv generator-info-name="dobleM 11/05/2026 20:47" generator-info-url="t.me/EPG_dobleM">
 	<channel id="La 1 HD">
 		<display-name>La 1</display-name>
 		<display-name>La 1.TV</display-name>
@@ -6521,7 +6521,6 @@
 		<display-name>DE | Sky Sport Austria 5 UHD</display-name>
 		<display-name>DE | Sky Sport Austria 5 720</display-name>
 		<display-name>DE | Sky Sport Austria 5 1080</display-name>
-		<icon src="https://www.sky.de/static/img/senderlogos_dark/883_sky_logo_sky-sport-austria-5-hd_tvguide.png" />
 	</channel>
 	<channel id="DE | Sky Sport Austria 6">
 		<display-name>DE | Sky Sport Austria 6</display-name>
@@ -6573,6 +6572,7 @@
 		<display-name>DE | Sky Sport Bundesliga 1 UHD</display-name>
 		<display-name>DE | Sky Sport Bundesliga 1 720</display-name>
 		<display-name>DE | Sky Sport Bundesliga 1 1080</display-name>
+		<icon src="https://www.sky.de/static/img/senderlogos_dark/119_sky_logo_skybundesligahd2_tvguide.png" />
 	</channel>
 	<channel id="DE | Sky Sport Bundesliga 2">
 		<display-name>DE | Sky Sport Bundesliga 2</display-name>
@@ -6627,6 +6627,7 @@
 		<display-name>DE | Sky Sport Bundesliga 6 UHD</display-name>
 		<display-name>DE | Sky Sport Bundesliga 6 720</display-name>
 		<display-name>DE | Sky Sport Bundesliga 6 1080</display-name>
+		<icon src="https://www.sky.de/static/img/senderlogos_dark/124_sky_logo_skybundesligahd7_tvguide.png" />
 	</channel>
 	<channel id="DE | Sky Sport Bundesliga 7">
 		<display-name>DE | Sky Sport Bundesliga 7</display-name>
@@ -6637,6 +6638,7 @@
 		<display-name>DE | Sky Sport Bundesliga 7 UHD</display-name>
 		<display-name>DE | Sky Sport Bundesliga 7 720</display-name>
 		<display-name>DE | Sky Sport Bundesliga 7 1080</display-name>
+		<icon src="https://www.sky.de/static/img/senderlogos_dark/125_sky_logo_skybundesligahd8_tvguide.png" />
 	</channel>
 	<channel id="DE | Sky Sport Bundesliga 8">
 		<display-name>DE | Sky Sport Bundesliga 8</display-name>
@@ -6647,6 +6649,7 @@
 		<display-name>DE | Sky Sport Bundesliga 8 UHD</display-name>
 		<display-name>DE | Sky Sport Bundesliga 8 720</display-name>
 		<display-name>DE | Sky Sport Bundesliga 8 1080</display-name>
+		<icon src="https://www.sky.de/static/img/senderlogos_dark/126_sky_logo_skybundesligahd9_tvguide.png" />
 	</channel>
 	<channel id="DE | Sky Sport Bundesliga 9">
 		<display-name>DE | Sky Sport Bundesliga 9</display-name>
@@ -6657,6 +6660,7 @@
 		<display-name>DE | Sky Sport Bundesliga 9 UHD</display-name>
 		<display-name>DE | Sky Sport Bundesliga 9 720</display-name>
 		<display-name>DE | Sky Sport Bundesliga 9 1080</display-name>
+		<icon src="https://www.sky.de/static/img/senderlogos_dark/127_sky_logo_skybundesligahd10_tvguide.png" />
 	</channel>
 	<channel id="DE | Sky Sport Bundesliga 10">
 		<display-name>DE | Sky Sport Bundesliga 10</display-name>
@@ -6667,6 +6671,7 @@
 		<display-name>DE | Sky Sport Bundesliga 10 UHD</display-name>
 		<display-name>DE | Sky Sport Bundesliga 10 720</display-name>
 		<display-name>DE | Sky Sport Bundesliga 10 1080</display-name>
+		<icon src="https://www.sky.de/static/img/senderlogos_dark/998_sky_logo_sky-sport-buli-10-hd_tvguide.png" />
 	</channel>
 	<channel id="DE | Sky Sport 1">
 		<display-name>DE | Sky Sport 1</display-name>
@@ -6730,7 +6735,6 @@
 		<display-name>DE | Sky Sport 6 UHD</display-name>
 		<display-name>DE | Sky Sport 6 720</display-name>
 		<display-name>DE | Sky Sport 6 1080</display-name>
-		<icon src="https://www.sky.de/static/img/senderlogos_dark/135_sky_logo_skysporthd8_tvguide.png" />
 	</channel>
 	<channel id="DE | Sky Sport 7">
 		<display-name>DE | Sky Sport 7</display-name>
@@ -6741,7 +6745,6 @@
 		<display-name>DE | Sky Sport 7 UHD</display-name>
 		<display-name>DE | Sky Sport 7 720</display-name>
 		<display-name>DE | Sky Sport 7 1080</display-name>
-		<icon src="https://www.sky.de/static/img/senderlogos_dark/136_sky_logo_skysporthd9_tvguide.png" />
 	</channel>
 	<channel id="DE | Sky Sport 8">
 		<display-name>DE | Sky Sport 8</display-name>
@@ -6752,7 +6755,6 @@
 		<display-name>DE | Sky Sport 8 UHD</display-name>
 		<display-name>DE | Sky Sport 8 720</display-name>
 		<display-name>DE | Sky Sport 8 1080</display-name>
-		<icon src="https://www.sky.de/static/img/senderlogos_dark/137_sky_logo_skysporthd10_tvguide.png" />
 	</channel>
 	<channel id="DE | Sky Sport 9">
 		<display-name>DE | Sky Sport 9</display-name>
