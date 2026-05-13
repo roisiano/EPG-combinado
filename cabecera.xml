@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tv generator-info-name="dobleM 11/05/2026 20:47" generator-info-url="t.me/EPG_dobleM">
+<tv generator-info-name="dobleM 12/05/2026 20:47" generator-info-url="t.me/EPG_dobleM">
 	<channel id="La 1 HD">
 		<display-name>La 1</display-name>
 		<display-name>La 1.TV</display-name>
@@ -2123,6 +2123,28 @@
 		<display-name>DAZN Baloncesto 3 1080</display-name>
 		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20Baloncesto%203.png" />
 	</channel>
+	<channel id="M+ Baloncesto">
+		<display-name>M+ Baloncesto</display-name>
+		<display-name>M+ Baloncesto.TV</display-name>
+		<display-name>M+ Baloncesto SD</display-name>
+		<display-name>M+ Baloncesto HD</display-name>
+		<display-name>M+ Baloncesto FHD</display-name>
+		<display-name>M+ Baloncesto UHD</display-name>
+		<display-name>M+ Baloncesto 720</display-name>
+		<display-name>M+ Baloncesto 1080</display-name>
+		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Baloncesto.png" />
+	</channel>
+	<channel id="M+ Baloncesto 2">
+		<display-name>M+ Baloncesto 2</display-name>
+		<display-name>M+ Baloncesto 2.TV</display-name>
+		<display-name>M+ Baloncesto 2 SD</display-name>
+		<display-name>M+ Baloncesto 2 HD</display-name>
+		<display-name>M+ Baloncesto 2 FHD</display-name>
+		<display-name>M+ Baloncesto 2 UHD</display-name>
+		<display-name>M+ Baloncesto 2 720</display-name>
+		<display-name>M+ Baloncesto 2 1080</display-name>
+		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Baloncesto%202.png" />
+	</channel>
 	<channel id="AMC HD">
 		<display-name>AMC</display-name>
 		<display-name>AMC.TV</display-name>
@@ -2452,17 +2474,6 @@
 		<display-name>RunTime Familia 720</display-name>
 		<display-name>RunTime Familia 1080</display-name>
 		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/RunTime%20Familia.png" />
-	</channel>
-	<channel id="Flamenco Auditorio">
-		<display-name>Flamenco Auditorio</display-name>
-		<display-name>Flamenco Auditorio.TV</display-name>
-		<display-name>Flamenco Auditorio SD</display-name>
-		<display-name>Flamenco Auditorio HD</display-name>
-		<display-name>Flamenco Auditorio FHD</display-name>
-		<display-name>Flamenco Auditorio UHD</display-name>
-		<display-name>Flamenco Auditorio 720</display-name>
-		<display-name>Flamenco Auditorio 1080</display-name>
-		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Flamenco%20Auditorio.png" />
 	</channel>
 	<channel id="Qello concerts">
 		<display-name>Qello concerts</display-name>
@@ -3553,6 +3564,17 @@
 		<display-name>24 horas Canarias 1080</display-name>
 		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/24%20horas%20Canarias.png" />
 	</channel>
+	<channel id="Al cielo con ella">
+		<display-name>Al cielo con ella</display-name>
+		<display-name>Al cielo con ella.TV</display-name>
+		<display-name>Al cielo con ella SD</display-name>
+		<display-name>Al cielo con ella HD</display-name>
+		<display-name>Al cielo con ella FHD</display-name>
+		<display-name>Al cielo con ella UHD</display-name>
+		<display-name>Al cielo con ella 720</display-name>
+		<display-name>Al cielo con ella 1080</display-name>
+		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Al%20cielo%20con%20ella.png" />
+	</channel>
 	<channel id="Cocina">
 		<display-name>Cocina</display-name>
 		<display-name>Cocina.TV</display-name>
@@ -3574,17 +3596,6 @@
 		<display-name>La Promesa 720</display-name>
 		<display-name>La Promesa 1080</display-name>
 		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/La%20Promesa.png" />
-	</channel>
-	<channel id="La Moderna">
-		<display-name>La Moderna</display-name>
-		<display-name>La Moderna.TV</display-name>
-		<display-name>La Moderna SD</display-name>
-		<display-name>La Moderna HD</display-name>
-		<display-name>La Moderna FHD</display-name>
-		<display-name>La Moderna UHD</display-name>
-		<display-name>La Moderna 720</display-name>
-		<display-name>La Moderna 1080</display-name>
-		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/La%20Moderna.png" />
 	</channel>
 	<channel id="La Revuelta">
 		<display-name>La Revuelta</display-name>
@@ -4862,16 +4873,16 @@
 		<display-name>PTV Granada 1080</display-name>
 		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/PTV%20Granada.png" />
 	</channel>
-	<channel id="PTV Córdoba">
-		<display-name>PTV Córdoba</display-name>
-		<display-name>PTV Córdoba.TV</display-name>
-		<display-name>PTV Córdoba SD</display-name>
-		<display-name>PTV Córdoba HD</display-name>
-		<display-name>PTV Córdoba FHD</display-name>
-		<display-name>PTV Córdoba UHD</display-name>
-		<display-name>PTV Córdoba 720</display-name>
-		<display-name>PTV Córdoba 1080</display-name>
-		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/PTV%20C%C3%B3rdoba.png" />
+	<channel id="PTV Sevilla">
+		<display-name>PTV Sevilla</display-name>
+		<display-name>PTV Sevilla.TV</display-name>
+		<display-name>PTV Sevilla SD</display-name>
+		<display-name>PTV Sevilla HD</display-name>
+		<display-name>PTV Sevilla FHD</display-name>
+		<display-name>PTV Sevilla UHD</display-name>
+		<display-name>PTV Sevilla 720</display-name>
+		<display-name>PTV Sevilla 1080</display-name>
+		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/PTV%20Sevilla.png" />
 	</channel>
 	<channel id="PTV Linares">
 		<display-name>PTV Linares</display-name>
