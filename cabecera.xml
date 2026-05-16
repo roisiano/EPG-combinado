@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tv generator-info-name="dobleM 14/05/2026 20:47" generator-info-url="t.me/EPG_dobleM">
+<tv generator-info-name="dobleM 15/05/2026 20:48" generator-info-url="t.me/EPG_dobleM">
 	<channel id="La 1 HD">
 		<display-name>La 1</display-name>
 		<display-name>La 1.TV</display-name>
@@ -6714,7 +6714,6 @@
 		<display-name>DE | Sky Sport 3 UHD</display-name>
 		<display-name>DE | Sky Sport 3 720</display-name>
 		<display-name>DE | Sky Sport 3 1080</display-name>
-		<icon src="https://www.sky.de/static/img/senderlogos_dark/132_sky_logo_skysporthd5_tvguide2.png" />
 	</channel>
 	<channel id="DE | Sky Sport 4">
 		<display-name>DE | Sky Sport 4</display-name>
