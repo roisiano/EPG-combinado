@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tv generator-info-name="dobleM 18/05/2026 20:47" generator-info-url="t.me/EPG_dobleM">
+<tv generator-info-name="dobleM 19/05/2026 20:47" generator-info-url="t.me/EPG_dobleM">
 	<channel id="La 1 HD">
 		<display-name>La 1</display-name>
 		<display-name>La 1.TV</display-name>
@@ -4950,50 +4950,6 @@
 		<display-name>DAZN Bundesliga 1080</display-name>
 		<icon src="https://image.discovery.indazn.com/eu/v4/onboarding-images/none/sn_6by3h89i2eykc341oz7lv1ddd/fill/center/top/none/100/0/0/png/image/25/g" />
 	</channel>
-	<channel id="DAZN Bundesliga 2">
-		<display-name>DAZN Bundesliga 2</display-name>
-		<display-name>DAZN Bundesliga 2.TV</display-name>
-		<display-name>DAZN Bundesliga 2 SD</display-name>
-		<display-name>DAZN Bundesliga 2 HD</display-name>
-		<display-name>DAZN Bundesliga 2 FHD</display-name>
-		<display-name>DAZN Bundesliga 2 UHD</display-name>
-		<display-name>DAZN Bundesliga 2 720</display-name>
-		<display-name>DAZN Bundesliga 2 1080</display-name>
-		<icon src="https://image.discovery.indazn.com/eu/v4/onboarding-images/none/sn_6by3h89i2eykc341oz7lv1ddd/fill/center/top/none/100/0/0/png/image/25/g" />
-	</channel>
-	<channel id="DAZN Bundesliga 3">
-		<display-name>DAZN Bundesliga 3</display-name>
-		<display-name>DAZN Bundesliga 3.TV</display-name>
-		<display-name>DAZN Bundesliga 3 SD</display-name>
-		<display-name>DAZN Bundesliga 3 HD</display-name>
-		<display-name>DAZN Bundesliga 3 FHD</display-name>
-		<display-name>DAZN Bundesliga 3 UHD</display-name>
-		<display-name>DAZN Bundesliga 3 720</display-name>
-		<display-name>DAZN Bundesliga 3 1080</display-name>
-		<icon src="https://image.discovery.indazn.com/eu/v4/onboarding-images/none/sn_6by3h89i2eykc341oz7lv1ddd/fill/center/top/none/100/0/0/png/image/25/g" />
-	</channel>
-	<channel id="DAZN Bundesliga 4">
-		<display-name>DAZN Bundesliga 4</display-name>
-		<display-name>DAZN Bundesliga 4.TV</display-name>
-		<display-name>DAZN Bundesliga 4 SD</display-name>
-		<display-name>DAZN Bundesliga 4 HD</display-name>
-		<display-name>DAZN Bundesliga 4 FHD</display-name>
-		<display-name>DAZN Bundesliga 4 UHD</display-name>
-		<display-name>DAZN Bundesliga 4 720</display-name>
-		<display-name>DAZN Bundesliga 4 1080</display-name>
-		<icon src="https://image.discovery.indazn.com/eu/v4/onboarding-images/none/sn_6by3h89i2eykc341oz7lv1ddd/fill/center/top/none/100/0/0/png/image/25/g" />
-	</channel>
-	<channel id="DAZN Bundesliga 5">
-		<display-name>DAZN Bundesliga 5</display-name>
-		<display-name>DAZN Bundesliga 5.TV</display-name>
-		<display-name>DAZN Bundesliga 5 SD</display-name>
-		<display-name>DAZN Bundesliga 5 HD</display-name>
-		<display-name>DAZN Bundesliga 5 FHD</display-name>
-		<display-name>DAZN Bundesliga 5 UHD</display-name>
-		<display-name>DAZN Bundesliga 5 720</display-name>
-		<display-name>DAZN Bundesliga 5 1080</display-name>
-		<icon src="https://image.discovery.indazn.com/eu/v4/onboarding-images/none/sn_6by3h89i2eykc341oz7lv1ddd/fill/center/top/none/100/0/0/png/image/25/g" />
-	</channel>
 	<channel id="DAZN LALIGA EA SPORTS">
 		<display-name>DAZN LALIGA EA SPORTS</display-name>
 		<display-name>DAZN LALIGA EA SPORTS.TV</display-name>
@@ -5014,6 +4970,83 @@
 		<display-name>DAZN LALIGA EA SPORTS 2 UHD</display-name>
 		<display-name>DAZN LALIGA EA SPORTS 2 720</display-name>
 		<display-name>DAZN LALIGA EA SPORTS 2 1080</display-name>
+		<icon src="https://image.discovery.indazn.com/eu/v4/onboarding-images/none/sn_34pl8szyvrbwcmfkuocjm3r6t/fill/center/top/none/100/0/0/png/image/25/g" />
+	</channel>
+	<channel id="DAZN LALIGA EA SPORTS 3">
+		<display-name>DAZN LALIGA EA SPORTS 3</display-name>
+		<display-name>DAZN LALIGA EA SPORTS 3.TV</display-name>
+		<display-name>DAZN LALIGA EA SPORTS 3 SD</display-name>
+		<display-name>DAZN LALIGA EA SPORTS 3 HD</display-name>
+		<display-name>DAZN LALIGA EA SPORTS 3 FHD</display-name>
+		<display-name>DAZN LALIGA EA SPORTS 3 UHD</display-name>
+		<display-name>DAZN LALIGA EA SPORTS 3 720</display-name>
+		<display-name>DAZN LALIGA EA SPORTS 3 1080</display-name>
+		<icon src="https://image.discovery.indazn.com/eu/v4/onboarding-images/none/sn_34pl8szyvrbwcmfkuocjm3r6t/fill/center/top/none/100/0/0/png/image/25/g" />
+	</channel>
+	<channel id="DAZN LALIGA EA SPORTS 4">
+		<display-name>DAZN LALIGA EA SPORTS 4</display-name>
+		<display-name>DAZN LALIGA EA SPORTS 4.TV</display-name>
+		<display-name>DAZN LALIGA EA SPORTS 4 SD</display-name>
+		<display-name>DAZN LALIGA EA SPORTS 4 HD</display-name>
+		<display-name>DAZN LALIGA EA SPORTS 4 FHD</display-name>
+		<display-name>DAZN LALIGA EA SPORTS 4 UHD</display-name>
+		<display-name>DAZN LALIGA EA SPORTS 4 720</display-name>
+		<display-name>DAZN LALIGA EA SPORTS 4 1080</display-name>
+		<icon src="https://image.discovery.indazn.com/eu/v4/onboarding-images/none/sn_34pl8szyvrbwcmfkuocjm3r6t/fill/center/top/none/100/0/0/png/image/25/g" />
+	</channel>
+	<channel id="DAZN LALIGA EA SPORTS 5">
+		<display-name>DAZN LALIGA EA SPORTS 5</display-name>
+		<display-name>DAZN LALIGA EA SPORTS 5.TV</display-name>
+		<display-name>DAZN LALIGA EA SPORTS 5 SD</display-name>
+		<display-name>DAZN LALIGA EA SPORTS 5 HD</display-name>
+		<display-name>DAZN LALIGA EA SPORTS 5 FHD</display-name>
+		<display-name>DAZN LALIGA EA SPORTS 5 UHD</display-name>
+		<display-name>DAZN LALIGA EA SPORTS 5 720</display-name>
+		<display-name>DAZN LALIGA EA SPORTS 5 1080</display-name>
+		<icon src="https://image.discovery.indazn.com/eu/v4/onboarding-images/none/sn_34pl8szyvrbwcmfkuocjm3r6t/fill/center/top/none/100/0/0/png/image/25/g" />
+	</channel>
+	<channel id="DAZN LALIGA EA SPORTS 6">
+		<display-name>DAZN LALIGA EA SPORTS 6</display-name>
+		<display-name>DAZN LALIGA EA SPORTS 6.TV</display-name>
+		<display-name>DAZN LALIGA EA SPORTS 6 SD</display-name>
+		<display-name>DAZN LALIGA EA SPORTS 6 HD</display-name>
+		<display-name>DAZN LALIGA EA SPORTS 6 FHD</display-name>
+		<display-name>DAZN LALIGA EA SPORTS 6 UHD</display-name>
+		<display-name>DAZN LALIGA EA SPORTS 6 720</display-name>
+		<display-name>DAZN LALIGA EA SPORTS 6 1080</display-name>
+		<icon src="https://image.discovery.indazn.com/eu/v4/onboarding-images/none/sn_34pl8szyvrbwcmfkuocjm3r6t/fill/center/top/none/100/0/0/png/image/25/g" />
+	</channel>
+	<channel id="DAZN LALIGA EA SPORTS 7">
+		<display-name>DAZN LALIGA EA SPORTS 7</display-name>
+		<display-name>DAZN LALIGA EA SPORTS 7.TV</display-name>
+		<display-name>DAZN LALIGA EA SPORTS 7 SD</display-name>
+		<display-name>DAZN LALIGA EA SPORTS 7 HD</display-name>
+		<display-name>DAZN LALIGA EA SPORTS 7 FHD</display-name>
+		<display-name>DAZN LALIGA EA SPORTS 7 UHD</display-name>
+		<display-name>DAZN LALIGA EA SPORTS 7 720</display-name>
+		<display-name>DAZN LALIGA EA SPORTS 7 1080</display-name>
+		<icon src="https://image.discovery.indazn.com/eu/v4/onboarding-images/none/sn_34pl8szyvrbwcmfkuocjm3r6t/fill/center/top/none/100/0/0/png/image/25/g" />
+	</channel>
+	<channel id="DAZN LALIGA EA SPORTS 8">
+		<display-name>DAZN LALIGA EA SPORTS 8</display-name>
+		<display-name>DAZN LALIGA EA SPORTS 8.TV</display-name>
+		<display-name>DAZN LALIGA EA SPORTS 8 SD</display-name>
+		<display-name>DAZN LALIGA EA SPORTS 8 HD</display-name>
+		<display-name>DAZN LALIGA EA SPORTS 8 FHD</display-name>
+		<display-name>DAZN LALIGA EA SPORTS 8 UHD</display-name>
+		<display-name>DAZN LALIGA EA SPORTS 8 720</display-name>
+		<display-name>DAZN LALIGA EA SPORTS 8 1080</display-name>
+		<icon src="https://image.discovery.indazn.com/eu/v4/onboarding-images/none/sn_34pl8szyvrbwcmfkuocjm3r6t/fill/center/top/none/100/0/0/png/image/25/g" />
+	</channel>
+	<channel id="DAZN LALIGA EA SPORTS 9">
+		<display-name>DAZN LALIGA EA SPORTS 9</display-name>
+		<display-name>DAZN LALIGA EA SPORTS 9.TV</display-name>
+		<display-name>DAZN LALIGA EA SPORTS 9 SD</display-name>
+		<display-name>DAZN LALIGA EA SPORTS 9 HD</display-name>
+		<display-name>DAZN LALIGA EA SPORTS 9 FHD</display-name>
+		<display-name>DAZN LALIGA EA SPORTS 9 UHD</display-name>
+		<display-name>DAZN LALIGA EA SPORTS 9 720</display-name>
+		<display-name>DAZN LALIGA EA SPORTS 9 1080</display-name>
 		<icon src="https://image.discovery.indazn.com/eu/v4/onboarding-images/none/sn_34pl8szyvrbwcmfkuocjm3r6t/fill/center/top/none/100/0/0/png/image/25/g" />
 	</channel>
 	<channel id="DAZN Liga F">
@@ -5049,104 +5082,38 @@
 		<display-name>DAZN Liga F 3 1080</display-name>
 		<icon src="https://image.discovery.indazn.com/eu/v4/onboarding-images/none/sn_5k620c7y6dlbmcm88dt3eb7t/fill/center/top/none/100/0/0/png/image/25/g" />
 	</channel>
-	<channel id="DAZN National League">
-		<display-name>DAZN National League</display-name>
-		<display-name>DAZN National League.TV</display-name>
-		<display-name>DAZN National League SD</display-name>
-		<display-name>DAZN National League HD</display-name>
-		<display-name>DAZN National League FHD</display-name>
-		<display-name>DAZN National League UHD</display-name>
-		<display-name>DAZN National League 720</display-name>
-		<display-name>DAZN National League 1080</display-name>
-		<icon src="https://image.discovery.indazn.com/eu/v4/onboarding-images/none/sn_b5udgm9vakjqz8dcmy5b2g0xt/fill/center/top/none/100/0/0/png/image/25/g" />
+	<channel id="DAZN Liga F 4">
+		<display-name>DAZN Liga F 4</display-name>
+		<display-name>DAZN Liga F 4.TV</display-name>
+		<display-name>DAZN Liga F 4 SD</display-name>
+		<display-name>DAZN Liga F 4 HD</display-name>
+		<display-name>DAZN Liga F 4 FHD</display-name>
+		<display-name>DAZN Liga F 4 UHD</display-name>
+		<display-name>DAZN Liga F 4 720</display-name>
+		<display-name>DAZN Liga F 4 1080</display-name>
+		<icon src="https://image.discovery.indazn.com/eu/v4/onboarding-images/none/sn_5k620c7y6dlbmcm88dt3eb7t/fill/center/top/none/100/0/0/png/image/25/g" />
 	</channel>
-	<channel id="DAZN National League 2">
-		<display-name>DAZN National League 2</display-name>
-		<display-name>DAZN National League 2.TV</display-name>
-		<display-name>DAZN National League 2 SD</display-name>
-		<display-name>DAZN National League 2 HD</display-name>
-		<display-name>DAZN National League 2 FHD</display-name>
-		<display-name>DAZN National League 2 UHD</display-name>
-		<display-name>DAZN National League 2 720</display-name>
-		<display-name>DAZN National League 2 1080</display-name>
-		<icon src="https://image.discovery.indazn.com/eu/v4/onboarding-images/none/sn_b5udgm9vakjqz8dcmy5b2g0xt/fill/center/top/none/100/0/0/png/image/25/g" />
+	<channel id="DAZN Liga F 5">
+		<display-name>DAZN Liga F 5</display-name>
+		<display-name>DAZN Liga F 5.TV</display-name>
+		<display-name>DAZN Liga F 5 SD</display-name>
+		<display-name>DAZN Liga F 5 HD</display-name>
+		<display-name>DAZN Liga F 5 FHD</display-name>
+		<display-name>DAZN Liga F 5 UHD</display-name>
+		<display-name>DAZN Liga F 5 720</display-name>
+		<display-name>DAZN Liga F 5 1080</display-name>
+		<icon src="https://image.discovery.indazn.com/eu/v4/onboarding-images/none/sn_5k620c7y6dlbmcm88dt3eb7t/fill/center/top/none/100/0/0/png/image/25/g" />
 	</channel>
-	<channel id="DAZN National League 3">
-		<display-name>DAZN National League 3</display-name>
-		<display-name>DAZN National League 3.TV</display-name>
-		<display-name>DAZN National League 3 SD</display-name>
-		<display-name>DAZN National League 3 HD</display-name>
-		<display-name>DAZN National League 3 FHD</display-name>
-		<display-name>DAZN National League 3 UHD</display-name>
-		<display-name>DAZN National League 3 720</display-name>
-		<display-name>DAZN National League 3 1080</display-name>
-		<icon src="https://image.discovery.indazn.com/eu/v4/onboarding-images/none/sn_b5udgm9vakjqz8dcmy5b2g0xt/fill/center/top/none/100/0/0/png/image/25/g" />
-	</channel>
-	<channel id="DAZN National League 4">
-		<display-name>DAZN National League 4</display-name>
-		<display-name>DAZN National League 4.TV</display-name>
-		<display-name>DAZN National League 4 SD</display-name>
-		<display-name>DAZN National League 4 HD</display-name>
-		<display-name>DAZN National League 4 FHD</display-name>
-		<display-name>DAZN National League 4 UHD</display-name>
-		<display-name>DAZN National League 4 720</display-name>
-		<display-name>DAZN National League 4 1080</display-name>
-		<icon src="https://image.discovery.indazn.com/eu/v4/onboarding-images/none/sn_b5udgm9vakjqz8dcmy5b2g0xt/fill/center/top/none/100/0/0/png/image/25/g" />
-	</channel>
-	<channel id="DAZN National League 5">
-		<display-name>DAZN National League 5</display-name>
-		<display-name>DAZN National League 5.TV</display-name>
-		<display-name>DAZN National League 5 SD</display-name>
-		<display-name>DAZN National League 5 HD</display-name>
-		<display-name>DAZN National League 5 FHD</display-name>
-		<display-name>DAZN National League 5 UHD</display-name>
-		<display-name>DAZN National League 5 720</display-name>
-		<display-name>DAZN National League 5 1080</display-name>
-		<icon src="https://image.discovery.indazn.com/eu/v4/onboarding-images/none/sn_b5udgm9vakjqz8dcmy5b2g0xt/fill/center/top/none/100/0/0/png/image/25/g" />
-	</channel>
-	<channel id="DAZN National League 6">
-		<display-name>DAZN National League 6</display-name>
-		<display-name>DAZN National League 6.TV</display-name>
-		<display-name>DAZN National League 6 SD</display-name>
-		<display-name>DAZN National League 6 HD</display-name>
-		<display-name>DAZN National League 6 FHD</display-name>
-		<display-name>DAZN National League 6 UHD</display-name>
-		<display-name>DAZN National League 6 720</display-name>
-		<display-name>DAZN National League 6 1080</display-name>
-		<icon src="https://image.discovery.indazn.com/eu/v4/onboarding-images/none/sn_b5udgm9vakjqz8dcmy5b2g0xt/fill/center/top/none/100/0/0/png/image/25/g" />
-	</channel>
-	<channel id="DAZN National League 7">
-		<display-name>DAZN National League 7</display-name>
-		<display-name>DAZN National League 7.TV</display-name>
-		<display-name>DAZN National League 7 SD</display-name>
-		<display-name>DAZN National League 7 HD</display-name>
-		<display-name>DAZN National League 7 FHD</display-name>
-		<display-name>DAZN National League 7 UHD</display-name>
-		<display-name>DAZN National League 7 720</display-name>
-		<display-name>DAZN National League 7 1080</display-name>
-		<icon src="https://image.discovery.indazn.com/eu/v4/onboarding-images/none/sn_b5udgm9vakjqz8dcmy5b2g0xt/fill/center/top/none/100/0/0/png/image/25/g" />
-	</channel>
-	<channel id="DAZN National League 8">
-		<display-name>DAZN National League 8</display-name>
-		<display-name>DAZN National League 8.TV</display-name>
-		<display-name>DAZN National League 8 SD</display-name>
-		<display-name>DAZN National League 8 HD</display-name>
-		<display-name>DAZN National League 8 FHD</display-name>
-		<display-name>DAZN National League 8 UHD</display-name>
-		<display-name>DAZN National League 8 720</display-name>
-		<display-name>DAZN National League 8 1080</display-name>
-		<icon src="https://image.discovery.indazn.com/eu/v4/onboarding-images/none/sn_b5udgm9vakjqz8dcmy5b2g0xt/fill/center/top/none/100/0/0/png/image/25/g" />
-	</channel>
-	<channel id="DAZN National League 9">
-		<display-name>DAZN National League 9</display-name>
-		<display-name>DAZN National League 9.TV</display-name>
-		<display-name>DAZN National League 9 SD</display-name>
-		<display-name>DAZN National League 9 HD</display-name>
-		<display-name>DAZN National League 9 FHD</display-name>
-		<display-name>DAZN National League 9 UHD</display-name>
-		<display-name>DAZN National League 9 720</display-name>
-		<display-name>DAZN National League 9 1080</display-name>
-		<icon src="https://image.discovery.indazn.com/eu/v4/onboarding-images/none/sn_b5udgm9vakjqz8dcmy5b2g0xt/fill/center/top/none/100/0/0/png/image/25/g" />
+	<channel id="DAZN Liga F 6">
+		<display-name>DAZN Liga F 6</display-name>
+		<display-name>DAZN Liga F 6.TV</display-name>
+		<display-name>DAZN Liga F 6 SD</display-name>
+		<display-name>DAZN Liga F 6 HD</display-name>
+		<display-name>DAZN Liga F 6 FHD</display-name>
+		<display-name>DAZN Liga F 6 UHD</display-name>
+		<display-name>DAZN Liga F 6 720</display-name>
+		<display-name>DAZN Liga F 6 1080</display-name>
+		<icon src="https://image.discovery.indazn.com/eu/v4/onboarding-images/none/sn_5k620c7y6dlbmcm88dt3eb7t/fill/center/top/none/100/0/0/png/image/25/g" />
 	</channel>
 	<channel id="DAZN Premier League">
 		<display-name>DAZN Premier League</display-name>
@@ -5157,6 +5124,17 @@
 		<display-name>DAZN Premier League UHD</display-name>
 		<display-name>DAZN Premier League 720</display-name>
 		<display-name>DAZN Premier League 1080</display-name>
+		<icon src="https://image.discovery.indazn.com/eu/v4/onboarding-images/none/sn_2kwbbcootiqqgmrzs6o5inle5/fill/center/top/none/100/0/0/png/image/25/g" />
+	</channel>
+	<channel id="DAZN Premier League 10">
+		<display-name>DAZN Premier League 10</display-name>
+		<display-name>DAZN Premier League 10.TV</display-name>
+		<display-name>DAZN Premier League 10 SD</display-name>
+		<display-name>DAZN Premier League 10 HD</display-name>
+		<display-name>DAZN Premier League 10 FHD</display-name>
+		<display-name>DAZN Premier League 10 UHD</display-name>
+		<display-name>DAZN Premier League 10 720</display-name>
+		<display-name>DAZN Premier League 10 1080</display-name>
 		<icon src="https://image.discovery.indazn.com/eu/v4/onboarding-images/none/sn_2kwbbcootiqqgmrzs6o5inle5/fill/center/top/none/100/0/0/png/image/25/g" />
 	</channel>
 	<channel id="DAZN Premier League 2">
@@ -5203,6 +5181,50 @@
 		<display-name>DAZN Premier League 5 1080</display-name>
 		<icon src="https://image.discovery.indazn.com/eu/v4/onboarding-images/none/sn_2kwbbcootiqqgmrzs6o5inle5/fill/center/top/none/100/0/0/png/image/25/g" />
 	</channel>
+	<channel id="DAZN Premier League 6">
+		<display-name>DAZN Premier League 6</display-name>
+		<display-name>DAZN Premier League 6.TV</display-name>
+		<display-name>DAZN Premier League 6 SD</display-name>
+		<display-name>DAZN Premier League 6 HD</display-name>
+		<display-name>DAZN Premier League 6 FHD</display-name>
+		<display-name>DAZN Premier League 6 UHD</display-name>
+		<display-name>DAZN Premier League 6 720</display-name>
+		<display-name>DAZN Premier League 6 1080</display-name>
+		<icon src="https://image.discovery.indazn.com/eu/v4/onboarding-images/none/sn_2kwbbcootiqqgmrzs6o5inle5/fill/center/top/none/100/0/0/png/image/25/g" />
+	</channel>
+	<channel id="DAZN Premier League 7">
+		<display-name>DAZN Premier League 7</display-name>
+		<display-name>DAZN Premier League 7.TV</display-name>
+		<display-name>DAZN Premier League 7 SD</display-name>
+		<display-name>DAZN Premier League 7 HD</display-name>
+		<display-name>DAZN Premier League 7 FHD</display-name>
+		<display-name>DAZN Premier League 7 UHD</display-name>
+		<display-name>DAZN Premier League 7 720</display-name>
+		<display-name>DAZN Premier League 7 1080</display-name>
+		<icon src="https://image.discovery.indazn.com/eu/v4/onboarding-images/none/sn_2kwbbcootiqqgmrzs6o5inle5/fill/center/top/none/100/0/0/png/image/25/g" />
+	</channel>
+	<channel id="DAZN Premier League 8">
+		<display-name>DAZN Premier League 8</display-name>
+		<display-name>DAZN Premier League 8.TV</display-name>
+		<display-name>DAZN Premier League 8 SD</display-name>
+		<display-name>DAZN Premier League 8 HD</display-name>
+		<display-name>DAZN Premier League 8 FHD</display-name>
+		<display-name>DAZN Premier League 8 UHD</display-name>
+		<display-name>DAZN Premier League 8 720</display-name>
+		<display-name>DAZN Premier League 8 1080</display-name>
+		<icon src="https://image.discovery.indazn.com/eu/v4/onboarding-images/none/sn_2kwbbcootiqqgmrzs6o5inle5/fill/center/top/none/100/0/0/png/image/25/g" />
+	</channel>
+	<channel id="DAZN Premier League 9">
+		<display-name>DAZN Premier League 9</display-name>
+		<display-name>DAZN Premier League 9.TV</display-name>
+		<display-name>DAZN Premier League 9 SD</display-name>
+		<display-name>DAZN Premier League 9 HD</display-name>
+		<display-name>DAZN Premier League 9 FHD</display-name>
+		<display-name>DAZN Premier League 9 UHD</display-name>
+		<display-name>DAZN Premier League 9 720</display-name>
+		<display-name>DAZN Premier League 9 1080</display-name>
+		<icon src="https://image.discovery.indazn.com/eu/v4/onboarding-images/none/sn_2kwbbcootiqqgmrzs6o5inle5/fill/center/top/none/100/0/0/png/image/25/g" />
+	</channel>
 	<channel id="DAZN Serie A">
 		<display-name>DAZN Serie A</display-name>
 		<display-name>DAZN Serie A.TV</display-name>
@@ -5223,6 +5245,39 @@
 		<display-name>DAZN Serie A 2 UHD</display-name>
 		<display-name>DAZN Serie A 2 720</display-name>
 		<display-name>DAZN Serie A 2 1080</display-name>
+		<icon src="https://image.discovery.indazn.com/eu/v4/onboarding-images/none/sn_1r097lpxe0xn03ihb7wi98kao/fill/center/top/none/100/0/0/png/image/25/g" />
+	</channel>
+	<channel id="DAZN Serie A 3">
+		<display-name>DAZN Serie A 3</display-name>
+		<display-name>DAZN Serie A 3.TV</display-name>
+		<display-name>DAZN Serie A 3 SD</display-name>
+		<display-name>DAZN Serie A 3 HD</display-name>
+		<display-name>DAZN Serie A 3 FHD</display-name>
+		<display-name>DAZN Serie A 3 UHD</display-name>
+		<display-name>DAZN Serie A 3 720</display-name>
+		<display-name>DAZN Serie A 3 1080</display-name>
+		<icon src="https://image.discovery.indazn.com/eu/v4/onboarding-images/none/sn_1r097lpxe0xn03ihb7wi98kao/fill/center/top/none/100/0/0/png/image/25/g" />
+	</channel>
+	<channel id="DAZN Serie A 4">
+		<display-name>DAZN Serie A 4</display-name>
+		<display-name>DAZN Serie A 4.TV</display-name>
+		<display-name>DAZN Serie A 4 SD</display-name>
+		<display-name>DAZN Serie A 4 HD</display-name>
+		<display-name>DAZN Serie A 4 FHD</display-name>
+		<display-name>DAZN Serie A 4 UHD</display-name>
+		<display-name>DAZN Serie A 4 720</display-name>
+		<display-name>DAZN Serie A 4 1080</display-name>
+		<icon src="https://image.discovery.indazn.com/eu/v4/onboarding-images/none/sn_1r097lpxe0xn03ihb7wi98kao/fill/center/top/none/100/0/0/png/image/25/g" />
+	</channel>
+	<channel id="DAZN Serie A 5">
+		<display-name>DAZN Serie A 5</display-name>
+		<display-name>DAZN Serie A 5.TV</display-name>
+		<display-name>DAZN Serie A 5 SD</display-name>
+		<display-name>DAZN Serie A 5 HD</display-name>
+		<display-name>DAZN Serie A 5 FHD</display-name>
+		<display-name>DAZN Serie A 5 UHD</display-name>
+		<display-name>DAZN Serie A 5 720</display-name>
+		<display-name>DAZN Serie A 5 1080</display-name>
 		<icon src="https://image.discovery.indazn.com/eu/v4/onboarding-images/none/sn_1r097lpxe0xn03ihb7wi98kao/fill/center/top/none/100/0/0/png/image/25/g" />
 	</channel>
 	<channel id="Sky News International">
@@ -5256,7 +5311,7 @@
 		<display-name>1+1 International UHD</display-name>
 		<display-name>1+1 International 720</display-name>
 		<display-name>1+1 International 1080</display-name>
-		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/1+1 International.png" />
+		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/1%2B1%20International.png" />
 	</channel>
 	<channel id="100% Navidad (Rakuten TV)">
 		<display-name>100% Navidad (Rakuten TV)</display-name>
@@ -5279,7 +5334,6 @@
 		<display-name>Todo Crimen (Rakuten TV) 720</display-name>
 		<display-name>Todo Crimen (Rakuten TV) 1080</display-name>
 		<icon src="https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork-negative/8fb33036-37c7-478c-930f-f8f6230a5c32.png" />
-		<icon src="https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork-negative/e058d349-db97-4c0b-a9dd-477147a1d473.png" />
 		<icon src="https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork-negative/e058d349-db97-4c0b-a9dd-477147a1d473.png" />
 	</channel>
 	<channel id="Crimen (Rakuten TV)">
@@ -6436,17 +6490,6 @@
 		<display-name>DE | Sky Sport Austria 1080</display-name>
 		<icon src="https://images.tvtoday.de/sender/small/spo-a.png" />
 	</channel>
-	<channel id="DE | TRT Türk HD">
-		<display-name>DE | TRT Türk</display-name>
-		<display-name>DE | TRT Türk.TV</display-name>
-		<display-name>DE | TRT Türk SD</display-name>
-		<display-name>DE | TRT Türk HD</display-name>
-		<display-name>DE | TRT Türk FHD</display-name>
-		<display-name>DE | TRT Türk UHD</display-name>
-		<display-name>DE | TRT Türk 720</display-name>
-		<display-name>DE | TRT Türk 1080</display-name>
-		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/TRT%20T%C3%BCrk.png" />
-	</channel>
 	<channel id="DE | Rally TV">
 		<display-name>DE | Rally TV</display-name>
 		<display-name>DE | Rally TV.TV</display-name>
@@ -6728,6 +6771,7 @@
 		<display-name>DE | Sky Sport 5 UHD</display-name>
 		<display-name>DE | Sky Sport 5 720</display-name>
 		<display-name>DE | Sky Sport 5 1080</display-name>
+		<icon src="https://www.sky.de/static/img/senderlogos_dark/134_sky_logo_skysporthd7_tvguide.png" />
 	</channel>
 	<channel id="DE | Sky Sport 6">
 		<display-name>DE | Sky Sport 6</display-name>
@@ -6738,6 +6782,7 @@
 		<display-name>DE | Sky Sport 6 UHD</display-name>
 		<display-name>DE | Sky Sport 6 720</display-name>
 		<display-name>DE | Sky Sport 6 1080</display-name>
+		<icon src="https://www.sky.de/static/img/senderlogos_dark/135_sky_logo_skysporthd8_tvguide.png" />
 	</channel>
 	<channel id="DE | Sky Sport 7">
 		<display-name>DE | Sky Sport 7</display-name>
@@ -6748,6 +6793,7 @@
 		<display-name>DE | Sky Sport 7 UHD</display-name>
 		<display-name>DE | Sky Sport 7 720</display-name>
 		<display-name>DE | Sky Sport 7 1080</display-name>
+		<icon src="https://www.sky.de/static/img/senderlogos_dark/136_sky_logo_skysporthd9_tvguide.png" />
 	</channel>
 	<channel id="DE | Sky Sport 8">
 		<display-name>DE | Sky Sport 8</display-name>
@@ -6758,6 +6804,7 @@
 		<display-name>DE | Sky Sport 8 UHD</display-name>
 		<display-name>DE | Sky Sport 8 720</display-name>
 		<display-name>DE | Sky Sport 8 1080</display-name>
+		<icon src="https://www.sky.de/static/img/senderlogos_dark/137_sky_logo_skysporthd10_tvguide.png" />
 	</channel>
 	<channel id="DE | Sky Sport 9">
 		<display-name>DE | Sky Sport 9</display-name>
@@ -6768,6 +6815,7 @@
 		<display-name>DE | Sky Sport 9 UHD</display-name>
 		<display-name>DE | Sky Sport 9 720</display-name>
 		<display-name>DE | Sky Sport 9 1080</display-name>
+		<icon src="https://www.sky.de/static/img/senderlogos_dark/138_sky_logo_skysporthd11_tvguide.png" />
 	</channel>
 	<channel id="DE | Sky Sport 10">
 		<display-name>DE | Sky Sport 10</display-name>
@@ -6778,6 +6826,7 @@
 		<display-name>DE | Sky Sport 10 UHD</display-name>
 		<display-name>DE | Sky Sport 10 720</display-name>
 		<display-name>DE | Sky Sport 10 1080</display-name>
+		<icon src="https://www.sky.de/static/img/senderlogos_dark/999_sky_logo_sky-sport-pl-hd_tvguide.png" />
 	</channel>
 	<channel id="DE | Motorvision+">
 		<display-name>DE | Motorvision+</display-name>
