@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tv generator-info-name="dobleM 27/05/2026 20:47" generator-info-url="t.me/EPG_dobleM">
+<tv generator-info-name="dobleM 28/05/2026 20:47" generator-info-url="t.me/EPG_dobleM">
 	<channel id="La 1 HD">
 		<display-name>La 1</display-name>
 		<display-name>La 1.TV</display-name>
@@ -4730,28 +4730,6 @@
 		<display-name>Mr Bean Animated 1080</display-name>
 		<icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES900001SH_20250923T011557SQUARE.png" />
 	</channel>
-	<channel id="Tennis+">
-		<display-name>Tennis+</display-name>
-		<display-name>Tennis+.TV</display-name>
-		<display-name>Tennis+ SD</display-name>
-		<display-name>Tennis+ HD</display-name>
-		<display-name>Tennis+ FHD</display-name>
-		<display-name>Tennis+ UHD</display-name>
-		<display-name>Tennis+ 720</display-name>
-		<display-name>Tennis+ 1080</display-name>
-		<icon src="https://provider-static.plex.tv/epg/cms/production/704e7af1-90a0-4ad4-94de-af2559c19fa6/1_Tennis_Plus_Logo__Dark_Mode__1500x1000px.png" />
-	</channel>
-	<channel id="FashionTV">
-		<display-name>FashionTV</display-name>
-		<display-name>FashionTV.TV</display-name>
-		<display-name>FashionTV SD</display-name>
-		<display-name>FashionTV HD</display-name>
-		<display-name>FashionTV FHD</display-name>
-		<display-name>FashionTV UHD</display-name>
-		<display-name>FashionTV 720</display-name>
-		<display-name>FashionTV 1080</display-name>
-		<icon src="https://provider-static.plex.tv/epg/cms/production/47127441-d5b6-42a3-b641-a7c076d20940/Fashion_PNG_w__transparent_background__All_white_Logo_for_Attribution__-_Yuri_Alexandrov.png" />
-	</channel>
 	<channel id="Liga de Campeones BAR 2">
 		<display-name>Liga de Campeones BAR 2</display-name>
 		<display-name>Liga de Campeones BAR 2.TV</display-name>
@@ -5026,6 +5004,17 @@
 		<display-name>Unbeaten 720</display-name>
 		<display-name>Unbeaten 1080</display-name>
 		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Unbeaten.png" />
+	</channel>
+	<channel id="DAZN Copa Mundial de FIFA">
+		<display-name>DAZN Copa Mundial de FIFA</display-name>
+		<display-name>DAZN Copa Mundial de FIFA.TV</display-name>
+		<display-name>DAZN Copa Mundial de FIFA SD</display-name>
+		<display-name>DAZN Copa Mundial de FIFA HD</display-name>
+		<display-name>DAZN Copa Mundial de FIFA FHD</display-name>
+		<display-name>DAZN Copa Mundial de FIFA UHD</display-name>
+		<display-name>DAZN Copa Mundial de FIFA 720</display-name>
+		<display-name>DAZN Copa Mundial de FIFA 1080</display-name>
+		<icon src="https://image.discovery.indazn.com/eu/v4/onboarding-images/none/sn_70excpe1synn9kadnbppahdn7/fill/center/top/none/100/0/0/png/image/25/g" />
 	</channel>
 	<channel id="DAZN Liga F">
 		<display-name>DAZN Liga F</display-name>
@@ -6354,7 +6343,6 @@
 		<display-name>DE | Sky Sport Austria 4 UHD</display-name>
 		<display-name>DE | Sky Sport Austria 4 720</display-name>
 		<display-name>DE | Sky Sport Austria 4 1080</display-name>
-		<icon src="https://www.sky.de/static/img/senderlogos_dark/898_sky_logo_skysportaustria_4-hd_tvguide.png" />
 	</channel>
 	<channel id="DE | Sky Sport Austria 5">
 		<display-name>DE | Sky Sport Austria 5</display-name>
