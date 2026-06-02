@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tv generator-info-name="dobleM 31/05/2026 20:47" generator-info-url="t.me/EPG_dobleM">
+<tv generator-info-name="dobleM 01/06/2026 20:47" generator-info-url="t.me/EPG_dobleM">
 	<channel id="La 1 HD">
 		<display-name>La 1</display-name>
 		<display-name>La 1.TV</display-name>
@@ -1441,16 +1441,16 @@
 		<display-name>M+ LaLiga 1080</display-name>
 		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20LaLiga.png" />
 	</channel>
-	<channel id="DAZN LaLiga HD">
-		<display-name>DAZN LaLiga</display-name>
-		<display-name>DAZN LaLiga.TV</display-name>
-		<display-name>DAZN LaLiga SD</display-name>
-		<display-name>DAZN LaLiga HD</display-name>
-		<display-name>DAZN LaLiga FHD</display-name>
-		<display-name>DAZN LaLiga UHD</display-name>
-		<display-name>DAZN LaLiga 720</display-name>
-		<display-name>DAZN LaLiga 1080</display-name>
-		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20LaLiga.png" />
+	<channel id="DAZN Mundial HD">
+		<display-name>DAZN Mundial</display-name>
+		<display-name>DAZN Mundial.TV</display-name>
+		<display-name>DAZN Mundial SD</display-name>
+		<display-name>DAZN Mundial HD</display-name>
+		<display-name>DAZN Mundial FHD</display-name>
+		<display-name>DAZN Mundial UHD</display-name>
+		<display-name>DAZN Mundial 720</display-name>
+		<display-name>DAZN Mundial 1080</display-name>
+		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20Mundial.png" />
 	</channel>
 	<channel id="LaLiga TV Hypermotion HD">
 		<display-name>LaLiga TV Hypermotion</display-name>
@@ -1474,16 +1474,16 @@
 		<display-name>M+ Fanzone 1080</display-name>
 		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Fanzone.png" />
 	</channel>
-	<channel id="DAZN LaLiga 2 HD">
-		<display-name>DAZN LaLiga 2</display-name>
-		<display-name>DAZN LaLiga 2.TV</display-name>
-		<display-name>DAZN LaLiga 2 SD</display-name>
-		<display-name>DAZN LaLiga 2 HD</display-name>
-		<display-name>DAZN LaLiga 2 FHD</display-name>
-		<display-name>DAZN LaLiga 2 UHD</display-name>
-		<display-name>DAZN LaLiga 2 720</display-name>
-		<display-name>DAZN LaLiga 2 1080</display-name>
-		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20LaLiga%202.png" />
+	<channel id="DAZN Mundial 2 HD">
+		<display-name>DAZN Mundial 2</display-name>
+		<display-name>DAZN Mundial 2.TV</display-name>
+		<display-name>DAZN Mundial 2 SD</display-name>
+		<display-name>DAZN Mundial 2 HD</display-name>
+		<display-name>DAZN Mundial 2 FHD</display-name>
+		<display-name>DAZN Mundial 2 UHD</display-name>
+		<display-name>DAZN Mundial 2 720</display-name>
+		<display-name>DAZN Mundial 2 1080</display-name>
+		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20Mundial%202.png" />
 	</channel>
 	<channel id="LaLiga TV Hypermotion 2">
 		<display-name>LaLiga TV Hypermotion 2</display-name>
@@ -1881,38 +1881,27 @@
 		<display-name>M+ LaLiga 6 1080</display-name>
 		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20LaLiga%206.png" />
 	</channel>
-	<channel id="DAZN LaLiga 3">
-		<display-name>DAZN LaLiga 3</display-name>
-		<display-name>DAZN LaLiga 3.TV</display-name>
-		<display-name>DAZN LaLiga 3 SD</display-name>
-		<display-name>DAZN LaLiga 3 HD</display-name>
-		<display-name>DAZN LaLiga 3 FHD</display-name>
-		<display-name>DAZN LaLiga 3 UHD</display-name>
-		<display-name>DAZN LaLiga 3 720</display-name>
-		<display-name>DAZN LaLiga 3 1080</display-name>
-		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20LaLiga%203.png" />
+	<channel id="DAZN Mundial 3">
+		<display-name>DAZN Mundial 3</display-name>
+		<display-name>DAZN Mundial 3.TV</display-name>
+		<display-name>DAZN Mundial 3 SD</display-name>
+		<display-name>DAZN Mundial 3 HD</display-name>
+		<display-name>DAZN Mundial 3 FHD</display-name>
+		<display-name>DAZN Mundial 3 UHD</display-name>
+		<display-name>DAZN Mundial 3 720</display-name>
+		<display-name>DAZN Mundial 3 1080</display-name>
+		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20Mundial%203.png" />
 	</channel>
-	<channel id="DAZN LaLiga 4">
-		<display-name>DAZN LaLiga 4</display-name>
-		<display-name>DAZN LaLiga 4.TV</display-name>
-		<display-name>DAZN LaLiga 4 SD</display-name>
-		<display-name>DAZN LaLiga 4 HD</display-name>
-		<display-name>DAZN LaLiga 4 FHD</display-name>
-		<display-name>DAZN LaLiga 4 UHD</display-name>
-		<display-name>DAZN LaLiga 4 720</display-name>
-		<display-name>DAZN LaLiga 4 1080</display-name>
-		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20LaLiga%204.png" />
-	</channel>
-	<channel id="DAZN LaLiga 5">
-		<display-name>DAZN LaLiga 5</display-name>
-		<display-name>DAZN LaLiga 5.TV</display-name>
-		<display-name>DAZN LaLiga 5 SD</display-name>
-		<display-name>DAZN LaLiga 5 HD</display-name>
-		<display-name>DAZN LaLiga 5 FHD</display-name>
-		<display-name>DAZN LaLiga 5 UHD</display-name>
-		<display-name>DAZN LaLiga 5 720</display-name>
-		<display-name>DAZN LaLiga 5 1080</display-name>
-		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20LaLiga%205.png" />
+	<channel id="DAZN Mundial 4">
+		<display-name>DAZN Mundial 4</display-name>
+		<display-name>DAZN Mundial 4.TV</display-name>
+		<display-name>DAZN Mundial 4 SD</display-name>
+		<display-name>DAZN Mundial 4 HD</display-name>
+		<display-name>DAZN Mundial 4 FHD</display-name>
+		<display-name>DAZN Mundial 4 UHD</display-name>
+		<display-name>DAZN Mundial 4 720</display-name>
+		<display-name>DAZN Mundial 4 1080</display-name>
+		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20Mundial%204.png" />
 	</channel>
 	<channel id="M+ Vamos 2">
 		<display-name>M+ Vamos 2</display-name>
@@ -1957,94 +1946,6 @@
 		<display-name>LaLiga TV Hypermotion 4 720</display-name>
 		<display-name>LaLiga TV Hypermotion 4 1080</display-name>
 		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/LaLiga%20TV%20Hypermotion%204.png" />
-	</channel>
-	<channel id="LaLiga TV Hypermotion 5">
-		<display-name>LaLiga TV Hypermotion 5</display-name>
-		<display-name>LaLiga TV Hypermotion 5.TV</display-name>
-		<display-name>LaLiga TV Hypermotion 5 SD</display-name>
-		<display-name>LaLiga TV Hypermotion 5 HD</display-name>
-		<display-name>LaLiga TV Hypermotion 5 FHD</display-name>
-		<display-name>LaLiga TV Hypermotion 5 UHD</display-name>
-		<display-name>LaLiga TV Hypermotion 5 720</display-name>
-		<display-name>LaLiga TV Hypermotion 5 1080</display-name>
-		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/LaLiga%20TV%20Hypermotion%205.png" />
-	</channel>
-	<channel id="LaLiga TV Hypermotion 6">
-		<display-name>LaLiga TV Hypermotion 6</display-name>
-		<display-name>LaLiga TV Hypermotion 6.TV</display-name>
-		<display-name>LaLiga TV Hypermotion 6 SD</display-name>
-		<display-name>LaLiga TV Hypermotion 6 HD</display-name>
-		<display-name>LaLiga TV Hypermotion 6 FHD</display-name>
-		<display-name>LaLiga TV Hypermotion 6 UHD</display-name>
-		<display-name>LaLiga TV Hypermotion 6 720</display-name>
-		<display-name>LaLiga TV Hypermotion 6 1080</display-name>
-		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/LaLiga%20TV%20Hypermotion%206.png" />
-	</channel>
-	<channel id="LaLiga TV Hypermotion 7">
-		<display-name>LaLiga TV Hypermotion 7</display-name>
-		<display-name>LaLiga TV Hypermotion 7.TV</display-name>
-		<display-name>LaLiga TV Hypermotion 7 SD</display-name>
-		<display-name>LaLiga TV Hypermotion 7 HD</display-name>
-		<display-name>LaLiga TV Hypermotion 7 FHD</display-name>
-		<display-name>LaLiga TV Hypermotion 7 UHD</display-name>
-		<display-name>LaLiga TV Hypermotion 7 720</display-name>
-		<display-name>LaLiga TV Hypermotion 7 1080</display-name>
-		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/LaLiga%20TV%20Hypermotion%207.png" />
-	</channel>
-	<channel id="LaLiga TV Hypermotion 8">
-		<display-name>LaLiga TV Hypermotion 8</display-name>
-		<display-name>LaLiga TV Hypermotion 8.TV</display-name>
-		<display-name>LaLiga TV Hypermotion 8 SD</display-name>
-		<display-name>LaLiga TV Hypermotion 8 HD</display-name>
-		<display-name>LaLiga TV Hypermotion 8 FHD</display-name>
-		<display-name>LaLiga TV Hypermotion 8 UHD</display-name>
-		<display-name>LaLiga TV Hypermotion 8 720</display-name>
-		<display-name>LaLiga TV Hypermotion 8 1080</display-name>
-		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/LaLiga%20TV%20Hypermotion%208.png" />
-	</channel>
-	<channel id="LaLiga TV Hypermotion 9">
-		<display-name>LaLiga TV Hypermotion 9</display-name>
-		<display-name>LaLiga TV Hypermotion 9.TV</display-name>
-		<display-name>LaLiga TV Hypermotion 9 SD</display-name>
-		<display-name>LaLiga TV Hypermotion 9 HD</display-name>
-		<display-name>LaLiga TV Hypermotion 9 FHD</display-name>
-		<display-name>LaLiga TV Hypermotion 9 UHD</display-name>
-		<display-name>LaLiga TV Hypermotion 9 720</display-name>
-		<display-name>LaLiga TV Hypermotion 9 1080</display-name>
-		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/LaLiga%20TV%20Hypermotion%209.png" />
-	</channel>
-	<channel id="LaLiga TV Hypermotion 10">
-		<display-name>LaLiga TV Hypermotion 10</display-name>
-		<display-name>LaLiga TV Hypermotion 10.TV</display-name>
-		<display-name>LaLiga TV Hypermotion 10 SD</display-name>
-		<display-name>LaLiga TV Hypermotion 10 HD</display-name>
-		<display-name>LaLiga TV Hypermotion 10 FHD</display-name>
-		<display-name>LaLiga TV Hypermotion 10 UHD</display-name>
-		<display-name>LaLiga TV Hypermotion 10 720</display-name>
-		<display-name>LaLiga TV Hypermotion 10 1080</display-name>
-		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/LaLiga%20TV%20Hypermotion%2010.png" />
-	</channel>
-	<channel id="LaLiga TV Hypermotion 11">
-		<display-name>LaLiga TV Hypermotion 11</display-name>
-		<display-name>LaLiga TV Hypermotion 11.TV</display-name>
-		<display-name>LaLiga TV Hypermotion 11 SD</display-name>
-		<display-name>LaLiga TV Hypermotion 11 HD</display-name>
-		<display-name>LaLiga TV Hypermotion 11 FHD</display-name>
-		<display-name>LaLiga TV Hypermotion 11 UHD</display-name>
-		<display-name>LaLiga TV Hypermotion 11 720</display-name>
-		<display-name>LaLiga TV Hypermotion 11 1080</display-name>
-		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/LaLiga%20TV%20Hypermotion%2011.png" />
-	</channel>
-	<channel id="LaLiga TV Hypermotion 12">
-		<display-name>LaLiga TV Hypermotion 12</display-name>
-		<display-name>LaLiga TV Hypermotion 12.TV</display-name>
-		<display-name>LaLiga TV Hypermotion 12 SD</display-name>
-		<display-name>LaLiga TV Hypermotion 12 HD</display-name>
-		<display-name>LaLiga TV Hypermotion 12 FHD</display-name>
-		<display-name>LaLiga TV Hypermotion 12 UHD</display-name>
-		<display-name>LaLiga TV Hypermotion 12 720</display-name>
-		<display-name>LaLiga TV Hypermotion 12 1080</display-name>
-		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/LaLiga%20TV%20Hypermotion%2012.png" />
 	</channel>
 	<channel id="M+ Deportes 4">
 		<display-name>M+ Deportes 4</display-name>
@@ -4642,94 +4543,6 @@
 		<display-name>Infinity+ LQSA 1080</display-name>
 		<icon src="https://img-prod-api2.mediasetplay.mediaset.it/api/images/by/v5/esp/aHR0cHM6Ly9kYW0uY2xvdWQubWVkaWFzZXQubmV0L20vOWQ1ZTZkNWFmNDM0OTNkL29yaWdpbmFsL0NoYW5uZWwtbG9nb19JbmZpbml0eS1MUVNBLnBuZw/single/87/87@2?r=%202x&quot;%20media=&quot;(max-width:%201023px)|https://img-prod-api2.mediasetplay.mediaset.it/api/images/by/v5/esp/aHR0cHM6Ly9kYW0uY2xvdWQubWVkaWFzZXQubmV0L20vOWQ1ZTZkNWFmNDM0OTNkL29yaWdpbmFsL0NoYW5uZWwtbG9nb19JbmZpbml0eS1MUVNBLnBuZw/single/87/87@2?r=%202x&quot;%20media=&quot;(max-width:%201023px)|https://img-prod-api2.mediasetplay.mediaset.it/api/images/by/v5/esp/aHR0cHM6Ly9kYW0uY2xvdWQubWVkaWFzZXQubmV0L20vOWQ1ZTZkNWFmNDM0OTNkL29yaWdpbmFsL0NoYW5uZWwtbG9nb19JbmZpbml0eS1MUVNBLnBuZw/single/87/87@2?r=%202x&quot;%20media=&quot;(max-width:%201023px)|https://img-prod-api2.mediasetplay.mediaset.it/api/images/by/v5/esp/aHR0cHM6Ly9kYW0uY2xvdWQubWVkaWFzZXQubmV0L20vOWQ1ZTZkNWFmNDM0OTNkL29yaWdpbmFsL0NoYW5uZWwtbG9nb19JbmZpbml0eS1MUVNBLnBuZw/single/87/87@2?r=%202x&quot;%20media=&quot;(max-width:%201023px)|https://img-prod-api2.mediasetplay.mediaset.it/api/images/by/v5/esp/aHR0cHM6Ly9kYW0uY2xvdWQubWVkaWFzZXQubmV0L20vOWQ1ZTZkNWFmNDM0OTNkL29yaWdpbmFsL0NoYW5uZWwtbG9nb19JbmZpbml0eS1MUVNBLnBuZw/single/87/87@2?r=%202x&quot;%20media=&quot;(max-width:%201023px)|https://img-prod-api2.mediasetplay.mediaset.it/api/images/by/v5/esp/aHR0cHM6Ly9kYW0uY2xvdWQubWVkaWFzZXQubmV0L20vOWQ1ZTZkNWFmNDM0OTNkL29yaWdpbmFsL0NoYW5uZWwtbG9nb19JbmZpbml0eS1MUVNBLnBuZw/single/87/87@2?r=%202x&quot;%20media=&quot;(max-width:%201023px)|https://img-prod-api2.mediasetplay.mediaset.it/api/images/by/v5/esp/aHR0cHM6Ly9kYW0uY2xvdWQubWVkaWFzZXQubmV0L20vOWQ1ZTZkNWFmNDM0OTNkL29yaWdpbmFsL0NoYW5uZWwtbG9nb19JbmZpbml0eS1MUVNBLnBuZw/single/87/87@2?r=%202x&quot;%20media=&quot;(max-width:%201023px)" />
 	</channel>
-	<channel id="Sony One Shark Tank">
-		<display-name>Sony One Shark Tank</display-name>
-		<display-name>Sony One Shark Tank.TV</display-name>
-		<display-name>Sony One Shark Tank SD</display-name>
-		<display-name>Sony One Shark Tank HD</display-name>
-		<display-name>Sony One Shark Tank FHD</display-name>
-		<display-name>Sony One Shark Tank UHD</display-name>
-		<display-name>Sony One Shark Tank 720</display-name>
-		<display-name>Sony One Shark Tank 1080</display-name>
-		<icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES300004C9_20241106T142325SQUARE.png" />
-	</channel>
-	<channel id="Sony One Series Thriller">
-		<display-name>Sony One Series Thriller</display-name>
-		<display-name>Sony One Series Thriller.TV</display-name>
-		<display-name>Sony One Series Thriller SD</display-name>
-		<display-name>Sony One Series Thriller HD</display-name>
-		<display-name>Sony One Series Thriller FHD</display-name>
-		<display-name>Sony One Series Thriller UHD</display-name>
-		<display-name>Sony One Series Thriller 720</display-name>
-		<display-name>Sony One Series Thriller 1080</display-name>
-		<icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES300002Y6_20241106T142251SQUARE.png" />
-	</channel>
-	<channel id="Sony One Éxitos">
-		<display-name>Sony One Éxitos</display-name>
-		<display-name>Sony One Éxitos.TV</display-name>
-		<display-name>Sony One Éxitos SD</display-name>
-		<display-name>Sony One Éxitos HD</display-name>
-		<display-name>Sony One Éxitos FHD</display-name>
-		<display-name>Sony One Éxitos UHD</display-name>
-		<display-name>Sony One Éxitos 720</display-name>
-		<display-name>Sony One Éxitos 1080</display-name>
-		<icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES300003D4_20241022T051059SQUARE.png" />
-	</channel>
-	<channel id="Sony One The Blacklist">
-		<display-name>Sony One The Blacklist</display-name>
-		<display-name>Sony One The Blacklist.TV</display-name>
-		<display-name>Sony One The Blacklist SD</display-name>
-		<display-name>Sony One The Blacklist HD</display-name>
-		<display-name>Sony One The Blacklist FHD</display-name>
-		<display-name>Sony One The Blacklist UHD</display-name>
-		<display-name>Sony One The Blacklist 720</display-name>
-		<display-name>Sony One The Blacklist 1080</display-name>
-		<icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES300005EL_20241022T115805SQUARE.png" />
-	</channel>
-	<channel id="Sony One Series Comedia">
-		<display-name>Sony One Series Comedia</display-name>
-		<display-name>Sony One Series Comedia.TV</display-name>
-		<display-name>Sony One Series Comedia SD</display-name>
-		<display-name>Sony One Series Comedia HD</display-name>
-		<display-name>Sony One Series Comedia FHD</display-name>
-		<display-name>Sony One Series Comedia UHD</display-name>
-		<display-name>Sony One Series Comedia 720</display-name>
-		<display-name>Sony One Series Comedia 1080</display-name>
-		<icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES30000145_20241106T142322SQUARE.png" />
-	</channel>
-	<channel id="Sony One Hits Comedia">
-		<display-name>Sony One Hits Comedia</display-name>
-		<display-name>Sony One Hits Comedia.TV</display-name>
-		<display-name>Sony One Hits Comedia SD</display-name>
-		<display-name>Sony One Hits Comedia HD</display-name>
-		<display-name>Sony One Hits Comedia FHD</display-name>
-		<display-name>Sony One Hits Comedia UHD</display-name>
-		<display-name>Sony One Hits Comedia 720</display-name>
-		<display-name>Sony One Hits Comedia 1080</display-name>
-		<icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES300007KS_20251111T011949SQUARE.png" />
-	</channel>
-	<channel id="Sony One Hits Acción">
-		<display-name>Sony One Hits Acción</display-name>
-		<display-name>Sony One Hits Acción.TV</display-name>
-		<display-name>Sony One Hits Acción SD</display-name>
-		<display-name>Sony One Hits Acción HD</display-name>
-		<display-name>Sony One Hits Acción FHD</display-name>
-		<display-name>Sony One Hits Acción UHD</display-name>
-		<display-name>Sony One Hits Acción 720</display-name>
-		<display-name>Sony One Hits Acción 1080</display-name>
-		<icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES300006QJ_20251111T011921SQUARE.png" />
-	</channel>
-	<channel id="Mr Bean Animated">
-		<display-name>Mr Bean Animated</display-name>
-		<display-name>Mr Bean Animated.TV</display-name>
-		<display-name>Mr Bean Animated SD</display-name>
-		<display-name>Mr Bean Animated HD</display-name>
-		<display-name>Mr Bean Animated FHD</display-name>
-		<display-name>Mr Bean Animated UHD</display-name>
-		<display-name>Mr Bean Animated 720</display-name>
-		<display-name>Mr Bean Animated 1080</display-name>
-		<icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES900001SH_20250923T011557SQUARE.png" />
-	</channel>
 	<channel id="Tennis+">
 		<display-name>Tennis+</display-name>
 		<display-name>Tennis+.TV</display-name>
@@ -5026,50 +4839,6 @@
 		<display-name>DAZN Copa Mundial de FIFA 720</display-name>
 		<display-name>DAZN Copa Mundial de FIFA 1080</display-name>
 		<icon src="https://image.discovery.indazn.com/eu/v4/onboarding-images/none/sn_70excpe1synn9kadnbppahdn7/fill/center/top/none/100/0/0/png/image/25/g" />
-	</channel>
-	<channel id="DAZN Liga F">
-		<display-name>DAZN Liga F</display-name>
-		<display-name>DAZN Liga F.TV</display-name>
-		<display-name>DAZN Liga F SD</display-name>
-		<display-name>DAZN Liga F HD</display-name>
-		<display-name>DAZN Liga F FHD</display-name>
-		<display-name>DAZN Liga F UHD</display-name>
-		<display-name>DAZN Liga F 720</display-name>
-		<display-name>DAZN Liga F 1080</display-name>
-		<icon src="https://image.discovery.indazn.com/eu/v4/onboarding-images/none/sn_5k620c7y6dlbmcm88dt3eb7t/fill/center/top/none/100/0/0/png/image/25/g" />
-	</channel>
-	<channel id="DAZN Liga F 2">
-		<display-name>DAZN Liga F 2</display-name>
-		<display-name>DAZN Liga F 2.TV</display-name>
-		<display-name>DAZN Liga F 2 SD</display-name>
-		<display-name>DAZN Liga F 2 HD</display-name>
-		<display-name>DAZN Liga F 2 FHD</display-name>
-		<display-name>DAZN Liga F 2 UHD</display-name>
-		<display-name>DAZN Liga F 2 720</display-name>
-		<display-name>DAZN Liga F 2 1080</display-name>
-		<icon src="https://image.discovery.indazn.com/eu/v4/onboarding-images/none/sn_5k620c7y6dlbmcm88dt3eb7t/fill/center/top/none/100/0/0/png/image/25/g" />
-	</channel>
-	<channel id="DAZN Liga F 3">
-		<display-name>DAZN Liga F 3</display-name>
-		<display-name>DAZN Liga F 3.TV</display-name>
-		<display-name>DAZN Liga F 3 SD</display-name>
-		<display-name>DAZN Liga F 3 HD</display-name>
-		<display-name>DAZN Liga F 3 FHD</display-name>
-		<display-name>DAZN Liga F 3 UHD</display-name>
-		<display-name>DAZN Liga F 3 720</display-name>
-		<display-name>DAZN Liga F 3 1080</display-name>
-		<icon src="https://image.discovery.indazn.com/eu/v4/onboarding-images/none/sn_5k620c7y6dlbmcm88dt3eb7t/fill/center/top/none/100/0/0/png/image/25/g" />
-	</channel>
-	<channel id="DAZN Liga F 4">
-		<display-name>DAZN Liga F 4</display-name>
-		<display-name>DAZN Liga F 4.TV</display-name>
-		<display-name>DAZN Liga F 4 SD</display-name>
-		<display-name>DAZN Liga F 4 HD</display-name>
-		<display-name>DAZN Liga F 4 FHD</display-name>
-		<display-name>DAZN Liga F 4 UHD</display-name>
-		<display-name>DAZN Liga F 4 720</display-name>
-		<display-name>DAZN Liga F 4 1080</display-name>
-		<icon src="https://image.discovery.indazn.com/eu/v4/onboarding-images/none/sn_5k620c7y6dlbmcm88dt3eb7t/fill/center/top/none/100/0/0/png/image/25/g" />
 	</channel>
 	<channel id="Sky News International">
 		<display-name>Sky News International</display-name>
@@ -6519,6 +6288,7 @@
 		<display-name>DE | Sky Sport 1 UHD</display-name>
 		<display-name>DE | Sky Sport 1 720</display-name>
 		<display-name>DE | Sky Sport 1 1080</display-name>
+		<icon src="https://www.sky.de/static/img/senderlogos_dark/130_sky_logo_skysporthd3_tvguide.png" />
 	</channel>
 	<channel id="DE | Sky Sport 2">
 		<display-name>DE | Sky Sport 2</display-name>
