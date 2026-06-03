@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tv generator-info-name="dobleM 01/06/2026 20:47" generator-info-url="t.me/EPG_dobleM">
+<tv generator-info-name="dobleM 02/06/2026 20:47" generator-info-url="t.me/EPG_dobleM">
 	<channel id="La 1 HD">
 		<display-name>La 1</display-name>
 		<display-name>La 1.TV</display-name>
@@ -4554,6 +4554,17 @@
 		<display-name>Tennis+ 1080</display-name>
 		<icon src="https://provider-static.plex.tv/epg/cms/production/704e7af1-90a0-4ad4-94de-af2559c19fa6/1_Tennis_Plus_Logo__Dark_Mode__1500x1000px.png" />
 	</channel>
+	<channel id="FashionTV">
+		<display-name>FashionTV</display-name>
+		<display-name>FashionTV.TV</display-name>
+		<display-name>FashionTV SD</display-name>
+		<display-name>FashionTV HD</display-name>
+		<display-name>FashionTV FHD</display-name>
+		<display-name>FashionTV UHD</display-name>
+		<display-name>FashionTV 720</display-name>
+		<display-name>FashionTV 1080</display-name>
+		<icon src="https://provider-static.plex.tv/epg/cms/production/47127441-d5b6-42a3-b641-a7c076d20940/Fashion_PNG_w__transparent_background__All_white_Logo_for_Attribution__-_Yuri_Alexandrov.png" />
+	</channel>
 	<channel id="Liga de Campeones BAR 2">
 		<display-name>Liga de Campeones BAR 2</display-name>
 		<display-name>Liga de Campeones BAR 2.TV</display-name>
@@ -4741,28 +4752,6 @@
 		<display-name>Fight Time 1080</display-name>
 		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Fight%20Time.png" />
 	</channel>
-	<channel id="tlnovelas">
-		<display-name>tlnovelas</display-name>
-		<display-name>tlnovelas.TV</display-name>
-		<display-name>tlnovelas SD</display-name>
-		<display-name>tlnovelas HD</display-name>
-		<display-name>tlnovelas FHD</display-name>
-		<display-name>tlnovelas UHD</display-name>
-		<display-name>tlnovelas 720</display-name>
-		<display-name>tlnovelas 1080</display-name>
-		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/tlnovelas.png" />
-	</channel>
-	<channel id="DePelícula">
-		<display-name>DePelícula</display-name>
-		<display-name>DePelícula.TV</display-name>
-		<display-name>DePelícula SD</display-name>
-		<display-name>DePelícula HD</display-name>
-		<display-name>DePelícula FHD</display-name>
-		<display-name>DePelícula UHD</display-name>
-		<display-name>DePelícula 720</display-name>
-		<display-name>DePelícula 1080</display-name>
-		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DePel%C3%ADcula.png" />
-	</channel>
 	<channel id="DejateTV">
 		<display-name>DejateTV</display-name>
 		<display-name>DejateTV.TV</display-name>
@@ -4796,38 +4785,60 @@
 		<display-name>PTV Málaga 1080</display-name>
 		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/PTV%20M%C3%A1laga.png" />
 	</channel>
-	<channel id="NFL Network">
-		<display-name>NFL Network</display-name>
-		<display-name>NFL Network.TV</display-name>
-		<display-name>NFL Network SD</display-name>
-		<display-name>NFL Network HD</display-name>
-		<display-name>NFL Network FHD</display-name>
-		<display-name>NFL Network UHD</display-name>
-		<display-name>NFL Network 720</display-name>
-		<display-name>NFL Network 1080</display-name>
-		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/NFL%20Network.png" />
+	<channel id="Unbeaten (DAZN)">
+		<display-name>Unbeaten (DAZN)</display-name>
+		<display-name>Unbeaten (DAZN).TV</display-name>
+		<display-name>Unbeaten (DAZN) SD</display-name>
+		<display-name>Unbeaten (DAZN) HD</display-name>
+		<display-name>Unbeaten (DAZN) FHD</display-name>
+		<display-name>Unbeaten (DAZN) UHD</display-name>
+		<display-name>Unbeaten (DAZN) 720</display-name>
+		<display-name>Unbeaten (DAZN) 1080</display-name>
+		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Unbeaten%20(DAZN).png" />
 	</channel>
-	<channel id="Red Bull TV">
-		<display-name>Red Bull TV</display-name>
-		<display-name>Red Bull TV.TV</display-name>
-		<display-name>Red Bull TV SD</display-name>
-		<display-name>Red Bull TV HD</display-name>
-		<display-name>Red Bull TV FHD</display-name>
-		<display-name>Red Bull TV UHD</display-name>
-		<display-name>Red Bull TV 720</display-name>
-		<display-name>Red Bull TV 1080</display-name>
-		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Red%20Bull%20TV.png" />
+	<channel id="Mundial (DAZN)">
+		<display-name>Mundial (DAZN)</display-name>
+		<display-name>Mundial (DAZN).TV</display-name>
+		<display-name>Mundial (DAZN) SD</display-name>
+		<display-name>Mundial (DAZN) HD</display-name>
+		<display-name>Mundial (DAZN) FHD</display-name>
+		<display-name>Mundial (DAZN) UHD</display-name>
+		<display-name>Mundial (DAZN) 720</display-name>
+		<display-name>Mundial (DAZN) 1080</display-name>
+		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Mundial%20(DAZN).png" />
 	</channel>
-	<channel id="Unbeaten">
-		<display-name>Unbeaten</display-name>
-		<display-name>Unbeaten.TV</display-name>
-		<display-name>Unbeaten SD</display-name>
-		<display-name>Unbeaten HD</display-name>
-		<display-name>Unbeaten FHD</display-name>
-		<display-name>Unbeaten UHD</display-name>
-		<display-name>Unbeaten 720</display-name>
-		<display-name>Unbeaten 1080</display-name>
-		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Unbeaten.png" />
+	<channel id="NFL Network (DAZN)">
+		<display-name>NFL Network (DAZN)</display-name>
+		<display-name>NFL Network (DAZN).TV</display-name>
+		<display-name>NFL Network (DAZN) SD</display-name>
+		<display-name>NFL Network (DAZN) HD</display-name>
+		<display-name>NFL Network (DAZN) FHD</display-name>
+		<display-name>NFL Network (DAZN) UHD</display-name>
+		<display-name>NFL Network (DAZN) 720</display-name>
+		<display-name>NFL Network (DAZN) 1080</display-name>
+		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/NFL%20Network%20(DAZN).png" />
+	</channel>
+	<channel id="Red Bull TV (DAZN)">
+		<display-name>Red Bull TV (DAZN)</display-name>
+		<display-name>Red Bull TV (DAZN).TV</display-name>
+		<display-name>Red Bull TV (DAZN) SD</display-name>
+		<display-name>Red Bull TV (DAZN) HD</display-name>
+		<display-name>Red Bull TV (DAZN) FHD</display-name>
+		<display-name>Red Bull TV (DAZN) UHD</display-name>
+		<display-name>Red Bull TV (DAZN) 720</display-name>
+		<display-name>Red Bull TV (DAZN) 1080</display-name>
+		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Red%20Bull%20TV%20(DAZN).png" />
+	</channel>
+	<channel id="Primera Federación (DAZN)">
+		<display-name>Primera Federación (DAZN)</display-name>
+		<display-name>Primera Federación (DAZN).TV</display-name>
+		<display-name>Primera Federación (DAZN) SD</display-name>
+		<display-name>Primera Federación (DAZN) HD</display-name>
+		<display-name>Primera Federación (DAZN) FHD</display-name>
+		<display-name>Primera Federación (DAZN) UHD</display-name>
+		<display-name>Primera Federación (DAZN) 720</display-name>
+		<display-name>Primera Federación (DAZN) 1080</display-name>
+		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Primera%20Federaci%C3%B3n%20(DAZN).png" />
 	</channel>
 	<channel id="DAZN Copa Mundial de FIFA">
 		<display-name>DAZN Copa Mundial de FIFA</display-name>
