@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tv generator-info-name="dobleM 05/06/2026 20:47" generator-info-url="t.me/EPG_dobleM">
+<tv generator-info-name="dobleM 06/06/2026 20:47" generator-info-url="t.me/EPG_dobleM">
 	<channel id="La 1 HD">
 		<display-name>La 1</display-name>
 		<display-name>La 1.TV</display-name>
@@ -4642,17 +4642,6 @@
 		<display-name>Tennis+ 1080</display-name>
 		<icon src="https://provider-static.plex.tv/epg/cms/production/704e7af1-90a0-4ad4-94de-af2559c19fa6/1_Tennis_Plus_Logo__Dark_Mode__1500x1000px.png" />
 	</channel>
-	<channel id="FashionTV">
-		<display-name>FashionTV</display-name>
-		<display-name>FashionTV.TV</display-name>
-		<display-name>FashionTV SD</display-name>
-		<display-name>FashionTV HD</display-name>
-		<display-name>FashionTV FHD</display-name>
-		<display-name>FashionTV UHD</display-name>
-		<display-name>FashionTV 720</display-name>
-		<display-name>FashionTV 1080</display-name>
-		<icon src="https://provider-static.plex.tv/epg/cms/production/47127441-d5b6-42a3-b641-a7c076d20940/Fashion_PNG_w__transparent_background__All_white_Logo_for_Attribution__-_Yuri_Alexandrov.png" />
-	</channel>
 	<channel id="Liga de Campeones BAR 2">
 		<display-name>Liga de Campeones BAR 2</display-name>
 		<display-name>Liga de Campeones BAR 2.TV</display-name>
@@ -6254,6 +6243,7 @@
 		<display-name>DE | Sky Sport Austria 2 UHD</display-name>
 		<display-name>DE | Sky Sport Austria 2 720</display-name>
 		<display-name>DE | Sky Sport Austria 2 1080</display-name>
+		<icon src="https://www.sky.de/static/img/senderlogos_dark/729_sky_logo_skysportaustria_2-hd_tvguide.png" />
 	</channel>
 	<channel id="DE | Sky Sport Austria 3">
 		<display-name>DE | Sky Sport Austria 3</display-name>
@@ -6395,7 +6385,6 @@
 		<display-name>DE | Sky Sport Bundesliga 7 UHD</display-name>
 		<display-name>DE | Sky Sport Bundesliga 7 720</display-name>
 		<display-name>DE | Sky Sport Bundesliga 7 1080</display-name>
-		<icon src="https://www.sky.de/static/img/senderlogos_dark/125_sky_logo_skybundesligahd8_tvguide.png" />
 	</channel>
 	<channel id="DE | Sky Sport Bundesliga 8">
 		<display-name>DE | Sky Sport Bundesliga 8</display-name>
@@ -6406,7 +6395,6 @@
 		<display-name>DE | Sky Sport Bundesliga 8 UHD</display-name>
 		<display-name>DE | Sky Sport Bundesliga 8 720</display-name>
 		<display-name>DE | Sky Sport Bundesliga 8 1080</display-name>
-		<icon src="https://www.sky.de/static/img/senderlogos_dark/126_sky_logo_skybundesligahd9_tvguide.png" />
 	</channel>
 	<channel id="DE | Sky Sport Bundesliga 9">
 		<display-name>DE | Sky Sport Bundesliga 9</display-name>
@@ -6417,7 +6405,6 @@
 		<display-name>DE | Sky Sport Bundesliga 9 UHD</display-name>
 		<display-name>DE | Sky Sport Bundesliga 9 720</display-name>
 		<display-name>DE | Sky Sport Bundesliga 9 1080</display-name>
-		<icon src="https://www.sky.de/static/img/senderlogos_dark/127_sky_logo_skybundesligahd10_tvguide.png" />
 	</channel>
 	<channel id="DE | Sky Sport Bundesliga 10">
 		<display-name>DE | Sky Sport Bundesliga 10</display-name>
@@ -6428,7 +6415,6 @@
 		<display-name>DE | Sky Sport Bundesliga 10 UHD</display-name>
 		<display-name>DE | Sky Sport Bundesliga 10 720</display-name>
 		<display-name>DE | Sky Sport Bundesliga 10 1080</display-name>
-		<icon src="https://www.sky.de/static/img/senderlogos_dark/998_sky_logo_sky-sport-buli-10-hd_tvguide.png" />
 	</channel>
 	<channel id="DE | Sky Sport 1">
 		<display-name>DE | Sky Sport 1</display-name>
@@ -6481,6 +6467,7 @@
 		<display-name>DE | Sky Sport 5 UHD</display-name>
 		<display-name>DE | Sky Sport 5 720</display-name>
 		<display-name>DE | Sky Sport 5 1080</display-name>
+		<icon src="https://www.sky.de/static/img/senderlogos_dark/134_sky_logo_skysporthd7_tvguide.png" />
 	</channel>
 	<channel id="DE | Sky Sport 6">
 		<display-name>DE | Sky Sport 6</display-name>
