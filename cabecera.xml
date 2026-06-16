@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tv generator-info-name="dobleM 14/06/2026 20:47" generator-info-url="t.me/EPG_dobleM">
+<tv generator-info-name="dobleM 15/06/2026 21:11" generator-info-url="t.me/EPG_dobleM">
 	<channel id="La 1 HD">
 		<display-name>La 1</display-name>
 		<display-name>La 1.TV</display-name>
@@ -4299,7 +4299,6 @@
 		<display-name>Canal Taronja Central UHD</display-name>
 		<display-name>Canal Taronja Central 720</display-name>
 		<display-name>Canal Taronja Central 1080</display-name>
-		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/2483804e1dd343a08a95864a921fdce8/Images/bf16514e0dca4106954747a84dabb40a" />
 	</channel>
 	<channel id="VOTV">
 		<display-name>VOTV</display-name>
@@ -4641,17 +4640,6 @@
 		<display-name>Tennis+ 720</display-name>
 		<display-name>Tennis+ 1080</display-name>
 		<icon src="https://provider-static.plex.tv/epg/cms/production/704e7af1-90a0-4ad4-94de-af2559c19fa6/1_Tennis_Plus_Logo__Dark_Mode__1500x1000px.png" />
-	</channel>
-	<channel id="FashionTV">
-		<display-name>FashionTV</display-name>
-		<display-name>FashionTV.TV</display-name>
-		<display-name>FashionTV SD</display-name>
-		<display-name>FashionTV HD</display-name>
-		<display-name>FashionTV FHD</display-name>
-		<display-name>FashionTV UHD</display-name>
-		<display-name>FashionTV 720</display-name>
-		<display-name>FashionTV 1080</display-name>
-		<icon src="https://provider-static.plex.tv/epg/cms/production/47127441-d5b6-42a3-b641-a7c076d20940/Fashion_PNG_w__transparent_background__All_white_Logo_for_Attribution__-_Yuri_Alexandrov.png" />
 	</channel>
 	<channel id="Liga de Campeones BAR 2">
 		<display-name>Liga de Campeones BAR 2</display-name>
@@ -5003,6 +4991,7 @@
 		<display-name>En Familia (Rakuten TV) UHD</display-name>
 		<display-name>En Familia (Rakuten TV) 720</display-name>
 		<display-name>En Familia (Rakuten TV) 1080</display-name>
+		<icon src="https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork-negative/33827624-56e3-464f-8763-9e634babe552.png" />
 	</channel>
 	<channel id="Estilo y Vida (Rakuten TV)">
 		<display-name>Estilo y Vida (Rakuten TV)</display-name>
@@ -5013,6 +5002,7 @@
 		<display-name>Estilo y Vida (Rakuten TV) UHD</display-name>
 		<display-name>Estilo y Vida (Rakuten TV) 720</display-name>
 		<display-name>Estilo y Vida (Rakuten TV) 1080</display-name>
+		<icon src="https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork-negative/4d1281cf-8f8d-4197-9420-6ac85162e143.png" />
 	</channel>
 	<channel id="Sci-Fi (Rakuten TV)">
 		<display-name>Sci-Fi (Rakuten TV)</display-name>
@@ -5023,6 +5013,7 @@
 		<display-name>Sci-Fi (Rakuten TV) UHD</display-name>
 		<display-name>Sci-Fi (Rakuten TV) 720</display-name>
 		<display-name>Sci-Fi (Rakuten TV) 1080</display-name>
+		<icon src="https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork-negative/04ac7530-32fc-45cb-b8f8-7f73f34105e4.png" />
 	</channel>
 	<channel id="Todo Crimen (Rakuten TV)">
 		<display-name>Todo Crimen (Rakuten TV)</display-name>
@@ -5134,15 +5125,15 @@
 		<display-name>Pelis Top (Rakuten TV) 1080</display-name>
 		<icon src="https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork-negative/82ae4be3-2514-4733-9f9d-89545d4e2ef4.png" />
 	</channel>
-	<channel id="Red Bull TV (Rakuten TV)">
-		<display-name>Red Bull TV (Rakuten TV)</display-name>
-		<display-name>Red Bull TV (Rakuten TV).TV</display-name>
-		<display-name>Red Bull TV (Rakuten TV) SD</display-name>
-		<display-name>Red Bull TV (Rakuten TV) HD</display-name>
-		<display-name>Red Bull TV (Rakuten TV) FHD</display-name>
-		<display-name>Red Bull TV (Rakuten TV) UHD</display-name>
-		<display-name>Red Bull TV (Rakuten TV) 720</display-name>
-		<display-name>Red Bull TV (Rakuten TV) 1080</display-name>
+	<channel id="Red Bull TV">
+		<display-name>Red Bull TV</display-name>
+		<display-name>Red Bull TV.TV</display-name>
+		<display-name>Red Bull TV SD</display-name>
+		<display-name>Red Bull TV HD</display-name>
+		<display-name>Red Bull TV FHD</display-name>
+		<display-name>Red Bull TV UHD</display-name>
+		<display-name>Red Bull TV 720</display-name>
+		<display-name>Red Bull TV 1080</display-name>
 		<icon src="https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork-negative/b03ad405-231f-44f4-90ea-5fdacaf2a06c.png" />
 	</channel>
 	<channel id="FIFA+">
@@ -6254,7 +6245,6 @@
 		<display-name>DE | Sky Sport Austria 2 UHD</display-name>
 		<display-name>DE | Sky Sport Austria 2 720</display-name>
 		<display-name>DE | Sky Sport Austria 2 1080</display-name>
-		<icon src="https://www.sky.de/static/img/senderlogos_dark/729_sky_logo_skysportaustria_2-hd_tvguide.png" />
 	</channel>
 	<channel id="DE | Sky Sport Austria 3">
 		<display-name>DE | Sky Sport Austria 3</display-name>
