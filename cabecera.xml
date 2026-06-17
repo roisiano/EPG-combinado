@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tv generator-info-name="dobleM 15/06/2026 21:11" generator-info-url="t.me/EPG_dobleM">
+<tv generator-info-name="dobleM 16/06/2026 20:47" generator-info-url="t.me/EPG_dobleM">
 	<channel id="La 1 HD">
 		<display-name>La 1</display-name>
 		<display-name>La 1.TV</display-name>
@@ -4849,17 +4849,6 @@
 		<display-name>DePelícula 720</display-name>
 		<display-name>DePelícula 1080</display-name>
 		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DePel%C3%ADcula.png" />
-	</channel>
-	<channel id="DejateTV">
-		<display-name>DejateTV</display-name>
-		<display-name>DejateTV.TV</display-name>
-		<display-name>DejateTV SD</display-name>
-		<display-name>DejateTV HD</display-name>
-		<display-name>DejateTV FHD</display-name>
-		<display-name>DejateTV UHD</display-name>
-		<display-name>DejateTV 720</display-name>
-		<display-name>DejateTV 1080</display-name>
-		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DejateTV.png" />
 	</channel>
 	<channel id="PTV Linares">
 		<display-name>PTV Linares</display-name>
