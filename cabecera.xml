@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tv generator-info-name="dobleM 02/07/2026 20:47" generator-info-url="t.me/EPG_dobleM">
+<tv generator-info-name="dobleM 03/07/2026 16:47" generator-info-url="t.me/EPG_dobleM">
 	<channel id="La 1 HD">
 		<display-name>La 1</display-name>
 		<display-name>La 1.TV</display-name>
@@ -4653,6 +4653,17 @@
 		<display-name>Tennis+ 1080</display-name>
 		<icon src="https://provider-static.plex.tv/epg/cms/production/704e7af1-90a0-4ad4-94de-af2559c19fa6/1_Tennis_Plus_Logo__Dark_Mode__1500x1000px.png" />
 	</channel>
+	<channel id="FashionTV">
+		<display-name>FashionTV</display-name>
+		<display-name>FashionTV.TV</display-name>
+		<display-name>FashionTV SD</display-name>
+		<display-name>FashionTV HD</display-name>
+		<display-name>FashionTV FHD</display-name>
+		<display-name>FashionTV UHD</display-name>
+		<display-name>FashionTV 720</display-name>
+		<display-name>FashionTV 1080</display-name>
+		<icon src="https://provider-static.plex.tv/epg/cms/production/47127441-d5b6-42a3-b641-a7c076d20940/Fashion_PNG_w__transparent_background__All_white_Logo_for_Attribution__-_Yuri_Alexandrov.png" />
+	</channel>
 	<channel id="Liga de Campeones BAR 2">
 		<display-name>Liga de Campeones BAR 2</display-name>
 		<display-name>Liga de Campeones BAR 2.TV</display-name>
@@ -4862,6 +4873,39 @@
 		<display-name>DePelícula 1080</display-name>
 		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DePel%C3%ADcula.png" />
 	</channel>
+	<channel id="PTV Granada">
+		<display-name>PTV Granada</display-name>
+		<display-name>PTV Granada.TV</display-name>
+		<display-name>PTV Granada SD</display-name>
+		<display-name>PTV Granada HD</display-name>
+		<display-name>PTV Granada FHD</display-name>
+		<display-name>PTV Granada UHD</display-name>
+		<display-name>PTV Granada 720</display-name>
+		<display-name>PTV Granada 1080</display-name>
+		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/PTV%20Granada.png" />
+	</channel>
+	<channel id="PTV Sevilla">
+		<display-name>PTV Sevilla</display-name>
+		<display-name>PTV Sevilla.TV</display-name>
+		<display-name>PTV Sevilla SD</display-name>
+		<display-name>PTV Sevilla HD</display-name>
+		<display-name>PTV Sevilla FHD</display-name>
+		<display-name>PTV Sevilla UHD</display-name>
+		<display-name>PTV Sevilla 720</display-name>
+		<display-name>PTV Sevilla 1080</display-name>
+		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/PTV%20Sevilla.png" />
+	</channel>
+	<channel id="PTV Córdoba">
+		<display-name>PTV Córdoba</display-name>
+		<display-name>PTV Córdoba.TV</display-name>
+		<display-name>PTV Córdoba SD</display-name>
+		<display-name>PTV Córdoba HD</display-name>
+		<display-name>PTV Córdoba FHD</display-name>
+		<display-name>PTV Córdoba UHD</display-name>
+		<display-name>PTV Córdoba 720</display-name>
+		<display-name>PTV Córdoba 1080</display-name>
+		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/PTV%20C%C3%B3rdoba.png" />
+	</channel>
 	<channel id="PTV Linares">
 		<display-name>PTV Linares</display-name>
 		<display-name>PTV Linares.TV</display-name>
@@ -4872,6 +4916,17 @@
 		<display-name>PTV Linares 720</display-name>
 		<display-name>PTV Linares 1080</display-name>
 		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/PTV%20Linares.png" />
+	</channel>
+	<channel id="PTV Málaga">
+		<display-name>PTV Málaga</display-name>
+		<display-name>PTV Málaga.TV</display-name>
+		<display-name>PTV Málaga SD</display-name>
+		<display-name>PTV Málaga HD</display-name>
+		<display-name>PTV Málaga FHD</display-name>
+		<display-name>PTV Málaga UHD</display-name>
+		<display-name>PTV Málaga 720</display-name>
+		<display-name>PTV Málaga 1080</display-name>
+		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/PTV%20M%C3%A1laga.png" />
 	</channel>
 	<channel id="Unbeaten (DAZN)">
 		<display-name>Unbeaten (DAZN)</display-name>
