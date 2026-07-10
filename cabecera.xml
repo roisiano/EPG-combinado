@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tv generator-info-name="dobleM 08/07/2026 20:47" generator-info-url="t.me/EPG_dobleM">
+<tv generator-info-name="dobleM 09/07/2026 20:47" generator-info-url="t.me/EPG_dobleM">
 	<channel id="La 1 HD">
 		<display-name>La 1</display-name>
 		<display-name>La 1.TV</display-name>
@@ -2761,17 +2761,6 @@
 		<display-name>Cazavisión 1080</display-name>
 		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Cazavisi%C3%B3n.png" />
 	</channel>
-	<channel id="LALIGA Inside">
-		<display-name>LALIGA Inside</display-name>
-		<display-name>LALIGA Inside.TV</display-name>
-		<display-name>LALIGA Inside SD</display-name>
-		<display-name>LALIGA Inside HD</display-name>
-		<display-name>LALIGA Inside FHD</display-name>
-		<display-name>LALIGA Inside UHD</display-name>
-		<display-name>LALIGA Inside 720</display-name>
-		<display-name>LALIGA Inside 1080</display-name>
-		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/LALIGA%20Inside.png" />
-	</channel>
 	<channel id="Top Barça">
 		<display-name>Top Barça</display-name>
 		<display-name>Top Barça.TV</display-name>
@@ -4565,17 +4554,6 @@
 		<display-name>Sony One Shark Tank 1080</display-name>
 		<icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES300004C9_20241106T142325SQUARE.png" />
 	</channel>
-	<channel id="Sony One Series Thriller">
-		<display-name>Sony One Series Thriller</display-name>
-		<display-name>Sony One Series Thriller.TV</display-name>
-		<display-name>Sony One Series Thriller SD</display-name>
-		<display-name>Sony One Series Thriller HD</display-name>
-		<display-name>Sony One Series Thriller FHD</display-name>
-		<display-name>Sony One Series Thriller UHD</display-name>
-		<display-name>Sony One Series Thriller 720</display-name>
-		<display-name>Sony One Series Thriller 1080</display-name>
-		<icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES300002Y6_20241106T142251SQUARE.png" />
-	</channel>
 	<channel id="Sony One Éxitos">
 		<display-name>Sony One Éxitos</display-name>
 		<display-name>Sony One Éxitos.TV</display-name>
@@ -4652,17 +4630,6 @@
 		<display-name>Tennis+ 720</display-name>
 		<display-name>Tennis+ 1080</display-name>
 		<icon src="https://provider-static.plex.tv/epg/cms/production/704e7af1-90a0-4ad4-94de-af2559c19fa6/1_Tennis_Plus_Logo__Dark_Mode__1500x1000px.png" />
-	</channel>
-	<channel id="FashionTV">
-		<display-name>FashionTV</display-name>
-		<display-name>FashionTV.TV</display-name>
-		<display-name>FashionTV SD</display-name>
-		<display-name>FashionTV HD</display-name>
-		<display-name>FashionTV FHD</display-name>
-		<display-name>FashionTV UHD</display-name>
-		<display-name>FashionTV 720</display-name>
-		<display-name>FashionTV 1080</display-name>
-		<icon src="https://provider-static.plex.tv/epg/cms/production/47127441-d5b6-42a3-b641-a7c076d20940/Fashion_PNG_w__transparent_background__All_white_Logo_for_Attribution__-_Yuri_Alexandrov.png" />
 	</channel>
 	<channel id="Liga de Campeones BAR 2">
 		<display-name>Liga de Campeones BAR 2</display-name>
