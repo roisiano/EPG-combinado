@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tv generator-info-name="dobleM 09/07/2026 20:47" generator-info-url="t.me/EPG_dobleM">
+<tv generator-info-name="dobleM 10/07/2026 20:47" generator-info-url="t.me/EPG_dobleM">
 	<channel id="La 1 HD">
 		<display-name>La 1</display-name>
 		<display-name>La 1.TV</display-name>
@@ -4927,17 +4927,6 @@
 		<display-name>Red Bull TV (DAZN) 720</display-name>
 		<display-name>Red Bull TV (DAZN) 1080</display-name>
 		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Red%20Bull%20TV%20(DAZN).png" />
-	</channel>
-	<channel id="Primera Federación (DAZN)">
-		<display-name>Primera Federación (DAZN)</display-name>
-		<display-name>Primera Federación (DAZN).TV</display-name>
-		<display-name>Primera Federación (DAZN) SD</display-name>
-		<display-name>Primera Federación (DAZN) HD</display-name>
-		<display-name>Primera Federación (DAZN) FHD</display-name>
-		<display-name>Primera Federación (DAZN) UHD</display-name>
-		<display-name>Primera Federación (DAZN) 720</display-name>
-		<display-name>Primera Federación (DAZN) 1080</display-name>
-		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Primera%20Federaci%C3%B3n%20(DAZN).png" />
 	</channel>
 	<channel id="DAZN Copa Mundial de FIFA">
 		<display-name>DAZN Copa Mundial de FIFA</display-name>
