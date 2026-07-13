@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tv generator-info-name="dobleM 11/07/2026 20:47" generator-info-url="t.me/EPG_dobleM">
+<tv generator-info-name="dobleM 12/07/2026 20:47" generator-info-url="t.me/EPG_dobleM">
 	<channel id="La 1 HD">
 		<display-name>La 1</display-name>
 		<display-name>La 1.TV</display-name>
@@ -2981,17 +2981,6 @@
 		<display-name>Lolly Kids 1080</display-name>
 		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Lolly%20Kids.png" />
 	</channel>
-	<channel id="VINX">
-		<display-name>VINX</display-name>
-		<display-name>VINX.TV</display-name>
-		<display-name>VINX SD</display-name>
-		<display-name>VINX HD</display-name>
-		<display-name>VINX FHD</display-name>
-		<display-name>VINX UHD</display-name>
-		<display-name>VINX 720</display-name>
-		<display-name>VINX 1080</display-name>
-		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/VINX.png" />
-	</channel>
 	<channel id="Record">
 		<display-name>Record</display-name>
 		<display-name>Record.TV</display-name>
@@ -5015,7 +5004,6 @@
 		<display-name>Todo Crimen (Rakuten TV) 720</display-name>
 		<display-name>Todo Crimen (Rakuten TV) 1080</display-name>
 		<icon src="https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork-negative/8fb33036-37c7-478c-930f-f8f6230a5c32.png" />
-		<icon src="https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork-negative/e058d349-db97-4c0b-a9dd-477147a1d473.png" />
 		<icon src="https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork-negative/e058d349-db97-4c0b-a9dd-477147a1d473.png" />
 	</channel>
 	<channel id="Crimen (Rakuten TV)">
