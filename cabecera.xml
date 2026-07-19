@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tv generator-info-name="dobleM 17/07/2026 20:47" generator-info-url="t.me/EPG_dobleM">
+<tv generator-info-name="dobleM 18/07/2026 20:47" generator-info-url="t.me/EPG_dobleM">
 	<channel id="La 1 HD">
 		<display-name>La 1</display-name>
 		<display-name>La 1.TV</display-name>
@@ -4332,7 +4332,6 @@
 		<display-name>Banyoles TV UHD</display-name>
 		<display-name>Banyoles TV 720</display-name>
 		<display-name>Banyoles TV 1080</display-name>
-		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/0f6cd8ece2b04eafb93aab503324c005/Images/6e9740ff00014dfaa3b601e1f9240ae2" />
 	</channel>
 	<channel id="Vallès Visió">
 		<display-name>Vallès Visió</display-name>
@@ -4619,17 +4618,6 @@
 		<display-name>Tennis+ 720</display-name>
 		<display-name>Tennis+ 1080</display-name>
 		<icon src="https://provider-static.plex.tv/epg/cms/production/704e7af1-90a0-4ad4-94de-af2559c19fa6/1_Tennis_Plus_Logo__Dark_Mode__1500x1000px.png" />
-	</channel>
-	<channel id="FashionTV">
-		<display-name>FashionTV</display-name>
-		<display-name>FashionTV.TV</display-name>
-		<display-name>FashionTV SD</display-name>
-		<display-name>FashionTV HD</display-name>
-		<display-name>FashionTV FHD</display-name>
-		<display-name>FashionTV UHD</display-name>
-		<display-name>FashionTV 720</display-name>
-		<display-name>FashionTV 1080</display-name>
-		<icon src="https://provider-static.plex.tv/epg/cms/production/47127441-d5b6-42a3-b641-a7c076d20940/Fashion_PNG_w__transparent_background__All_white_Logo_for_Attribution__-_Yuri_Alexandrov.png" />
 	</channel>
 	<channel id="Liga de Campeones BAR 2">
 		<display-name>Liga de Campeones BAR 2</display-name>
@@ -5433,6 +5421,39 @@
 		<display-name>Sky Sports 16 720</display-name>
 		<display-name>Sky Sports 16 1080</display-name>
 		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Sky%20Sports%2016.png" />
+	</channel>
+	<channel id="ESPN Argentina">
+		<display-name>ESPN Argentina</display-name>
+		<display-name>ESPN Argentina.TV</display-name>
+		<display-name>ESPN Argentina SD</display-name>
+		<display-name>ESPN Argentina HD</display-name>
+		<display-name>ESPN Argentina FHD</display-name>
+		<display-name>ESPN Argentina UHD</display-name>
+		<display-name>ESPN Argentina 720</display-name>
+		<display-name>ESPN Argentina 1080</display-name>
+		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/ESPN%20Argentina.png" />
+	</channel>
+	<channel id="ESPN 2 Argentina">
+		<display-name>ESPN 2 Argentina</display-name>
+		<display-name>ESPN 2 Argentina.TV</display-name>
+		<display-name>ESPN 2 Argentina SD</display-name>
+		<display-name>ESPN 2 Argentina HD</display-name>
+		<display-name>ESPN 2 Argentina FHD</display-name>
+		<display-name>ESPN 2 Argentina UHD</display-name>
+		<display-name>ESPN 2 Argentina 720</display-name>
+		<display-name>ESPN 2 Argentina 1080</display-name>
+		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/ESPN%202%20Argentina.png" />
+	</channel>
+	<channel id="ESPN 3 Argentina">
+		<display-name>ESPN 3 Argentina</display-name>
+		<display-name>ESPN 3 Argentina.TV</display-name>
+		<display-name>ESPN 3 Argentina SD</display-name>
+		<display-name>ESPN 3 Argentina HD</display-name>
+		<display-name>ESPN 3 Argentina FHD</display-name>
+		<display-name>ESPN 3 Argentina UHD</display-name>
+		<display-name>ESPN 3 Argentina 720</display-name>
+		<display-name>ESPN 3 Argentina 1080</display-name>
+		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/ESPN%203%20Argentina.png" />
 	</channel>
 	<channel id="Atrescine">
 		<display-name>Atrescine</display-name>
