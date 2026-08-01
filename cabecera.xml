@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tv generator-info-name="dobleM 30/07/2026 20:47" generator-info-url="t.me/EPG_dobleM">
+<tv generator-info-name="dobleM 31/07/2026 20:47" generator-info-url="t.me/EPG_dobleM">
 	<channel id="La 1 HD">
 		<display-name>La 1</display-name>
 		<display-name>La 1.TV</display-name>
@@ -4189,6 +4189,7 @@
 		<display-name>Canal Reus TV UHD</display-name>
 		<display-name>Canal Reus TV 720</display-name>
 		<display-name>Canal Reus TV 1080</display-name>
+		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/a70fc167fb5f47f095f0a35a2174d87c/Images/ef2270b80a714e71b59919e6827ec051" />
 	</channel>
 	<channel id="Canal21 Ebre">
 		<display-name>Canal21 Ebre</display-name>
@@ -4342,6 +4343,7 @@
 		<display-name>Canal Blau UHD</display-name>
 		<display-name>Canal Blau 720</display-name>
 		<display-name>Canal Blau 1080</display-name>
+		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/c90cc7e06fd74f6c980a1039f80a322b/Images/4bf5cd5a7b124e96b80a8bfecc45c730" />
 	</channel>
 	<channel id="Lleida TV">
 		<display-name>Lleida TV</display-name>
@@ -5167,7 +5169,6 @@
 		<display-name>Todo Crimen (Rakuten TV) 720</display-name>
 		<display-name>Todo Crimen (Rakuten TV) 1080</display-name>
 		<icon src="https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork-negative/8fb33036-37c7-478c-930f-f8f6230a5c32.png" />
-		<icon src="https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork-negative/e058d349-db97-4c0b-a9dd-477147a1d473.png" />
 		<icon src="https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork-negative/e058d349-db97-4c0b-a9dd-477147a1d473.png" />
 	</channel>
 	<channel id="Crimen (Rakuten TV)">
