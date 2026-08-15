@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tv generator-info-name="dobleM 13/08/2026 20:47" generator-info-url="t.me/EPG_dobleM">
+<tv generator-info-name="dobleM 14/08/2026 20:47" generator-info-url="t.me/EPG_dobleM">
 	<channel id="La 1 HD">
 		<display-name>La 1</display-name>
 		<display-name>La 1.TV</display-name>
@@ -4982,6 +4982,17 @@
 		<display-name>Primera Federación (DAZN) 720</display-name>
 		<display-name>Primera Federación (DAZN) 1080</display-name>
 		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Primera%20Federaci%C3%B3n%20(DAZN).png" />
+	</channel>
+	<channel id="DAZN Bundesliga">
+		<display-name>DAZN Bundesliga</display-name>
+		<display-name>DAZN Bundesliga.TV</display-name>
+		<display-name>DAZN Bundesliga SD</display-name>
+		<display-name>DAZN Bundesliga HD</display-name>
+		<display-name>DAZN Bundesliga FHD</display-name>
+		<display-name>DAZN Bundesliga UHD</display-name>
+		<display-name>DAZN Bundesliga 720</display-name>
+		<display-name>DAZN Bundesliga 1080</display-name>
+		<icon src="https://image.discovery.indazn.com/eu/v4/onboarding-images/none/sn_6by3h89i2eykc341oz7lv1ddd/fill/center/top/none/100/0/0/png/image/25/g" />
 	</channel>
 	<channel id="DAZN LALIGA EA SPORTS">
 		<display-name>DAZN LALIGA EA SPORTS</display-name>
