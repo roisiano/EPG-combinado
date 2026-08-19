@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tv generator-info-name="dobleM 17/08/2026 20:47" generator-info-url="t.me/EPG_dobleM">
+<tv generator-info-name="dobleM 18/08/2026 20:47" generator-info-url="t.me/EPG_dobleM">
 	<channel id="La 1 HD">
 		<display-name>La 1</display-name>
 		<display-name>La 1.TV</display-name>
@@ -4112,6 +4112,7 @@
 		<display-name>Canal 10 Empordà UHD</display-name>
 		<display-name>Canal 10 Empordà 720</display-name>
 		<display-name>Canal 10 Empordà 1080</display-name>
+		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/59b39e8627ac48fc918ac74868f10c52/Images/c87bb30b698f4dc9ae2fb28664d7f557" />
 	</channel>
 	<channel id="EmpordaTV">
 		<display-name>EmpordaTV</display-name>
