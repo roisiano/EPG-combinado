@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tv generator-info-name="dobleM 22/08/2026 20:48" generator-info-url="t.me/EPG_dobleM">
+<tv generator-info-name="dobleM 23/08/2026 20:47" generator-info-url="t.me/EPG_dobleM">
 	<channel id="La 1 HD">
 		<display-name>La 1</display-name>
 		<display-name>La 1.TV</display-name>
@@ -5038,6 +5038,17 @@
 		<display-name>DAZN LALIGA EA SPORTS 1080</display-name>
 		<icon src="https://image.discovery.indazn.com/eu/v4/onboarding-images/none/sn_34pl8szyvrbwcmfkuocjm3r6t/fill/center/top/none/100/0/0/png/image/25/g" />
 	</channel>
+	<channel id="DAZN LALIGA EA SPORTS 2">
+		<display-name>DAZN LALIGA EA SPORTS 2</display-name>
+		<display-name>DAZN LALIGA EA SPORTS 2.TV</display-name>
+		<display-name>DAZN LALIGA EA SPORTS 2 SD</display-name>
+		<display-name>DAZN LALIGA EA SPORTS 2 HD</display-name>
+		<display-name>DAZN LALIGA EA SPORTS 2 FHD</display-name>
+		<display-name>DAZN LALIGA EA SPORTS 2 UHD</display-name>
+		<display-name>DAZN LALIGA EA SPORTS 2 720</display-name>
+		<display-name>DAZN LALIGA EA SPORTS 2 1080</display-name>
+		<icon src="https://image.discovery.indazn.com/eu/v4/onboarding-images/none/sn_34pl8szyvrbwcmfkuocjm3r6t/fill/center/top/none/100/0/0/png/image/25/g" />
+	</channel>
 	<channel id="DAZN National League">
 		<display-name>DAZN National League</display-name>
 		<display-name>DAZN National League.TV</display-name>
@@ -5069,17 +5080,6 @@
 		<display-name>DAZN National League 11 UHD</display-name>
 		<display-name>DAZN National League 11 720</display-name>
 		<display-name>DAZN National League 11 1080</display-name>
-		<icon src="https://image.discovery.indazn.com/eu/v4/onboarding-images/none/sn_b5udgm9vakjqz8dcmy5b2g0xt/fill/center/top/none/100/0/0/png/image/25/g" />
-	</channel>
-	<channel id="DAZN National League 12">
-		<display-name>DAZN National League 12</display-name>
-		<display-name>DAZN National League 12.TV</display-name>
-		<display-name>DAZN National League 12 SD</display-name>
-		<display-name>DAZN National League 12 HD</display-name>
-		<display-name>DAZN National League 12 FHD</display-name>
-		<display-name>DAZN National League 12 UHD</display-name>
-		<display-name>DAZN National League 12 720</display-name>
-		<display-name>DAZN National League 12 1080</display-name>
 		<icon src="https://image.discovery.indazn.com/eu/v4/onboarding-images/none/sn_b5udgm9vakjqz8dcmy5b2g0xt/fill/center/top/none/100/0/0/png/image/25/g" />
 	</channel>
 	<channel id="DAZN National League 2">
