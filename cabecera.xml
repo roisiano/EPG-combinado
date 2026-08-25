@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tv generator-info-name="dobleM 23/08/2026 20:47" generator-info-url="t.me/EPG_dobleM">
+<tv generator-info-name="dobleM 24/08/2026 21:12" generator-info-url="t.me/EPG_dobleM">
 	<channel id="La 1 HD">
 		<display-name>La 1</display-name>
 		<display-name>La 1.TV</display-name>
@@ -3058,6 +3058,17 @@
 		<display-name>PRO TV RUMANIA 1080</display-name>
 		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/PRO%20TV%20RUMANIA.png" />
 	</channel>
+	<channel id="Dviaje">
+		<display-name>Dviaje</display-name>
+		<display-name>Dviaje.TV</display-name>
+		<display-name>Dviaje SD</display-name>
+		<display-name>Dviaje HD</display-name>
+		<display-name>Dviaje FHD</display-name>
+		<display-name>Dviaje UHD</display-name>
+		<display-name>Dviaje 720</display-name>
+		<display-name>Dviaje 1080</display-name>
+		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Dviaje.png" />
+	</channel>
 	<channel id="Playboy TV">
 		<display-name>Playboy TV</display-name>
 		<display-name>Playboy TV.TV</display-name>
@@ -4664,6 +4675,17 @@
 		<display-name>Tennis+ 1080</display-name>
 		<icon src="https://provider-static.plex.tv/epg/cms/production/704e7af1-90a0-4ad4-94de-af2559c19fa6/1_Tennis_Plus_Logo__Dark_Mode__1500x1000px.png" />
 	</channel>
+	<channel id="FashionTV">
+		<display-name>FashionTV</display-name>
+		<display-name>FashionTV.TV</display-name>
+		<display-name>FashionTV SD</display-name>
+		<display-name>FashionTV HD</display-name>
+		<display-name>FashionTV FHD</display-name>
+		<display-name>FashionTV UHD</display-name>
+		<display-name>FashionTV 720</display-name>
+		<display-name>FashionTV 1080</display-name>
+		<icon src="https://provider-static.plex.tv/epg/cms/production/47127441-d5b6-42a3-b641-a7c076d20940/Fashion_PNG_w__transparent_background__All_white_Logo_for_Attribution__-_Yuri_Alexandrov.png" />
+	</channel>
 	<channel id="Liga de Campeones BAR 2">
 		<display-name>Liga de Campeones BAR 2</display-name>
 		<display-name>Liga de Campeones BAR 2.TV</display-name>
@@ -4960,17 +4982,6 @@
 		<display-name>Red Bull TV (DAZN) 720</display-name>
 		<display-name>Red Bull TV (DAZN) 1080</display-name>
 		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Red%20Bull%20TV%20(DAZN).png" />
-	</channel>
-	<channel id="Primera Federación (DAZN)">
-		<display-name>Primera Federación (DAZN)</display-name>
-		<display-name>Primera Federación (DAZN).TV</display-name>
-		<display-name>Primera Federación (DAZN) SD</display-name>
-		<display-name>Primera Federación (DAZN) HD</display-name>
-		<display-name>Primera Federación (DAZN) FHD</display-name>
-		<display-name>Primera Federación (DAZN) UHD</display-name>
-		<display-name>Primera Federación (DAZN) 720</display-name>
-		<display-name>Primera Federación (DAZN) 1080</display-name>
-		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Primera%20Federaci%C3%B3n%20(DAZN).png" />
 	</channel>
 	<channel id="DAZN Bundesliga">
 		<display-name>DAZN Bundesliga</display-name>
@@ -5291,6 +5302,17 @@
 		<display-name>1+1 International 1080</display-name>
 		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/1%2B1%20International.png" />
 	</channel>
+	<channel id="Cine Friki (Rakuten TV)">
+		<display-name>Cine Friki (Rakuten TV)</display-name>
+		<display-name>Cine Friki (Rakuten TV).TV</display-name>
+		<display-name>Cine Friki (Rakuten TV) SD</display-name>
+		<display-name>Cine Friki (Rakuten TV) HD</display-name>
+		<display-name>Cine Friki (Rakuten TV) FHD</display-name>
+		<display-name>Cine Friki (Rakuten TV) UHD</display-name>
+		<display-name>Cine Friki (Rakuten TV) 720</display-name>
+		<display-name>Cine Friki (Rakuten TV) 1080</display-name>
+		<icon src="https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork-negative/a2ab230b-eb4e-427a-a233-440263f92745.png" />
+	</channel>
 	<channel id="En Familia (Rakuten TV)">
 		<display-name>En Familia (Rakuten TV)</display-name>
 		<display-name>En Familia (Rakuten TV).TV</display-name>
@@ -5390,37 +5412,48 @@
 		<display-name>Películas Románticas (Rakuten TV) 1080</display-name>
 		<icon src="https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork-negative/6a3d067c-8cb2-4581-84e1-f284ee948e3a.png" />
 	</channel>
-	<channel id="Dramas (Rakuten TV)">
-		<display-name>Dramas (Rakuten TV)</display-name>
-		<display-name>Dramas (Rakuten TV).TV</display-name>
-		<display-name>Dramas (Rakuten TV) SD</display-name>
-		<display-name>Dramas (Rakuten TV) HD</display-name>
-		<display-name>Dramas (Rakuten TV) FHD</display-name>
-		<display-name>Dramas (Rakuten TV) UHD</display-name>
-		<display-name>Dramas (Rakuten TV) 720</display-name>
-		<display-name>Dramas (Rakuten TV) 1080</display-name>
+	<channel id="Todo Drama (Rakuten TV)">
+		<display-name>Todo Drama (Rakuten TV)</display-name>
+		<display-name>Todo Drama (Rakuten TV).TV</display-name>
+		<display-name>Todo Drama (Rakuten TV) SD</display-name>
+		<display-name>Todo Drama (Rakuten TV) HD</display-name>
+		<display-name>Todo Drama (Rakuten TV) FHD</display-name>
+		<display-name>Todo Drama (Rakuten TV) UHD</display-name>
+		<display-name>Todo Drama (Rakuten TV) 720</display-name>
+		<display-name>Todo Drama (Rakuten TV) 1080</display-name>
+		<icon src="https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork-negative/6b8da0e9-a7f1-4fc5-85d5-668d0e4df0b9.png" />
+	</channel>
+	<channel id="Películas de Drama (Rakuten TV)">
+		<display-name>Películas de Drama (Rakuten TV)</display-name>
+		<display-name>Películas de Drama (Rakuten TV).TV</display-name>
+		<display-name>Películas de Drama (Rakuten TV) SD</display-name>
+		<display-name>Películas de Drama (Rakuten TV) HD</display-name>
+		<display-name>Películas de Drama (Rakuten TV) FHD</display-name>
+		<display-name>Películas de Drama (Rakuten TV) UHD</display-name>
+		<display-name>Películas de Drama (Rakuten TV) 720</display-name>
+		<display-name>Películas de Drama (Rakuten TV) 1080</display-name>
 		<icon src="https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork-negative/ee3c242a-398d-4d9e-9a79-c8c6427278c0.png" />
 	</channel>
-	<channel id="Comedias (Rakuten TV)">
-		<display-name>Comedias (Rakuten TV)</display-name>
-		<display-name>Comedias (Rakuten TV).TV</display-name>
-		<display-name>Comedias (Rakuten TV) SD</display-name>
-		<display-name>Comedias (Rakuten TV) HD</display-name>
-		<display-name>Comedias (Rakuten TV) FHD</display-name>
-		<display-name>Comedias (Rakuten TV) UHD</display-name>
-		<display-name>Comedias (Rakuten TV) 720</display-name>
-		<display-name>Comedias (Rakuten TV) 1080</display-name>
+	<channel id="Comedia (Rakuten TV)">
+		<display-name>Comedia (Rakuten TV)</display-name>
+		<display-name>Comedia (Rakuten TV).TV</display-name>
+		<display-name>Comedia (Rakuten TV) SD</display-name>
+		<display-name>Comedia (Rakuten TV) HD</display-name>
+		<display-name>Comedia (Rakuten TV) FHD</display-name>
+		<display-name>Comedia (Rakuten TV) UHD</display-name>
+		<display-name>Comedia (Rakuten TV) 720</display-name>
+		<display-name>Comedia (Rakuten TV) 1080</display-name>
 		<icon src="https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork-negative/14c7b74d-cd73-4791-98f2-f6e097cce068.png" />
 	</channel>
-	<channel id="Acción (Rakuten TV)">
-		<display-name>Acción (Rakuten TV)</display-name>
-		<display-name>Acción (Rakuten TV).TV</display-name>
-		<display-name>Acción (Rakuten TV) SD</display-name>
-		<display-name>Acción (Rakuten TV) HD</display-name>
-		<display-name>Acción (Rakuten TV) FHD</display-name>
-		<display-name>Acción (Rakuten TV) UHD</display-name>
-		<display-name>Acción (Rakuten TV) 720</display-name>
-		<display-name>Acción (Rakuten TV) 1080</display-name>
+	<channel id="Películas de Acción (Rakuten TV)">
+		<display-name>Películas de Acción (Rakuten TV)</display-name>
+		<display-name>Películas de Acción (Rakuten TV).TV</display-name>
+		<display-name>Películas de Acción (Rakuten TV) SD</display-name>
+		<display-name>Películas de Acción (Rakuten TV) HD</display-name>
+		<display-name>Películas de Acción (Rakuten TV) FHD</display-name>
+		<display-name>Películas de Acción (Rakuten TV) UHD</display-name>
+		<display-name>Películas de Acción (Rakuten TV) 720</display-name>
+		<display-name>Películas de Acción (Rakuten TV) 1080</display-name>
 		<icon src="https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork-negative/6b4cf5b7-bb4d-439a-9779-f83fd1bde012.png" />
 	</channel>
 	<channel id="Pelis Top (Rakuten TV)">
@@ -5433,6 +5466,50 @@
 		<display-name>Pelis Top (Rakuten TV) 720</display-name>
 		<display-name>Pelis Top (Rakuten TV) 1080</display-name>
 		<icon src="https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork-negative/82ae4be3-2514-4733-9f9d-89545d4e2ef4.png" />
+	</channel>
+	<channel id="Todo Novelas (Rakuten TV)">
+		<display-name>Todo Novelas (Rakuten TV)</display-name>
+		<display-name>Todo Novelas (Rakuten TV).TV</display-name>
+		<display-name>Todo Novelas (Rakuten TV) SD</display-name>
+		<display-name>Todo Novelas (Rakuten TV) HD</display-name>
+		<display-name>Todo Novelas (Rakuten TV) FHD</display-name>
+		<display-name>Todo Novelas (Rakuten TV) UHD</display-name>
+		<display-name>Todo Novelas (Rakuten TV) 720</display-name>
+		<display-name>Todo Novelas (Rakuten TV) 1080</display-name>
+		<icon src="https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork-negative/89ce6e17-0e8e-41af-af2b-8fd6d9ab944f.png" />
+	</channel>
+	<channel id="Cine Western (Rakuten TV)">
+		<display-name>Cine Western (Rakuten TV)</display-name>
+		<display-name>Cine Western (Rakuten TV).TV</display-name>
+		<display-name>Cine Western (Rakuten TV) SD</display-name>
+		<display-name>Cine Western (Rakuten TV) HD</display-name>
+		<display-name>Cine Western (Rakuten TV) FHD</display-name>
+		<display-name>Cine Western (Rakuten TV) UHD</display-name>
+		<display-name>Cine Western (Rakuten TV) 720</display-name>
+		<display-name>Cine Western (Rakuten TV) 1080</display-name>
+		<icon src="https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork-negative/813743d0-3b1e-4f02-a098-da0503587572.png" />
+	</channel>
+	<channel id="Fashion TV (Rakuten TV)">
+		<display-name>Fashion TV (Rakuten TV)</display-name>
+		<display-name>Fashion TV (Rakuten TV).TV</display-name>
+		<display-name>Fashion TV (Rakuten TV) SD</display-name>
+		<display-name>Fashion TV (Rakuten TV) HD</display-name>
+		<display-name>Fashion TV (Rakuten TV) FHD</display-name>
+		<display-name>Fashion TV (Rakuten TV) UHD</display-name>
+		<display-name>Fashion TV (Rakuten TV) 720</display-name>
+		<display-name>Fashion TV (Rakuten TV) 1080</display-name>
+		<icon src="https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork_negative/838ea64b-a331-4322-971a-3c8c52ac1124-fashion-tv-1643624523.png" />
+	</channel>
+	<channel id="Rally.TV (Rakuten TV)">
+		<display-name>Rally.TV (Rakuten TV)</display-name>
+		<display-name>Rally.TV (Rakuten TV).TV</display-name>
+		<display-name>Rally.TV (Rakuten TV) SD</display-name>
+		<display-name>Rally.TV (Rakuten TV) HD</display-name>
+		<display-name>Rally.TV (Rakuten TV) FHD</display-name>
+		<display-name>Rally.TV (Rakuten TV) UHD</display-name>
+		<display-name>Rally.TV (Rakuten TV) 720</display-name>
+		<display-name>Rally.TV (Rakuten TV) 1080</display-name>
+		<icon src="https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork-negative/a318356b-5202-4077-a700-806a8fa0bbd7.png" />
 	</channel>
 	<channel id="Red Bull TV">
 		<display-name>Red Bull TV</display-name>
