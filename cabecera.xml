@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tv generator-info-name="dobleM 28/08/2026 08:47" generator-info-url="t.me/EPG_dobleM">
+<tv generator-info-name="dobleM 28/08/2026 20:47" generator-info-url="t.me/EPG_dobleM">
 	<channel id="La 1 HD">
 		<display-name>La 1</display-name>
 		<display-name>La 1.TV</display-name>
@@ -4860,6 +4860,28 @@
 		<display-name>tlnovelas 720</display-name>
 		<display-name>tlnovelas 1080</display-name>
 		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/tlnovelas.png" />
+	</channel>
+	<channel id="DePelícula">
+		<display-name>DePelícula</display-name>
+		<display-name>DePelícula.TV</display-name>
+		<display-name>DePelícula SD</display-name>
+		<display-name>DePelícula HD</display-name>
+		<display-name>DePelícula FHD</display-name>
+		<display-name>DePelícula UHD</display-name>
+		<display-name>DePelícula 720</display-name>
+		<display-name>DePelícula 1080</display-name>
+		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DePel%C3%ADcula.png" />
+	</channel>
+	<channel id="PTV Granada">
+		<display-name>PTV Granada</display-name>
+		<display-name>PTV Granada.TV</display-name>
+		<display-name>PTV Granada SD</display-name>
+		<display-name>PTV Granada HD</display-name>
+		<display-name>PTV Granada FHD</display-name>
+		<display-name>PTV Granada UHD</display-name>
+		<display-name>PTV Granada 720</display-name>
+		<display-name>PTV Granada 1080</display-name>
+		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/PTV%20Granada.png" />
 	</channel>
 	<channel id="PTV Sevilla">
 		<display-name>PTV Sevilla</display-name>
