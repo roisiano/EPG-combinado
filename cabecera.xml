@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tv generator-info-name="dobleM 28/08/2026 20:47" generator-info-url="t.me/EPG_dobleM">
+<tv generator-info-name="dobleM 29/08/2026 20:47" generator-info-url="t.me/EPG_dobleM">
 	<channel id="La 1 HD">
 		<display-name>La 1</display-name>
 		<display-name>La 1.TV</display-name>
@@ -4353,7 +4353,6 @@
 		<display-name>VOTV UHD</display-name>
 		<display-name>VOTV 720</display-name>
 		<display-name>VOTV 1080</display-name>
-		<icon src="https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/bed4a72f8c8248c3a283684eb4038f4d/Images/f3496345ca4f49e1b16c1f306ac33090" />
 	</channel>
 	<channel id="Canal Blau">
 		<display-name>Canal Blau</display-name>
