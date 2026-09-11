@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tv generator-info-name="dobleM 09/09/2026 20:48" generator-info-url="t.me/EPG_dobleM">
+<tv generator-info-name="dobleM 10/09/2026 20:47" generator-info-url="t.me/EPG_dobleM">
 	<channel id="La 1 HD">
 		<display-name>La 1</display-name>
 		<display-name>La 1.TV</display-name>
@@ -99,16 +99,16 @@
 		<display-name>M+ Originales 1080</display-name>
 		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Originales.png" />
 	</channel>
-	<channel id="M+ Vacaciones">
-		<display-name>M+ Vacaciones</display-name>
-		<display-name>M+ Vacaciones.TV</display-name>
-		<display-name>M+ Vacaciones SD</display-name>
-		<display-name>M+ Vacaciones HD</display-name>
-		<display-name>M+ Vacaciones FHD</display-name>
-		<display-name>M+ Vacaciones UHD</display-name>
-		<display-name>M+ Vacaciones 720</display-name>
-		<display-name>M+ Vacaciones 1080</display-name>
-		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Vacaciones.png" />
+	<channel id="M+ Terror">
+		<display-name>M+ Terror</display-name>
+		<display-name>M+ Terror.TV</display-name>
+		<display-name>M+ Terror SD</display-name>
+		<display-name>M+ Terror HD</display-name>
+		<display-name>M+ Terror FHD</display-name>
+		<display-name>M+ Terror UHD</display-name>
+		<display-name>M+ Terror 720</display-name>
+		<display-name>M+ Terror 1080</display-name>
+		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Terror.png" />
 	</channel>
 	<channel id="M+ Documentales HD">
 		<display-name>M+ Documentales</display-name>
@@ -121,16 +121,16 @@
 		<display-name>M+ Documentales 1080</display-name>
 		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Documentales.png" />
 	</channel>
-	<channel id="M+ Orgullo">
-		<display-name>M+ Orgullo</display-name>
-		<display-name>M+ Orgullo.TV</display-name>
-		<display-name>M+ Orgullo SD</display-name>
-		<display-name>M+ Orgullo HD</display-name>
-		<display-name>M+ Orgullo FHD</display-name>
-		<display-name>M+ Orgullo UHD</display-name>
-		<display-name>M+ Orgullo 720</display-name>
-		<display-name>M+ Orgullo 1080</display-name>
-		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Orgullo.png" />
+	<channel id="M+ Romance">
+		<display-name>M+ Romance</display-name>
+		<display-name>M+ Romance.TV</display-name>
+		<display-name>M+ Romance SD</display-name>
+		<display-name>M+ Romance HD</display-name>
+		<display-name>M+ Romance FHD</display-name>
+		<display-name>M+ Romance UHD</display-name>
+		<display-name>M+ Romance 720</display-name>
+		<display-name>M+ Romance 1080</display-name>
+		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Romance.png" />
 	</channel>
 	<channel id="M+ Clásicos HD">
 		<display-name>M+ Clásicos</display-name>
@@ -2354,16 +2354,16 @@
 		<display-name>AMC Living 1080</display-name>
 		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/AMC%20Living.png" />
 	</channel>
-	<channel id="SELEKT">
-		<display-name>SELEKT</display-name>
-		<display-name>SELEKT.TV</display-name>
-		<display-name>SELEKT SD</display-name>
-		<display-name>SELEKT HD</display-name>
-		<display-name>SELEKT FHD</display-name>
-		<display-name>SELEKT UHD</display-name>
-		<display-name>SELEKT 720</display-name>
-		<display-name>SELEKT 1080</display-name>
-		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/SELEKT.png" />
+	<channel id="AMC Selekt TV">
+		<display-name>AMC Selekt TV</display-name>
+		<display-name>AMC Selekt TV.TV</display-name>
+		<display-name>AMC Selekt TV SD</display-name>
+		<display-name>AMC Selekt TV HD</display-name>
+		<display-name>AMC Selekt TV FHD</display-name>
+		<display-name>AMC Selekt TV UHD</display-name>
+		<display-name>AMC Selekt TV 720</display-name>
+		<display-name>AMC Selekt TV 1080</display-name>
+		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/AMC%20Selekt%20TV.png" />
 	</channel>
 	<channel id="Sol Música">
 		<display-name>Sol Música</display-name>
@@ -3091,6 +3091,17 @@
 		<display-name>Dpelis 1080</display-name>
 		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Dpelis.png" />
 	</channel>
+	<channel id="Radio Televisión Ceuta">
+		<display-name>Radio Televisión Ceuta</display-name>
+		<display-name>Radio Televisión Ceuta.TV</display-name>
+		<display-name>Radio Televisión Ceuta SD</display-name>
+		<display-name>Radio Televisión Ceuta HD</display-name>
+		<display-name>Radio Televisión Ceuta FHD</display-name>
+		<display-name>Radio Televisión Ceuta UHD</display-name>
+		<display-name>Radio Televisión Ceuta 720</display-name>
+		<display-name>Radio Televisión Ceuta 1080</display-name>
+		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Radio%20Televisi%C3%B3n%20Ceuta.png" />
+	</channel>
 	<channel id="Playboy TV">
 		<display-name>Playboy TV</display-name>
 		<display-name>Playboy TV.TV</display-name>
@@ -3530,6 +3541,17 @@
 		<display-name>AZ Corazón 720</display-name>
 		<display-name>AZ Corazón 1080</display-name>
 		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/AZ%20Coraz%C3%B3n.png" />
+	</channel>
+	<channel id="Mírame TV">
+		<display-name>Mírame TV</display-name>
+		<display-name>Mírame TV.TV</display-name>
+		<display-name>Mírame TV SD</display-name>
+		<display-name>Mírame TV HD</display-name>
+		<display-name>Mírame TV FHD</display-name>
+		<display-name>Mírame TV UHD</display-name>
+		<display-name>Mírame TV 720</display-name>
+		<display-name>Mírame TV 1080</display-name>
+		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%C3%ADrame%20TV.png" />
 	</channel>
 	<channel id="etb1 euskera">
 		<display-name>etb1 euskera</display-name>
@@ -4916,6 +4938,17 @@
 		<display-name>PTV Sevilla 720</display-name>
 		<display-name>PTV Sevilla 1080</display-name>
 		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/PTV%20Sevilla.png" />
+	</channel>
+	<channel id="PTV Córdoba">
+		<display-name>PTV Córdoba</display-name>
+		<display-name>PTV Córdoba.TV</display-name>
+		<display-name>PTV Córdoba SD</display-name>
+		<display-name>PTV Córdoba HD</display-name>
+		<display-name>PTV Córdoba FHD</display-name>
+		<display-name>PTV Córdoba UHD</display-name>
+		<display-name>PTV Córdoba 720</display-name>
+		<display-name>PTV Córdoba 1080</display-name>
+		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/PTV%20C%C3%B3rdoba.png" />
 	</channel>
 	<channel id="PTV Linares">
 		<display-name>PTV Linares</display-name>
