@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tv generator-info-name="dobleM 17/09/2026 20:47" generator-info-url="t.me/EPG_dobleM">
+<tv generator-info-name="dobleM 18/09/2026 20:48" generator-info-url="t.me/EPG_dobleM">
 	<channel id="La 1 HD">
 		<display-name>La 1</display-name>
 		<display-name>La 1.TV</display-name>
@@ -5059,17 +5059,6 @@
 		<display-name>Unbeaten (DAZN) 720</display-name>
 		<display-name>Unbeaten (DAZN) 1080</display-name>
 		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Unbeaten%20(DAZN).png" />
-	</channel>
-	<channel id="Mundial (DAZN)">
-		<display-name>Mundial (DAZN)</display-name>
-		<display-name>Mundial (DAZN).TV</display-name>
-		<display-name>Mundial (DAZN) SD</display-name>
-		<display-name>Mundial (DAZN) HD</display-name>
-		<display-name>Mundial (DAZN) FHD</display-name>
-		<display-name>Mundial (DAZN) UHD</display-name>
-		<display-name>Mundial (DAZN) 720</display-name>
-		<display-name>Mundial (DAZN) 1080</display-name>
-		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Mundial%20(DAZN).png" />
 	</channel>
 	<channel id="NFL Network (DAZN)">
 		<display-name>NFL Network (DAZN)</display-name>
