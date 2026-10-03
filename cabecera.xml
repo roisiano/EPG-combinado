@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tv generator-info-name="dobleM 01/10/2026 20:47" generator-info-url="t.me/EPG_dobleM">
+<tv generator-info-name="dobleM 02/10/2026 20:47" generator-info-url="t.me/EPG_dobleM">
 	<channel id="La 1 HD">
 		<display-name>La 1</display-name>
 		<display-name>La 1.TV</display-name>
@@ -1749,16 +1749,16 @@
 		<display-name>Eurosport 2 1080</display-name>
 		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Eurosport%202.png" />
 	</channel>
-	<channel id="GOL">
-		<display-name>GOL</display-name>
-		<display-name>GOL.TV</display-name>
-		<display-name>GOL SD</display-name>
-		<display-name>GOL HD</display-name>
-		<display-name>GOL FHD</display-name>
-		<display-name>GOL UHD</display-name>
-		<display-name>GOL 720</display-name>
-		<display-name>GOL 1080</display-name>
-		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/GOL.png" />
+	<channel id="Replay">
+		<display-name>Replay</display-name>
+		<display-name>Replay.TV</display-name>
+		<display-name>Replay SD</display-name>
+		<display-name>Replay HD</display-name>
+		<display-name>Replay FHD</display-name>
+		<display-name>Replay UHD</display-name>
+		<display-name>Replay 720</display-name>
+		<display-name>Replay 1080</display-name>
+		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Replay.png" />
 	</channel>
 	<channel id="Teledeporte">
 		<display-name>Teledeporte</display-name>
@@ -4718,17 +4718,6 @@
 		<display-name>Tennis+ 720</display-name>
 		<display-name>Tennis+ 1080</display-name>
 		<icon src="https://provider-static.plex.tv/epg/cms/production/704e7af1-90a0-4ad4-94de-af2559c19fa6/1_Tennis_Plus_Logo__Dark_Mode__1500x1000px.png" />
-	</channel>
-	<channel id="FashionTV">
-		<display-name>FashionTV</display-name>
-		<display-name>FashionTV.TV</display-name>
-		<display-name>FashionTV SD</display-name>
-		<display-name>FashionTV HD</display-name>
-		<display-name>FashionTV FHD</display-name>
-		<display-name>FashionTV UHD</display-name>
-		<display-name>FashionTV 720</display-name>
-		<display-name>FashionTV 1080</display-name>
-		<icon src="https://provider-static.plex.tv/epg/cms/production/47127441-d5b6-42a3-b641-a7c076d20940/Fashion_PNG_w__transparent_background__All_white_Logo_for_Attribution__-_Yuri_Alexandrov.png" />
 	</channel>
 	<channel id="FANPLAY TV Primera Federación 1">
 		<display-name>FANPLAY TV Primera Federación 1</display-name>
