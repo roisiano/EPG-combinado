@@ -1,4 +1,4 @@
-name: Limpiar EPG con sed
+name: Limpiar EPG con sed (Validar-epg.yml)
 
 on:
   schedule:
