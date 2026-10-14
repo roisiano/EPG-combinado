@@ -1,4 +1,4 @@
-name: EPG Combinado
+name: EPG Combinado (epg.yml)
 
 on:
   schedule:
