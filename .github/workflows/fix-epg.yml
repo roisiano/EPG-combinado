@@ -1,4 +1,4 @@
-name: Detectar y reparar EPG
+name: Detectar y reparar EPG (fix-epg.yml)
 
 on:
   workflow_dispatch:
