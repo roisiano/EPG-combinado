@@ -1,4 +1,4 @@
-name: Promocionar EPG reparado (promote-fixed.yml) - ACTUAL
+name: Promocionar EPG reparado (promote-fixed.yml) - PASO 3 (ÚLTIMO)
 
 on:
   schedule:
