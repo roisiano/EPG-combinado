@@ -1,4 +1,4 @@
-name: Promocionar EPG reparado
+name: Promocionar EPG reparado (promote-fixed.yml) - ACTUAL
 
 on:
   schedule:
