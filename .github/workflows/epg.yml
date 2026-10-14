@@ -1,4 +1,4 @@
-name: EPG Combinado (epg.yml)
+name: EPG Combinado (epg.yml) - PASO 1
 
 on:
   schedule:
