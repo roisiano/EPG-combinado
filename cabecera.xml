@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tv generator-info-name="dobleM 19/10/2026 20:48" generator-info-url="t.me/EPG_dobleM">
+<tv generator-info-name="dobleM 20/10/2026 20:47" generator-info-url="t.me/EPG_dobleM">
 	<channel id="La 1 HD">
 		<display-name>La 1</display-name>
 		<display-name>La 1.TV</display-name>
@@ -5049,17 +5049,6 @@
 		<display-name>PTV Sevilla 1080</display-name>
 		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/PTV%20Sevilla.png" />
 	</channel>
-	<channel id="PTV Córdoba">
-		<display-name>PTV Córdoba</display-name>
-		<display-name>PTV Córdoba.TV</display-name>
-		<display-name>PTV Córdoba SD</display-name>
-		<display-name>PTV Córdoba HD</display-name>
-		<display-name>PTV Córdoba FHD</display-name>
-		<display-name>PTV Córdoba UHD</display-name>
-		<display-name>PTV Córdoba 720</display-name>
-		<display-name>PTV Córdoba 1080</display-name>
-		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/PTV%20C%C3%B3rdoba.png" />
-	</channel>
 	<channel id="PTV Linares">
 		<display-name>PTV Linares</display-name>
 		<display-name>PTV Linares.TV</display-name>
@@ -6468,6 +6457,72 @@
 		<display-name>PT | Sporting TV 1080</display-name>
 		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Sporting%20TV.png" />
 	</channel>
+	<channel id="DE | Sportdigital FUSSBALL">
+		<display-name>DE | Sportdigital FUSSBALL</display-name>
+		<display-name>DE | Sportdigital FUSSBALL.TV</display-name>
+		<display-name>DE | Sportdigital FUSSBALL SD</display-name>
+		<display-name>DE | Sportdigital FUSSBALL HD</display-name>
+		<display-name>DE | Sportdigital FUSSBALL FHD</display-name>
+		<display-name>DE | Sportdigital FUSSBALL UHD</display-name>
+		<display-name>DE | Sportdigital FUSSBALL 720</display-name>
+		<display-name>DE | Sportdigital FUSSBALL 1080</display-name>
+		<icon src="https://sdf-1a81f.kxcdn.com/assets/img/SDF_Logo.png" />
+	</channel>
+	<channel id="DE | Sportdigital FUSSBALL2">
+		<display-name>DE | Sportdigital FUSSBALL2</display-name>
+		<display-name>DE | Sportdigital FUSSBALL2.TV</display-name>
+		<display-name>DE | Sportdigital FUSSBALL2 SD</display-name>
+		<display-name>DE | Sportdigital FUSSBALL2 HD</display-name>
+		<display-name>DE | Sportdigital FUSSBALL2 FHD</display-name>
+		<display-name>DE | Sportdigital FUSSBALL2 UHD</display-name>
+		<display-name>DE | Sportdigital FUSSBALL2 720</display-name>
+		<display-name>DE | Sportdigital FUSSBALL2 1080</display-name>
+		<icon src="https://sdf-1a81f.kxcdn.com/assets/img/SDF2_Logo.png" />
+	</channel>
+	<channel id="DE | Sportdigital1+">
+		<display-name>DE | Sportdigital1+</display-name>
+		<display-name>DE | Sportdigital1+.TV</display-name>
+		<display-name>DE | Sportdigital1+ SD</display-name>
+		<display-name>DE | Sportdigital1+ HD</display-name>
+		<display-name>DE | Sportdigital1+ FHD</display-name>
+		<display-name>DE | Sportdigital1+ UHD</display-name>
+		<display-name>DE | Sportdigital1+ 720</display-name>
+		<display-name>DE | Sportdigital1+ 1080</display-name>
+		<icon src="https://sdf-1a81f.kxcdn.com/assets/img/SD1P_Logo.png" />
+	</channel>
+	<channel id="DE | Sportdigital EDGE">
+		<display-name>DE | Sportdigital EDGE</display-name>
+		<display-name>DE | Sportdigital EDGE.TV</display-name>
+		<display-name>DE | Sportdigital EDGE SD</display-name>
+		<display-name>DE | Sportdigital EDGE HD</display-name>
+		<display-name>DE | Sportdigital EDGE FHD</display-name>
+		<display-name>DE | Sportdigital EDGE UHD</display-name>
+		<display-name>DE | Sportdigital EDGE 720</display-name>
+		<display-name>DE | Sportdigital EDGE 1080</display-name>
+		<icon src="https://sdf-1a81f.kxcdn.com/assets/img/EDGE_Logo_w.png" />
+	</channel>
+	<channel id="DE | eSportsONE">
+		<display-name>DE | eSportsONE</display-name>
+		<display-name>DE | eSportsONE.TV</display-name>
+		<display-name>DE | eSportsONE SD</display-name>
+		<display-name>DE | eSportsONE HD</display-name>
+		<display-name>DE | eSportsONE FHD</display-name>
+		<display-name>DE | eSportsONE UHD</display-name>
+		<display-name>DE | eSportsONE 720</display-name>
+		<display-name>DE | eSportsONE 1080</display-name>
+		<icon src="https://sdf-1a81f.kxcdn.com/assets/img/ESO_Logo.png" />
+	</channel>
+	<channel id="DE | scooore">
+		<display-name>DE | scooore</display-name>
+		<display-name>DE | scooore.TV</display-name>
+		<display-name>DE | scooore SD</display-name>
+		<display-name>DE | scooore HD</display-name>
+		<display-name>DE | scooore FHD</display-name>
+		<display-name>DE | scooore UHD</display-name>
+		<display-name>DE | scooore 720</display-name>
+		<display-name>DE | scooore 1080</display-name>
+		<icon src="https://sdf-1a81f.kxcdn.com/assets/img/SCOOORE_Logo.png" />
+	</channel>
 	<channel id="DE | sport1">
 		<display-name>DE | sport1</display-name>
 		<display-name>DE | sport1.TV</display-name>
@@ -6598,7 +6653,7 @@
 		<display-name>DE | Sky Sport Golf UHD</display-name>
 		<display-name>DE | Sky Sport Golf 720</display-name>
 		<display-name>DE | Sky Sport Golf 1080</display-name>
-		<icon src="https://images.tvtoday.de/sender/small/skysg.png" />
+		<icon src="https://images.tvtoday.de/sender/small/SKYSG.png" />
 	</channel>
 	<channel id="DE | Sky Sport Premier League">
 		<display-name>DE | Sky Sport Premier League</display-name>
@@ -6676,72 +6731,6 @@
 		<display-name>DE | Rally TV 720</display-name>
 		<display-name>DE | Rally TV 1080</display-name>
 		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Rally%20TV.png" />
-	</channel>
-	<channel id="DE | eSportsONE">
-		<display-name>DE | eSportsONE</display-name>
-		<display-name>DE | eSportsONE.TV</display-name>
-		<display-name>DE | eSportsONE SD</display-name>
-		<display-name>DE | eSportsONE HD</display-name>
-		<display-name>DE | eSportsONE FHD</display-name>
-		<display-name>DE | eSportsONE UHD</display-name>
-		<display-name>DE | eSportsONE 720</display-name>
-		<display-name>DE | eSportsONE 1080</display-name>
-		<icon src="http://ngiss.t-online.de/cm1s/media/d9eaa902b52b78517f3b47ab210111b9d37a7fa7.png" />
-	</channel>
-	<channel id="DE | MagentaSport">
-		<display-name>DE | MagentaSport</display-name>
-		<display-name>DE | MagentaSport.TV</display-name>
-		<display-name>DE | MagentaSport SD</display-name>
-		<display-name>DE | MagentaSport HD</display-name>
-		<display-name>DE | MagentaSport FHD</display-name>
-		<display-name>DE | MagentaSport UHD</display-name>
-		<display-name>DE | MagentaSport 720</display-name>
-		<display-name>DE | MagentaSport 1080</display-name>
-		<icon src="http://ngiss.t-online.de/cm1s/media/ac4a4a48299d42f6ee414227a1e3e25da23a3abd.png" />
-	</channel>
-	<channel id="DE | Motorvision+">
-		<display-name>DE | Motorvision+</display-name>
-		<display-name>DE | Motorvision+.TV</display-name>
-		<display-name>DE | Motorvision+ SD</display-name>
-		<display-name>DE | Motorvision+ HD</display-name>
-		<display-name>DE | Motorvision+ FHD</display-name>
-		<display-name>DE | Motorvision+ UHD</display-name>
-		<display-name>DE | Motorvision+ 720</display-name>
-		<display-name>DE | Motorvision+ 1080</display-name>
-		<icon src="http://ngiss.t-online.de/cm1s/media/c106fe8ef548c796be95ef4d6e17d7718e8f765e.png" />
-	</channel>
-	<channel id="DE | SPORTDIGITAL FUSSBALL">
-		<display-name>DE | SPORTDIGITAL FUSSBALL</display-name>
-		<display-name>DE | SPORTDIGITAL FUSSBALL.TV</display-name>
-		<display-name>DE | SPORTDIGITAL FUSSBALL SD</display-name>
-		<display-name>DE | SPORTDIGITAL FUSSBALL HD</display-name>
-		<display-name>DE | SPORTDIGITAL FUSSBALL FHD</display-name>
-		<display-name>DE | SPORTDIGITAL FUSSBALL UHD</display-name>
-		<display-name>DE | SPORTDIGITAL FUSSBALL 720</display-name>
-		<display-name>DE | SPORTDIGITAL FUSSBALL 1080</display-name>
-		<icon src="http://ngiss.t-online.de/cm1s/media/58639959eb7241ee5cc8dbf96122c1f73ec809a9.png" />
-	</channel>
-	<channel id="DE | Sportdigital1+">
-		<display-name>DE | Sportdigital1+</display-name>
-		<display-name>DE | Sportdigital1+.TV</display-name>
-		<display-name>DE | Sportdigital1+ SD</display-name>
-		<display-name>DE | Sportdigital1+ HD</display-name>
-		<display-name>DE | Sportdigital1+ FHD</display-name>
-		<display-name>DE | Sportdigital1+ UHD</display-name>
-		<display-name>DE | Sportdigital1+ 720</display-name>
-		<display-name>DE | Sportdigital1+ 1080</display-name>
-		<icon src="http://ngiss.t-online.de/cm1s/media/1387e929a8dc564c1b47249c58db2087ae0fc93b.png" />
-	</channel>
-	<channel id="DE | Sky Sport Kompakt 1">
-		<display-name>DE | Sky Sport Kompakt 1</display-name>
-		<display-name>DE | Sky Sport Kompakt 1.TV</display-name>
-		<display-name>DE | Sky Sport Kompakt 1 SD</display-name>
-		<display-name>DE | Sky Sport Kompakt 1 HD</display-name>
-		<display-name>DE | Sky Sport Kompakt 1 FHD</display-name>
-		<display-name>DE | Sky Sport Kompakt 1 UHD</display-name>
-		<display-name>DE | Sky Sport Kompakt 1 720</display-name>
-		<display-name>DE | Sky Sport Kompakt 1 1080</display-name>
-		<icon src="http://ngiss.t-online.de/cm1s/media/50dd32f0f42a79c4b5379b499412f381564764e3.png" />
 	</channel>
 	<channel id="UK | TNT Sports 1">
 		<display-name>UK | TNT Sports 1</display-name>
