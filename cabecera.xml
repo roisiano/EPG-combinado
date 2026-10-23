@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tv generator-info-name="dobleM 21/10/2026 20:47" generator-info-url="t.me/EPG_dobleM">
+<tv generator-info-name="dobleM 22/10/2026 20:52" generator-info-url="t.me/EPG_dobleM">
 	<channel id="La 1 HD">
 		<display-name>La 1</display-name>
 		<display-name>La 1.TV</display-name>
@@ -2442,6 +2442,28 @@
 		<display-name>TR3CE 1080</display-name>
 		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/TR3CE.png" />
 	</channel>
+	<channel id="NatureTime">
+		<display-name>NatureTime</display-name>
+		<display-name>NatureTime.TV</display-name>
+		<display-name>NatureTime SD</display-name>
+		<display-name>NatureTime HD</display-name>
+		<display-name>NatureTime FHD</display-name>
+		<display-name>NatureTime UHD</display-name>
+		<display-name>NatureTime 720</display-name>
+		<display-name>NatureTime 1080</display-name>
+		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/NatureTime.png" />
+	</channel>
+	<channel id="Cazavisión">
+		<display-name>Cazavisión</display-name>
+		<display-name>Cazavisión.TV</display-name>
+		<display-name>Cazavisión SD</display-name>
+		<display-name>Cazavisión HD</display-name>
+		<display-name>Cazavisión FHD</display-name>
+		<display-name>Cazavisión UHD</display-name>
+		<display-name>Cazavisión 720</display-name>
+		<display-name>Cazavisión 1080</display-name>
+		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Cazavisi%C3%B3n.png" />
+	</channel>
 	<channel id="Runtime Thriller-Terror">
 		<display-name>Runtime Thriller-Terror</display-name>
 		<display-name>Runtime Thriller-Terror.TV</display-name>
@@ -2706,17 +2728,6 @@
 		<display-name>Gulli 1080</display-name>
 		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Gulli.png" />
 	</channel>
-	<channel id="NatureTime">
-		<display-name>NatureTime</display-name>
-		<display-name>NatureTime.TV</display-name>
-		<display-name>NatureTime SD</display-name>
-		<display-name>NatureTime HD</display-name>
-		<display-name>NatureTime FHD</display-name>
-		<display-name>NatureTime UHD</display-name>
-		<display-name>NatureTime 720</display-name>
-		<display-name>NatureTime 1080</display-name>
-		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/NatureTime.png" />
-	</channel>
 	<channel id="Vivir con gatos">
 		<display-name>Vivir con gatos</display-name>
 		<display-name>Vivir con gatos.TV</display-name>
@@ -2804,17 +2815,6 @@
 		<display-name>Historia y Vida 720</display-name>
 		<display-name>Historia y Vida 1080</display-name>
 		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Historia%20y%20Vida.png" />
-	</channel>
-	<channel id="Cazavisión">
-		<display-name>Cazavisión</display-name>
-		<display-name>Cazavisión.TV</display-name>
-		<display-name>Cazavisión SD</display-name>
-		<display-name>Cazavisión HD</display-name>
-		<display-name>Cazavisión FHD</display-name>
-		<display-name>Cazavisión UHD</display-name>
-		<display-name>Cazavisión 720</display-name>
-		<display-name>Cazavisión 1080</display-name>
-		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Cazavisi%C3%B3n.png" />
 	</channel>
 	<channel id="Top Barça">
 		<display-name>Top Barça</display-name>
