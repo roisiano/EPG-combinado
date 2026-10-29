@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tv generator-info-name="dobleM 27/10/2026 20:48" generator-info-url="t.me/EPG_dobleM">
+<tv generator-info-name="dobleM 28/10/2026 20:47" generator-info-url="t.me/EPG_dobleM">
 	<channel id="La 1 HD">
 		<display-name>La 1</display-name>
 		<display-name>La 1.TV</display-name>
@@ -4719,6 +4719,17 @@
 		<display-name>Tennis+ 1080</display-name>
 		<icon src="https://provider-static.plex.tv/epg/cms/production/704e7af1-90a0-4ad4-94de-af2559c19fa6/1_Tennis_Plus_Logo__Dark_Mode__1500x1000px.png" />
 	</channel>
+	<channel id="FashionTV">
+		<display-name>FashionTV</display-name>
+		<display-name>FashionTV.TV</display-name>
+		<display-name>FashionTV SD</display-name>
+		<display-name>FashionTV HD</display-name>
+		<display-name>FashionTV FHD</display-name>
+		<display-name>FashionTV UHD</display-name>
+		<display-name>FashionTV 720</display-name>
+		<display-name>FashionTV 1080</display-name>
+		<icon src="https://provider-static.plex.tv/epg/cms/production/47127441-d5b6-42a3-b641-a7c076d20940/Fashion_PNG_w__transparent_background__All_white_Logo_for_Attribution__-_Yuri_Alexandrov.png" />
+	</channel>
 	<channel id="FANPLAY TV Primera Federación 1">
 		<display-name>FANPLAY TV Primera Federación 1</display-name>
 		<display-name>FANPLAY TV Primera Federación 1.TV</display-name>
@@ -5300,17 +5311,6 @@
 		<display-name>DAZN National League 8 UHD</display-name>
 		<display-name>DAZN National League 8 720</display-name>
 		<display-name>DAZN National League 8 1080</display-name>
-		<icon src="https://image.discovery.indazn.com/eu/v4/onboarding-images/none/sn_b5udgm9vakjqz8dcmy5b2g0xt/fill/center/top/none/100/0/0/png/image/25/g" />
-	</channel>
-	<channel id="DAZN National League 9">
-		<display-name>DAZN National League 9</display-name>
-		<display-name>DAZN National League 9.TV</display-name>
-		<display-name>DAZN National League 9 SD</display-name>
-		<display-name>DAZN National League 9 HD</display-name>
-		<display-name>DAZN National League 9 FHD</display-name>
-		<display-name>DAZN National League 9 UHD</display-name>
-		<display-name>DAZN National League 9 720</display-name>
-		<display-name>DAZN National League 9 1080</display-name>
 		<icon src="https://image.discovery.indazn.com/eu/v4/onboarding-images/none/sn_b5udgm9vakjqz8dcmy5b2g0xt/fill/center/top/none/100/0/0/png/image/25/g" />
 	</channel>
 	<channel id="DAZN Premier League">
