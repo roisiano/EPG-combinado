@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tv generator-info-name="dobleM 04/11/2026 20:47" generator-info-url="t.me/EPG_dobleM">
+<tv generator-info-name="dobleM 05/11/2026 20:47" generator-info-url="t.me/EPG_dobleM">
 	<channel id="La 1 HD">
 		<display-name>La 1</display-name>
 		<display-name>La 1.TV</display-name>
@@ -1407,6 +1407,17 @@
 		<display-name>Squirrel TV 720</display-name>
 		<display-name>Squirrel TV 1080</display-name>
 		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Squirrel%20TV.png" />
+	</channel>
+	<channel id="La Séptima">
+		<display-name>La Séptima</display-name>
+		<display-name>La Séptima.TV</display-name>
+		<display-name>La Séptima SD</display-name>
+		<display-name>La Séptima HD</display-name>
+		<display-name>La Séptima FHD</display-name>
+		<display-name>La Séptima UHD</display-name>
+		<display-name>La Séptima 720</display-name>
+		<display-name>La Séptima 1080</display-name>
+		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/La%20S%C3%A9ptima.png" />
 	</channel>
 	<channel id="Movistar Plus HD">
 		<display-name>Movistar Plus</display-name>
@@ -5289,7 +5300,7 @@
 		<display-name>En Familia (Rakuten TV) UHD</display-name>
 		<display-name>En Familia (Rakuten TV) 720</display-name>
 		<display-name>En Familia (Rakuten TV) 1080</display-name>
-		<icon src="https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork-negative/33827624-56e3-464f-8763-9e634babe552.png" />
+		<icon src="https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork-negative/1a67c634-2e6a-442d-9eb8-8f489f2caae5.png" />
 	</channel>
 	<channel id="Estilo y Vida (Rakuten TV)">
 		<display-name>Estilo y Vida (Rakuten TV)</display-name>
