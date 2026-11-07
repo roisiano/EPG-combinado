@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tv generator-info-name="dobleM 05/11/2026 20:47" generator-info-url="t.me/EPG_dobleM">
+<tv generator-info-name="dobleM 06/11/2026 20:48" generator-info-url="t.me/EPG_dobleM">
 	<channel id="La 1 HD">
 		<display-name>La 1</display-name>
 		<display-name>La 1.TV</display-name>
@@ -5300,7 +5300,6 @@
 		<display-name>En Familia (Rakuten TV) UHD</display-name>
 		<display-name>En Familia (Rakuten TV) 720</display-name>
 		<display-name>En Familia (Rakuten TV) 1080</display-name>
-		<icon src="https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork-negative/1a67c634-2e6a-442d-9eb8-8f489f2caae5.png" />
 	</channel>
 	<channel id="Estilo y Vida (Rakuten TV)">
 		<display-name>Estilo y Vida (Rakuten TV)</display-name>
