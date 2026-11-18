@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tv generator-info-name="dobleM 16/11/2026 20:47" generator-info-url="t.me/EPG_dobleM">
+<tv generator-info-name="dobleM 17/11/2026 20:47" generator-info-url="t.me/EPG_dobleM">
 	<channel id="La 1 HD">
 		<display-name>La 1</display-name>
 		<display-name>La 1.TV</display-name>
@@ -4928,6 +4928,17 @@
 		<display-name>PTV Linares 1080</display-name>
 		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/PTV%20Linares.png" />
 	</channel>
+	<channel id="PTV Málaga">
+		<display-name>PTV Málaga</display-name>
+		<display-name>PTV Málaga.TV</display-name>
+		<display-name>PTV Málaga SD</display-name>
+		<display-name>PTV Málaga HD</display-name>
+		<display-name>PTV Málaga FHD</display-name>
+		<display-name>PTV Málaga UHD</display-name>
+		<display-name>PTV Málaga 720</display-name>
+		<display-name>PTV Málaga 1080</display-name>
+		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/PTV%20M%C3%A1laga.png" />
+	</channel>
 	<channel id="Unbeaten (DAZN)">
 		<display-name>Unbeaten (DAZN)</display-name>
 		<display-name>Unbeaten (DAZN).TV</display-name>
@@ -5442,7 +5453,6 @@
 		<display-name>Red Bull TV UHD</display-name>
 		<display-name>Red Bull TV 720</display-name>
 		<display-name>Red Bull TV 1080</display-name>
-		<icon src="https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork-negative/b03ad405-231f-44f4-90ea-5fdacaf2a06c.png" />
 	</channel>
 	<channel id="FIFA+">
 		<display-name>FIFA+</display-name>
