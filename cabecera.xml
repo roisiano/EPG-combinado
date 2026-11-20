@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tv generator-info-name="dobleM 18/11/2026 20:47" generator-info-url="t.me/EPG_dobleM">
+<tv generator-info-name="dobleM 19/11/2026 20:47" generator-info-url="t.me/EPG_dobleM">
 	<channel id="La 1 HD">
 		<display-name>La 1</display-name>
 		<display-name>La 1.TV</display-name>
@@ -99,17 +99,6 @@
 		<display-name>M+ Originales 1080</display-name>
 		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Originales.png" />
 	</channel>
-	<channel id="M+ Terror">
-		<display-name>M+ Terror</display-name>
-		<display-name>M+ Terror.TV</display-name>
-		<display-name>M+ Terror SD</display-name>
-		<display-name>M+ Terror HD</display-name>
-		<display-name>M+ Terror FHD</display-name>
-		<display-name>M+ Terror UHD</display-name>
-		<display-name>M+ Terror 720</display-name>
-		<display-name>M+ Terror 1080</display-name>
-		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Terror.png" />
-	</channel>
 	<channel id="M+ Documentales HD">
 		<display-name>M+ Documentales</display-name>
 		<display-name>M+ Documentales.TV</display-name>
@@ -121,16 +110,49 @@
 		<display-name>M+ Documentales 1080</display-name>
 		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Documentales.png" />
 	</channel>
-	<channel id="M+ Romance">
-		<display-name>M+ Romance</display-name>
-		<display-name>M+ Romance.TV</display-name>
-		<display-name>M+ Romance SD</display-name>
-		<display-name>M+ Romance HD</display-name>
-		<display-name>M+ Romance FHD</display-name>
-		<display-name>M+ Romance UHD</display-name>
-		<display-name>M+ Romance 720</display-name>
-		<display-name>M+ Romance 1080</display-name>
-		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Romance.png" />
+	<channel id="M+ Navidad">
+		<display-name>M+ Navidad</display-name>
+		<display-name>M+ Navidad.TV</display-name>
+		<display-name>M+ Navidad SD</display-name>
+		<display-name>M+ Navidad HD</display-name>
+		<display-name>M+ Navidad FHD</display-name>
+		<display-name>M+ Navidad UHD</display-name>
+		<display-name>M+ Navidad 720</display-name>
+		<display-name>M+ Navidad 1080</display-name>
+		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Navidad.png" />
+	</channel>
+	<channel id="M+ Thriller">
+		<display-name>M+ Thriller</display-name>
+		<display-name>M+ Thriller.TV</display-name>
+		<display-name>M+ Thriller SD</display-name>
+		<display-name>M+ Thriller HD</display-name>
+		<display-name>M+ Thriller FHD</display-name>
+		<display-name>M+ Thriller UHD</display-name>
+		<display-name>M+ Thriller 720</display-name>
+		<display-name>M+ Thriller 1080</display-name>
+		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Thriller.png" />
+	</channel>
+	<channel id="M+ PopUp">
+		<display-name>M+ PopUp</display-name>
+		<display-name>M+ PopUp.TV</display-name>
+		<display-name>M+ PopUp SD</display-name>
+		<display-name>M+ PopUp HD</display-name>
+		<display-name>M+ PopUp FHD</display-name>
+		<display-name>M+ PopUp UHD</display-name>
+		<display-name>M+ PopUp 720</display-name>
+		<display-name>M+ PopUp 1080</display-name>
+		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20PopUp.png" />
+	</channel>
+	<channel id="M+ PopUp 2">
+		<display-name>M+ PopUp 2</display-name>
+		<display-name>M+ PopUp 2.TV</display-name>
+		<display-name>M+ PopUp 2 SD</display-name>
+		<display-name>M+ PopUp 2 HD</display-name>
+		<display-name>M+ PopUp 2 FHD</display-name>
+		<display-name>M+ PopUp 2 UHD</display-name>
+		<display-name>M+ PopUp 2 720</display-name>
+		<display-name>M+ PopUp 2 1080</display-name>
+		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20PopUp%202.png" />
 	</channel>
 	<channel id="M+ Clásicos HD">
 		<display-name>M+ Clásicos</display-name>
@@ -197,28 +219,6 @@
 		<display-name>M+ Cine Español 720</display-name>
 		<display-name>M+ Cine Español 1080</display-name>
 		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Cine%20Espa%C3%B1ol.png" />
-	</channel>
-	<channel id="M+ PopUp">
-		<display-name>M+ PopUp</display-name>
-		<display-name>M+ PopUp.TV</display-name>
-		<display-name>M+ PopUp SD</display-name>
-		<display-name>M+ PopUp HD</display-name>
-		<display-name>M+ PopUp FHD</display-name>
-		<display-name>M+ PopUp UHD</display-name>
-		<display-name>M+ PopUp 720</display-name>
-		<display-name>M+ PopUp 1080</display-name>
-		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20PopUp.png" />
-	</channel>
-	<channel id="M+ PopUp 2">
-		<display-name>M+ PopUp 2</display-name>
-		<display-name>M+ PopUp 2.TV</display-name>
-		<display-name>M+ PopUp 2 SD</display-name>
-		<display-name>M+ PopUp 2 HD</display-name>
-		<display-name>M+ PopUp 2 FHD</display-name>
-		<display-name>M+ PopUp 2 UHD</display-name>
-		<display-name>M+ PopUp 2 720</display-name>
-		<display-name>M+ PopUp 2 1080</display-name>
-		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20PopUp%202.png" />
 	</channel>
 	<channel id="Canal FlixOlé 1">
 		<display-name>Canal FlixOlé 1</display-name>
@@ -3608,6 +3608,17 @@
 		<display-name>etb2ON euskera 1080</display-name>
 		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/etb2ON%20euskera.png" />
 	</channel>
+	<channel id="etb1ON TDT euskera">
+		<display-name>etb1ON TDT euskera</display-name>
+		<display-name>etb1ON TDT euskera.TV</display-name>
+		<display-name>etb1ON TDT euskera SD</display-name>
+		<display-name>etb1ON TDT euskera HD</display-name>
+		<display-name>etb1ON TDT euskera FHD</display-name>
+		<display-name>etb1ON TDT euskera UHD</display-name>
+		<display-name>etb1ON TDT euskera 720</display-name>
+		<display-name>etb1ON TDT euskera 1080</display-name>
+		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/etb1ON%20TDT%20euskera.png" />
+	</channel>
 	<channel id="La 1 Cataluña">
 		<display-name>La 1 Cataluña</display-name>
 		<display-name>La 1 Cataluña.TV</display-name>
@@ -3750,6 +3761,39 @@
 		<display-name>Los Conciertos de Radio 3 720</display-name>
 		<display-name>Los Conciertos de Radio 3 1080</display-name>
 		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Los%20Conciertos%20de%20Radio%203.png" />
+	</channel>
+	<channel id="rtve">
+		<display-name>rtve</display-name>
+		<display-name>rtve.TV</display-name>
+		<display-name>rtve SD</display-name>
+		<display-name>rtve HD</display-name>
+		<display-name>rtve FHD</display-name>
+		<display-name>rtve UHD</display-name>
+		<display-name>rtve 720</display-name>
+		<display-name>rtve 1080</display-name>
+		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/rtve.png" />
+	</channel>
+	<channel id="TVE Internacional Europa">
+		<display-name>TVE Internacional Europa</display-name>
+		<display-name>TVE Internacional Europa.TV</display-name>
+		<display-name>TVE Internacional Europa SD</display-name>
+		<display-name>TVE Internacional Europa HD</display-name>
+		<display-name>TVE Internacional Europa FHD</display-name>
+		<display-name>TVE Internacional Europa UHD</display-name>
+		<display-name>TVE Internacional Europa 720</display-name>
+		<display-name>TVE Internacional Europa 1080</display-name>
+		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/TVE%20Internacional%20Europa.pnghttps://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/TVE%20Internacional%20Europa.png" />
+	</channel>
+	<channel id="Star TVE">
+		<display-name>Star TVE</display-name>
+		<display-name>Star TVE.TV</display-name>
+		<display-name>Star TVE SD</display-name>
+		<display-name>Star TVE HD</display-name>
+		<display-name>Star TVE FHD</display-name>
+		<display-name>Star TVE UHD</display-name>
+		<display-name>Star TVE 720</display-name>
+		<display-name>Star TVE 1080</display-name>
+		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Star%20TVE.pnghttps://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Star%20TVE.png" />
 	</channel>
 	<channel id="TV3 Catalunya">
 		<display-name>TV3 Catalunya</display-name>
@@ -4565,6 +4609,17 @@
 		<display-name>ATRESplayer PREMIUM 1080</display-name>
 		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/ATRESplayer%20PREMIUM.png" />
 	</channel>
+	<channel id="Infinity Comedia">
+		<display-name>Infinity Comedia</display-name>
+		<display-name>Infinity Comedia.TV</display-name>
+		<display-name>Infinity Comedia SD</display-name>
+		<display-name>Infinity Comedia HD</display-name>
+		<display-name>Infinity Comedia FHD</display-name>
+		<display-name>Infinity Comedia UHD</display-name>
+		<display-name>Infinity Comedia 720</display-name>
+		<display-name>Infinity Comedia 1080</display-name>
+		<icon src="https://img-prod-api2.mediasetplay.mediaset.it/api/images/by/v5/esp/bym%3A6aa2c244aa532a25%2Foriginal%2FChannel-logo_Infinity-Comedia.png/single/87/87@2?r=%202x&quot;%20media=&quot;(max-width:%201023px)|https://img-prod-api2.mediasetplay.mediaset.it/api/images/by/v5/esp/bym%3A6aa2c244aa532a25%2Foriginal%2FChannel-logo_Infinity-Comedia.png/single/87/87@2?r=%202x&quot;%20media=&quot;(max-width:%201023px)|https://img-prod-api2.mediasetplay.mediaset.it/api/images/by/v5/esp/bym%3A6aa2c244aa532a25%2Foriginal%2FChannel-logo_Infinity-Comedia.png/single/87/87@2?r=%202x&quot;%20media=&quot;(max-width:%201023px)|https://img-prod-api2.mediasetplay.mediaset.it/api/images/by/v5/esp/bym%3A6aa2c244aa532a25%2Foriginal%2FChannel-logo_Infinity-Comedia.png/single/87/87@2?r=%202x&quot;%20media=&quot;(max-width:%201023px)|https://img-prod-api2.mediasetplay.mediaset.it/api/images/by/v5/esp/bym%3A6aa2c244aa532a25%2Foriginal%2FChannel-logo_Infinity-Comedia.png/single/87/87@2?r=%202x&quot;%20media=&quot;(max-width:%201023px)|https://img-prod-api2.mediasetplay.mediaset.it/api/images/by/v5/esp/bym%3A6aa2c244aa532a25%2Foriginal%2FChannel-logo_Infinity-Comedia.png/single/87/87@2?r=%202x&quot;%20media=&quot;(max-width:%201023px)|https://img-prod-api2.mediasetplay.mediaset.it/api/images/by/v5/esp/bym%3A6aa2c244aa532a25%2Foriginal%2FChannel-logo_Infinity-Comedia.png/single/87/87@2?r=%202x&quot;%20media=&quot;(max-width:%201023px)" />
+	</channel>
 	<channel id="Infinity En la calle">
 		<display-name>Infinity En la calle</display-name>
 		<display-name>Infinity En la calle.TV</display-name>
@@ -4587,17 +4642,6 @@
 		<display-name>Infinity Viajes 1080</display-name>
 		<icon src="https://img-prod-api2.mediasetplay.mediaset.it/api/images/by/v5/esp/bym%3A15c1e25baf8d6180%2Foriginal%2FChannel-logo_Infinity-Viajes.png/single/87/87@2?r=%202x&quot;%20media=&quot;(max-width:%201023px)|https://img-prod-api2.mediasetplay.mediaset.it/api/images/by/v5/esp/bym%3A15c1e25baf8d6180%2Foriginal%2FChannel-logo_Infinity-Viajes.png/single/87/87@2?r=%202x&quot;%20media=&quot;(max-width:%201023px)|https://img-prod-api2.mediasetplay.mediaset.it/api/images/by/v5/esp/bym%3A15c1e25baf8d6180%2Foriginal%2FChannel-logo_Infinity-Viajes.png/single/87/87@2?r=%202x&quot;%20media=&quot;(max-width:%201023px)|https://img-prod-api2.mediasetplay.mediaset.it/api/images/by/v5/esp/bym%3A15c1e25baf8d6180%2Foriginal%2FChannel-logo_Infinity-Viajes.png/single/87/87@2?r=%202x&quot;%20media=&quot;(max-width:%201023px)|https://img-prod-api2.mediasetplay.mediaset.it/api/images/by/v5/esp/bym%3A15c1e25baf8d6180%2Foriginal%2FChannel-logo_Infinity-Viajes.png/single/87/87@2?r=%202x&quot;%20media=&quot;(max-width:%201023px)|https://img-prod-api2.mediasetplay.mediaset.it/api/images/by/v5/esp/bym%3A15c1e25baf8d6180%2Foriginal%2FChannel-logo_Infinity-Viajes.png/single/87/87@2?r=%202x&quot;%20media=&quot;(max-width:%201023px)|https://img-prod-api2.mediasetplay.mediaset.it/api/images/by/v5/esp/bym%3A15c1e25baf8d6180%2Foriginal%2FChannel-logo_Infinity-Viajes.png/single/87/87@2?r=%202x&quot;%20media=&quot;(max-width:%201023px)" />
 	</channel>
-	<channel id="Infinity Comedia">
-		<display-name>Infinity Comedia</display-name>
-		<display-name>Infinity Comedia.TV</display-name>
-		<display-name>Infinity Comedia SD</display-name>
-		<display-name>Infinity Comedia HD</display-name>
-		<display-name>Infinity Comedia FHD</display-name>
-		<display-name>Infinity Comedia UHD</display-name>
-		<display-name>Infinity Comedia 720</display-name>
-		<display-name>Infinity Comedia 1080</display-name>
-		<icon src="https://img-prod-api2.mediasetplay.mediaset.it/api/images/by/v5/esp/bym%3A6aa2c244aa532a25%2Foriginal%2FChannel-logo_Infinity-Comedia.png/single/87/87@2?r=%202x&quot;%20media=&quot;(max-width:%201023px)|https://img-prod-api2.mediasetplay.mediaset.it/api/images/by/v5/esp/bym%3A6aa2c244aa532a25%2Foriginal%2FChannel-logo_Infinity-Comedia.png/single/87/87@2?r=%202x&quot;%20media=&quot;(max-width:%201023px)|https://img-prod-api2.mediasetplay.mediaset.it/api/images/by/v5/esp/bym%3A6aa2c244aa532a25%2Foriginal%2FChannel-logo_Infinity-Comedia.png/single/87/87@2?r=%202x&quot;%20media=&quot;(max-width:%201023px)|https://img-prod-api2.mediasetplay.mediaset.it/api/images/by/v5/esp/bym%3A6aa2c244aa532a25%2Foriginal%2FChannel-logo_Infinity-Comedia.png/single/87/87@2?r=%202x&quot;%20media=&quot;(max-width:%201023px)|https://img-prod-api2.mediasetplay.mediaset.it/api/images/by/v5/esp/bym%3A6aa2c244aa532a25%2Foriginal%2FChannel-logo_Infinity-Comedia.png/single/87/87@2?r=%202x&quot;%20media=&quot;(max-width:%201023px)|https://img-prod-api2.mediasetplay.mediaset.it/api/images/by/v5/esp/bym%3A6aa2c244aa532a25%2Foriginal%2FChannel-logo_Infinity-Comedia.png/single/87/87@2?r=%202x&quot;%20media=&quot;(max-width:%201023px)|https://img-prod-api2.mediasetplay.mediaset.it/api/images/by/v5/esp/bym%3A6aa2c244aa532a25%2Foriginal%2FChannel-logo_Infinity-Comedia.png/single/87/87@2?r=%202x&quot;%20media=&quot;(max-width:%201023px)" />
-	</channel>
 	<channel id="Infinity Top Series">
 		<display-name>Infinity Top Series</display-name>
 		<display-name>Infinity Top Series.TV</display-name>
@@ -4608,6 +4652,17 @@
 		<display-name>Infinity Top Series 720</display-name>
 		<display-name>Infinity Top Series 1080</display-name>
 		<icon src="https://img-prod-api2.mediasetplay.mediaset.it/api/images/by/v5/esp/bym%3A2a6a0b463b28a4e%2Foriginal%2FChannel-logo_Infinity-Top-Series.png/single/87/87@2?r=%202x&quot;%20media=&quot;(max-width:%201023px)|https://img-prod-api2.mediasetplay.mediaset.it/api/images/by/v5/esp/bym%3A2a6a0b463b28a4e%2Foriginal%2FChannel-logo_Infinity-Top-Series.png/single/87/87@2?r=%202x&quot;%20media=&quot;(max-width:%201023px)|https://img-prod-api2.mediasetplay.mediaset.it/api/images/by/v5/esp/bym%3A2a6a0b463b28a4e%2Foriginal%2FChannel-logo_Infinity-Top-Series.png/single/87/87@2?r=%202x&quot;%20media=&quot;(max-width:%201023px)|https://img-prod-api2.mediasetplay.mediaset.it/api/images/by/v5/esp/bym%3A2a6a0b463b28a4e%2Foriginal%2FChannel-logo_Infinity-Top-Series.png/single/87/87@2?r=%202x&quot;%20media=&quot;(max-width:%201023px)|https://img-prod-api2.mediasetplay.mediaset.it/api/images/by/v5/esp/bym%3A2a6a0b463b28a4e%2Foriginal%2FChannel-logo_Infinity-Top-Series.png/single/87/87@2?r=%202x&quot;%20media=&quot;(max-width:%201023px)|https://img-prod-api2.mediasetplay.mediaset.it/api/images/by/v5/esp/bym%3A2a6a0b463b28a4e%2Foriginal%2FChannel-logo_Infinity-Top-Series.png/single/87/87@2?r=%202x&quot;%20media=&quot;(max-width:%201023px)|https://img-prod-api2.mediasetplay.mediaset.it/api/images/by/v5/esp/bym%3A2a6a0b463b28a4e%2Foriginal%2FChannel-logo_Infinity-Top-Series.png/single/87/87@2?r=%202x&quot;%20media=&quot;(max-width:%201023px)" />
+	</channel>
+	<channel id="Infinity mtmad">
+		<display-name>Infinity mtmad</display-name>
+		<display-name>Infinity mtmad.TV</display-name>
+		<display-name>Infinity mtmad SD</display-name>
+		<display-name>Infinity mtmad HD</display-name>
+		<display-name>Infinity mtmad FHD</display-name>
+		<display-name>Infinity mtmad UHD</display-name>
+		<display-name>Infinity mtmad 720</display-name>
+		<display-name>Infinity mtmad 1080</display-name>
+		<icon src="https://img-prod-api2.mediasetplay.mediaset.it/api/images/by/v5/esp/bym%3A75919f702d9f6789%2Foriginal%2FChannel_logo-Mtmad.png/single/87/87@2?r=%202x&quot;%20media=&quot;(max-width:%201023px)|https://img-prod-api2.mediasetplay.mediaset.it/api/images/by/v5/esp/bym%3A75919f702d9f6789%2Foriginal%2FChannel_logo-Mtmad.png/single/87/87@2?r=%202x&quot;%20media=&quot;(max-width:%201023px)|https://img-prod-api2.mediasetplay.mediaset.it/api/images/by/v5/esp/bym%3A75919f702d9f6789%2Foriginal%2FChannel_logo-Mtmad.png/single/87/87@2?r=%202x&quot;%20media=&quot;(max-width:%201023px)|https://img-prod-api2.mediasetplay.mediaset.it/api/images/by/v5/esp/bym%3A75919f702d9f6789%2Foriginal%2FChannel_logo-Mtmad.png/single/87/87@2?r=%202x&quot;%20media=&quot;(max-width:%201023px)|https://img-prod-api2.mediasetplay.mediaset.it/api/images/by/v5/esp/bym%3A75919f702d9f6789%2Foriginal%2FChannel_logo-Mtmad.png/single/87/87@2?r=%202x&quot;%20media=&quot;(max-width:%201023px)|https://img-prod-api2.mediasetplay.mediaset.it/api/images/by/v5/esp/bym%3A75919f702d9f6789%2Foriginal%2FChannel_logo-Mtmad.png/single/87/87@2?r=%202x&quot;%20media=&quot;(max-width:%201023px)|https://img-prod-api2.mediasetplay.mediaset.it/api/images/by/v5/esp/bym%3A75919f702d9f6789%2Foriginal%2FChannel_logo-Mtmad.png/single/87/87@2?r=%202x&quot;%20media=&quot;(max-width:%201023px)" />
 	</channel>
 	<channel id="Infinity+ LQSA">
 		<display-name>Infinity+ LQSA</display-name>
@@ -4707,17 +4762,6 @@
 		<display-name>Tennis+ 720</display-name>
 		<display-name>Tennis+ 1080</display-name>
 		<icon src="https://provider-static.plex.tv/epg/cms/production/704e7af1-90a0-4ad4-94de-af2559c19fa6/1_Tennis_Plus_Logo__Dark_Mode__1500x1000px.png" />
-	</channel>
-	<channel id="FashionTV">
-		<display-name>FashionTV</display-name>
-		<display-name>FashionTV.TV</display-name>
-		<display-name>FashionTV SD</display-name>
-		<display-name>FashionTV HD</display-name>
-		<display-name>FashionTV FHD</display-name>
-		<display-name>FashionTV UHD</display-name>
-		<display-name>FashionTV 720</display-name>
-		<display-name>FashionTV 1080</display-name>
-		<icon src="https://provider-static.plex.tv/epg/cms/production/47127441-d5b6-42a3-b641-a7c076d20940/Fashion_PNG_w__transparent_background__All_white_Logo_for_Attribution__-_Yuri_Alexandrov.png" />
 	</channel>
 	<channel id="FANPLAY TV Primera Federación 1">
 		<display-name>FANPLAY TV Primera Federación 1</display-name>
@@ -5323,7 +5367,6 @@
 		<display-name>Todo Crimen (Rakuten TV) 1080</display-name>
 		<icon src="https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork-negative/8fb33036-37c7-478c-930f-f8f6230a5c32.png" />
 		<icon src="https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork-negative/e058d349-db97-4c0b-a9dd-477147a1d473.png" />
-		<icon src="https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork-negative/e058d349-db97-4c0b-a9dd-477147a1d473.png" />
 	</channel>
 	<channel id="Crimen (Rakuten TV)">
 		<display-name>Crimen (Rakuten TV)</display-name>
@@ -5564,17 +5607,6 @@
 		<display-name>beIN SPORTS XTRA ñ 720</display-name>
 		<display-name>beIN SPORTS XTRA ñ 1080</display-name>
 		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/beIN%20SPORTS%20XTRA%20%C3%B1.png" />
-	</channel>
-	<channel id="Star TVE HD">
-		<display-name>Star TVE</display-name>
-		<display-name>Star TVE.TV</display-name>
-		<display-name>Star TVE SD</display-name>
-		<display-name>Star TVE HD</display-name>
-		<display-name>Star TVE FHD</display-name>
-		<display-name>Star TVE UHD</display-name>
-		<display-name>Star TVE 720</display-name>
-		<display-name>Star TVE 1080</display-name>
-		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Star%20TVE.png" />
 	</channel>
 	<channel id="CNN en Español">
 		<display-name>CNN en Español</display-name>
