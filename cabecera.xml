@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tv generator-info-name="dobleM 25/11/2026 20:47" generator-info-url="t.me/EPG_dobleM">
+<tv generator-info-name="dobleM 26/11/2026 20:47" generator-info-url="t.me/EPG_dobleM">
 	<channel id="La 1 HD">
 		<display-name>La 1</display-name>
 		<display-name>La 1.TV</display-name>
@@ -3762,16 +3762,16 @@
 		<display-name>Los Conciertos de Radio 3 1080</display-name>
 		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Los%20Conciertos%20de%20Radio%203.png" />
 	</channel>
-	<channel id="rtve">
-		<display-name>rtve</display-name>
-		<display-name>rtve.TV</display-name>
-		<display-name>rtve SD</display-name>
-		<display-name>rtve HD</display-name>
-		<display-name>rtve FHD</display-name>
-		<display-name>rtve UHD</display-name>
-		<display-name>rtve 720</display-name>
-		<display-name>rtve 1080</display-name>
-		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/rtve.png" />
+	<channel id="70 años">
+		<display-name>70 años</display-name>
+		<display-name>70 años.TV</display-name>
+		<display-name>70 años SD</display-name>
+		<display-name>70 años HD</display-name>
+		<display-name>70 años FHD</display-name>
+		<display-name>70 años UHD</display-name>
+		<display-name>70 años 720</display-name>
+		<display-name>70 años 1080</display-name>
+		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/70%20a%C3%B1os.png" />
 	</channel>
 	<channel id="TVE Internacional Europa">
 		<display-name>TVE Internacional Europa</display-name>
@@ -3782,7 +3782,7 @@
 		<display-name>TVE Internacional Europa UHD</display-name>
 		<display-name>TVE Internacional Europa 720</display-name>
 		<display-name>TVE Internacional Europa 1080</display-name>
-		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/TVE%20Internacional%20Europa.pnghttps://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/TVE%20Internacional%20Europa.png" />
+		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/TVE%20Internacional%20Europa.png" />
 	</channel>
 	<channel id="Star TVE">
 		<display-name>Star TVE</display-name>
@@ -3793,7 +3793,7 @@
 		<display-name>Star TVE UHD</display-name>
 		<display-name>Star TVE 720</display-name>
 		<display-name>Star TVE 1080</display-name>
-		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Star%20TVE.pnghttps://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Star%20TVE.png" />
+		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Star%20TVE.png" />
 	</channel>
 	<channel id="TV3 Catalunya">
 		<display-name>TV3 Catalunya</display-name>
@@ -4763,17 +4763,6 @@
 		<display-name>Tennis+ 1080</display-name>
 		<icon src="https://provider-static.plex.tv/epg/cms/production/704e7af1-90a0-4ad4-94de-af2559c19fa6/1_Tennis_Plus_Logo__Dark_Mode__1500x1000px.png" />
 	</channel>
-	<channel id="FashionTV">
-		<display-name>FashionTV</display-name>
-		<display-name>FashionTV.TV</display-name>
-		<display-name>FashionTV SD</display-name>
-		<display-name>FashionTV HD</display-name>
-		<display-name>FashionTV FHD</display-name>
-		<display-name>FashionTV UHD</display-name>
-		<display-name>FashionTV 720</display-name>
-		<display-name>FashionTV 1080</display-name>
-		<icon src="https://provider-static.plex.tv/epg/cms/production/47127441-d5b6-42a3-b641-a7c076d20940/Fashion_PNG_w__transparent_background__All_white_Logo_for_Attribution__-_Yuri_Alexandrov.png" />
-	</channel>
 	<channel id="FANPLAY TV Primera Federación 1">
 		<display-name>FANPLAY TV Primera Federación 1</display-name>
 		<display-name>FANPLAY TV Primera Federación 1.TV</display-name>
@@ -5026,6 +5015,17 @@
 		<display-name>Red Bull TV (DAZN) 720</display-name>
 		<display-name>Red Bull TV (DAZN) 1080</display-name>
 		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Red%20Bull%20TV%20(DAZN).png" />
+	</channel>
+	<channel id="Primera Federación (DAZN)">
+		<display-name>Primera Federación (DAZN)</display-name>
+		<display-name>Primera Federación (DAZN).TV</display-name>
+		<display-name>Primera Federación (DAZN) SD</display-name>
+		<display-name>Primera Federación (DAZN) HD</display-name>
+		<display-name>Primera Federación (DAZN) FHD</display-name>
+		<display-name>Primera Federación (DAZN) UHD</display-name>
+		<display-name>Primera Federación (DAZN) 720</display-name>
+		<display-name>Primera Federación (DAZN) 1080</display-name>
+		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Primera%20Federaci%C3%B3n%20(DAZN).png" />
 	</channel>
 	<channel id="DAZN Bundesliga">
 		<display-name>DAZN Bundesliga</display-name>
